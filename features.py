@@ -16,7 +16,7 @@ def loadGloveModel(gloveFile):
   print('Done.',len(model),' words loaded.')
   return model
 
-glove_file = 'glove.6B/glove.6B.50d.txt'
+glove_file = 'glove.6B.50d.txt'
 model = loadGloveModel(glove_file)
 
 def cosine_dist_between_two_words(word1, word2):
@@ -29,13 +29,16 @@ def cosine_dist_wordembedding_method(s1, s2):
   return (1-cosine)*100
 #   print('Word Embedding method with a cosine distance asses that our two sentences are similar to',round((1-cosine)*100,2),'%')
 
-article_data = 'dev_articles/articles1.csv'
-data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'])
+article_data = 'articles1.csv'
+data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=300)
 data = data[data['content'].notna()]
 data = data[data['title'].notna()]
-wordcounts = []
-for idx, row in data.iterrows():
-    wordcounts.append(word_count(row['content']))
 
-data['processed_content'] = data['content'].apply(process_text)
-print(data.head())
+print(data.iloc[0]['content'])
+
+# wordcounts = []
+# for idx, row in data.iterrows():
+#     wordcounts.append(word_count(row['content']))
+
+# data['processed_content'] = data['content'].apply(process_text)
+# print(data.head())
