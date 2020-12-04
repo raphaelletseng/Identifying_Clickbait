@@ -138,25 +138,6 @@ stop_words = ENGLISH_STOP_WORDS
 
 punc = list(set(string.punctuation))
 
-def word_count(text):
-    return len(str(text).split(' '))
-
-def get_sentences(text):
-    return nltk.tokenize.sent_tokenize(text)
-
-def get_paragraphs(text):
-    sent = ''
-    sentences = []
-    for c in text:
-        if c == '\n':
-            sentences.append(sent)
-            sent = ''
-        else:
-            sent += c
-    if sent != '':
-        sentences.append(sent)
-    return sentences
-
 def casual_tokenizer(text):
     tokenizer = TweetTokenizer()
     tokens = tokenizer.tokenize(text)
@@ -166,6 +147,13 @@ def expandContractions(text, c_re=c_re):
     def replace(match):
         return c_dict[match.group(0)]
     return c_re.sub(replace, text)
+
+def sim_preprocess(text):
+    letters_only_text = re.sub("[^a-zA-Z]", " ", text)
+    words = letters_only_text.lower().split()
+    stopword_set = set(stop_words)
+    cleaned_words = list(set([w for w in words if w not in stopword_set]))
+    return cleaned_words
 
 def process_text(text):
     text = casual_tokenizer(text)
@@ -189,6 +177,12 @@ def unique_words(text):
     ulist = []
     [ulist.append(x) for x in text if x not in ulist]
     return ulist
+
+def is_contraction(word):
+    if word in c_dict:
+        return True
+    else:
+        return False
 
 
 
