@@ -1,0 +1,77 @@
+Yahoo hack: How to know if your account has been breached, and what to do next
+
+
+
+Yahoo hack: How to know if your account has been breached, and what to do next
+
+Updated
+
+More than 3,000 government-linked email accounts have been compromised — but what does that actually mean? And has your account been affected?
+
+The government-linked accounts were among 1 billion hacked as part of the Yahoo data breach, but data has also been stolen from MySpace, LinkedIn, Adobe, Dropbox, tumblr, Snapchat and Sony.
+
+That means if you have an account with one of those companies, your data may have been stolen.
+
+How can I check?
+
+Microsoft's Troy Hunt runs haveibeenpwned.com that includes the details of most major data breaches, but doesn't yet contain the details of the latest Yahoo hack.
+
+Oh no, I've been breached!
+
+If your account has been breached, it means a couple of things.
+
+Firstly, someone has the email address and password you used to log in to that website at the time of the data breach.
+
+Secondly, someone could have accessed your account on that site.
+
+Thirdly, if you use that same email address and password on other websites, then someone can potentially access those accounts too.
+
+It does not necessarily mean your email account has been compromised.
+
+What should I do?
+
+You should immediately change your password on any user account you suspect may have been compromised.
+
+If your password has been breached, make sure you are not using it on any other sites.
+
+Internet security gurus have forever been saying you should use different passwords on different sites, but how many of us actually follow the advice?
+
+Next you need to consider whether someone could have accessed personal information by logging on to the breached account, and if so what type of personal information?
+
+You may need to make changes or be extra vigilant to make sure your privacy has not been compromised in any other ways.
+
+Which websites have been breached?
+
+Mr Hunt has published a database with 1.6 billion unique email addresses found in data stolen from different sites.
+
+These are usually email addresses associated with user accounts on those services, and may indicate an account has been compromised.
+
+The sites include:
+
+MySpace — 360 million
+
+LinkedIn — 165 million
+
+tumblr — 65 million
+
+Ashley Maddison — 31 million
+
+Snapchat — 4.7 million (usernames and passwords not email addresses stolen)
+
+What's a good password?
+
+Here's a hint — if it contains "password," "qwerty" or "1234" it is a terrible password.
+
+There are various lists of the most common passwords, but generally any consecutive numbers or letters are a bad idea.
+
+Pets, spouses and children's names are also common passwords and are relatively easy to guess.
+
+The general advice is to use a mix of upper case and lower case letters and numbers and make sure it is long.
+
+Many sites offer two factor authentication which you can enable to make your account more secure.
+
+Two-factor authentication is a login process that requires a password and one other form of authorisation, often through a different device. For example, you might need to enter a code that is sent by SMS to your mobile. Sites like your bank or corporate network may actually require it, but many others offer it as an optional security enhancement.
+
+Topics: hacking, computers-and-technology, science-and-technology, australia
+
+First posted

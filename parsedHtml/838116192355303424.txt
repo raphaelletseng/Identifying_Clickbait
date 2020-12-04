@@ -1,0 +1,45 @@
+Why disrupting health care can be tricky
+Why disrupting health care can be tricky
+President Trump's vow to dismantle the Affordable Care Act could be a boon or a wrench to health care startups. Entrepreneurs have seen countless opportunities to introduce more consumer-friendly technology to a stodgy industry. Oscar, launched in 2014, billed itself as the health care provider for the next generation -- one with all the perks of a tech company. Built on the back of Obamacare, it sells insurance directly to consumers. Collective Health also launched in 2014, but it focuses on helping employers navigate the health care system. These two distinct paths could mean very different outcomes under the new administration. Collective Health anticipates it will be unaffected by any health care policy changes. "We're largely isolated from [the Affordable Care Act]," cofounder Rajaie Batniji told CNNTech. "Our focus has been on working with employers rather than individuals. That's a market that was there before the ACA and will be there after." In an announcement this week, Collective Health said it has 15 companies using its platform, including Palantir,  , Red Bull and Zendesk. Their combined 70,000 employees use Collective Health's platform for all their health care and benefits information. And the market for potential clients is vast. Collective Health targets companies that self-fund employees' insurance, which means employers take on more risk but also have more control over policies. According to the latest Kaiser/HRET Employer Health Benefits Survey, 61% of covered workers are on insurance plans that are at least partially self-funded by their employers . Traditionally, larger companies with 2,000 or more employees tend to self-fund insurance. But Collective Health wants to get smaller startups to go that route as well. The idea is that for around $30 to $50 per employee per month, Collective Health can help businesses manage and optimize their benefits. Its latest product launch, CareX, is a play to make those savings even greater.   CareX is the company's new data and machine learning feature that can proactively suggest services for individual employees based on their health records. "It can be so helpful just to connect the dots for people," said cofounder Ali Diab, who started Collective Health after his own frustrating experience dealing with insurance after a medical emergency. "The programs and benefits being surfaced are all ones already within an employee's existing health plan." The idea is that this ultimately helps businesses: Employees that are proactively getting treatment and care will be healthier over time. Oscar, on the other hand, is in a precarious position given that its core business is based on selling to individuals. It has faced the same challenges as other insurance providers under the Affordable Care Act. Sicker customers and lower premiums can be offset with a bigger customer base, but Oscar is only operating in a few markets, resulting in multimillion dollar losses. Earlier this week, Bloomberg reported that Oscar suffered nearly $204 million in losses in 2016, which would come to about $1,400 per customer. Oscar, which did not reply to CNNMoney's request for comment before this article was published, said later that its losses are mostly due to investing in technology and operations. Oscar also faces the same uncertainty about the future of health care once the Republicans "repeal and replace" ACA. To complicate things further, the startup is cofounded by Joshua Kushner, who is the brother of Trump's son-in-law and adviser Jared Kushner. "Building the first technology-driven, full-stack health insurer is a bold, ambitious investment over a long horizon, and Oscar's past financials reflect that," Oscar Health CEO Mario Schlosser said in a statement. "This year, we've assembled curated networks of the best doctors and hospitals, built a core product that our members love, and engineered technology that providers are eager to tap into." Bob Kocher, MD, a partner at Venrock, told CNNTech: "It's really, really hard to build insurance companies from scratch. So much of it relies on having scale."
+
+President Trump's vow to dismantle the Affordable Care Act could be a boon or a wrench to health care startups.
+
+Entrepreneurs have seen countless opportunities to introduce more consumer-friendly technology to a stodgy industry.
+
+Oscar, launched in 2014, billed itself as the health care provider for the next generation -- one with all the perks of a tech company. Built on the back of Obamacare, it sells insurance directly to consumers.
+
+Collective Health also launched in 2014, but it focuses on helping employers navigate the health care system.
+
+These two distinct paths could mean very different outcomes under the new administration.
+
+Collective Health anticipates it will be unaffected by any health care policy changes.
+
+"We're largely isolated from [the Affordable Care Act]," cofounder Rajaie Batniji told CNNTech. "Our focus has been on working with employers rather than individuals. That's a market that was there before the ACA and will be there after."
+
+In an announcement this week, Collective Health said it has 15 companies using its platform, including Palantir, eBay (EBAY), Red Bull and Zendesk. Their combined 70,000 employees use Collective Health's platform for all their health care and benefits information. And the market for potential clients is vast.
+
+Collective Health targets companies that self-fund employees' insurance, which means employers take on more risk but also have more control over policies. According to the latest Kaiser/HRET Employer Health Benefits Survey, 61% of covered workers are on insurance plans that are at least partially self-funded by their employers. Traditionally, larger companies with 2,000 or more employees tend to self-fund insurance. But Collective Health wants to get smaller startups to go that route as well.
+
+The idea is that for around $30 to $50 per employee per month, Collective Health can help businesses manage and optimize their benefits. Its latest product launch, CareX, is a play to make those savings even greater.
+
+Related: These low income kids could lose access to quality care
+
+CareX is the company's new data and machine learning feature that can proactively suggest services for individual employees based on their health records.
+
+"It can be so helpful just to connect the dots for people," said cofounder Ali Diab, who started Collective Health after his own frustrating experience dealing with insurance after a medical emergency. "The programs and benefits being surfaced are all ones already within an employee's existing health plan."
+
+The idea is that this ultimately helps businesses: Employees that are proactively getting treatment and care will be healthier over time.
+
+Oscar, on the other hand, is in a precarious position given that its core business is based on selling to individuals. It has faced the same challenges as other insurance providers under the Affordable Care Act. Sicker customers and lower premiums can be offset with a bigger customer base, but Oscar is only operating in a few markets, resulting in multimillion dollar losses.
+
+Earlier this week, Bloomberg reported that Oscar suffered nearly $204 million in losses in 2016, which would come to about $1,400 per customer.
+
+Oscar, which did not reply to CNNMoney's request for comment before this article was published, said later that its losses are mostly due to investing in technology and operations.
+
+Oscar also faces the same uncertainty about the future of health care once the Republicans "repeal and replace" ACA.
+
+To complicate things further, the startup is cofounded by Joshua Kushner, who is the brother of Trump's son-in-law and adviser Jared Kushner.
+
+"Building the first technology-driven, full-stack health insurer is a bold, ambitious investment over a long horizon, and Oscar's past financials reflect that," Oscar Health CEO Mario Schlosser said in a statement. "This year, we've assembled curated networks of the best doctors and hospitals, built a core product that our members love, and engineered technology that providers are eager to tap into."
+
+Bob Kocher, MD, a partner at Venrock, told CNNTech: "It's really, really hard to build insurance companies from scratch. So much of it relies on having scale."

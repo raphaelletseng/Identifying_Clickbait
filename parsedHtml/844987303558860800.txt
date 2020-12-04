@@ -1,0 +1,120 @@
+Sports World Celebrates National Puppy Day on Social Media
+Sports World Celebrates National Puppy Day on Social Media
+Happy #NationalPuppyDay to all the pups in #DubNation 🐶 https://t.co/BvfscWB9dC Happy #NationalPuppyDay! 🐶 https://t.co/4j6DnwjXyi Everything gets a day now, and Thursday marked all dogs' turn to enjoy the spotlight with National Puppy Day. Sports often leads to derision on social media, but players, teams and leagues all came together to celebrate a rare common love. Take a break from bickering and enjoy photos and videos of man's best friend: A photo posted by espn (@ espn ) Interesting moment for Luigi at the airport #NationalPuppyDay #NASCARGoesWest https://t.co/ULQOAETasZ There are 12 games on tonig–– PUPPIES!!! #NationalPuppyDay https://t.co/8abxE6iQvB 🐶 Retweet if #NationalPuppyDay is your favorite holiday! 🐶 https://t.co/2iOArbd9GO Happy #NationalPuppyDay! Here's Lions punter Sam Martin with his very good labradoodle Leo https://t.co/oiD6d0fA5c Hard time getting through the dog days of the offseason?
+
+Our #NationalPuppyDay gallery is here to get you through.
+https://t.co/OvxzDKnrw9 https://t.co/ALJtqlqDJp Happy #NationalPuppyDay! 
+
+Meet Dozer, the adorable dog who’s found a loving home with @Reds pitcher @Amir_Garrett. https://t.co/JkOJYUPQQx Your day made better by... Angels and puppies 😇🐶 #NationalPuppyDay https://t.co/wy79BvDLGs @BleacherReport We celebrated #NationalPuppyDay by delivering Opening Day tickets with a puppy! https://t.co/VoxMmeJthi [Twitter, Instagram] Like the new article format? Send us feedback ! Where can I comment?
+
+","duration":61,"description":null,"author_name":"Team Stream Now","article_type":"uber_article","analytics":{"video_id":17848,"title":"How God Shammgod Introduced the World to Famous Crossover During March Madness","stream":"College Basketball","published_at":"2017-03-22T13:25:44.677000","id":"f75da864-7f51-4fa1-a102-181282973721"},"amp_url":null,"ad_stitched_url":null},"media_width":null,"media_url":null,"media_id":null,"media_height":null,"hook_type":"photo","autoplay":false}},{"url_hash":"2dc610d6519fa4ec541afda29d7ad6c8987cb716fe4b310a4680304b90de607a","url":"http://www.ncaa.com/march-madness/bleacher-report-bracket","updated_at":"2017-03-21T18:14:44Z","tag":{"unique_name":"mm-related-content","tag_id":97782,"short_name":"MM RC","logo":"mm_related_content.png","display_name":"MM Related Content","color2":"","color1":""},"status":"active","position":2,"playlist_type":"ts","playlist_id":957201,"permalink":"/articles/track/6440480071-updating-ncaa-tourney-bracket-","performed_by":"ehabbel@bleacherreport.com","original_url_hash":27486378,"notification":null,"is_locked":true,"is_featured":false,"internal_position":"9.7675781250","id_str":"6440480071","id":6440480071,"href":"http://djay.bleacherreport.com/playlists/mm-related-content_ts/tracks/6440480071","hide_from_regions":[],"hidden_attributes":[],"group_tags":[],"expires_at":null,"created_at":"2017-03-17T19:58:39Z","content_type":"external_article","content":{"title":"Updating NCAA Tourney Bracket ","thumbnail_url":"https://img.bleacherreport.net/cms/media/image/5e/97/0e/84/6bbc/424e/b930/267b963820d3/crop_exact_full_image.jpeg?h=3358&q=90&w=5041","metadata":{"title":"From BleacherReport.com, your destination for the latest news on your teams and topics in sports.","thumbnails":{"original_url":"https://cdn.bleacherreport.net/cms/media/image/5e/97/0e/84/6bbc/424e/b930/267b963820d3/full_image.jpeg","media_item_href":"https://cms.bleacherreport.com/media/items/5e970e84-6bbc-424e-b930-267b963820d3.json"},"thumbnail_url":"https://img.bleacherreport.net/cms/media/image/c3/ad/7d/24/c657/45dd/9f58/c3001b555357/crop_exact_517550700.jpg?h=396&q=90&w=594","provider_url":"http://www.ncaa.com","provider_name":"Bleacher Report","photo_credit":null,"description":"Follow March Madness news and fill out a bracket on Bleacher Report! Download the Teamstream app for alerts and news on your teams.","author_name":"Bleacher Report","amp_url":null},"media_width":null,"media_url":null,"media_id":null,"media_height":null,"hook_type":"photo"}},{"url_hash":"684a7bbd72a39734006d37d3753abe52ae49cc9c1ef6208d00ef7e9903ac44d8","url":"http://bleacherreport.com/articles/2699321-underdog-what-underdog-butlers-kamar-baldwin-has-always-been-a-star","updated_at":"2017-03-23T17:11:14Z","tag":{"unique_name":"mm-related-content","tag_id":97782,"short_name":"MM RC","logo":"mm_related_content.png","display_name":"MM Related Content","color2":"","color1":""},"status":"active","position":null,"playlist_type":"ts","playlist_id":957201,"permalink":"/articles/track/6440783787-undersized-barely-recruited--but-hes-no-underdog","performed_by":"kbrown@bleacherreport.com","original_url_hash":51361700,"notification":null,"is_locked":false,"is_featured":true,"internal_position":"12.7675781250","id_str":"6440783787","id":6440783787,"href":"http://djay.bleacherreport.com/playlists/mm-related-content_ts/tracks/6440783787","hide_from_regions":[],"hidden_attributes":[],"group_tags":[],"expires_at":null,"created_at":"2017-03-22T16:44:17Z","content_type":"external_article","content":{"title":"Undersized, Barely Recruited — But He's No Underdog","thumbnail_url":"https://img.bleacherreport.net/img/images/photos/003/665/644/a1b1698f9743bdada7a3db1bd9f133a6_crop_exact.jpg?w=900&h=600&q=75","metadata":{"title":"Underdog? What Underdog? Butler's Kamar Baldwin Has Always Been a Star","thumbnail_url":"https://img.bleacherreport.net/img/images/photos/003/665/644/a1b1698f9743bdada7a3db1bd9f133a6_crop_exact.jpg?w=900&h=600&q=75","provider_url":"http://bleacherreport.com","provider_name":"Bleacher Report","photo_credit":"B/R Mag","description":"
+
+Kevin Morris texted his principal last Wednesday night and asked that she not come by for an evaluation the following morning—he wouldn't be teaching. Instead, Morris, the boys basketball coach at Apalachee High School in Winder, Georgia, had something else in mind.
+
+So on Thursday he pulled out the bleachers in the gymnasium, rolled out the projector, pulled down the big screen and found the site he was searching for on his laptop. The 150 students who arrived at 1 p.m. were there for weightlifting or aerobics or P.E., but by 1:30 they all had settled in for the show: Former Apalachee star Kamar Baldwin was about to make his NCAA tournament debut.
+
+Some of these students had sat in these same bleachers and watched as Baldwin collected accolade after accolade. He had started on the Wildcats varsity squad as a freshman, had been named all-state from his sophomore through senior seasons, had earned Georgia's Region 8-AAAAA Player of the Year award twice and had left school with 2,593 points—the most ever for a Barrow County player. From their seats, they could see his framed No. 44 jersey on the wall above a basket, retired before he graduated. But they weren't looking at the ceiling; they were staring at the screen as Baldwin and his Butler Bulldogs took on the Winthrop Eagles in Milwaukee.
+
+They whooped and hollered as Baldwin snagged a steal off Winthrop's Bjorn Broman not a minute into the game, as he blocked a shot not five minutes in and as he drained the three that extended Butler's lead to 11 with about six minutes to go in the first half. As the halftime buzzer sounded, so did the bell signaling the end of the school day. But after the crowd had dispersed and the projector had been disassembled, Morris and five current players huddled in his office and crowded around his 15-inch laptop to watch Butler advance with a 12-point win.
+
+Baldwin finished with seven points, six rebounds, two assists and two steals. His statistics weren't amazing, but the group nonetheless left Morris' office in awe. The players had believed all along that Baldwin would succeed in college basketball one day, but now they marveled anew at how a 6-foot 3-star recruit from their tiny, 15,000-person town had become an impact Division I starter so soon.
+
+Before Kamar Baldwin could form words or even memories, basketball was central to his life. His mother, Kay Holloway, who had played point guard in high school and for a year at Shorter University in nearby Rome, Georgia, was the girls coach at Winder-Barrow, the only other high school in Barrow County—and Apalachee's chief rival. By the time he turned two and could string a sentence together, Kamar implored his mother to let him start playing basketball.
+
+\"Eventually,\" she jokes, \"I had to put a ball in his hands just to shut him up.\"
+
+At three, Kamar was so hooked that he talked the director of his day care into buying him a ball and a hoop so that he wouldn't have to spend the better part of each day away from the game. His mother would come to collect him after work and find him instructing his peers on proper dribbling technique. When she brought him home, he'd step in front of the Fisher-Price hoop in his bedroom and hoist shots until his tiny arms failed. By the time he turned four, he was playing organized basketball at the YMCA. His mother coached the team.
+
+Just two years later, Morris brought his son, Ethan, to the YMCA for a game. As Ethan played, Morris found himself distracted by a kid on the next court over—he couldn't tell whether the boy was left-handed or right-handed, but he knew for certain he was going to be a big-time player. Since there are only two schools in Barrow County, he knew he had to find the boy's family and ask an important question: Did they live in Winder-Barrow's district or Apalachee's? His mother, herself a special education teacher, gave him the good news about her son.
+
+\"I wouldn't say I was recruiting then,\" Morris says, \"but I was definitely excited.\"
+
+Around that time, Kay—who hadn't married Kamar's father, Greg Baldwin—began dating Jamie Holloway, a sheriff she'd first met when they were both basketball players at Shorter. As their relationship grew serious, Holloway invested more and more time refining Kamar's burgeoning basketball skills. They'd pass hours on the driveway, mimicking Chris Paul's dribbling techniques and forming a sharp shooting stroke.
+
+\"At first, I hated it,\" Kamar says. \"I'd feel like I mastered something, and then we'd do it again and again—for hours, for days. Now I understand how much that helped to shape me.\"
+
+The only gap in his young career came in third grade. Two times that year, his mother was called in for a teacher's conference: Kamar was becoming the class clown. She told him that if she had to make another trip to the school, she wouldn't allow him to to play basketball that year. When the third call came, he protested the suspension, but it stood.
+
+\"I hated not being able to play, but I'm glad they didn't give in,\" Kamar says. \"I carry that lesson with me to this day.\"
+
+When Morris finally got Kamar on his court, for a four-day camp the summer after Kamar's suspension, he played him with fifth- and sixth-graders and marveled at how ahead of the curve he was. Morris gave Kamar a nickname that year: The Franchise.
+
+
+
+\"When we heard Kamar was coming, we celebrated like we'd just gotten into the Sweet 16.\"
+
+—Butler head coach Chris Holtmann
+
+
+
+But Baldwin soon learned that being the best player in Barrow County wasn't enough to help him achieve his dream of playing college basketball. In eighth grade, after having dabbled in football (as a quarterback) and track (he ran the 400-meter dash and hurdles), he decided to focus exclusively on hoops.
+
+He and Jamie Holloway, by now his stepfather, drove to Atlanta, about 45 minutes away, to try out for the Atlanta Celtics AAU team—a program that had helped develop NBA stars like Dwight Howard and Josh Smith. At the tryout, coach Derrick Dickerson pushed Baldwin to his limits, physically and psychologically. Dickerson made him do pushups until his arms felt like spaghetti noodles and told him he might never make it on this team—or even out of Barrow County.
+
+\"He came into my practice like he was pretty good,\" Dickerson says, \"and I blasted him. I got in his face. I called him a prima donna.\"
+
+In the truck on the way back to Winder, Holloway cut the silence with a question: \"Do you want to go back?\"
+
+How Baldwin responded convinced Holloway that his stepson would reach his basketball potential: \"Yes, sir.\"
+
+For the rest of high school, Baldwin learned to balance his experience with his two basketball teams. With the Celtics, he developed slowly, coming off the bench behind highly touted recruits like Kobi Simmons, a 5-star who plays for Arizona, and Alterique Gilbert, a 4-star who plays for UConn.
+
+At Apalachee, Baldwin was a legend, sometimes scoring as many as 23 points in a row for his team and averaging a double-double in his final three seasons. In his senior year alone, he scored 29.6 points per game and added 10.8 rebounds, 4.5 assists and 3.7 steals.
+
+As his game grew, so too did the crowds. Morris estimates attendance went from about 400 fans a game in Baldwin's freshman year to nearly 1,000 during his senior season. And when Winder-Barrow came to the gym, it was standing room only.
+
+But with each passing year, two things about Baldwin's game remained consistent: He was stellar on defense and a consummate teammate. Newspaper clippings, Dickerson says, often misstated Baldwin's height as 6'3\" or 6'4\"—he was 5'11\" in high school—because his 6'6\" wingspan and penchant for picking pockets made him appear taller than he was. And Baldwin never pouted when he was pulled from games.
+
+\"In fact,\" Dickerson says, \"he'd often whisper to the guy who replaced him, 'Pick up where I left off. Go get 'em!' That's just how he was raised. His family worked for everything they had. His game, like his upbringing, is blue-collar.\"
+
+There was one time each year when Baldwin was a little selfish: March. Whether he was with his mom or his dad, everyone in each family—he has three younger siblings on his mother's side and two on his father's—knew not to expect much TV time. Baldwin spent every free minute taking in the NCAA tournament. And one particular year now stands out in his memory: 2010.
+
+That March, a scrappy Horizon League team made its first of two consecutive trips to the national championship game, and Baldwin begged his mom to let him stay up past his bedtime to watch the spellbinding finish. After Gordon Hayward missed what would have been the game-winning shot by inches, Baldwin went to bed deflated.
+
+\"I was rooting so hard for Butler to beat Duke,\" Baldwin says. \"I always loved the Cinderella story.\"
+
+Baldwin didn't think much about Butler, a school 9.5 hours north of Winder, until he received a call from Butler staffer Emerson Kampen during the summer before his senior year. Emerson had gone to Dallas to scout some other players but decided on a whim to stick around for an Atlanta Celtics game instead of heading back to his hotel room to relax. Even though Baldwin was coming off the bench, Emerson was captivated by the player who was displaying ferocious defensive intensity during his third game of the afternoon.
+
+\"He wasn't a self-promoter,\" Emerson, now Butler's men's basketball analyst, says. \"But he played the game the right way. I knew as soon as I saw him that he would fit in at Butler.\"
+
+When head coach Chris Holtmann visited Winder later that summer, he agreed. The Bulldogs were playing catch-up in recruiting because Holtmann had only been promoted from interim coach to the permanent job in January, and it had been challenging to get players to commit to a coach to whom the school hadn't yet committed.
+
+
+
+\"Anyone who thinks this team is an underdog doesn't know the history of Butler basketball.\"
+
+—Kamar Baldwin
+
+
+
+For Baldwin, the only challenge was convincing himself that he could handle living so far away from family—and living in the snow. He accepted Butler's scholarship in August of his senior year.
+
+\"We had just lost two all-conference guards,\" Holtmann says. \"So when we heard Kamar was coming, we celebrated like we'd just gotten into the Sweet 16.\"
+
+Baldwin soon gave them even more cause to celebrate. In the second game of this season, Butler was tied at 68 at home against Northwestern with 12.9 seconds left. Baldwin calmly handled the inbounds pass, slipped behind a screen, crossed over his defender, the 6'8\" Gavin Skelly, and hit a 20-foot step-back jumper to seal the win. In the process, he also earned his first \"Onions!\" call from Bill Raftery.
+
+In their dorm room suite later that night, Joey Brunk, a freshman forward, and Avery Woodson, a senior guard, wanted to celebrate, but Baldwin demurred. He had no interest in spending any time talking about himself.
+
+The next day, when Holtmann called Baldwin into his office to explain that there would be a comedown, that he wouldn't end every game of his college career with the winning shot, he found a freshman who had already comfortably moved on from the biggest moment of his college basketball career.
+
+Though he never begged to be in the starting lineup—\"I'm just as happy being a cheerleader on the bench as I am being on the floor,\" he says—Baldwin's play made the argument for him early on. After just nine games, he had wormed his way into the starting lineup, capable of combining stellar defense—watch him help seal Butler's home upset of Villanova on January 4 by snagging a steal off Big East Player of the Year Josh Hart and finishing with a reverse layup—with impossibly athletic offense, like his behind-the-head-layup in a win at Xavier on February 26.
+
+As he became Butler's biggest impact freshman since Hayward in 2008-09, the Bulldogs surpassed some expectations of their own. Picked to finish sixth in the preseason Big East poll, they wound up in second place, behind only NCAA tournament No. 1 overall seed Villanova.
+
+Though it'd be easy for a player like Baldwin, undersized and under-recruited, to buy into the notion that he and his team are the sleepers in this tournament, he doesn't think about labels.
+
+\"I've never thought about myself as an underdog,\" Baldwin says. \"I just love to play, so I play. And anyone who thinks this team is an underdog doesn't know the history of Butler basketball.\"
+
+Milwaukee was too far a drive—or too expensive a flight—for most folks from Winder. But Friday afternoon, Kay and Jamie will drive to Memphis, Tennessee, for the South Regional semifinals to see their boy play in person for the third time this season. And on the road beside them will be Morris, who has coordinated a caravan that will carry 10 of the Apalachee faithful.
+
+\"We may not be many from Winder in the stands,\" Morris says, \"but they'll hear us rooting for Kamar. And we plan to stay through Sunday.\"
+
+Staying through Sunday would mean Baldwin and the Bulldogs knocked out No. 1-seeded North Carolina in the Sweet 16. Analytics and oddsmakers make such a win out to be a long shot, but the road-trippers from Winder are buoyant.
+
+They know Butler has a secret weapon, a player who was an afterthought to blue-chip schools like Carolina but has so far outperformed so many of their 4- and 5-star freshmen. More than anything else, though, they learned long ago that there's no use in setting limits on Kamar Baldwin. They believe his journey to stardom has only just begun.
+
+David Gardner is a staff writer for B/R Mag. Follow him on Twitter: @byDavidGardner.
+
+Click here to get B/R Mag on the go in the B/R app for more sports storytelling worth your time, wherever you are.
+
+Read more March Madness news on BleacherReport.com

@@ -1,0 +1,43 @@
+This App Wants to Solve Sneaker Release Problems
+This App Wants to Solve Sneaker Release Problems
+
+
+“No more bullshit. No more ambiguity. No more anxiety. No more being beaten up by bots.”
+
+Sounds pretty good, right? That kind of utopian sneaker release is what Andrew Raisman, the mind behind the app Copdate, is working towards.
+
+The app looks to put hyped sneaker releases in the palm of shoppers’ hands, minimizing madness and bots that compromise the experience. This is achieved by partnering with retailers to host launches for coveted product. New Jersey boutique Packer Shoes is the latest shop to team up with Copdate, releasing the recent black/red Yeezy Boost 350 V2 on the app.
+
+“As far as reliability—things not crashing, and giving us the ability to aggregate customers and having that outreach to customers; having the ability to reach out to them and offer them the shoes—it worked flawlessly,” says Mike Packer, the store’s owner.
+
+Packer says the response on his store’s Yeezy launch was huge, estimating they received 20 to 25-times more entries for the shoes than they normally do.
+
+Copdate offers a couple different ways to handle releases. There is the list-based procedure, which basically acts as a mobile raffle, and an RSVP procedure, which releases the shoes at a random time and grants pairs to the fastest users. No transactions actually happen in the app, just reservations.
+
+The setup is not unlike Adidas Confirmed, an app the brand uses to launch high-profile product like Yeezys. The only problem is, Adidas hasn’t made that app available to boutiques, despite saying during its rollout that that was a possibility. There’s also Frenzy, an app built by e-commerce platform Shopify that has recently been used by stores like Kith for Yeezy releases. Raisman says that where Frenzy has already been compromised, his app is built to beat bots.
+
+“You can’t really game the system,” he says. “You need a physical mobile device and an actual human interface.”
+
+Image via Frenzy
+
+Frenzy is fundamentally different from Copdate in that the former handles purchases in the app while the latter sends people to stores to buy. The former also had a rockier start, its Yeezy release via Kith in November drawing the ire of many sneakerheads.
+
+“When you’re moving fast and experimenting with the solutions that we work with, things don’t always go smoothly,” explains Kevin Donnelly, who leads growth for Frenzy. “Since then though, we’ve learned a lot from that experience. We’ve made the app a lot better.”
+
+Donnelly says the Yeezy Kith release used an early alpha version of Frenzy, and that it’s had dozens of successful releases since.
+
+The success of apps like these must be measured in part by public perception. The fact of the matter is the majority of people signing up to try and purchase the shoes won’t win, so the game is largely about upsetting the least amount of people.
+
+“You can go on Instagram posts of any retailer that’s in the realm that we are and obviously customers are going to be upset. And sometimes they take that and voice that,” Packer says. “You can’t make everybody happy and to me it’s great when you look on Instagram and you look at somebody who actually has a level head and says, ‘Hey, I didn’t win but I’ve won before, I’ve seen other people that have won before.’”
+
+While Raisman asserts that his platform is the most transparent way for stores to handle releases, the process isn’t really made any more public than elsewhere. In the case of Packer Shoes’ Yeezy release, it was up to the store to individually contact the winners—the rest were kept in the dark, which inevitably breeds accusations of shady retail practices.
+
+Image via Copdate
+
+Until stores and the channels through which they sell better assuage these claims, it’s tough to imagine the masses being any less dissatisfied with the process. Raisman wants to create a level playing field, but the participants can’t really make a fair judgment on that until they see exactly how the game is being played.
+
+The process didn’t exactly go smoothly for this writer, who tried to get through on two Yeezy RSVP releases held on Copdate without ever making it past a loading screen. That evidence is anecdotal though; Packer was happy with how the release went, and Raisman claims that the glitches since Copdate’s launch in July have been minimal. It’s certainly without any PR nightmares like the one that Frenzy faced during its Yeezy release at Kith.
+
+Raisman, and the retailers he’s servicing, know that they can’t possibly please everyone. But he’s betting on Copdate at least giving people a small shot at owning those sneakers that so often feel impossible to get.
+
+“We're not promising you anything,” Raisman says, “but at least we gave you a chance.”

@@ -1,0 +1,27 @@
+Drones armed with sensors fly through erupting volcano's ash clouds
+Drones armed with sensors fly through erupting volcano's ash clouds
+Volcán de Fuego (near with plume), neighbouring Volcán de Acatenango, and Volcán de Agua (far). Picture taken on a BVLOS long-range flight.                Tweet     Stumble     Email  Drones can do more than capture high-flying footage, and researchers recently put the unmanned vehicles to work studying a volcano as it erupted. During a research trip to Guatemala, a team of volcanologists and engineers used customized drones (also known as unmanned aerial vehicles, or UAVs ) to investigate Volcán de Fuego . Fuego is known for its near constant low-level activity, with smoke escaping from its top daily. However, the summit vent is difficult to access — the volcano has an elevation of 12,346 feet — and scientists have not been able to collect accurate gas measurements. [ 5 Surprising Ways Drones Could Be Used in the Future ] Using drones outfitted with a range of sensors, researchers were able to collect data directly from the volcano’s ash clouds . “These sensors not only help to understand emissions from volcanoes, they could also be used in the future to help alert local communities of impending eruptions – particularly if the flights can be automated,” Emma Liu, a volcanologist from the University of Cambridge, said in a statement . The researchers flew the drones beyond their visual line-of-sight, up to an altitude of 10,000 feet and nearly 5 miles away, into the volcano’s ash clouds. A so-called multiGAS sensor gathered data on carbon dioxide, sulfur dioxide and hydrogen sulfide, and another sensor collected samples of the ash. The drones also had thermal and visual cameras attached to observe the volcanic activity . The flight team [left to right]: Colin Greatwood, Thomas Richardson, Ben Schellenberg, Emma Liu and Kieran Wood While these initial flights served as a proof-of-concept, the drones have already provided the researchers with new information about the volcano . For instance, the drones captured Fuego’s changing summit topography. This showed the scientists that the volcano is erupting from two vents and not one, as was previously thought. “Initial analysis of the sensor and flight data tell us that we will be able to automatically identify when we are in volcanic emissions,” said Ben Schellenberg, a first-year doctoral student in aerospace engineering at the University of Bristol in the United Kingdom. “I can’t wait to return to test out this hypothesis,” he said. Drones Study Volcano’s Activity from Above | Video Amazing Images: Volcanoes from Space 50 Amazing Volcano Facts                Tweet     Stumble     Email
+
+Drones can do more than capture high-flying footage, and researchers recently put the unmanned vehicles to work studying a volcano as it erupted.
+
+During a research trip to Guatemala, a team of volcanologists and engineers used customized drones (also known as unmanned aerial vehicles, or UAVs) to investigate Volcán de Fuego.
+
+Fuego is known for its near constant low-level activity, with smoke escaping from its top daily. However, the summit vent is difficult to access — the volcano has an elevation of 12,346 feet — and scientists have not been able to collect accurate gas measurements. [5 Surprising Ways Drones Could Be Used in the Future]
+
+Using drones outfitted with a range of sensors, researchers were able to collect data directly from the volcano’s ash clouds.
+
+“These sensors not only help to understand emissions from volcanoes, they could also be used in the future to help alert local communities of impending eruptions – particularly if the flights can be automated,” Emma Liu, a volcanologist from the University of Cambridge, said in a statement.
+
+The researchers flew the drones beyond their visual line-of-sight, up to an altitude of 10,000 feet and nearly 5 miles away, into the volcano’s ash clouds. A so-called multiGAS sensor gathered data on carbon dioxide, sulfur dioxide and hydrogen sulfide, and another sensor collected samples of the ash. The drones also had thermal and visual cameras attached to observe the volcanic activity.
+
+Universities of Bristol and Cambridge
+
+While these initial flights served as a proof-of-concept, the drones have already provided the researchers with new information about the volcano. For instance, the drones captured Fuego’s changing summit topography. This showed the scientists that the volcano is erupting from two vents and not one, as was previously thought.
+
+“Initial analysis of the sensor and flight data tell us that we will be able to automatically identify when we are in volcanic emissions,” said Ben Schellenberg, a first-year doctoral student in aerospace engineering at the University of Bristol in the United Kingdom.
+
+“I can’t wait to return to test out this hypothesis,” he said.
+
+Original article on Live Science.
+
+Editor’s Recommendations

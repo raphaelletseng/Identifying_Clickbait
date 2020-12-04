@@ -1,0 +1,53 @@
+What the Death of Obama's Internet Privacy Rules Means
+What the Death of Obama's Internet Privacy Rules Means
+What the Death of Obama's Internet Privacy Rules Means  by   FACEBOOK   TWITTER   EMAIL ME   PRINT   COMMENTS  Now that both houses of Congress have voted to block Obama-era broadband privacy rules , what does that mean for you? In the short term, not so much. The rules, which would have put tough restrictions on what companies like Comcast, Verizon and AT&T can do with information such as your internet history, hadn't yet gone into effect. So if President Donald Trump signs the measure, as the White House has indicated he will , the status quo will remain. But the absence of clear privacy rules means that the companies supplying your internet service - and who can see a great deal of what you do with it - can continue to mine that information for use in their own advertising businesses. And consumer advocates worry that the companies will be an enticing target for hackers. Here's how that could play out and what it means.  Â Not much, at least immediately. For now, phone and cable companies remain subject to federal law that imposes on broadband providers a "duty to protect the confidentiality" of customer information and restricts them from using some customer data without "approval." But it doesn't spell out how companies must get permission, how they must protect your data, or whether and how they have to tell you if it's been hacked. Â Under the Federal Communications Commission's rules, Comcast and its ilk would have needed your permission before offering marketers a wealth of information about you, including health and financial details, your geographic location and lists of websites you've visited and apps you've used. Republicans and industry officials complained that the browsing and app history restrictions would have unfairly burdened internet providers, since other companies such as Google and Facebook don't have to abide by them. That's important because the biggest broadband companies want to build ad businesses to rival those tech giants. This rule would have made that more difficult. These rules also required broadband providers to take reasonable measures to protect customer information, although those weren't spelled out. They also required these companies to tell you if your information had been hacked. Â Yes, but it's not easy. Broadband providers today let you "opt out" of using their data, although figuring out how to do that can be difficult. Instead, the digital rights group Electronic Frontier Foundation suggests you might pay to use a virtual private network , which funnels your internet traffic through a secure connection that your provider can't see into. But good VPNs aren't free, you have to figure out which ones you can trust, and unless you go to the trouble of setting one up on your home router - not a straightforward task - you would need to set them up on every phone, tablet and computer in your home. The EFF and other supporters of the privacy rules also point out that in many markets consumer choices are limited when it comes to home broadband, so you often can't just switch providers if you don't like their privacy policies. Â Maybe. Many state laws bar unfair or deceptive practices, which they can use against privacy violations. Other state and federal regulations aim to protect medical and financial records, but may not apply to internet service providers. Only a few states regulate specific practices by broadband providers, according to the National Conference of State Legislatures, which tracks state laws. Minnesota, for instance, requires internet service providers to get customer permission before sharing their web-browsing histories. The vast majority of states do require business and government to tell their residents when their information has been hacked, according to the NCSL, but they have different approaches. At least 13 states require businesses to have reasonable security practices.  FACEBOOK   TWITTER   EMAIL ME   PRINT   COMMENTS
+
+A Joint Session of Congress at the US Capitol on Jan. 12, 2016 in Washington, DC.
+
+Now that both houses of Congress have voted to block Obama-era broadband privacy rules , what does that mean for you?
+
+In the short term, not so much. The rules, which would have put tough restrictions on what companies like Comcast, Verizon and AT&T can do with information such as your internet history, hadn't yet gone into effect. So if President Donald Trump signs the measure, as the White House has indicated he will , the status quo will remain.
+
+But the absence of clear privacy rules means that the companies supplying your internet service - and who can see a great deal of what you do with it - can continue to mine that information for use in their own advertising businesses. And consumer advocates worry that the companies will be an enticing target for hackers.
+
+Here's how that could play out and what it means.
+
+Â
+
+WHAT CHANGES NOW
+
+Not much, at least immediately. For now, phone and cable companies remain subject to federal law that imposes on broadband providers a "duty to protect the confidentiality" of customer information and restricts them from using some customer data without "approval."
+
+But it doesn't spell out how companies must get permission, how they must protect your data, or whether and how they have to tell you if it's been hacked.
+
+Â
+
+WHAT THE RULES WOULD HAVE CHANGED
+
+Under the Federal Communications Commission's rules, Comcast and its ilk would have needed your permission before offering marketers a wealth of information about you, including health and financial details, your geographic location and lists of websites you've visited and apps you've used.
+
+Republicans and industry officials complained that the browsing and app history restrictions would have unfairly burdened internet providers, since other companies such as Google and Facebook don't have to abide by them.
+
+That's important because the biggest broadband companies want to build ad businesses to rival those tech giants. This rule would have made that more difficult.
+
+These rules also required broadband providers to take reasonable measures to protect customer information, although those weren't spelled out. They also required these companies to tell you if your information had been hacked.
+
+Â
+
+CAN YOU STOP PROVIDERS FROM COLLECTING YOUR DATA?
+
+Yes, but it's not easy. Broadband providers today let you "opt out" of using their data, although figuring out how to do that can be difficult.
+
+Instead, the digital rights group Electronic Frontier Foundation suggests you might pay to use a virtual private network , which funnels your internet traffic through a secure connection that your provider can't see into. But good VPNs aren't free, you have to figure out which ones you can trust, and unless you go to the trouble of setting one up on your home router - not a straightforward task - you would need to set them up on every phone, tablet and computer in your home.
+
+The EFF and other supporters of the privacy rules also point out that in many markets consumer choices are limited when it comes to home broadband, so you often can't just switch providers if you don't like their privacy policies.
+
+Â
+
+DOES MY STATE HAVE MY BACK?
+
+Maybe. Many state laws bar unfair or deceptive practices, which they can use against privacy violations. Other state and federal regulations aim to protect medical and financial records, but may not apply to internet service providers.
+
+Only a few states regulate specific practices by broadband providers, according to the National Conference of State Legislatures, which tracks state laws. Minnesota, for instance, requires internet service providers to get customer permission before sharing their web-browsing histories.
+
+The vast majority of states do require business and government to tell their residents when their information has been hacked, according to the NCSL, but they have different approaches. At least 13 states require businesses to have reasonable security practices.

@@ -1,0 +1,65 @@
+Facebook's chatbot 'dating coach' Lara sets up singletons
+Meet Lara: Facebook's chatbot 'dating coach' sets up singletons
+
+
+Facebook is giving singletons a helping hand with a new artificially intelligent 'chatbot' called Lara.
+
+The chatbot uses natural language programming and speech recognition so users might be fooled into thinking they are talking to a real person.
+
+Lara talks to singletons and helps build up an understanding about their interest in order to introduce them to other single people.
+
+Scroll down for video
+
+An artificially intelligent chatbot Lara uses Facebook Messenger to talk to singletons and then introduces them to other single people with similar interests
+
+MEET LARA The chatbot, launched by dating service Match.com, asks people for personal details such as their age, where they live and their sexual orientation - all in Facebook Messenger. She can analyse up to 50 categories of criteria, including astrological signs, people's imperfections and hobbies. If users want Lara to set users up with someone they have to move onto the Match.com dating website. This bot is just one of many that are arriving in Facebook's messenger app which were announced by Mark Zuckerberg at Facebook's annual F8 developer conference.
+
+The chatbot, launched by dating service Match.com, asks people for personal details such as their age, where they live and their sexual orientation in a casual way- all in Facebook Messenger.
+
+Analysing this information, she will recommend a series of different matches, with their profile image and basic information appearing in the Messenger conversation chain.
+
+If the user likes what they see, they can click on the picture which will take them to the Match app where they can view the profile in full.
+
+After a successful launch of the service in France last year, the team are now rolling it out to UK users.
+
+'Lara is not restricted to answering closed questions and can engage with singles in a natural way', said Match.com in a release.
+
+'Thanks to Match members' detailed profiles, she can analyse up to 50 categories of criteria, including astrological signs, people's imperfections and hobbies, and in doing so becomes a real dating coach.'
+
+Lara is versatile and not just limited to answering closed questions.
+
+Abbie Oguntade, VP Northern European Hub, Match, 'As European leader, we're always looking to find new and convenient ways for people to meet; whether that's through the mobile app, our events programme or now, Lara.
+
+'With Messenger being used by over one billion users worldwide and now a big part of people's everyday lives, developing the first dating bot has been a priority for us to make finding a date easier for singles wherever they are.'
+
+This bot is just one of many that are arriving in Facebook's messenger app.
+
+Lara uses artificial intelligence to analyse up to 50 categories of criteria, including astrological signs, people's imperfections and hobbies. She also asks people for personal details such as their age, where they live and their sexual orientation - all in Facebook Messenger
+
+CHATBOTS Chatbots are artificial intelligence programs that help users communicate with businesses. They can carry out automated one to one tasks, including customer service. The new chatbots being launched by Facebook Messenger are instead aimed at group interaction. The group bots are not expected to be particularly interactive, providing information rather than conversations. Facebook first launched support for chatbots last year, at the F8 developer conference in San Francisco.
+
+Yahoo has also launched a new chatbot called Captain which helps friends and family organise their group tasks and things to do.
+
+'With Captain, you can make plans with your favourite people without overloading them with tons of notifications and long, unorganised lists of requests and questions', said Conrad Wai, VP of product management at Yahoo, in a blog post.
+
+'This bot will help users simplify group coordination, which can get harder the larger the group and longer the thread. This experience makes that interaction seamless.'
+
+These new Facebook bots will provide real-time updates on a range of subjects - including news, sports and even deliveries ordered online.
+
+Facebook Messenger already supports bots for use by individuals, but the new programs are designed to interact with groups of people.
+
+This dating bot is just one of many that are arriving in Facebook's messanger app which were announced by Mark Zuckerberg at Facebook's annual F8 developer conference
+
+Facebook first launched support for chatbots last year, at the F8 developer conference in San Francisco.
+
+Chatbots are automated programs that help users communicate with businesses and carry out tasks such as online purchases.
+
+They were seen at the time as an opportunity for Facebook to dominate business-to-person relationships.
+
+Speaking last year at the F8 conference, CEO Mark Zuckerberg said: 'You should be able to message a business like a friend.
+
+'Today we're launching messenger platform to build AI bots.
+
+'Developers can build natural language services to communicate with people'
+
+Developers are able to create their own bots to provide a range of support and services.

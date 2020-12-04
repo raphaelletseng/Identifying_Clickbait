@@ -1,0 +1,35 @@
+This Tiny Camera Could Give Micro-Drones Some Amazing Abilities
+This tiny camera could give micro-drones some amazing abilities
+A bird of prey on the hunt must be able to clearly see faraway objects while remaining aware of threats in its peripheral vision. In some cases, that's also true for a drone — even one so small that its eye must fit on the tip of a ballpoint pen. Now, a team of engineers has developed a camera that could provide eagle-eye vision to micro-drones. The new camera could be used for medical procedures, such as endoscopies, or to build micro-robots specially designed to measure, explore or survey, the researchers said. Previously, the engineers used a technique called femtosecond laser writing to 3D-print miniature lenses directly onto an image-sensing chip. To create sharp images like an eagle's eye , the researchers used this process to print clusters of four lenses at a time. The lenses range from wide to narrow and low to high resolution, and images can then be combined into a bull's-eye shape with a sharp image at the center, similar to how eagles see.   "This means that we still cover the whole object and get a better resolution in the center," said study lead author Simon Thiele, a scientist at the Institute of Technical Optics at the University of Stuttgart in Germany. "The drawback is that we lose information in the periphery." The goal is to optimize the flow of information, Thiele told Live Science in an email. The four lenses can be scaled down to a footprint as small as 300 micrometers by 300 micrometers (0.012 inches or 0.03 centimeters on each side), similar to a medium-size grain of sand. The researchers said the size of the entire camera setup could decrease with design tweaks to pack in or combine lenses, or as smaller chips become available . In the animal kingdom, creatures must balance their visual needs and their brain power. The solution in humans and many other vertebrates is known as "foveated" vision, with the sharpest image in the center and a wide range of lower-clarity vision at the edges. "If you had the resolution of the fovea all over your eye, you'd have to carry the visual part of your brain around in a wheelbarrow," said Wilson Geisler, a vision scientist at the University of Texas at Austin, who was not involved in the new research. "If you've got the right application, this could be a very useful technology," Geisler told Live Science. The technology could be used in drones that face challenges similar to animals with foveated vision, with limitations on the bandwidth to send information, but the ability to control movement of the camera to focus on areas of interest, he said. Thiele said the next step in the research will be to print a lens array on the smallest available image sensors, measuring about 0.04 square inches (1 square millimeter), with the lenses covering more of the surface of the sensor. Details of the new technology were published online today (Feb. 15) in the journal Science Advances .     Biomimicry: 7 Clever Technologies Inspired by Nature 10 Technologies That Will Transform Your Life Image Gallery: Bug's Eye Camera
+
+Image sensor and lenses, next to a coin for comparison. Simon Thiele
+
+A bird of prey on the hunt must be able to clearly see faraway objects while remaining aware of threats in its peripheral vision. In some cases, that's also true for a drone — even one so small that its eye must fit on the tip of a ballpoint pen. Now, a team of engineers has developed a camera that could provide eagle-eye vision to micro-drones.
+
+The new camera could be used for medical procedures, such as endoscopies, or to build micro-robots specially designed to measure, explore or survey, the researchers said.
+
+Previously, the engineers used a technique called femtosecond laser writing to 3D-print miniature lenses directly onto an image-sensing chip. To create sharp images like an eagle's eye, the researchers used this process to print clusters of four lenses at a time. The lenses range from wide to narrow and low to high resolution, and images can then be combined into a bull's-eye shape with a sharp image at the center, similar to how eagles see.
+
+Related: Photo Future: 7 High-Tech Ways to Share Images
+
+"This means that we still cover the whole object and get a better resolution in the center," said study lead author Simon Thiele, a scientist at the Institute of Technical Optics at the University of Stuttgart in Germany. "The drawback is that we lose information in the periphery."
+
+The goal is to optimize the flow of information, Thiele told Live Science in an email.
+
+The four lenses can be scaled down to a footprint as small as 300 micrometers by 300 micrometers (0.012 inches or 0.03 centimeters on each side), similar to a medium-size grain of sand. The researchers said the size of the entire camera setup could decrease with design tweaks to pack in or combine lenses, or as smaller chips become available.
+
+In the animal kingdom, creatures must balance their visual needs and their brain power. The solution in humans and many other vertebrates is known as "foveated" vision, with the sharpest image in the center and a wide range of lower-clarity vision at the edges.
+
+The top images are of a commonly used test image called "Lena." The foveated image shows increased detail around the woman's eye. The bottom images demonstrate foveated imaging performance using a Siemens star test target. Simon Thiele & Kathrin Arzenbacher
+
+"If you had the resolution of the fovea all over your eye, you'd have to carry the visual part of your brain around in a wheelbarrow," said Wilson Geisler, a vision scientist at the University of Texas at Austin, who was not involved in the new research.
+
+"If you've got the right application, this could be a very useful technology," Geisler told Live Science. The technology could be used in drones that face challenges similar to animals with foveated vision, with limitations on the bandwidth to send information, but the ability to control movement of the camera to focus on areas of interest, he said.
+
+Thiele said the next step in the research will be to print a lens array on the smallest available image sensors, measuring about 0.04 square inches (1 square millimeter), with the lenses covering more of the surface of the sensor.
+
+Details of the new technology were published online today (Feb. 15) in the journal Science Advances.
+
+Original article on Live Science.
+
+Editor's Recommendations

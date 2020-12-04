@@ -1,0 +1,65 @@
+Has China Won The Drone War?
+Has China Won The Drone War?
+{{contrib_block.display_author.name}}  Benjamin Joffe       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Chinese companies won the drone war (Photo: Benjamin Joffe) Xiaomi displays its 4k drone at CES for $433 (Photo: Benjamin Joffe)    Trending on {{channel_name}}
+
+Most afternoons, from outside our windows that look out over Shenzhen's giant electronics market in Huaqiangbei, we can hear a familiar high-pitched hiss.
+
+The source is a large plane-like drone, circling endlessly just above us.
+
+Taking down to the streets below one can find everything from imagery quadcopters to toy microdrones. Drone technology is big business in this southern metropolis – China’s undisputed tech hub. And companies such as DJI are at the cutting edge.
+
+But far away from Shenzhen, the picture is not as rosy for established players in this highly-competitive industry. Heavyweights like 3DR and Parrot have been forced into major restructuring of their businesses, GoPro recalled its first drones, and Lily Camera just filed for bankruptcy.
+
+Are Chinese companies winning a drone war?
+
+CES 2017: Chinese Drones Everywhere
+
+Judging by what I saw at the drones area of the CES Consumer Electronic Show in Las Vegas earlier this month, it seemed like China's victory was total.
+
+Xiaomi was displaying a drone with a 4k camera from for a mere $433; in China, Tencent launched a foldable 4k drone for $299.
+
+Then I had doubts when seeing the booths of Furrion, which showed a giant robot alongside its products, and Contixo, whose booth was manned by Caucasians. But the former turned out to be a Hong Kong company, and the latter the U.S. distributor of a Shenzhen OEM.
+
+Big business indeed, but could such innovative products had already turned into commodities?
+
+Here are a few things to consider:
+
+China Has Won The (First) Consumer Drone War
+
+Technology that enable a remote-controlled stable flight, which impressed a few years back, is now widely available.
+
+“For outdoor imagery it is impossible to compete because of the low technology barriers. Once you start hitting commoditization Chinese companies have a massive edge. Trying to get in DJI’s way is pretty much death,” says Jeffrey Tseng, Founder of the San Francisco-based startup Aevena, which develops indoor drones.
+
+This is indeed what 3DR learned when it switched from its hobbyist niche to mass market.
+
+According to Jenny Lee, General Partner at GGV Capital, a cross-border fund active in hardware (Lee herself is a former drone engineer), the consumer drone market is now going through a consolidation phase.
+
+But is the drone market now in the hands of China's DJI, Yuneec, EHANG, Hover Camera and their likes?
+
+Maybe not. Business use cases require specialized machines and software, and even the consumer market is evolving as software takes precedence. For instance, Juuk, a Silicon Valley-based startup that HAX (the hardware accelerator I help run) invested in, operates based on the conviction that “if you can’t beat them, join them,” by working with Chinese companies to build a drone that interacts and plays different games with you without a remote. Former staff from leading drone companies are also likely to play a key role in the next generation.
+
+More Opportunities In the Commercial Drones Market
+
+This is a consequence of the diversity and specificity of their requirements. Regulations are also crucial and vary with industries and location--sometimes giving an advantage to emerging markets. Beyond the often talked-about delivery drones, the first applications are in construction, agriculture and mining: they operate on private land, with people following safety procedures or equipped with hard hats. Farmland Keeper is a GGV investment which, for instance, does crop-dusting in China.
+
+While the term “drone” today mostly evokes the quadcopter shape, Toivo Annus, the former head of engineering at Skype who turned into a very active drone investor, points out that there is a richer taxonomy: “Different end uses call for different shapes, forms and qualities. There’s blimps, rockets, fixed wing, hybrids. Some are as big as passenger planes, some fit in your hand, some target high or low altitude, short or long distance. The list goes on and is evolving."
+
+The inspection of vertical, hard to access and linear infrastructure are also promising sectors. Things like cell towers, chimneys, oil rigs, roads, pipelines, and so on. Various startups have cropped up to focus on these applications and many believe that consumer and business sectors might converge soon.
+
+Drones Are Like Phones 20 Years Ago
+
+According to Annus, drones are today where phones were 20 years ago, or cars 100 years ago: "A little one-dimensional and frustrating, but already useful with big potential."
+
+According to Michael Novikov, a drone investor with San Francisco-based Knowledge Investments, Western companies are likely to lead in drone "brains" and specialized payloads: “In particular, American, German, British, Israeli and Swiss companies, thanks to avionics, navigation, sensors, processors, onboard data processing and AI, and special purpose equipment.”
+
+“Today, Chinese companies can only catch up. For example, DJI just purchased Hasselblad, a Swedish high-quality camera company,” he adds.
+
+Tseng comments that technologies from the self-driving car stack and the AR side are likely to trickle down to drones.
+
+An Ecosystem For Drones Is Forming
+
+A complete drone ecosystem is forming, but might take years depending on the industry. It includes people flying the drones, regulators, insurers, manufacturers, software companies, and of course their end clients.
+
+The question is, will Chinese companies be able to expand globally? Those who go beyond building hardware and take steps to engage with the ecosystem might. And some have already started.
+
+Applications to HAX accelerator programs in Shenzhen and San Francisco are open. Visit our website to know more before the deadline.

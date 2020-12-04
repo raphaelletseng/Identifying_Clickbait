@@ -1,0 +1,65 @@
+IBMVoice: How Cognitive Computing Can Help To Prevent Phishing Attacks
+IBMVoice: How Cognitive Computing Can Help To Prevent Phishing Attacks
+{{contrib_block.display_author.name}}  IBM       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Phishing is one of the internet’s oldest threats. Its history traces back to the mid-1990s, but it unfortunately continues to escalate in numbers every year. Based on social engineering, phishing is most typically delivered by email, or an SMS message, with a URL inside. Cybercriminals who use phishing kits have devised numerous methods to access and solicit the attention of bank customers. They might send emails impersonating a bank, redirect users to fake sites, deploy pharming attacks, induce malicious proxy changes or launch fake windows or images on a victim’s desktop, just to name a few -- all to steal access credentials, account information, card data and personally identifiable information (PII). Phishing attacks have been successful throughout the years because: They trigger the basic human emotion to act. They have become more convincing than ever and are difficult for recipients to visually detect. They advance in technical terms as their perpetrators come up with new and stealthy ways to serve them to unsuspecting victims. Attackers register cheap domains on new generic top-level domains, making the sites appear more legitimate and harder to shut down. The challenge in mitigating attacks lies in: Educating users across all age groups. Adapting the right technology to the problem Limiting the time window attacks are live A new phishing attack’s power is most potent in the first few hours of its lifespan. IBM X-Force data shows 70 percent of credentials are stolen in the first hour of a phishing attack. By identifying phishing sites soon after they’re launched, their potential damage can be minimized by flagging, blocking or taking these sites offline altogether. But with more than 1.2 million attacks per year in 2016, defenders meet the same data challenge we see across all information security domains: too many sites to classify, and not enough skilled human eyes to examine and classify them accurately. The longer it takes to detect phishing, the wider the window of opportunity is for attackers, because more victims will reach the site and fall for the scam. Reacting with speed and accuracy makes a meaningful difference in both stopping attacks and deterring attackers by limiting their return on investment (ROI). But how can we classify sites this quickly and at scale? We now address this problem through new technology that relies on machine learning and cognitive computing to accurately detect hundreds of phishing sites within a matter of seconds. By infusing patented machine learning and analytics technologies to help boost the speed and scale of phish detection, we can automate the classification of malicious sites within a fraction of the time and resources typically needed for this type of tasks. Using sophisticated algorithms, our anti-fraud team automates the classification of websites, which is fed directly to client banks from customer endpoints. Speedy classification allows for speedy protection that’s rolled out through the cloud within a matter of minutes from the time of detection and prevents users from browsing to a confirmed phishing site. This technology can consume much more data from more sources than manual processing. Moreover, the machine learning algorithms self-tune and continually raise detection accuracy over time, dropping false positive rates. For context, in our testing trials, the addition of the new machine learning capabilities showed phishing site detection 250 times faster than analysis that did not include a cognitive engine. To achieve such unprecedented speed , IBM Security uses innovative technology developed in partnership with IBM Trusteer research and the IBM Cyber Security Center of Excellence at Ben-Gurion University, Israel. The new cognitive engine analyzes unstructured data from suspicious websites, such as links, images, forms, text, scripts, DOM data and URLs. The new cognitive system can accurately identify a wide variety of phishing pages, including those that only present users with an image to elude content analysis and those that deliver dynamic content to the page to evade web crawlers. The engine continuously learns as attacks are detected, self-tunes its algorithms, and enhances its detection speed and ability to identify more complex attacks over time. To continually narrow down attackers’ window of opportunity, we detect bad sites as soon as they appear. To do that, a detection module automatically flags the malicious page/domain, notifies the affected brands, and simultaneously issues a protection layer to ensure that consumers can’t reach the fake site. This rapid response takes place in real time and helps protect consumers until a phishing site is eventually taken down, which can sometimes take days or even weeks when it is hosted in some parts of the world where phishing is not illegal. Are phishers going to go away any time soon? Not immediately. The volume and sophistication level of phishing attacks will continue to escalate as long as humans lag behind on detection. While it is true that not every security threat can be solved by using more technology, taking advantage of cognitive machine learning to detect phishing appears to be one of the successful cases. Classifying malicious URLs within minutes, which protects many would-be victims, has the potential to radically reduce this threat and drive away the attackers who thrive on it. Print Send Us Feedback Report Corrections Reprints & Permissions Trending on {{channel_name}}
+
+By Limor Kessem, IBM Security
+
+Phishing is one of the internet’s oldest threats. Its history traces back to the mid-1990s, but it unfortunately continues to escalate in numbers every year. Based on social engineering, phishing is most typically delivered by email, or an SMS message, with a URL inside.
+
+Cybercriminals who use phishing kits have devised numerous methods to access and solicit the attention of bank customers. They might send emails impersonating a bank, redirect users to fake sites, deploy pharming attacks, induce malicious proxy changes or launch fake windows or images on a victim’s desktop, just to name a few -- all to steal access credentials, account information, card data and personally identifiable information (PII).
+
+Phishing attacks have been successful throughout the years because:
+
+They trigger the basic human emotion to act.
+
+They have become more convincing than ever and are difficult for recipients to visually detect.
+
+They advance in technical terms as their perpetrators come up with new and stealthy ways to serve them to unsuspecting victims.
+
+Attackers register cheap domains on new generic top-level domains, making the sites appear more legitimate and harder to shut down.
+
+The challenge in mitigating attacks lies in:
+
+Educating users across all age groups.
+
+Adapting the right technology to the problem
+
+Limiting the time window attacks are live
+
+Phasing Out Phishing
+
+A new phishing attack’s power is most potent in the first few hours of its lifespan. IBM X-Force data shows 70 percent of credentials are stolen in the first hour of a phishing attack. By identifying phishing sites soon after they’re launched, their potential damage can be minimized by flagging, blocking or taking these sites offline altogether.
+
+But with more than 1.2 million attacks per year in 2016, defenders meet the same data challenge we see across all information security domains: too many sites to classify, and not enough skilled human eyes to examine and classify them accurately. The longer it takes to detect phishing, the wider the window of opportunity is for attackers, because more victims will reach the site and fall for the scam.
+
+Reacting with speed and accuracy makes a meaningful difference in both stopping attacks and deterring attackers by limiting their return on investment (ROI). But how can we classify sites this quickly and at scale? We now address this problem through new technology that relies on machine learning and cognitive computing to accurately detect hundreds of phishing sites within a matter of seconds.
+
+A Breakthrough in Phishing Detection
+
+By infusing patented machine learning and analytics technologies to help boost the speed and scale of phish detection, we can automate the classification of malicious sites within a fraction of the time and resources typically needed for this type of tasks.
+
+Using sophisticated algorithms, our anti-fraud team automates the classification of websites, which is fed directly to client banks from customer endpoints. Speedy classification allows for speedy protection that’s rolled out through the cloud within a matter of minutes from the time of detection and prevents users from browsing to a confirmed phishing site.
+
+This technology can consume much more data from more sources than manual processing. Moreover, the machine learning algorithms self-tune and continually raise detection accuracy over time, dropping false positive rates. For context, in our testing trials, the addition of the new machine learning capabilities showed phishing site detection 250 times faster than analysis that did not include a cognitive engine.
+
+To achieve such unprecedented speed, IBM Security uses innovative technology developed in partnership with IBM Trusteer research and the IBM Cyber Security Center of Excellence at Ben-Gurion University, Israel. The new cognitive engine analyzes unstructured data from suspicious websites, such as links, images, forms, text, scripts, DOM data and URLs.
+
+The new cognitive system can accurately identify a wide variety of phishing pages, including those that only present users with an image to elude content analysis and those that deliver dynamic content to the page to evade web crawlers. The engine continuously learns as attacks are detected, self-tunes its algorithms, and enhances its detection speed and ability to identify more complex attacks over time.
+
+A Cognitive Approach to Phishing Detection
+
+To continually narrow down attackers’ window of opportunity, we detect bad sites as soon as they appear. To do that, a detection module automatically flags the malicious page/domain, notifies the affected brands, and simultaneously issues a protection layer to ensure that consumers can’t reach the fake site.
+
+This rapid response takes place in real time and helps protect consumers until a phishing site is eventually taken down, which can sometimes take days or even weeks when it is hosted in some parts of the world where phishing is not illegal.
+
+Are phishers going to go away any time soon? Not immediately.
+
+The volume and sophistication level of phishing attacks will continue to escalate as long as humans lag behind on detection. While it is true that not every security threat can be solved by using more technology, taking advantage of cognitive machine learning to detect phishing appears to be one of the successful cases. Classifying malicious URLs within minutes, which protects many would-be victims, has the potential to radically reduce this threat and drive away the attackers who thrive on it.
+
+Tweet this: Check out @iCyberFighter's blog about how cognitive can help to prevent phishing attacks @Forbes #IBMXForce
+
+Limor Kessem is an Executive Security Advisor for IBM Security.
+
+Learn about the new era of business at www.ibm.com/watson/stories. And to learn more about the cyber threat landscape, download the new IBM X-Force Threat Intelligence Index 2017.
+
+A version of this story ran on IBM's Security Intelligence blog on March 27.

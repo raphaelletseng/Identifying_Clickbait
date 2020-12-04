@@ -1,0 +1,139 @@
+What reporter Will Ockenden's metadata reveals about his life
+
+
+
+What reporter Will Ockenden's metadata reveals about his life
+
+Updated
+
+We published ABC reporter Will Ockenden's metadata in full and asked you to analyse it. Here's what you got right — and wrong.
+
+Introduction
+
+After releasing Will Ockenden's metadata into the wild, we asked you to tell us what it revealed about him.
+
+The response has been overwhelming: we've had hundreds of submissions as you analysed, guessed, and applied logic to draw conclusions out of Will's data.
+
+So let's see how you went.
+
+"The public's analysis has been at times scarily accurate. "They've trawled through everything very, very thoroughly. A year of my life has been given a very good going over. They picked up on the major trips, the work times, my habits and more."
+
+Daily routine
+
+We know where he lives and works
+
+Unsurprisingly the majority of you were quick to guess he worked near Haymarket, and many of you quickly twigged it was at the ABC offices in Ultimo.
+
+Will's heatmaps clearly showed two major hotspots in Sydney, and one of them is in the cluster of cell towers around the Ultimo offices. Look closely and you can probably guess his favourite spots to duck out for coffee or lunch.
+
+The other hotspot in Sydney was a cluster of towers in Manly, where many of you correctly guessed he lived.
+
+A few offered up addresses, and while many were a long way away, a few were pretty close.
+
+Despite spending the majority of his weekends in Manly, his loyalty didn't extend to a membership at the Manly golf course like some of you guessed (based on his mobile phone pings on February 1).
+
+"The work and living locations were the easiest to guess. "They were the ones most heavily represented in the heatmaps and of course the ones where I went and ended up most days. It was interesting to see some people work out some points that were out of the daily routine - for example trips to the beach in Manly or plane trips. "For those of you — including our developer Simon — who had me rubbing shoulders with the establishment at Manly Golf Club, I wouldn't even bother asking the club if I could play a round. They'd take one look at me and laugh me off the property. I'm hopeless at golf."
+
+We know how he gets to work
+
+
+
+For those who thought Will often took the scenic route to work on the Manly ferry, you're right. We assume many guessed this because of the way the cell towers his phone contacted were clustered.
+
+But the ferry isn't the only way he commutes, and some of the audience also accurately guessed his bus route, right down to the stops he gets off at.
+
+Will also sometimes drives to work - and that didn't escape your notice either. It was generally picked up because of the differing departure times: driving often takes less time and it's direct.
+
+The data also allowed for some surprisingly accurate analysis of his commute on specific days, with one reader noting that he'd occasionally gotten stuck at the Spit Bridge in Manly, something Will confirmed.
+
+"While I expected my home and workplace to show up pretty clearly, I was shocked at some of the insights people were able to glean from the data. One reader picked up on the fact I got stuck at the Spit Bridge near Manly, when it lifted up, while another pinpointed when I get off the bus."
+
+We know when he moves house
+
+And well-spotted to those of you who noticed Will recently moved house - from Manly to Redfern.
+
+That no doubt came as a relief to the person who suggested Will was wasting too much time commuting.
+
+Eagle-eyed readers had Will's moving day narrowed down to the exact date by analysing when his phone stopped regularly communicating with Northern Beaches phone towers.
+
+"It appears that given enough data over a long period of time, patterns and habits reveal more about you than you realise. Some people joked (I hope they were joking!) that I don't get out very much. Looking at the data, I'd have to agree."
+
+On the move
+
+We know where his parents live, and when he went to visit them
+
+Will's Christmas holidays were quickly sussed out by many, including ABC head honcho Mark Scott, who tracked him to the Ockenden family home in Hobart.
+
+All it took to figure that out was to look at the cell towers Will's phone communicated with on Christmas Day. They were all around Moonah and New Town in Hobart. One reader suggested Will must have been enjoying his family's company on Christmas morning, as his phone wasn't active until after midday.
+
+Reader sleuthing also identified Will's siblings, an example of how a set of metadata can be cross-referenced with data gathered elsewhere to build up a broader picture of someone's life.
+
+Another audience member posited that a separate trip Will made to Tasmania in November was to watch his brother receive an award.
+
+It's true Will was in Tasmania in November but it wasn't for that; actually he had to set up his parents' wifi.
+
+"Without the content the 'why' is hard to work out with just one set of metadata. While you can work out movements, nailing the reason is a bit harder. You can try to narrow it down but without more information it's often just an educated guess. There were quite a few of those guesses in the audience feedback and while some guessed right, others - like the sports award - were wrong."
+
+We know what flights he's taking and when he leaves the country
+
+ABC App users, click through to see the interactive version of this story This article includes an interactive component which is not supported on this platform. For the full interactive experience in this article, you will need a modern web browser with JavaScript enabled. Find out more about browser support at ABC News Online.
+
+Some enterprising readers managed to correctly guess what flights Will took when he travelled to Hobart, right down to the departure times.
+
+Flight information is just a google away, and when Will's data shows him disappearing from Sydney and re-appearing in Hobart, it's simple to put the two together.
+
+Some larger gaps in the data were also picked up, with several readers spotting that the last known signal on both occasions came from a tower at the international airport - pointing to time overseas as opposed to Will just turning the phone off.
+
+It also appears international flights are harder to guess than domestic flights. Several people got the flight numbers for his domestic flights correct, however no-one picked the correct destination (let alone flight number) for international flights.
+
+"It's these combinations that show the full potential of metadata. On its own a lot of this stuff is mostly innocuous but once you starting combining it with all the other information out there, things start to get interesting. "Some readers suggested I release my banking and credit card transaction details so they could layer the metadata on top of my daily spending. In a way banking transactions themselves are another form of metadata, and the two datasets together would undoubtedly build a richer picture about someone's daily life."
+
+The finer points
+
+We know a little bit about who he calls
+
+When it came to Will's contacts there were a lot of varied theories about who each of his top contacts were.
+
+This article includes an interactive component which is not supported on this platform. For the full interactive experience in this article, you will need a modern web browser with JavaScript enabled. Find out more about browser support at ABC News Online.
+
+Of the 10, the only ones picked with any accuracy were his parents, with many of you correctly noting they were most likely the contacts he consistently called rather than texting.
+
+At least one person guessed work colleague for every contact on the top 10, which possibly shows more about what you think of Will's life and work ethic than it does about the information provided.
+
+Interestingly though, with a little prompting and training, a lot of people were able to accurately guess the identities of Will's contacts in our contacts quiz.
+
+"Contact identification was interesting. Due to the way Telstra provided me my metadata, the telco only gave me outgoing information, not incoming calls or messages. "When Government authorities or the police request similar information, it's likely they get both incoming and outgoing - which obviously gives much more information about someone's social network. "As such, contacts were harder to identify because you couldn't see where they were, only where I was. When analysing metadata, the police for example would likely have no such impediment. If the location of the SMS/call receiver was published, I'd expect contact identification to be much more accurate. "Another interesting observation is the way calls and SMSes are logged. When sending a message these days it can either go via SMS or via the internet. If it goes over the internet (like Apple's iPhone to iPhone service iMessage) the communication isn't logged like it is with an SMS. I have an iPhone so the contacts on the list were skewed to people I sent SMSes to (and not iMessages); more often than not this means people with Android phones. No-one picked up the possibility of this happening in their analysis."
+
+We know (and don't know) some surprising things
+
+A few readers picked out some interestingly specific events in Will's life and on those points, some guesses were right and some were wrong.
+
+As with the delay at the Spit Bridge, the deviations from the routine stand out, with one reader noticing a journey to the Hawkesbury at lunchtime on the Australia Day weekend and another pointing out that he doesn't contact two of his top 10 contacts while in Hobart - and therefore is likely to be with them.
+
+But noticing that something is out of the ordinary doesn't necessarily lead to knowing what it is.
+
+Those who had Will pegged as a party animal raging until the early hours of the morning on New Year's Day and getting barely any sleep (we're guilty of thinking that as well) will be disappointed, as he explains below.
+
+Many of you picked up on his trip to regional Victoria, but no-one was able to guess what he was doing. And we'll leave it that way; you know enough as it is.
+
+You also missed a few things that have a big impact on the data; many of his "late nights" are actually early mornings, as the fact he is a shift worker escaped your notice. People posited that he worked Sunday to Thursday whereas he in fact works various shifts across all seven days.
+
+"Many people said I had a boring life and didn't do very many exciting things. Mostly this is accurate and it is entirely accurate for my New Year's Eve. I was in bed asleep before 12pm. I'd like to say it was because I had a 5am shift on January 1 but I still would have been in bed early even if I didn't. "So why are there a heap of metadata logs for hours when I was asleep? Likely this is my phone automatically connecting to the internet as it receives "happy new year" style messages from people who are out and about. In order to get one of those messages, my phone would make a data connection to the phone tower - where it was logged."
+
+Final thoughts
+
+Having strangers poring over your data can be an unnerving experience but whether we're aware of it or not that's increasingly the case in the world we live in.
+
+Both the accuracy and inaccuracy of your guesses about Will, based on one small portion of the data that he has generated in his life, provide a powerful lesson about the powerful potential and pitfalls of metadata.
+
+"Going into this project, I knew that many parts of my life over the last year would be laid out clearly. That happened as expected. However, I wasn't expecting such a high level of detail. It's plain from the hundreds of responses we received that telecommunications metadata can reveal a significant amount of detail - even when it's collected at a suburb level. "The Australian Federal Police, in a submission to the Senate inquiry into the metadata retention legislation, wrote 'the analysis of telecommunications ... consistently provides an invaluable intelligence capability, including helping identify individuals of concern without having to resort to more privacy instructive measures such as interception of communication'. "While it is true the interception of communications is more intrusive than just metadata, interception requires a warrant. Government agencies do not require a warrant for metadata. "Prime Minister Tony Abbott said in 2014 that metadata was 'essentially, the billing data'. From the responses we received, I would say that metadata reveals a significant amount of information even before you start looking for additional sources to plug the gaps. "While it has been a revealing exercise, parts of the project have also been rather unsettling. Now please stop digging. It's creeping me out!"
+
+How can I get my metadata? Telstra is the first Australian telco to offer its customers the ability to
+
+Telstra is the first Australian telco to offer its customers the ability to get access to their metadata . It offers basic customer information at no cost, and more detailed information for a fee.
+
+Credits
+
+Topics: internet-culture, mobile-phones, federal-government, sydney-2000
+
+First posted

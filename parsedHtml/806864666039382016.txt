@@ -1,0 +1,27 @@
+Qualcomm Launches The First 10nm Server Chip
+Qualcomm Launches The First 10nm Server Chip
+{{contrib_block.display_author.name}}  Aaron Tilley       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Mobile chipmaker Qualcomm is making its next big move in its uphill battle with Intel in the data center market. On Wednesday, the San Diego, Calif.-based company announced its second-generation server chip built on the most advanced chip manufacturing process at 10 nanometers. Qualcomm said it's already sampling the new chips out to data center giants now. Qualcomm announced its first server chip last year with a “Server Development Platform” for data center players to start trying out Qualcomm technology and seeing how well it performs. Last month, Qualcomm said its next generation mobile processor, the Snapdragon 835, would also be built on the 10nm process node. The mobile chip will be built by Samsung (Qualcomm wouldn't say yet who is building its server chip). “The leading edge process node has been historically driven by the PC,” said . “That has been shifting.” For years, the volumes PCs were selling at resulted in the most advanced processing chips in that market. Now that smartphone volumes have taken over in the tech industry, phones are benefitting from getting access the most advanced chip manufacturing technology, said "We've seen the shift from PC leadership on the process node to mobile leadership," he said It's early days for Qualcomm's data center ambitions, and it faces Qualcomm's processors are based on chip designs from ARM, a SoftBank-owned company that licenses out chip designs that have dominated the mobile market over the past decade. Lots of players in the past have tried to break Intel's dominance with ARM-based chips, but none have made it very far. Qualcomm is seeking for growth outside of its core mobile business as that market matures. Cars are one major area Qualcomm is looking for future growth -- it recently acquired chipmaker NXP, which has a large existing business in chips for cars, in one of the biggest semiconductor deals ever for $47 billion. But it's going to take many years for the data center bet to pay off. “We’re committed to it,” said Chandrasekher. “The investment to get to this stage has been significant. This is going to take some time to bring home.” Anand Chandrasekher, senior vice president and general manager of Qualcomm's datacenter business, holding the server chip (Photo credit: Qualcomm)    Trending on {{channel_name}}
+
+Mobile chipmaker Qualcomm is making its next big move in its uphill battle with Intel in the data center market.
+
+On Wednesday, the San Diego, Calif.-based company announced its second-generation server chip built on the most advanced chip manufacturing process at 10 nanometers. The chip, called the Centriq 2400, will contain 48 ARM-based cores. Qualcomm is calling its custom ARM processors Falkor.
+
+Qualcomm said it's already sampling the new chips out to data center giants now.
+
+Qualcomm announced its first server chip last year with a “Server Development Platform” for data center players to start trying out Qualcomm technology and seeing how well it performs.
+
+Last month, Qualcomm said its next generation mobile processor, the Snapdragon 835, would also be built on the 10nm process node. The mobile chip will be built by Samsung (Qualcomm wouldn't say yet who is building its server chip).
+
+“The leading edge process node has been historically driven by the PC,” said Anand Chandrasekher, senior vice president and general manager of Qualcomm's datacenter business. “That has been shifting.”
+
+For years, the volumes PCs were selling at resulted in the most advanced processing chips in that market. Now that smartphone volumes have taken over in the tech industry, phones are benefitting from getting access the most advanced chip manufacturing technology, said Chandrasekher. "We've seen the shift from PC leadership on the process node to mobile leadership," he said.
+
+Chandrasekher said Qualcomm is benefitting from the shifting emphasis in chip manufacturing capabilities to mobile. It's able to take what it has learned building mobile processors and use it in the data center.
+
+It's early days for Qualcomm's data center ambitions, and it faces a tremendous uphill battle. Intel currently owns upwards of 90% of the market for data center processors, and it's certainly not going to cede territory to a competitor easily.
+
+Qualcomm's processors are based on chip designs from ARM, a SoftBank-owned company that licenses out chip designs that have dominated the mobile market over the past decade. Lots of players in the past have tried to break Intel's dominance with ARM-based chips, but none have made it very far.
+
+Qualcomm is seeking for growth outside of its core mobile business as that market matures. Cars are one major area Qualcomm is looking for future growth -- it recently acquired chipmaker NXP, which has a large existing business in chips for cars, in one of the biggest semiconductor deals ever for $47 billion. But it's going to take many years for the data center bet to pay off.
+
+“We’re committed to it,” said Chandrasekher. “The investment to get to this stage has been significant. This is going to take some time to bring home.”

@@ -1,0 +1,102 @@
+iPad 2017 review: $329 gets you a new iPad. We done?
+iPad 2017 review: $329 gets you a new iPad. We done?
+Apple announced a new iPad a few weeks ago. Did you even notice? I wouldn't blame you if you missed it. There wasn't any big event, or a keynote, and people definitely weren't waiting in line for it. Apple's new 9.7-inch iPad (it's just called iPad) doesn't come with any major redesign and it's not as powerful as the 9.7-inch iPad Pro . SEE ALSO: Appleâ€™s cheap iPad is tailor-made for education The new iPad replaces the nearly three-year-old iPad Air 2 , which Apple says was its best-selling iPad ever. In many ways, the new iPad reminds me of the iPhone SE : it's got an old, but familiar design, with faster components inside to keep up with new iOS updates.Â But most importantly, the new iPad is more affordable than ever before â€” it starts at just $329. That's $170 less than what the iPad Air 2 cost when it launched in 2014. The price alone makes this product stand out, and is reason enough for old iPad users to upgrade and new iPad users to seriously consider the new model, at least as far as 9.7-inch iPads go. iPad Air roots You can get one in silver, space gray, or gold. If you want rose gold, you'll need to buy an iPad Pro 9.7. Image:  lili sams/mashable The new iPad is one of those rare times when a new Apple product is slightly thicker and heavier than its predecessor. The last time an iPad bulked up was when Apple replaced the iPad 2 with the iPad 3 ; the iPad 3's increased weight and thickness was a tradeoff as a result of the Retina display and a battery nearly twice as large as the iPad 2's to power it. With the exception of the non-polished chamfer, the new iPad looks virtually indistinguishable from the first-gen iPad Air . Even its dimensions and weight (1 pound) are exactly the same. It's almost like Apple had a factory full of unused iPad Airs it needed to repurpose. ðŸ˜’Â The new iPad (bottom) is slightly thicker and heavier than the iPad Air 2 (top). Image:  lili sams/mashable I thought I would take issue with the added girth since I use an iPad Air 2 at home every day, but I just got used to it. iPad Air 2 and iPad Pro users will definitely be able to feel the difference, but the new iPad isn't that much thicker or heavier that it's a deal-breaker. The one feature on the new iPad that feels like a serious step back is the display. Sure, it's brighter than the iPad Air 2's and as bright as the 9.7-inch iPad Pro's, but the non-laminated display, which creates a gap between the display and the glass, just doesn't look as good.Â You can't see it easily in photos, but there's an air gap between the display and the glass. Image:  lili sams/mashable I'm nitpicking â€” the 2,048 x 1,536 resolution Retina display still looks fantastic with rich, accurate colors and plenty of sharpness â€” but the display also doesn't have any kind of antireflective coating to reduce glare from overhead lights. Compared to my iPad Air 2 at 75 percent brightness, I had to crank the new iPad to 100 percent brightness in order to not see my face reflected back at me while watching videos. I admit these are all minor issues in the grand scheme of things, but it still sucks when you see progress take a step back. Image:  lili sams/mashable Otherwise, the new iPad is still basically an iPad Air. It's got the same Lightning port, same Touch ID fingerprint sensor, same 8-megapixel back camera, same 1.2-megapixel FaceTime HD camera, and same bottom-firing stereo speakers. Refreshed guts for more power Image:  lili sams/mashable Not that the iPad Air 2 isn't still a very capable tablet (I just installed iOS 10.3.1 on mine and it still runs pretty damn well), but the new iPad's internal refresh is all about future-proofing to ensure it'll be able to support future iOS updates. The iPad Air 2's A8X processor might still be able to keep up with a few more updates, but it won't be able to forever. The new iPad, however, packs a faster 64-bit A9 chip and 2GB of RAM â€” the same specs as the iPhone 6S/6S Plus/SE â€” and an embedded M9 motion coprocessor. My own benchmark tests taken with Geekbench 4 confirm as much: The new iPad is just as powerful as... Image:  screenshot: Raymond wong/mashable ...an iPhone 6S. Image:  screenshot: Raymond wong/mashable There's honestly not much more to say about performance. The new iPad's fast â€” not as fast as the iPad Pros and their A9X chip â€” but incredibly speedy. I was able to play graphically intensive 3D games like the latest , which has more detailed textures, more particle effects, and more speeding and crashing onscreen than any previous racing game, and didn't see any major issues like dropped frame rates or jitters. You'll have absolutely no problems opening a dozen Safari tabs, streaming videos on services like Netflix and YouTube, posting to social networks, and playing Sudoku. Split View with two apps open side-by-side also works much better on the new iPad than on my iPad Air 2. That a two-year-old chip still works at peak performance and runs circles around other new Android devices (A Google Pixel running Android 7.1.1 only managed a 1,590 single-core and 4,242 multi-core score) is a real testament to Apple's chip-designing skills and how far ahead iOS devices are compared to the competition. Battery life is also as fantastic as you'd expect from an iPad. Apple advertises up to 10 hours of battery for browsing the web on Wi-Fi, watching videos, and listening to music, and I got pretty much exactly that. In fact, you might get more than 10 hours if you manage your power settings right. 8-megapixel camera on the back. Image:  lili sams/mashable On paper, there's no difference between the cameras on the new iPad and those on the iPad Air 2. The rear camera is still 8 megapixels and the front-facing FaceTime HD camera is still 1.2 megapixels. But in practice, things are a little different â€” if you look closely. There are a few things I noticed while testing the selfie camera. First, the new iPad supports Live Photos and Retina flash, thanks to the A9 chip. And second, image quality appears to be worse on the new iPad somehow. Yeah, it surprised me, too. Image:  Raymond wong/mashable Photos have more dynamic range from the new iPad's selfie camera, but there's also a lot more image noise. For example, the ceiling in my selfie (look at upper left corner) looks way over-processed compared to the right taken with the iPad Air 2. And if you zoom in and take a look at the words on the books on the shelf below, you'll notice the text is sharper. Most people probably won't care, but it's still very strange. Image:  RAYMOND WONG/MASHABLE Image:  RAYMOND WONG/MASHABLE Photos taken with the new iPad's back camera are a little crisper and also have slightly better dynamic range than the iPad Air 2, but again, it's kinda negligible unless you're looking for the differences. Image:  raymond Wong/mashable Image:  RAYMOND WONG/MASHABLE At the end of the day, photos look fine, even if you're one of those monsters who takes photos with a tablet . Who should buy and who shouldn't? Image:  lili sams/mashable iPad sales are down and have been trending that way for years. What Apple's found is that iPad owners are just like PC owners: they're hanging onto their old iPads longer than expected â€” four, maybe five years. But can you really blame them?Â For the most part, old iPads still work just fine for doing basic things like browsing the web, watching videos, listening to music and reading e-books, and that's primarily because Apple engineers them so damn well. My mom's got my original iPad, and even though it doesn't have a Retina display and the thing is a tank compared to the new iPad, it still works for all of the basic tasks I just listed. That said, she's exactly the type of iPad owner who could use a new one. The iPad Pro would be overkill for her, but the new iPad would be just right. These are the most affordable 9.7-inch iPads Apple's ever offered. It's without question the new iPad offers a lot of value at a very attractive price. A 32GB Wi-Fi model costs $329, and for another $100 you can quadruple the storage to 128GB. And as always, cellular cost an extra $130 more than their Wi-Fi-only counterparts.Â Simply put, these are the most affordable 9.7-inch iPads Apple's ever offered. (Remember, for the longest time 9.7-inch iPads started at $499 for 16GB, and that was considered "low" for a 10-inch tablet.) But it's obviously not the upgrade for everyone. If you've got an iPad Pro â€” congrats, you've already got the best, so you can skip right over this iPad. And if you've got an iPad mini â€” well, you can go either way and skip or buy. It all depends on whether you want a larger screen or not. However, if you've been clinging onto any pre-Air iPad (iPad 1, 2, 3, and 4), the new iPad is a steal. Give your old iPad to your kid, donate it, or repurpose it as a digital picture frame. The leap in performance you'll get will be like swapping your Toyota Camry for a Porsche. The new iPad may not have the latest Apple chip, or support Apple Pencil, or be the thinnest iPad ever created, but it's still an iPad, which means it'll be good for probably another four or five more years. Not many gadgets can say the same. iPad (2017) The Good Super affordable price 10-hour battery life iOS 10 runs like a champ The Bad Non-laminated display No antireflective coating Selfies are worse than on iPad Air 2 Thicker and heavier than iPad Air 2 The Bottom Line Starting at $329, the new IPad (2017) is a no-brainer if upgrade if you've got a pre-Air iPad or a first-time iPad owner.  WATCH: Apple wants to replace your laptop with the powerful 9.7-inch iPad Pro
+
+Mashable Choice highlights the best of everything we cover, have experienced first-hand and would recommend to others.
+
+Apple announced a new iPad a few weeks ago. Did you even notice? I wouldn't blame you if you missed it. There wasn't any big event, or a keynote, and people definitely weren't waiting in line for it.
+
+Apple's new 9.7-inch iPad (it's just called iPad) doesn't come with any major redesign and it's not as powerful as the 9.7-inch iPad Pro.
+
+The new iPad replaces the nearly three-year-old iPad Air 2, which Apple says was its best-selling iPad ever. In many ways, the new iPad reminds me of the iPhone SE: it's got an old, but familiar design, with faster components inside to keep up with new iOS updates.Â
+
+But most importantly, the new iPad is more affordable than ever before â€” it starts at just $329. That's $170 less than what the iPad Air 2 cost when it launched in 2014. The price alone makes this product stand out, and is reason enough for old iPad users to upgrade and new iPad users to seriously consider the new model, at least as far as 9.7-inch iPads go.
+
+iPad Air roots
+
+You can get one in silver, space gray, or gold. If you want rose gold, you'll need to buy an iPad Pro 9.7. Image: lili sams/mashable
+
+The new iPad is one of those rare times when a new Apple product is slightly thicker and heavier than its predecessor.
+
+The last time an iPad bulked up was when Apple replaced the iPad 2 with the iPad 3; the iPad 3's increased weight and thickness was a tradeoff as a result of the Retina display and a battery nearly twice as large as the iPad 2's to power it.
+
+With the exception of the non-polished chamfer, the new iPad looks virtually indistinguishable from the first-gen iPad Air. Even its dimensions and weight (1 pound) are exactly the same. It's almost like Apple had a factory full of unused iPad Airs it needed to repurpose. ðŸ˜’Â
+
+The new iPad (bottom) is slightly thicker and heavier than the iPad Air 2 (top). Image: lili sams/mashable
+
+I thought I would take issue with the added girth since I use an iPad Air 2 at home every day, but I just got used to it. iPad Air 2 and iPad Pro users will definitely be able to feel the difference, but the new iPad isn't that much thicker or heavier that it's a deal-breaker.
+
+The one feature on the new iPad that feels like a serious step back is the display. Sure, it's brighter than the iPad Air 2's and as bright as the 9.7-inch iPad Pro's, but the non-laminated display, which creates a gap between the display and the glass, just doesn't look as good.Â
+
+You can't see it easily in photos, but there's an air gap between the display and the glass. Image: lili sams/mashable
+
+I'm nitpicking â€” the 2,048 x 1,536 resolution Retina display still looks fantastic with rich, accurate colors and plenty of sharpness â€” but the display also doesn't have any kind of antireflective coating to reduce glare from overhead lights. Compared to my iPad Air 2 at 75 percent brightness, I had to crank the new iPad to 100 percent brightness in order to not see my face reflected back at me while watching videos.
+
+I admit these are all minor issues in the grand scheme of things, but it still sucks when you see progress take a step back.
+
+Image: lili sams/mashable
+
+Otherwise, the new iPad is still basically an iPad Air. It's got the same Lightning port, same Touch ID fingerprint sensor, same 8-megapixel back camera, same 1.2-megapixel FaceTime HD camera, and same bottom-firing stereo speakers.
+
+Refreshed guts for more power
+
+Image: lili sams/mashable
+
+Not that the iPad Air 2 isn't still a very capable tablet (I just installed iOS 10.3.1 on mine and it still runs pretty damn well), but the new iPad's internal refresh is all about future-proofing to ensure it'll be able to support future iOS updates. The iPad Air 2's A8X processor might still be able to keep up with a few more updates, but it won't be able to forever.
+
+The new iPad, however, packs a faster 64-bit A9 chip and 2GB of RAM â€” the same specs as the iPhone 6S/6S Plus/SE â€” and an embedded M9 motion coprocessor. My own benchmark tests taken with Geekbench 4 confirm as much:
+
+The new iPad is just as powerful as... Image: screenshot: Raymond wong/mashable ...an iPhone 6S. Image: screenshot: Raymond wong/mashable
+
+There's honestly not much more to say about performance. The new iPad's fast â€” not as fast as the iPad Pros and their A9X chip â€” but incredibly speedy. I was able to play graphically intensive 3D games like the latest Asphalt Xtreme, which has more detailed textures, more particle effects, and more speeding and crashing onscreen than any previous Asphalt racing game, and didn't see any major issues like dropped frame rates or jitters.
+
+You'll have absolutely no problems opening a dozen Safari tabs, streaming videos on services like Netflix and YouTube, posting to social networks, and playing Sudoku. Split View with two apps open side-by-side also works much better on the new iPad than on my iPad Air 2.
+
+That a two-year-old chip still works at peak performance and runs circles around other new Android devices (A Google Pixel running Android 7.1.1 only managed a 1,590 single-core and 4,242 multi-core score) is a real testament to Apple's chip-designing skills and how far ahead iOS devices are compared to the competition.
+
+Battery life is also as fantastic as you'd expect from an iPad. Apple advertises up to 10 hours of battery for browsing the web on Wi-Fi, watching videos, and listening to music, and I got pretty much exactly that. In fact, you might get more than 10 hours if you manage your power settings right.
+
+Cameras are fine...for a tablet
+
+8-megapixel camera on the back. Image: lili sams/mashable
+
+On paper, there's no difference between the cameras on the new iPad and those on the iPad Air 2. The rear camera is still 8 megapixels and the front-facing FaceTime HD camera is still 1.2 megapixels. But in practice, things are a little different â€” if you look closely.
+
+There are a few things I noticed while testing the selfie camera. First, the new iPad supports Live Photos and Retina flash, thanks to the A9 chip. And second, image quality appears to be worse on the new iPad somehow. Yeah, it surprised me, too.
+
+Image: Raymond wong/mashable
+
+Photos have more dynamic range from the new iPad's selfie camera, but there's also a lot more image noise. For example, the ceiling in my selfie (look at upper left corner) looks way over-processed compared to the right taken with the iPad Air 2. And if you zoom in and take a look at the words on the books on the shelf below, you'll notice the text is sharper. Most people probably won't care, but it's still very strange.
+
+Image: RAYMOND WONG/MASHABLE Image: RAYMOND WONG/MASHABLE
+
+Photos taken with the new iPad's back camera are a little crisper and also have slightly better dynamic range than the iPad Air 2, but again, it's kinda negligible unless you're looking for the differences.
+
+Image: raymond Wong/mashable Image: RAYMOND WONG/MASHABLE
+
+At the end of the day, photos look fine, even if you're one of those monsters who takes photos with a tablet.
+
+Who should buy and who shouldn't?
+
+Image: lili sams/mashable
+
+iPad sales are down and have been trending that way for years. What Apple's found is that iPad owners are just like PC owners: they're hanging onto their old iPads longer than expected â€” four, maybe five years. But can you really blame them?Â
+
+For the most part, old iPads still work just fine for doing basic things like browsing the web, watching videos, listening to music and reading e-books, and that's primarily because Apple engineers them so damn well.
+
+My mom's got my original iPad, and even though it doesn't have a Retina display and the thing is a tank compared to the new iPad, it still works for all of the basic tasks I just listed. That said, she's exactly the type of iPad owner who could use a new one. The iPad Pro would be overkill for her, but the new iPad would be just right.
+
+These are the most affordable 9.7-inch iPads Apple's ever offered.
+
+It's without question the new iPad offers a lot of value at a very attractive price. A 32GB Wi-Fi model costs $329, and for another $100 you can quadruple the storage to 128GB. And as always, cellular cost an extra $130 more than their Wi-Fi-only counterparts.Â
+
+Simply put, these are the most affordable 9.7-inch iPads Apple's ever offered. (Remember, for the longest time 9.7-inch iPads started at $499 for 16GB, and that was considered "low" for a 10-inch tablet.)
+
+But it's obviously not the upgrade for everyone. If you've got an iPad Pro â€” congrats, you've already got the best, so you can skip right over this iPad. And if you've got an iPad mini â€” well, you can go either way and skip or buy. It all depends on whether you want a larger screen or not.
+
+However, if you've been clinging onto any pre-Air iPad (iPad 1, 2, 3, and 4), the new iPad is a steal. Give your old iPad to your kid, donate it, or repurpose it as a digital picture frame. The leap in performance you'll get will be like swapping your Toyota Camry for a Porsche.
+
+The new iPad may not have the latest Apple chip, or support Apple Pencil, or be the thinnest iPad ever created, but it's still an iPad, which means it'll be good for probably another four or five more years. Not many gadgets can say the same.
+
+iPad (2017) The Good Super affordable price â€¢ 10-hour battery life â€¢ iOS 10 runs like a champ The Bad Non-laminated display â€¢ No antireflective coating â€¢ Selfies are worse than on iPad Air 2 â€¢ Thicker and heavier than iPad Air 2 The Bottom Line Starting at $329, the new IPad (2017) is a no-brainer if upgrade if you've got a pre-Air iPad or a first-time iPad owner.
+

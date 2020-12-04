@@ -1,0 +1,59 @@
+Metadata law reform needed after AFP illegally accesses journalist's call records, expert says
+
+
+
+Metadata law reform needed after AFP illegally accesses journalist's call records, expert says
+
+Updated
+
+The illegal access of a journalist's phone records by the Australian Federal Police proves the laws need reform, an expert from the Australian Centre of Cyber Security says.
+
+Commissioner Andrew Colvin yesterday said an investigator had sought and acquired the call records without a warrant, blaming "human error" for the breach which occurred during an investigation into a leak from inside the AFP.
+
+Two days ago the matter was referred to the Commonwealth Ombudsmen, who will launch an audit of the breach next week.
+
+But Professor Clinton Fernandes said even if the incident was an accident, it had put journalists' sources at risk, and called for greater transparency.
+
+He said the changes to metadata retention laws two years ago that gave extra protections to journalists were inadequate.
+
+"Under the current laws we're not allowed to know how many journalist information warrants — if any — were even applied for, how many were refused, how many were approved," he said.
+
+"We are allowed to know that information about other things, like telecommunications interceptions and so on, but when it comes to journalist information warrants, that level of transparency is not available.
+
+"Now, the law ought to be changed to make that happen."
+
+He said similar laws provided information on warrant requests by police.
+
+"You don't need to tell a journalist that he or she is being investigated. That just defeats the purpose of an investigation.
+
+"What needs to occur is the transparency as to how many warrants were applied for, and of course, how many times has the public interest advocate actually argued against a journalist information warrant. We have no information about that."
+
+Public should have 'full confidence' in laws
+
+The journalist whose metadata was accessed was not informed, Commissioner Colvin said, adding the content of the calls had not been accessed.
+
+He said the material, which has since been destroyed, could not be "unseen" by officers investigating the leak.
+
+"They'll need to consider in terms of next steps of the investigation what weight they put on what they saw but that material was accessed illegally," he said.
+
+No disciplinary action has been taken against the investigator behind the breach, with Commissioner Colvin saying he did not believe there was any "ill will or bad intent".
+
+He said the public could have "full confidence" in metadata laws and in light of the breach the AFP had "enhanced" internal procedures regarding access to phone records.
+
+"We have raised the level of internal authorisation required for access to data of this type," he told reporters in Canberra.
+
+"We are limiting the number of authorised officers who can approve access of this type.
+
+"We are also re-rolling out and stepping up mandatory training to all investigators and authorised officers to make sure they are fully aware of their obligations under the Act."
+
+The Commissioner said metadata was a "very common tool" used by AFP investigators but "extremely rare" that they were interested in a journalist's metadata.
+
+Legal and media experts' have raised concerns about the protection of journalists under metadata retention laws, and in 2015 the Abbott government and Opposition passed laws making it harder for security agencies to access journalists' communication records.
+
+Attorney-General George Brandis has not been available for comment on the matter but Labor frontbencher Anthony Albanese said any breach was a serious issue that needed proper investigation.
+
+Greens senator Scott Ludlam said the breach demonstrated that the protections put in place for journalists were ineffective and raised questions about how all metadata was being handled.
+
+Topics: law-crime-and-justice, journalism, police, information-and-communication, australia
+
+First posted

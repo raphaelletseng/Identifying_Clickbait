@@ -1,0 +1,23 @@
+Live News Stream: Watch CBSN, Streaming free news online 24-7
+Live News Stream: Watch CBSN, Streaming free news online 24-7
+
+
+The team behind Pepper, the humanoid robot from SoftBank Robotics, are planning a platform for the machine where developers create applications for everyday use, such as guarding your home or giving floors a vacuum clean.
+
+Developers are already able to build Pepper apps using Android tools, however SoftBank Robotics is also considering opening up its Pepper platform -- similar to a mobile “app store” -- for developers to sell or market software to consumers, said Nicolas Boudot, EMEA sales director, in an interview with Bloomberg at Mobile World Congress Tuesday.
+
+Boudot gave examples of home improvements or care for the elderly as potential software applications that could be created. However, he didn’t give a time frame for when Pepper would become more widely available to developers. He said SoftBank Robotics is currently focusing on growing sales of the product, which cost $20,000, to businesses.
+
+Exclusive insights on technology around the world. Get Fully Charged, from Bloomberg Technology.
+
+Around 10,000 Pepper robots have been sold since they began shipping in 2015 -- however almost all are being used by businesses, predominantly in Japan, despite an attempt to woo everyday consumers. SoftBank Group Corp. currently uses Pepper as a shop helper in its mobile stores in Japan. In January, the company released a collection of home-oriented apps, such as one to control home lighting, for the few robots that have been sold to individual consumers.
+
+SoftBank Robotics, originally a French startup before its acquisition by SoftBank in 2012 for $100 million, was marketed heavily in Japan after its launch as part of SoftBank billionaire founder Masayoshi Son’s big push into robotics.
+
+Now the company is trying to increase its reach in Europe. The firm currently has 40 robots working at French supermarket Carrefour SA, as well as 30 more on-board ships run by Costa Cruise, said Boudot. In the U.S., the Pyramid Taproom at Oakland International Airport has been using Pepper for about two weeks as a greeter.
+
+However, Boudot acknowledged that Europe is more wary of the increasing prominence of robots compared to SoftBank’s home market of Japan. “In Europe we worry that robots are going to take power and steal our jobs,” he said, adding that once people interact with Pepper, they are keen to learn more.
+
+“We are not replacing humans,” he stressed. “We are helping people focus on adding value.”
+
+Pepper is currently using voice technology from Nuance Communications Inc., but is also working with Microsoft’s voice technology. Perhaps most surprisingly, Pepper uses chips from both Intel Group and ARM Holdings. SoftBank purchased ARM for $32 billion in July. Boudot declined to comment on how long Pepper would continue to use Intel’s chip technology.

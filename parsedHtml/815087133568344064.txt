@@ -1,0 +1,53 @@
+Code associated with Russian hackers found on Vermont energy company laptop
+
+
+
+Code associated with Russian hackers found on Vermont energy company laptop
+
+Updated
+
+Code linked to a broad Russian hacking campaign dubbed Grizzly Steppe by the US Government has been detected on a laptop associated with a Vermont electric utility.
+
+Key points: Malware found on laptop has been associated with Russian hackers
+
+Company is working with federal officials to trace the source
+
+Russia denies hacking US systems
+
+US President Barack Obama has accused Russia of hacking Democratic Party officials and institutions in the run-up to the presidential election and this week ordered the expulsion of 35 suspected Russian diplomats and imposed sanctions on two Russian intelligence agencies.
+
+The Burlington Electric Department said US utilities were alerted by the Department of Homeland Security about a malware code used in Grizzly Steppe, the name the agency has applied to a Russian campaign linked to recent hacks.
+
+Burlington Electric said it detected the malware in a laptop not connected to its grid systems and it took "immediate action to isolate the laptop and alerted federal officials".
+
+"We acted quickly to scan all computers in our system for the malware signature," the company said in a statement.
+
+"Our team is working with federal officials to trace this malware and prevent any other attempts to infiltrate utility systems. We have briefed state officials and will support the investigation fully."
+
+The statement came after a Washington Post report that Russian hackers had penetrated a Vermont utility.
+
+Government and utility industry officials regularly monitor the nation's electrical grid because it is highly computerised and any disruptions can have disastrous implications for the functioning of medical and emergency services, the Post said.
+
+Trump to meet intelligence community
+
+Russia has denied hacking US systems and declined to expel US anyone in retaliation for Washington's sanctions.
+
+"While keeping the right for retaliatory measures, we will not descend to the level of 'kitchen', irresponsible diplomacy," Russian President Vladimir Putin said.
+
+US President-elect Donald Trump has voiced scepticism at any Russian involvement in hacking, saying the US should "move on".
+
+However the incoming president said he would meet with leaders of the intelligence community next week "in order to be updated on the facts of this situation".
+
+Mr Trump praised Mr Putin for refraining from retaliation, in a sign the Republican plans to patch up badly frayed relations with Moscow.
+
+"Great move on delay (by V. Putin) - I always knew he was very smart!" Mr Trump tweeted.
+
+Mr Trump has previously rejected as "ridiculous" reported US intelligence findings that Russia intervened in the presidential election on his behalf through targeted hacking.
+
+AP/Reuters
+
+Editor's note February 7, 2017: A previous version of this story carried a headline which said the hacking malware found on the Burlington Electric Department laptop was Russian. The headline has been changed to reflect that the code has been associated with a Russian hacking campaign, but has not been definitively attributed to it.
+
+Topics: us-elections, hacking, world-politics, united-states, russian-federation
+
+First posted

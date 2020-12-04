@@ -1,0 +1,33 @@
+VMwareVoice: The Cloud Will Drive Your Car
+VMwareVoice: The Cloud Will Drive Your Car
+{{contrib_block.display_author.name}}  VMware       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer.    Trending on {{channel_name}}
+
+There’s nothing more iconically American than the automobile. From Jack Kerouac’s “On the Road” to Bruce Springsteen’s blue-collar Romeo racing in the street, cars have long been central to America’s mythology and self-image. Even the type of car one drives—hybrid or convertible, minivan or sportscar—can often serve as a shorthand description of its owner. But all that may soon fade into memory—and sooner than most expect. The age of the autonomous car is just over the horizon. And it’s barreling down that ribbon of highway right at us.
+
+The Race to Be First
+
+When people look back, 2016 may well be seen as the year when the rubber finally hit the road for the autonomous, or driverless, car era. Companies as diverse as General Motors, Ford, Microsoft, Google, Tesla, Netflix, and Uber have committed billions of dollars to new research and to acquiring startups specializing in driverless car technologies. Adding fuel to the race, in late January, the Swedish car manufacturer Volvo confirmed that it plans to have fully driverless cars on the road by 2020.
+
+So, what’s driving this frenzy? It’s the belief that driverless cars are the future of vehicle transportation, and those who get to the finish line first will dominate the market. Indeed, so widespread is this thinking that Uber’s CEO, Travis Kalanick, says that his company’s very survival depends on Uber being among the first to launch a driverless taxi network. But ultimately, it’s not just a matter of how autonomous cars will change automobile transportation; it’s how they might transform everything.
+
+Brave New (Driverless) World
+
+For starters, driverless cars will almost certainly change people’s relationship to their automobiles. Autonomous cars could make automobile transportation a utility, and one that is used only on demand. People will become car “users,” not car owners. And the business model that has powered the automobile industry since the first Model T rolled down the assembly line will change from individual sales to a new understanding of Cars as a Service. Simply put, there will be fewer compelling reasons to own one.
+
+Given this scenario, it won’t be a car’s color, design, or engine size that will influence consumer choice. It will be the quality of the customer experience. And the quality of that experience will be differentiated by software much more than by the physical attributes of the vehicle. To cite just one example, Netflix is investing heavily in autonomous vehicles because it views them as a new media platform with enormous potential.
+
+Autonomous cars will drive the cities of the future. Urban infrastructure will be designed to make the streets safe for both vehicle traffic and pedestrians. An integrated web of peer-to-peer networks between autonomous vehicles and “smart intersections” to regulate traffic flow will be essential components of the new urban networking grid. Autonomous cars will also open up new transportation opportunities for the elderly, disabled, and economically disadvantaged. Autonomous cars and buses will replace today’s commuter bus and light rail systems. And they will change the economics of city planning as primary sources of funding for essential city services, such as speeding tickets and parking meters, go the way of the horse and buggy.
+
+With far less individual ownership, fleets of unmanned vehicles will patrol the streets, waiting to be summoned for whatever task is needed. Who will own and operate those fleets? It is this scenario that concerns individuals like Uber’s Kalanick the most. More than likely it will be those companies that get to the checkered flag first in this brave, new, driverless world.
+
+Born to Run, in the Cloud
+
+Regardless of who wins that race, cloud-based networking technologies are fundamental in the transition to driverless vehicles. Without them, the very idea would remain in the realm of fiction. The cloud enables the reality of the connected car that can communicate with, and over, multiple network layers—both inside the car and out. In other words, the connected car is essentially a data center on wheels, and thus subject to the same kind of management, security, and operational systems one would have with an enterprise data center. Adding to the complexity is the fact that all data processing will need to happen at true network speed at these moving end-points: no latency will be permitted.
+
+The first of these multiple network layers will be for remotely managing the individual vehicle itself, as well as all the systems that maintain and operate the vehicle. This includes firmware upgrades, command and control systems, applications, content, user-profile and deployment, and post-sales car customization and self-service. A second, much larger network layer will be the one that allows the driverless, connected car to securely communicate with the fleets of other autonomous vehicles in aggregate, and with the smart intersections that will manage traffic flow and pedestrian traffic.
+
+VMware is in the driver’s seat in helping to make this “device with wheels” era happen, with technologies for enterprise mobility solutions, network virtualization, and the VMware Cross-Cloud Architecture™—which enables customers to run, manage, connect, and secure applications across clouds and devices in a common operating environment.
+
+As 2017 begins, one can safely say that the arrival of this era is no longer a matter of if, but when. And with the race to get there getting hotter by the day, it may soon be time to buckle up.
+
+- See more at: https://www.vmware.com/radius/cloud-will-drive-car/#sthash.4GBnfUd1.dpuf

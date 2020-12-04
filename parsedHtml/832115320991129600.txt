@@ -1,0 +1,197 @@
+These 6 systems will get rid of Wi-Fi dead spots in your house
+These 6 systems will get rid of Wi-Fi dead spots in your house
+As history flows along, we find ways to snuff out conditions that make us miserable. We invented plumbing so we didn’t have to carry water. We invented tractors so we didn’t have to break our backs in the fields. We invented air conditioning so we’re no longer uncomfortable in the summer. And now, you are alive to see the snuffing out of another source of misery: Wi-Fi dead spots. For years, we’ve tried to solve this problem with various imperfect solutions like Wi-Fi repeaters/extenders. But they all have downsides, like diminished speed and having to change Wi-Fi network names when you move around the house. But now, there’s mesh Wi-Fi. Instead of one Wi-Fi transmitter too weak to fill your entire home with signal, a mesh system uses a set of them, spaced evenly through your house. The result is a single “mesh network,” a roaming network, that blankets the entire house in good, strong signal. The revolution began a year ago with the introduction of the Eero. After I tested it ( my review’s here ), I was so exhilarated that I actually bought a set for myself, at the nosebleedy price of $500. Today, every networking company and its sister now offers a similar system. And man, they are great. Because a router out in plain sight offers better coverage than one in a closet, they’re all great-looking. Because we’re human beings and not engineers, they all include phone apps that make setup simple. And because many of us have children, most offer either parental controls (to block iffy websites) or a Pause button for specified offspring (so we can have dinner conversation face to face). This week, I reviewed six of these systems: Eero , Plume , Luma , Google WiFi,  Netgear Orbi , LinkSys Velop , and Ubiquiti Amplifi HD . About Speed Measurements Each manufacturer touts its routers’ top speed in megabits per second (“867 mbps/sec!”, for example). But trust me: You’ll get those speeds only on the moon. In the cluttered airwaves of a community, among the walls and furniture obstacles of a home, your top speed will probably be less than half the advertised maximum. Move 30 feet away, and it drops by half again. In fact, of these mesh systems can pass along data faster than your Internet provider passes it into the average American home (54 mbps/sec.). If your concern is transferring files between drives your home, or if you’re paying for much faster Internet, then consider one of the beefier systems here: The Velop, Orbi, or Amplifi HD. I tested each system by wandering through my house with a laptop running Netspot , an app that builds a “heat map” of Wi-Fi strength. All of them totally blanketed both floors of the house. (I even spot-checked the attic and basement. They had Wi-Fi, too.) I also did an internet speed test twice per system: in the room closest to the cable modem, and the room farthest from it. Here’s what I discovered. Eero The modules are small and good-looking; the terrific app gives you insight into every aspect of your system. All the key features are here, like guest networks (for visitors—they can access the internet, but not your computers) and individual, pause-able profiles for your offspring. If you have an Amazon ( AMZN ) Echo, you can even control your Eeros by voice: shutting off certain kids’ internet access, turning the Eeros’ status lights on or off, or finding your phone/tablet/laptop in the house according to its closest Eero. The Eero’s price has not come down in its year on the market, though. At $500 for a set of three, it’s almost goofily overpriced—$200 more than Google ( GOOG , GOOGL ) Wi-Fi, for example. I’m glad to own it, but it wouldn’t be my first choice today. 57 megabits/second downloading in the closest room, 47 in the farthest. Two per unit. (The pod by your cable modem therefore has only one empty jack for a printer, network hard drive, or other gizmos. I bought a cheap five-port switch box to solve that problem.) Three for $500, 1 for $200. Google Wi-Fi Google’s Eero-like system costs $300 for the set of three. It, too, is fast, full-featured, and beautifully designed. (For example, there’s no traditional power brick—only a simple cord with USB-C on the router end and standard two-prong plug on the other.) The app makes it incredibly simple to set the whole thing up . You use your phone to scan a barcode on the bottom of the first pod; after that, one tap is all it takes to set up each additional pod. The app even tests the placement of each unit and lets you know if you’ve chosen wisely. Features: You can pause individuals or groups, even remotely. You can control the colorful LED ring around the equator of each unit, although they make fantastic night lights. Voice control is coming soon, Google says. Port forwarding, guest networking, device prioritization (“favor the Roku when I’m watching videos!”): all present. 53 mbps/sec closest, 35 mbps farthest. : two. : $300 for three, $130 for each additional. Luma Feels like a cheap Eero knockoff; minor irritations abound. Do I really have to surrender my phone number just to use my new router? The units are hexagons, but unlike the Eeros, they can’t lie flat, because the power cord sticks out of the back. The setup process goes like this . The app is strong on parental controls and security; for example, you can set up accounts for each kid in your family and specify what kinds of sites they’re allowed to visit (rated PG, R, etc.). And there’s a full list of management features: Alexa commands (“Alexa, tell Luma to pause Casey’s laptop”), gadget prioritization, port forwarding, and guest networks. But the Lumas’ power is on the weak side; a set of three left fading signal at the fringes of the house. 55 mbps/sec closest spot, 49 farthest. two. $400 for three (choice of white, grey, orange, or black plastic), $150 for one Netgear Orbi Netgear’s approach to mesh networking is radical: Only two units to cover an entire big house. Including the front and back yard! How? First, these are big, honking towers, crammed with antennas and power to drive them. (A ring on the top glows in colors during setup to show its happiness with the current signal strength.) Second, most routers communicate with your devices on one of two radio bands (2.4 or 5 gigahertz)—but this one uses a third channel exclusively for communications between the two towers. As a result, that channel remains strong enough to drive through ceilings, floors, and walls. Netgear suggests putting one unit right by your cable modem, and the “satellite” tower in the middle of your house, even if that’s upstairs and several rooms away. It works. (The “Mesh routers” heat map shown near the top of this article is the Orbi’s result.) By the way, the Orbi also offers MU-MIMO streaming. (That stands for Multi-User Multiple Input, Multiple Output, but it basically means at least when talking to gadgets that also speak MU-MIMO. For example, the Samsung Galaxy S7 and certain other Android phones do; no Apple products do.) Alas, Netgear’s software engineers aren’t anywhere near as impressive as its hardware designers. The setup instructions are filled with terms like “credentials” and “redirect,” and they make no mention of a smartphone app that could make the process easier. You’re supposed to use a web-browser interface to set up your Orbis. When I contacted the company, they told me that there a setup app—they just forgot to mention it! In fact, there are three apps, each governing a different aspect of the Orbis (setting up guest network, parental controls, etc.). Come on, people. You can do better. : 56 mbps/sec closest spot, 52 farthest. : four per tower : $380 for two LinkSys Velop For $490, you get three gorgeous, sculptural white towers, with cables that sneak out of a corner cutout, a physical reset button (instead of a paper-clip hole), and packaging that out-elegances Apple’s. The towers deliver fantastic speed and coverage, thanks in part to a three-band system like Netgear’s for better comms between towers. The Velop (pronounced VELLup) also offers MU-MIMO streaming, if you’re scoring at home. All the perks are here: parental controls, guest networking, device prioritization, port forwarding, Alexa commands (“Turn the guest network on,” “What’s my password?”), and so on. The app is, therefore, more dense than on simpler devices, but it’s not hard to navigate. My one beef: it takes a time to recognize each new satellite as you hook it up. Minutes. : 56 mbps/sec closest spot, 52 farthest. : 2 per tower. : Three for $480; two for $350, or one for $200. Plume If you took the concept of mesh routers—multiple transmitters spaced around the home—to its logical conclusion, you’d wind up with Plume. Here, you buy a bunch of super-cheap, routers—the size of night lights, available in black, silver, or bronze—and plug them directly into power outlets, (Once you’re about a room away from the nearest Plume, your signal weakens dramatically.) Setting them up is insanely easy. You don’t even have to introduce them to the network one at a time, as you must the other systems; you can just plug in all six, or all nine, or whatever, and they just work. (If you to name them, you can: Just hold your phone very close to one of the plugs until it offers its name for changing. Very cool.) These pods are so cheap because they don’t contain processors, as their rivals do; all the analysis is done online. As a result, the company says that it takes 24 hours of analysis before the plugs begin to deliver their best speeds. Then, in the coming weeks, they shift bandwidth to the pods that need it most, according to your use patterns. Here’s the problem, though: Economics. If your home is small enough that you can get by with three Plumes ($180) or even six ($330), you’d save money and complexity by buying a modern, standard, router. And if your house is big enough that you need a mesh system, you’ll probably need $600 worth of Plumes—and any of the competitors here would cost a lot less than that. There are no features to speak of, either: No guest network, device prioritization, or parental controls. : 52 mbps/sec closest spot, 33 farthest. : one per unit : Three for $180, six for $330, one for $70. Amplifi HD Here’s another fresh take on the mesh system. This time, the three modules aren’t identical and interchangeable. There’s a base module and two satellite antennas. The base is a cube with a color touch screen; tap it to view various network-info screens. (Most of the time, it just shows the time and date.) The satellites are very cool: the antenna part connects to the power-outlet part with a magnetic ball joint, meaning that you can adjust the antenna’s angle. Note, though, that it can be tough finding spots to plug these things in where they’re not stymied by a floor, a countertop, or a wall. Baseboard outlets are pretty much it—which limits your positioning options (and attracts small children). They’re not exactly fashion accessories, either. The app is lovely, and gives you access to all kinds of advanced router settings (port forwarding, DHCP settings, etc.)—but doesn’t offer parental controls. : 48 mbps/sec closest spot, 44 farthest. : four on the base unit : $350 for the base and two satellites What to buy If money were no object, I’d tell you to buy the LinkSys Velop. These babies look great, they’re absurdly fast, the features are all there, and the software has its act together. A set of three is designed to cover 6,000 square feet of house—far more than the Google WiFi (4,500 square feet), Netgear Orbi (4,000), or Eero or Luma (3,000). (Then again, if your pad is more of a palace, you ‘ll want the Amplifi HD, which says it can cover 20,000 square feet!) But if money an object—namely, if you object to a $490 price tag—then you can save $200 by getting the Google WiFi trio. The modules are gorgeous and not so ostentatious, and the app offers a smoother setup. Unfortunately, the three-pack of Google WiFi is currently sold out everywhere. If you can’t wait, you can save almost as much money, and still get unbelievable coverage, with the Amplifi HD ($350) or the Netgear Orbi ($380). In any case, if your house’s size or construction stymies any single router you’ve tried, treat yourself. Dead spots are the latest scourge of humanity that we’ve now wiped out.
+
+As history flows along, we find ways to snuff out conditions that make us miserable. We invented plumbing so we didn’t have to carry water. We invented tractors so we didn’t have to break our backs in the fields. We invented air conditioning so we’re no longer uncomfortable in the summer.
+
+And now, you are alive to see the snuffing out of another source of misery: Wi-Fi dead spots.
+
+For years, we’ve tried to solve this problem with various imperfect solutions like Wi-Fi repeaters/extenders. But they all have downsides, like diminished speed and having to change Wi-Fi network names when you move around the house.
+
+But now, there’s mesh Wi-Fi.
+
+Instead of one Wi-Fi transmitter too weak to fill your entire home with signal, a mesh system uses a set of them, spaced evenly through your house. The result is a single “mesh network,” a roaming network, that blankets the entire house in good, strong signal.
+
+The revolution began a year ago with the introduction of the Eero. After I tested it (my review’s here), I was so exhilarated that I actually bought a set for myself, at the nosebleedy price of $500.
+
+Today, every networking company and its sister now offers a similar system. And man, they are great.
+
+Because a router out in plain sight offers better coverage than one in a closet, they’re all great-looking. Because we’re human beings and not engineers, they all include phone apps that make setup simple. And because many of us have children, most offer either parental controls (to block iffy websites) or a Pause button for specified offspring (so we can have dinner conversation face to face).
+
+This week, I reviewed six of these systems: Eero, Plume, Luma, Google WiFi, Netgear Orbi, LinkSys Velop, and Ubiquiti Amplifi HD.
+
+Each manufacturer touts its routers’ top speed in megabits per second (“867 mbps/sec!”, for example). But trust me: You’ll get those speeds only on the moon. In the cluttered airwaves of a community, among the walls and furniture obstacles of a home, your top speed will probably be less than half the advertised maximum. Move 30 feet away, and it drops by half again.
+
+In fact, any of these mesh systems can pass along data faster than your Internet provider passes it into the average American home (54 mbps/sec.). If your concern is transferring files between drives within your home, or if you’re paying for much faster Internet, then consider one of the beefier systems here: The Velop, Orbi, or Amplifi HD.
+
+I tested each system by wandering through my house with a laptop running Netspot, an app that builds a “heat map” of Wi-Fi strength. All of them totally blanketed both floors of the house. (I even spot-checked the attic and basement. They had Wi-Fi, too.)
+
+Read More
+
+I also did an internet speed test twice per system: in the room closest to the cable modem, and the room farthest from it. Here’s what I discovered.
+
+Eero
+
+The modules are small and good-looking; the terrific app gives you insight into every aspect of your system. All the key features are here, like guest networks (for visitors—they can access the internet, but not your computers) and individual, pause-able profiles for your offspring.
+
+The original mesh WiFi modules, still great. More
+
+If you have an Amazon (AMZN) Echo, you can even control your Eeros by voice: shutting off certain kids’ internet access, turning the Eeros’ status lights on or off, or finding your phone/tablet/laptop in the house according to its closest Eero.
+
+Eero’s app looks great. More
+
+The Eero’s price has not come down in its year on the market, though. At $500 for a set of three, it’s almost goofily overpriced—$200 more than Google (GOOG, GOOGL) Wi-Fi, for example. I’m glad to own it, but it wouldn’t be my first choice today.
+
+Speed tests: 57 megabits/second downloading in the closest room, 47 in the farthest.
+
+Ethernet jacks: Two per unit. (The pod by your cable modem therefore has only one empty jack for a printer, network hard drive, or other gizmos. I bought a cheap five-port switch box to solve that problem.)
+
+Price: Three for $500, 1 for $200.
+
+Google Wi-Fi
+
+Google’s Eero-like system costs $300 for the set of three.
+
+Three Google’s the charm. More
+
+It, too, is fast, full-featured, and beautifully designed. (For example, there’s no traditional power brick—only a simple cord with USB-C on the router end and standard two-prong plug on the other.)
+
+You can dim or turn off the Google Wifi’s status light. More
+
+The app makes it incredibly simple to set the whole thing up. You use your phone to scan a barcode on the bottom of the first pod; after that, one tap is all it takes to set up each additional pod. The app even tests the placement of each unit and lets you know if you’ve chosen wisely.
+
+Google’s app is a snap. More
+
+Features: You can pause individuals or groups, even remotely. You can control the colorful LED ring around the equator of each unit, although they make fantastic night lights. Voice control is coming soon, Google says. Port forwarding, guest networking, device prioritization (“favor the Roku when I’m watching videos!”): all present.
+
+Speed tests: 53 mbps/sec closest, 35 mbps farthest.
+
+Ethernet ports: two.
+
+Price: $300 for three, $130 for each additional.
+
+Luma
+
+Feels like a cheap Eero knockoff; minor irritations abound. Do I really have to surrender my phone number just to use my new router? The units are hexagons, but unlike the Eeros, they can’t lie flat, because the power cord sticks out of the back. The setup process goes like this.
+
+The Luma’s illuminated during setup. More
+
+The app is strong on parental controls and security; for example, you can set up accounts for each kid in your family and specify what kinds of sites they’re allowed to visit (rated PG, R, etc.). And there’s a full list of management features: Alexa commands (“Alexa, tell Luma to pause Casey’s laptop”), gadget prioritization, port forwarding, and guest networks.
+
+The Luma app queries you about your home setup. More
+
+But the Lumas’ power is on the weak side; a set of three left fading signal at the fringes of the house.
+
+To avoid the diluted signal at the outer edges, I would have needed another Luma. More
+
+Speed tests: 55 mbps/sec closest spot, 49 farthest.
+
+Ethernet ports: two.
+
+Price: $400 for three (choice of white, grey, orange, or black plastic), $150 for one
+
+Netgear Orbi
+
+Netgear’s approach to mesh networking is radical: Only two units to cover an entire big house. Including the front and back yard!
+
+How? First, these are big, honking towers, crammed with antennas and power to drive them. (A ring on the top glows in colors during setup to show its happiness with the current signal strength.)
+
+The Orbi kit comes with two of these towers. More
+
+Second, most routers communicate with your devices on one of two radio bands (2.4 or 5 gigahertz)—but this one uses a third channel exclusively for communications between the two towers. As a result, that channel remains strong enough to drive through ceilings, floors, and walls. Netgear suggests putting one unit right by your cable modem, and the “satellite” tower in the middle of your house, even if that’s upstairs and several rooms away.
+
+Only two Orbi units covers the house. Weird. More
+
+It works. (The “Mesh routers” heat map shown near the top of this article is the Orbi’s result.)
+
+By the way, the Orbi also offers MU-MIMO streaming. (That stands for Multi-User Multiple Input, Multiple Output, but it basically means fast—at least when talking to gadgets that also speak MU-MIMO. For example, the Samsung Galaxy S7 and certain other Android phones do; no Apple products do.)
+
+Alas, Netgear’s software engineers aren’t anywhere near as impressive as its hardware designers. The setup instructions are filled with terms like “credentials” and “redirect,” and they make no mention of a smartphone app that could make the process easier. You’re supposed to use a web-browser interface to set up your Orbis.
+
+Orbi’s app exists, but Netgear doesn’t want you to know. More
+
+When I contacted the company, they told me that there is a setup app—they just forgot to mention it! In fact, there are three apps, each governing a different aspect of the Orbis (setting up guest network, parental controls, etc.).
+
+Come on, people. You can do better.
+
+Speed tests: 56 mbps/sec closest spot, 52 farthest.
+
+Ethernet ports: four per tower
+
+Price: $380 for two
+
+LinkSys Velop
+
+For $490, you get three gorgeous, sculptural white towers, with cables that sneak out of a corner cutout, a physical reset button (instead of a paper-clip hole), and packaging that out-elegances Apple’s. The towers deliver fantastic speed and coverage, thanks in part to a three-band system like Netgear’s for better comms between towers.
+
+Air freshener or mesh WiFi router? You decide. More
+
+The Velop (pronounced VELLup) also offers MU-MIMO streaming, if you’re scoring at home.
+
+All the perks are here: parental controls, guest networking, device prioritization, port forwarding, Alexa commands (“Turn the guest network on,” “What’s my password?”), and so on. The app is, therefore, more dense than on simpler devices, but it’s not hard to navigate.
+
+The Velop app is nicely done. More
+
+My one beef: it takes a long time to recognize each new satellite as you hook it up. Minutes.
+
+Speed tests: 56 mbps/sec closest spot, 52 farthest.
+
+Ethernet ports: 2 per tower.
+
+Price: Three for $480; two for $350, or one for $200.
+
+Plume
+
+If you took the concept of mesh routers—multiple transmitters spaced around the home—to its logical conclusion, you’d wind up with Plume. Here, you buy a bunch of super-cheap, tiny routers—the size of night lights, available in black, silver, or bronze—and plug them directly into power outlets, one per room or hallway! (Once you’re about a room away from the nearest Plume, your signal weakens dramatically.)
+
+Smallest routers ever. More
+
+Setting them up is insanely easy. You don’t even have to introduce them to the network one at a time, as you must the other systems; you can just plug in all six, or all nine, or whatever, and they just work. (If you want to name them, you can: Just hold your phone very close to one of the plugs until it offers its name for changing. Very cool.)
+
+Look, ma—no cords! More
+
+These pods are so cheap because they don’t contain processors, as their rivals do; all the analysis is done online. As a result, the company says that it takes 24 hours of analysis before the plugs begin to deliver their best speeds. Then, in the coming weeks, they shift bandwidth to the pods that need it most, according to your use patterns.
+
+The Plume’s app is super smart. More
+
+Here’s the problem, though: Economics. If your home is small enough that you can get by with three Plumes ($180) or even six ($330), you’d save money and complexity by buying a modern, standard, regular router. And if your house is big enough that you need a mesh system, you’ll probably need $600 worth of Plumes—and any of the competitors here would cost a lot less than that.
+
+There are no features to speak of, either: No guest network, device prioritization, or parental controls.
+
+Speed tests: 52 mbps/sec closest spot, 33 farthest.
+
+Ethernet ports: one per unit
+
+Price: Three for $180, six for $330, one for $70.
+
+Amplifi HD
+
+Here’s another fresh take on the mesh system. This time, the three modules aren’t identical and interchangeable. There’s a base module and two satellite antennas.
+
+The base is a cube with a color touch screen; tap it to view various network-info screens. (Most of the time, it just shows the time and date.)
+
+The Amplifi HD base station has a color touch screen—and sound effects. More
+
+The satellites are very cool: the antenna part connects to the power-outlet part with a magnetic ball joint, meaning that you can adjust the antenna’s angle. Note, though, that it can be tough finding spots to plug these things in where they’re not stymied by a floor, a countertop, or a wall. Baseboard outlets are pretty much it—which limits your positioning options (and attracts small children). They’re not exactly fashion accessories, either.
+
+Here’s part 2 of the Amplifi system, courtesy of the magnetic ball hinge. More
+
+The app is lovely, and gives you access to all kinds of advanced router settings (port forwarding, DHCP settings, etc.)—but doesn’t offer parental controls.
+
+Speed tests: 48 mbps/sec closest spot, 44 farthest.
+
+Ethernet ports: four on the base unit
+
+Price: $350 for the base and two satellites
+
+What to buy
+
+If money were no object, I’d tell you to buy the LinkSys Velop. These babies look great, they’re absurdly fast, the features are all there, and the software has its act together. A set of three is designed to cover 6,000 square feet of house—far more than the Google WiFi (4,500 square feet), Netgear Orbi (4,000), or Eero or Luma (3,000). (Then again, if your pad is more of a palace, you ‘ll want the Amplifi HD, which says it can cover 20,000 square feet!)
+
+But if money is an object—namely, if you object to a $490 price tag—then you can save $200 by getting the Google WiFi trio. The modules are gorgeous and not so ostentatious, and the app offers a smoother setup.
+
+Unfortunately, the three-pack of Google WiFi is currently sold out everywhere. If you can’t wait, you can save almost as much money, and still get unbelievable coverage, with the Amplifi HD ($350) or the Netgear Orbi ($380).
+
+In any case, if your house’s size or construction stymies any single router you’ve tried, treat yourself. Dead spots are the latest scourge of humanity that we’ve now wiped out.
+
+David Pogue, tech columnist for Yahoo Finance, welcomes non-toxic comments in the Comments below. On the web, he’s davidpogue.com. On Twitter, he’s @pogue. On email, he’s poguester@yahoo.com. You can read all his articles here, or you can sign up to get his columns by email.

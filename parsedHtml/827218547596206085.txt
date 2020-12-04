@@ -1,0 +1,53 @@
+Scientists turned cooking oil into a material that's 200 times stronger than steel
+Scientists turned cooking oil into a material that's 200 times stronger than steel
+
+
+Researchers have found a way to turn cheap, everyday cooking oil into the wonder material graphene - a technique that could greatly reduce the cost of making the much-touted nanomaterial.
+
+Graphene is a single sheet of carbon atoms with incredible properties - it's 200 times stronger than steel, harder than diamond, and incredibly flexible. Under certain conditions, it can even be turned into a superconductor that carries electricity with zero resistance.
+
+That means the material has the potential to make better electronics, more effective solar cells, and could even be used in medicine.
+
+Last year, a study suggested that graphene could help mobile phone batteries last 25 percent longer, and the material has the potential to filter fuel out of thin air.
+
+But these applications have been limited by the fact that graphene usually has to be made in a vacuum at intense heat using purified ingredients, which makes it expensive to produce.Â
+
+Until we can find a cost-effective way to mass produce the over-achieving material, it's pretty much limited to labs.
+
+But scientists in Australia have now managed to create graphene in normal air conditions, using cheap soybean cooking oil.
+
+"This ambient-air process for graphene fabrication is fast, simple, safe, potentially scalable, and integration-friendly," said one of the researchers, Zhao Jun Han from Australia's CSIRO.
+
+"Our unique technology is expected to reduce the cost of graphene production and improve the uptake in new applications."
+
+The team has called the new technique 'GraphAir' technology, and it involves heatingÂ soybean oil in a tube furnace for about 30 minutes, causing it to decompose into carbon building blocks.
+
+This carbon is then rapidly cooled on a foil made of nickel, where it diffuses into a thin rectangle of graphene that's just 1 nanometre thick (about 80,000 times thinner than a human hair).
+
+Not only is this technique cheaper and easier than other methods, it's also a lot quicker - to create graphene in a vacuum takes several hours.
+
+Zhao told the Australian Broadcasting Corporation (ABC) that the technique could reduce the cost of making graphene 10-fold.
+
+Not only that, but it offers a more sustainable option for recycling waste cooking oil.
+
+"We can now recycle waste oils that would have otherwise been discarded and transform them into something useful," said one of the team, Dong Han Seo.
+
+The question now is whether this new technique can be scaled up - finding a cheaper way to make graphene is awesome, but the graphene film produced so far was only 5 cm (1.9 inches) by 2 cm (0.8 inches) in size. Â
+
+The team says that the largest film they can make using the technique right now is around the size of a credit card.
+
+To really make graphene fit for commercial use, researchers will need to produce films that are a whole lot larger than that.Â
+
+"The potential's enormous," David Officer, a graphene expert from the University of Wollongong in Australia, who wasn't involved in the study, told the ABC.Â
+
+"[But] the question will be whether you can economically scale a method like this, where they've sealed it inside a furnace tube, to create and handle metre-sized films."
+
+The team is now looking for commercial partners to pursue this goal.
+
+But they're not the only researchers working on it - last week, a team from Kansas State University patented a simple technique that creates graphene using only hydrocarbon gas, oxygen, and a spark plug. No vacuum required.
+
+Time will tell if they can use it to effectively make large films of graphene in one go, but it's nice to know that researchers around the world are working on finding a way to take this incredible material out of the lab and into our lives.
+
+The research has been published inÂ Nature Communications.
+
+Den Originalartikel gibt es auf ScienceAlert. Copyright 2017. Und ihr kÃ¶nnt ScienceAlert auf Twitter folgen.

@@ -1,0 +1,27 @@
+Google Earth gets a mobile-friendly makeover
+Google Earth gets a mobile-friendly makeover
+Google Earth is getting a facelift. Google Earth, which is known for showing satellite imagery, topography and 3D buildings, unveiled new features on Tuesday that offer additional information and more interactive experiences. New features like "Knowledge Cards" give more information, history and pictures of places people search for, while "I'm feeling lucky" suggests unique locations, like the Pemba Island off the Swahili coast or the Zao Hot Spring in Yamagata, Japan. "Feeling lucky" features 20,000 curated places that Google says are "a little bit off the beaten path" and a spot a local might recommend. Also, Google Earth now suggest "Points of Interest" it thinks the user will like based on what they have searched for on the past. "Google Maps is for finding your way. Google Earth is for getting lost," Gopal Shah, Google Earth product manager, told CNNTech. "Google Maps is sort of my personal assistant to get me around a place...[With] Google Earth we want to take you where you're not...It's about exploring the world." Google Earth is partnering with organizations like BBC Planet Earth, NASA, Sesame Street and the Jane Goodall Institute for interactive guided tours with its already existing Voyager feature.  launched a special Voyager story called "This Home," which showcases traditional homes from cultures around the world, such as a Peruvian chuclla and a Bedouin tent.   Users can also click the new 3D button to see locations from any angle, like navigating all the way around the Grand Canyon and seeing its geological layers. People can snap a "postcard" that captures a memory or a dream vacation spot and send it to friends and family. Recipients can click the link to jump right to where the user was virtually standing. The new version of Google Earth rolls out this week on Chrome and Android, and it will appear on iOS and other browsers soon. Users no longer need to download a desktop application to access Google Earth. Previously, the service had limited functionality on mobile, but users can now access all of Google Earth's features from their devices. The company also upgraded its Google Earth virtual reality features with the ability to search for places around the world, and added support for the Oculus Rift headset. In last year's upgrade , the mapping service began using images from a NASA satellite to create clearer and sharper pictures. Google Earth launched more than a decade ago, giving people a space-eye view of earth, while developers got free 3D software.
+
+Google Earth is getting a facelift.
+
+Google Earth, which is known for showing satellite imagery, topography and 3D buildings, unveiled new features on Tuesday that offer additional information and more interactive experiences.
+
+New features like "Knowledge Cards" give more information, history and pictures of places people search for, while "I'm feeling lucky" suggests unique locations, like the Pemba Island off the Swahili coast or the Zao Hot Spring in Yamagata, Japan. "Feeling lucky" features 20,000 curated places that Google says are "a little bit off the beaten path" and a spot a local might recommend.
+
+Also, Google Earth now suggest "Points of Interest" it thinks the user will like based on what they have searched for on the past.
+
+"Google Maps is for finding your way. Google Earth is for getting lost," Gopal Shah, Google Earth product manager, told CNNTech. "Google Maps is sort of my personal assistant to get me around a place...[With] Google Earth we want to take you where you're not...It's about exploring the world."
+
+Google Earth is partnering with organizations like BBC Planet Earth, NASA, Sesame Street and the Jane Goodall Institute for interactive guided tours with its already existing Voyager feature. Google (GOOG) launched a special Voyager story called "This Home," which showcases traditional homes from cultures around the world, such as a Peruvian chuclla and a Bedouin tent.
+
+Related: Google blocks invasive Burger King ad from taking over Google Home
+
+Users can also click the new 3D button to see locations from any angle, like navigating all the way around the Grand Canyon and seeing its geological layers. People can snap a "postcard" that captures a memory or a dream vacation spot and send it to friends and family. Recipients can click the link to jump right to where the user was virtually standing.
+
+The new version of Google Earth rolls out this week on Chrome and Android, and it will appear on iOS and other browsers soon. Users no longer need to download a desktop application to access Google Earth. Previously, the service had limited functionality on mobile, but users can now access all of Google Earth's features from their devices.
+
+The company also upgraded its Google Earth virtual reality features with the ability to search for places around the world, and added support for the Oculus Rift headset.
+
+In last year's upgrade, the mapping service began using images from a NASA satellite to create clearer and sharper pictures.
+
+Google Earth launched more than a decade ago, giving people a space-eye view of earth, while developers got free 3D software.

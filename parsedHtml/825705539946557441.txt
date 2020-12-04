@@ -1,0 +1,81 @@
+NASA study shows how much radiation hits you on a plane
+NASA study shows the radiation that REALLY hits you on a plane
+
+
+NASA researchers have revealed the results of a major new study into the effect of radiation on high altitude travellers.
+
+Cosmic rays from the sun and space crash into molecules in the atmosphere, causing particle decay and radiation which can be harmful to our health.
+
+The new study, using weather balloons, and published in the Space Weather Journal, took some of the first radiation measurements of their kind at altitudes from 26,000 to over 120,000 feet above Earth.
+
+While we're mostly safe from this radiation on the ground, pilots and aircrew are more exposed to the dangerous radiation, as are astronauts.
+
+Scroll down for video
+
+The results, published in the Space Weather Journal, took some of the first radiation measurements of their kind at altitudes from 26,000 to over 120,000 feet above Earth. Radiation dose rates, seen in this NAIRAS model, increase with altitude and latitude and can vary from hour to hour. Rates for Nov. 14, 2012, 20:00-21:00 GMT are shown above. Warmer colors indicate higher amounts of radiation.
+
+WHAT ARE THE RISKS? The World Health Organization (WHO) International Agency for Research on Cancer (IARC) says that ionizing radiation causes cancer in humans. Ionizing radiation is also known to cause reproductive problems. The CDC says it is currently 'looking more specifically at whether cosmic ionizing radiation is linked to cancer and reproductive problems.' It warns 'We don’t know what causes most health problems that could be linked to radiation, including forms of cancer and reproductive health issues like miscarriage and birth defects. 'If you are exposed to cosmic ionizing radiation and have these health problems, we can’t tell if it was caused by your work conditions or something else. '
+
+To conduct the study, called 'NASA's Radiation Dosimetry Experiment,' or RaD-X, the researchers launched a huge helium-filled balloon into the stratosphere from near Fort Sumner, New Mexico in 2015.
+
+The balloon contained instruments to measure cosmic radiation from the sun and interstellar space.
+
+The results, published in the Space Weather Journal, took some of the first radiation measurements of their kind at altitudes from 26,000 to over 120,000 feet above Earth.
+
+They found a steady increase in the rate of radiation higher in the atmosphere.
+
+Earth's magnetopshere acts as a magnetic shield and blocks most of the radiation from reaching the planet.
+
+But particles with enough energy can penetrate the magnetosphere and the atmosphere.
+
+They collide with molecules of nitrogen and oxygen, which cause the radiation particles to into different particles through processes called nucleonic and electromagnetic cascades.
+
+Dr Chris Mertens, the lead investigator of the RaD-X mission at NASA’s Langley Research Center in Hampton, Virginia, said: 'The measurements, for the first time, were taken at seven different altitudes, where the physics of dosimetry is very different
+
+Radiation in the atmosphere can be measured in two ways - either by how much there is or how much it can harm biological tissue.
+
+Measuring harm to biological tissue, called 'dose equivalent', is the standard way to measure health risks, and is a lot easier to measure than quantity of radiation.
+
+This is because measuring quantity of radiation requires knowing the type and energy of the particle - not just how many there are.
+
+WHAT ARE COSMIC RAYS? A long-standing puzzle in astrophysics is the source of ultra-high-energy particles from space that hit Earth. Called cosmic rays, they're up to a billion times more energetic than particles at Cern's Large Hadron Collider. They strike the atmosphere and cause an enormous shower of other particles, mostly muons, electrons and photons, over a wide area. Travelers flying polar routes to Asia or Europe can receive radiation doses that are up to three-times higher than near the equator. Though they were discovered decades ago, cosmic rays at these high energies are very rare, making it difficult to pinpoint where in the universe they originated. It's thought that some come from supernovae, but it's likely there are other sources of cosmic rays in the universe as well.
+
+Both the primary high energy particles and the secondary decay particles they become can have negative health effects on humans.
+
+This is because cosmic radiation breaks down DNA and produces free radicals, which can alter cell functions.
+
+Dr Chris Mertens, the lead investigator of the RaD-X mission at NASA’s Langley Research Center in Hampton, Virginia, said: 'The measurements, for the first time, were taken at seven different altitudes, where the physics of dosimetry is very different.
+
+'By having the measurements at these seven altitudes we’re really able to test how well our models capture the physics of cosmic radiation.'
+
+The RaD-X payload (pictured) ascended into the stratosphere to measure cosmic radiation coming from the sun and interstellar space
+
+The researchers measured the dose equivalent rate of radiation over a range of altitudes, finding a steady increase in the rate higher in the atmosphere.
+
+The primary cosmic ray particles higher up are more damaging to humans than the secondary particles.
+
+The research has important implications for aircrew in the aviation industry, as they're exposed to nearly double the radiation levels of people on the ground.
+
+THE EFFECTS OF RADIATION For the most part, the Earth's magnetic field provides shielding for humans on Earth, and even spacecraft, from cosmic radiation. But recent research has shown astronauts on deep space missions could suffer from dementia and permanent memory loss as cosmic rays bombard and damage their brains. Scientists have dubbed this 'space brain' and say it may leave astronauts anxious, depressed, paranoid and more likely to make flawed decisions. A study by University of California, Irvine l ooked at exposure to highly energetic charged particles in rodents. This resulted in cognitive impairments and dementia. A severe solar storm in 2003 caused a temporary spike in radiation levels near the poles, where protection by Earth's magnetic field is decreased. In an extensive audit, Nasa's inspector general office looked at the space agency's overall effort to keep astronauts safe during lengthy space missions - especially trips to Mars, currently targeted for the 2030s. Among the top health hazards for three-year, round-trip Mars missions: space radiation that could cause cancer, central nervous system damage, cataracts or infertility; extreme isolation, which could lead to psychological problems; and prolonged weightlessness, already known to weaken bones, muscles and vision. But the cosmic rays that could damage us might be the source of life for completely different kinds of organisms.
+
+It's also a concern for crew aboard the International Space Station and future astronauts journeying to Mars, which has a radiation environment similar to Earth’s upper atmosphere.
+
+The researchers said that learning how to protect humans from radiation exposure is a key step in future space exploration.
+
+The results from the RaD-X study will also be used to improve space weather models including NAIRAS, which predicts radiation events.
+
+These prediction are used by pilots to monitor radiation levels and to know when and where levels are unsafe so they can adjust their routes.
+
+The researchers launched a huge helium-filled balloon containing instruments to measure cosmic radiation into the stratosphere from near Fort Sumner, New Mexico in 2015
+
+While balloon flights like RaD-X are essential for modelling the radiation environment, they don't provide real-time radiation monitoring which NAIRAS requires for forecasting.
+
+NASA’s Automated Radiation Measurements for Aerospace Safety program works in conjunction with RaD-X to develop and test instruments that can be flown aboard commercial aircraft for real-time monitoring at high altitudes.
+
+An instrument called TEPC – short for tissue equivalent proportional counter – is the standard instrument for measuring cosmic radiation, but it's large, expensive and can't be built commercially, so it cant easily be distributed.
+
+'We need small, compact, solid-state based instruments calibrated against the TEPC that can reliably measure the dose equivalents and can be integrated into aircraft cheaply and compactly,' Dr Mertens said.
+
+The flight mission tested two new instruments – the RaySure detector and the Teledyne TID detector.
+
+During the test, both instruments were found to be promising for real-time radiation monitoring.

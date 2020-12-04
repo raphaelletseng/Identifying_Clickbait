@@ -1,0 +1,31 @@
+VMwareVoice: How Amadeus Leveraged The Cloud And VMware To Help The Travel Industry
+VMwareVoice: How Amadeus Leveraged The Cloud And VMware To Help The Travel Industry
+{{contrib_block.display_author.name}}  VMware       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Travelers want to spend the least amount of money when making arrangements, and they’re increasingly relying on apps and websites to hold down costs. It's a high-pressure job to keep those digital services functioning at peak performance at a reasonable cost, said Wolfgang Krips, executive vice president of global operations and general manager at Amadeus IT. “And on top of that, you have to build your innovation, which means new business services,” he said. Amadeus, a multi-national IT service provider, pulls in 3 billion euros annually giving the global travel industry what it needs. But everything gets old. Two years ago, Amadeus decided to modernize its infrastructure. Amadeus executives considered a variety of options, including public cloud and alternative service providers. It chose to build a private enterprise cloud, partnering with Red Hat, VMware and other companies to obtain the services and software needed for the private cloud it wanted. Amadeus tapped VMware for integrated OpenStack, which manages cloud resources through interrelated components that control processing, storage and networking hardware. NSX from VMware provided Amadeus with virtual networking and security software. Watch this video to learn more about how network virtualization solutions provided by VMware NSX have positively impacted Amadeus. Krips said the update at its core was aligned with the fundamental goals of Amadeus clients. “Whether I’m deploying containers (which virtualize single applications), VMs (virtual machines) or bare metal, or whether I’m using OpenStack, it’s all a means to an end,” Krips said. “Ultimately, what the customer is expecting is ability, agility and continuously driving down costs. And that’s what we have to provide.” Dynamism and automation were — and continue to be — essential, according to Dietmar Fauser, Amadeus research and development vice president. “That’s why we use this technology, and why we use industry-grade partners,” Fauser explained. OpenStack is not mainstream yet, he said, although he believes it will be. Contributing to Amadeus’ choice of taking an OpenStack approach was VMware, which Fauser said has a firm understanding of virtualization.    Trending on {{channel_name}}
+
+Travelers want to spend the least amount of money when making arrangements, and they’re increasingly relying on apps and websites to hold down costs.
+
+It's a high-pressure job to keep those digital services functioning at peak performance at a reasonable cost, said Wolfgang Krips, executive vice president of global operations and general manager at Amadeus IT.
+
+“And on top of that, you have to build your innovation, which means new business services,” he said.
+
+Amadeus, a multi-national IT service provider, pulls in 3 billion euros annually giving the global travel industry what it needs. But everything gets old.
+
+Two years ago, Amadeus decided to modernize its infrastructure. Amadeus executives considered a variety of options, including public cloud and alternative service providers.
+
+It chose to build a private enterprise cloud, partnering with Red Hat, VMware and other companies to obtain the services and software needed for the private cloud it wanted.
+
+Amadeus tapped VMware for integrated OpenStack, which manages cloud resources through interrelated components that control processing, storage and networking hardware. NSX from VMware provided Amadeus with virtual networking and security software.
+
+Watch this video to learn more about how network virtualization solutions provided by VMware NSX have positively impacted Amadeus.
+
+Krips said the update at its core was aligned with the fundamental goals of Amadeus clients.
+
+“Whether I’m deploying containers (which virtualize single applications), VMs (virtual machines) or bare metal, or whether I’m using OpenStack, it’s all a means to an end,” Krips said. “Ultimately, what the customer is expecting is ability, agility and continuously driving down costs. And that’s what we have to provide.”
+
+Dynamism and automation were — and continue to be — essential, according to Dietmar Fauser, Amadeus research and development vice president.
+
+“That’s why we use this technology, and why we use industry-grade partners,” Fauser explained.
+
+OpenStack is not mainstream yet, he said, although he believes it will be.
+
+Contributing to Amadeus’ choice of taking an OpenStack approach was VMware, which Fauser said has a firm understanding of virtualization.

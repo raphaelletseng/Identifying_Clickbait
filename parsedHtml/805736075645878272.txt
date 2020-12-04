@@ -1,0 +1,27 @@
+VISA Debit, Credit Cards Can Be Hacked In Just A Few Seconds, Finds A Research In UK
+VISA Debit, Credit Cards Can Be Hacked In Just A Few Seconds, Finds A Research In UK
+VISA Debit, Credit Cards Can Be Hacked In Just A Few Seconds, Finds A Research In UK VISA card owners have a serious cause for concern. A research study conducted in Newcastle University has concluded that cyber criminals can guess a credit card’s number, expiry date and CVV number (the three digit number present on the back of the card) remotely in just a few seconds. The research paper has been published in the journal IEEE Security & Privacy, explaining how cyber criminals and online fraud artists use a Distributed Guessing Attack to circumvent online fraud prevention measures.
+
+VISA card owners have a serious cause for concern. A research study conducted in Newcastle University has concluded that cyber criminals can guess a credit card’s number, expiry date and CVV number (the three digit number present on the back of the card) remotely in just a few seconds.
+
+The research paper has been published in the journal IEEE Security & Privacy, explaining how cyber criminals and online fraud artists use a Distributed Guessing Attack to circumvent online fraud prevention measures.
+
+In a response to the study, VISA claimed that the research didn’t take into other layers of security like its Verified By VISA system -- which, at least in India, makes it mandatory for you to enter a unique transaction PIN SMSed to you separately on your registered mobile number to conduct an online transaction.
+
+Researchers found that fraud detection systems, while capable to certain extent, did not take into account cyber criminals’ software-driven multiple invalid attempts on websites in order to get VISA credit or debit card data.
+
+This means cyber criminals can try transacting at hundreds of websites simultaneously, without registering on the existing system’s security radar. Subsequently, by a process of elimination, the criminals can easily guess a credit or debit card’s number, expiry date and CVV code to carry out an unauthorised but successful online transaction.
+
+It is widely believed that criminals exploited a similar technique for the Tesco Bank hack carried out in the UK earlier last month.
+
+Whether Indian VISA credit or debit card users are at risk cannot yet be ascertained, and we’ve reached out to VISA representatives for a comment -- which we’ll update here as soon as we hear from them.
+
+UPDATE: 2:40 pm IST
+
+Following a statement from Mr T R Ramachandran, Group Country Manager, India & South Asia for VISA:
+
+“The research does not take into account the multiple layers of fraud prevention that exist within the payments system, each of which must be met in order to make a transaction possible in the real world. Visa is committed to keeping fraud at low levels and works closely with card issuers and acquirers to make it very difficult to obtain and use cardholder data illegally.
+
+We provide issuers with the necessary data to make informed decisions on the risk of transactions. Visa also offers enhanced security using Verified by Visa (based on the 3DSecure standard) which offers improved security for e-commerce transactions. Verified by Visa is a password-protected authentication system designed to confirm the identity of the cardholder when a Visa card is used online. In India, with two factor authentication there is also an OTP (one time passcode) the bank sends you via SMS when you are about to make an online payment. It helps to prevent fraudulent transactions and gives all parties in the payment process greater peace of mind, especially when used in conjunction with all the other security features offered by Visa.
+
+Visa continues to work closely with banks to bolster risk mitigation and fraud prevention programs. Visa welcomes industry and academic efforts to identify and address perceived vulnerabilities in the payment system. Along with our own internal monitoring and testing, this enables Visa and the payments industry to make payments ever more secure.”

@@ -1,0 +1,35 @@
+A Twitter Bot For Handclap Emoji Tweets Had To Shut Down Because It Became Racist
+A Twitter Bot For Handclap Emoji Tweets Had To Shut Down Because It Became Racist
+On Twitter, there’s a convention of adding the handclap emojis between each word for added emphasis. Imagine it done out loud, with a clap for each word: The effect is like a preschool teacher yelling at a child who doesn’t listen, or a cheerleader -ing a statement. Like this: If👏any👏body👏 ever👏 uses👏 the👏 word 👏moist👏 in👏 any👏 other 👏way👏 but👏 to👏 describe 👏cake 👏that's👏 fade 👏 on 👏site👏!! The convention has been a meme for a few years, which means it’s permuted into various levels of irony. Like this: I'm 👏 not 👏 trying 👏 to 👏 emphasize 👏 a 👏 point 👏 I'm 👏 just 👏 trying 👏 to 👏 kill 👏 this 👏 fucking 👏 mosquito Serena Parr, a graduate student at NYU’s Interactive Telecommunications Program, came up with the idea for a bot that would retweet emoji handclap tweets as a class project a few weeks ago. Since the handclaps are used for something you’re saying with conviction, Parr thought it would be amusing to see a feed of people’s most emphatic opinions, both serious and silly. I 👏 DON'T 👏 UNDERSTAND 👏 WHATEVER 👏 THIS 👏 IS The first challenge was searching for these tweets. Normally, you can’t search emojis on Twitter, so Parr turned to a tool made by Matthew Rothenberg for his very fun website Emoji Tracker , which shows you real-time emoji use on Twitter. With a little bit of coding magic, the bot was made and launched in mid-January. She called it @lol_yelling . And then, the inevitable and obvious thing happened. Much like Tay, the Microsoft Twitter bot that quickly became a Neo Nazi , within just two days, @lol_yelling took on the tenor of the rest of the cesspool of Twitter. Parr wasn’t naive to the fact Twitter is often full of harassment and abuse , and she deleted her own personal account recently. “It was making me feel bad and miserable about the world,” she told me. She built into her bot a word filter to block out offensive language. But racism on Twitter isn’t just tweets that use the n-word. Ideologically racist stuff, like someone insisting that reverse racism is real or arguing that MLK’s “I have a dream” speech is bad because black people also owned slaves, kept getting through Parr’s filter. It was the kind of stuff that wouldn’t necessarily get someone banned, but is offensive to a reasonable person. “If you click on these profiles, they’d retweet the most vile, racist, disgusting things. It was a strange glimpse into how this part of Twitter works,” Parr said. “There’s also really bad images and memes that would never get caught by a racist word filter.” Less than five full days after it was created, Parr deactivated the bot, because she didn’t want to have to keep filtering out the bad tweets. She was keenly aware that the handclap emoji convention started in Black Twitter — and the fact that it’s become so widespread that racists are using it makes the whole thing even more ironic and sad. The bot isn’t doing any more retweets, but its account is still up, in case you want to enjoy it as a living monument to the fact that Twitter ruins everything .   New York City Bodegas Will Shut Down To Protest The...    There Have Been Four Suicides At This University And...
+
+On Twitter, there’s a convention of adding the handclap emojis between each word for added emphasis. Imagine it done out loud, with a clap for each word: The effect is like a preschool teacher yelling at a child who doesn’t listen, or a cheerleader rah-rah-ing a statement. Like this:
+
+
+
+If👏any👏body👏 ever👏 uses👏 the👏 word 👏moist👏 in👏 any👏 other 👏way👏 but👏 to👏 describe 👏cake 👏that's👏 fade 👏 on 👏site👏!! — Colechella (@ColeChea) ID: 10413348
+
+The convention has been a meme for a few years, which means it’s permuted into various levels of irony. Like this:
+
+
+
+I'm 👏 not 👏 trying 👏 to 👏 emphasize 👏 a 👏 point 👏 I'm 👏 just 👏 trying 👏 to 👏 kill 👏 this 👏 fucking 👏 mosquito — Andy Golder (@andyschwander) ID: 10413211
+
+Serena Parr, a graduate student at NYU’s Interactive Telecommunications Program, came up with the idea for a bot that would retweet emoji handclap tweets as a class project a few weeks ago. Since the handclaps are used for something you’re saying with conviction, Parr thought it would be amusing to see a feed of people’s most emphatic opinions, both serious and silly.
+
+
+
+I 👏 DON'T 👏 UNDERSTAND 👏 WHATEVER 👏 THIS 👏 IS — Mark Hoppus (@markhoppus) ID: 10413360
+
+The first challenge was searching for these tweets. Normally, you can’t search emojis on Twitter, so Parr turned to a tool made by Matthew Rothenberg for his very fun website Emoji Tracker, which shows you real-time emoji use on Twitter. With a little bit of coding magic, the bot was made and launched in mid-January. She called it @lol_yelling.
+
+
+
+And then, the inevitable and obvious thing happened. Much like Tay, the Microsoft Twitter bot that quickly became a Neo Nazi, within just two days, @lol_yelling took on the tenor of the rest of the cesspool of Twitter.
+
+Parr wasn’t naive to the fact Twitter is often full of harassment and abuse, and she deleted her own personal account recently. “It was making me feel bad and miserable about the world,” she told me. She built into her bot a word filter to block out offensive language. But racism on Twitter isn’t just tweets that use the n-word. Ideologically racist stuff, like someone insisting that reverse racism is real or arguing that MLK’s “I have a dream” speech is bad because black people also owned slaves, kept getting through Parr’s filter. It was the kind of stuff that wouldn’t necessarily get someone banned, but is offensive to a reasonable person.
+
+“If you click on these profiles, they’d retweet the most vile, racist, disgusting things. It was a strange glimpse into how this part of Twitter works,” Parr said. “There’s also really bad images and memes that would never get caught by a racist word filter.”
+
+Less than five full days after it was created, Parr deactivated the bot, because she didn’t want to have to keep filtering out the bad tweets. She was keenly aware that the handclap emoji convention started in Black Twitter — and the fact that it’s become so widespread that racists are using it makes the whole thing even more ironic and sad.
+
+The bot isn’t doing any more retweets, but its account is still up, in case you want to enjoy it as a living monument to the fact that Twitter ruins everything .

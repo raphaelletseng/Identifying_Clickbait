@@ -1,0 +1,21 @@
+Apple ends deal with Imagination Technologies, share prices tumble
+Apple ends deal with Imagination Technologies, share prices tumble
+Apple is ending its decade-long licensing agreement with UK-based firm Imagination Technologies in a move that reaffirms the company’s efforts to assume better control over the components that go inside iPhones and iPads. SEE ALSO: Apple's new 'Apple Park' spaceship campus will open in April Apple has told the chip designer that it would cease using the group’s intellectual property on its products in 15 months to two years. "Apple has asserted that it has been working on a separate, independent graphics design in order to control its products and will be reducing its future reliance on Imagination’s technology," the company said in a statement. The move will end its decade-long reliance on Imagination Technologies, whose graphics technologies (PowerVR line of GPUs) have powered generations of iPhones, iPads, and Apple Watches. Imagination Technologies competes with ARM in offering license designs to other companies. The move reaffirms Apple's growing push to cut reliance on its partners for components in the iPhones. In 2008, the company acquired PA Semi to take some of chip work in-house. Interestingly, Apple also owns at least 8 percent stake in Imagination Technologies. But Apple might not be fully ready to take care of graphics work on its own just yet, Imagination said, whose stocks dropped significantly following the announcement this morning. In a statement, the company said Apple has not presented "any evidence to substantiate its assertion that it will no longer require Imagination’s technology, without violating Imagination’s patents, intellectual property and confidential information." The company added that it would be "extremely challenging" for Apple to design "GPU architecture from basics." Imagination Technologies is talking with Apple to explore if they could form any other alternate agreements. In March last year, Apple confirmed it had held "some discussions with Imagination," to explore whether it could acquire Imagination Technologies, but later it said it does not "plan to make an offer for the company at this time.” WATCH: 4 tech tips to epically prank your friends on April Fools' Day
+
+Apple is ending its decade-long licensing agreement with UK-based firm Imagination Technologies in a move that reaffirms the company’s efforts to assume better control over the components that go inside iPhones and iPads.
+
+Apple has told the chip designer that it would cease using the group’s intellectual property on its products in 15 months to two years.
+
+"Apple has asserted that it has been working on a separate, independent graphics design in order to control its products and will be reducing its future reliance on Imagination’s technology," the company said in a statement.
+
+The move will end its decade-long reliance on Imagination Technologies, whose graphics technologies (PowerVR line of GPUs) have powered generations of iPhones, iPads, and Apple Watches. Imagination Technologies competes with ARM in offering license designs to other companies.
+
+The move reaffirms Apple's growing push to cut reliance on its partners for components in the iPhones. In 2008, the company acquired PA Semi to take some of chip work in-house. Interestingly, Apple also owns at least 8 percent stake in Imagination Technologies.
+
+But Apple might not be fully ready to take care of graphics work on its own just yet, Imagination said, whose stocks dropped significantly following the announcement this morning.
+
+In a statement, the company said Apple has not presented "any evidence to substantiate its assertion that it will no longer require Imagination’s technology, without violating Imagination’s patents, intellectual property and confidential information."
+
+The company added that it would be "extremely challenging" for Apple to design "GPU architecture from basics." Imagination Technologies is talking with Apple to explore if they could form any other alternate agreements.
+
+In March last year, Apple confirmed it had held "some discussions with Imagination," to explore whether it could acquire Imagination Technologies, but later it said it does not "plan to make an offer for the company at this time.”

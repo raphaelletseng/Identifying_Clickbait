@@ -1,0 +1,29 @@
+Here's why golf balls have dimples
+Here's why golf balls have dimples
+
+
+You'd think that smooth golf balls would travel farther than the dimpledÂ ones we use today.
+
+But that would be wrong.Â
+
+And there's actually someÂ fun physics behind the dented ball design we see on today's golf courses.
+
+Let's imagine a smoothÂ ball flyingÂ through the air.
+
+As the ball travels, its front surface will come into contact with the air. ThatÂ airÂ will then smoothly go over the front and separate from the ball towards the back.
+
+That separation leaves aÂ "turbulent wake region" behind the ball, which creates drag on the ball.
+
+However,Â if we add dimples to our theoretical ball, we will be able to minimize the turbulent wake and, therefore, the drag on the ball.
+
+AsÂ Tom Veilleux, a senior scientist, and Vince Simonds, director of aerodynamic research at the Top-Flite Golf Company, explainedÂ to Scientific American:
+
+"The dimples on a golf ball create a thin turbulent boundary layer of air that clings to the ball's surface. This allows the smoothly flowing air to follow the ball's surface a little farther around the back side of the ball, thereby decreasing the size of the wake.Â A dimpled ball thus has about half the drag of a smooth ball."
+
+Additionally,Â dimples also help with lift.Â
+
+A smooth ball gets lift from backspin,Â which makes the air pressure onÂ bottom of the ball greater than on the top, thus creating an upward force on the ball.Â
+
+ButÂ while "ball spin contributes about one half of a golf ball's lift,"Â continueÂ Veilleux and Simonds, "the other half is provided by the dimples, which allow for optimization of the lift force."
+
+In any case, you can check out how this all looks visually in the graphic below:

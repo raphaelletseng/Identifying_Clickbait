@@ -1,0 +1,421 @@
+Social Media News You Need to Know: March 2017 Roundup
+Social Media News You Need to Know: March 2017 Roundup
+In March, social media companies took the idea of spring forward to the next level, with tons of new updates that represent forward leaps in innovation. Twitter rolled out new replies, Facebook introduced disappearing content in both Messenger and the main app, Instagram announced geostickers, Snapchat introduced search functionality for Stories, and more. With so much news, it can be hard to keep up. Never fear, we’ve rounded up all the updates—big and small—from the major social platforms to ensure that you don’t miss a thing. Twitter Facebook Instagram Pinterest LinkedIn Hootsuite Snapchat    On March 1, Twitter announced new updates to reduce abusive content on the platform. The changes include: Using algorithms to identify accounts that are engaging in abusive behavior (whether or not it’s been reported), in order to limit account functionality for a set amount of time Introducing new filters for notifications, allowing users to opt out of seeing notifications for certain types of accounts (such as those without a profile photo or those that use an unverified email address or phone numbers) Updating the mute feature to home timelines and allowing users to decide how long content—keywords, phrases, or entire conversations—will be muted for (options include one day, one week, one month, and indefinitely) Improving transparency and openness of the platform’s reporting process—this means providing more information about accounts or tweets that users have reported to Twitter’s support teams, including notifications that Twitter has received the report and information about whether further action was taken On March 7, Twitter introduced Moments analytics , which gives users data on opens, likes, shares, and completion rate. Introducing Moments analytics for all Twitter users on web. Just click on the down arrow to see how your favorite Moments are performing! pic.twitter.com/9YlyeEjJ6o — Twitter Moments (@TwitterMoments) March 7, 2017 On March 20, Twitter made updates to MoPub, the platform’s resource site for mobile app exchange, Adweek reported . Twitter explained in a statement that the purpose of the redesign was to better serve the needs of mobile app developers, marketers, and other partners working on mobile app monetization. The site features resources for developers and clients as well as education materials for marketers, agencies, and agency trading desks. On March 21, Twitter introduced the Periscope Producer API , an update that opens up new ways to share live video. Creators now have the option to begin broadcasts directly from external hardware, software, cameras, and web services—without connecting via the app. Additionally, the API allows third-party applications to authenticate Periscope accounts, configure streams, start and stop broadcasts, and publish streams to Twitter. The announcement included several beta partners that are already working on new ways to integrate live video and data from Periscope. On March 23, The Verge reported that Twitter is considering paid subscriptions. Some users received a survey and a mock-up of what a premium version of the service might look like. Twitter told The Verge: “We’re conducting this survey to assess the interest in a new, more enhanced version of Tweetdeck. We regularly conduct user research to gather feedback about people’s Twitter experience and to better inform our product investment decisions, and we’re exploring several ways to make Tweetdeck even more valuable for professionals.” The core Twitter service would remain free and the premium offering would be contained in Tweetdeck. On March 28, Twitter introduced pre-roll ads for Periscope video . Similar to how ads currently appear on Twitter video, Periscope videos, whether live or a replay, may begin with a short ad. Twitter explained: “Pre-roll ads on Periscope video enable brands to marry their message with specific broadcasts from creators and publishers.” On March 29, Twitter-owned Periscope introduced new ways to access audience insights : An activity tab to display community engagement—both with the broadcaster and with individual pieces of content—such as a new follow or someone watching a replay A dashboard for broadcast analytics, providing insights on video duration, viewers, hearts, and time watched The activity tab is available for Android and iOS. Analytics are available on the web. On March 30, Twitter rolled out new replies in which @usernames no longer count towards a tweet’s 140 characters. We're changing replies so that you have all 140 characters to express yourself. Learn more: https://t.co/PNWGilbmVd  pic.twitter.com/cxBJohZc2Q — Twitter (@Twitter) March 30, 2017 The change means: Replies will include the usernames of the accounts being replied to above the tweet rather than within it Users can tap Replying to… in order to see who’s involved in the conversation Twitter explained: “In our tests of this new experience, we found that people engage more with conversations on Twitter.”    Facebook Suicide prevention tools On March 1, Facebook announced new suicide prevention tools . The new tools include: Prevention tools to help people on Facebook Live who may be at risk of suicide Live chat support from crisis support organizations through Messenger Streamlined reporting for suicide, powered by artificial intelligence Facebook explained: “Facebook is in a unique position—through friendships on the site—to help connect a person in distress with people who can support them.” On March 9, Facebook launched Messenger Day , a new disappearing content offering for the platform’s Messenger app. Users can choose from more than 5,000 frames, effects, and stickers to enhance images captured using Messenger’s built-in camera, then share their creations to their Messenger Day, where friends can view and reply. On March 8, Facebook launched the Facebook 360 app for Samsung Gear VR, powered by Oculus. Initially, the app will offer four feeds: Explore—discover popular content Following—see content posted by friends and Pages you follow Saved—view content saved from News Feed Timeline—check out your own past content On March 20, Adweek reported that Facebook has expanded a text status update to iOS. In December 2016, Facebook began offering a feature to Android users that allows them to transform text status updates into simple graphics which appear on a background color of the user’s choosing. Facebook explained: “We’re rolling out a change to help people make their text posts more visual.” On March 22, Facebook announced two new ways to go live . Users can now broadcast live video from a desktop or laptop computer. Individual profiles now have the ability to use streaming software or external hardware when going live from a computer. This functionality was previously only available to Pages; it opens up the ability to screenshare, insert graphics, switch cameras, or use professional equipment. For gamers, it makes it easy to stream PC gameplay to friends and followers. On March 23, Facebook introduced a new ad offering . Called collection, the new ads feature a primary video or image above relevant product images, which Facebook says “increases the likelihood of discovery and a purchase.” Collection can showcase up to 50 products at a time. Facebook has begun rolling out collection to marketers globally. On March, 23 Facebook introduced split-testing for ads . Advertisers will be able to test different components of their ads across devices and browsers. Split-testing offers the ability to run controlled tests without audience overlap. Advertisers can choose to get results as soon as there’s enough data or wait until the campaign is completed. Message reactions and mentions for Messenger On March 23, Facebook introduced two new features for Messenger : reactions and mentions. With Message Reactions, users can react to a message using a specific emotion. Messenger Reactions use Messenger emoji and work in both group and one-on-one conversations. They appear in the lower corner of a message. With Mentions, users can directly notify someone they’ve been mentioned in a conversation. Available in group conversations, mentions will appear in highlighted text and trigger a notification for the person mentioned. In addition to Messenger, the new features will also be available for Work Chat in Workplace. On March 27, Facebook introduced live location in Messenger , allowing users to share their location. The platform suggests use cases such as coordinating with friends, telling people how close you are to a meeting location, or letting a roommate know you’re on your way home from a night out. On March 28, Facebook rolled out a new in-app camera . The camera offers dozens of effects, including masks, frames, and interactive filters to apply to photos and videos. Features include reactive effects, which let users interact with dynamic objects or style video effects in real time. Facebook says it will also be partnering with brands to create masks for upcoming movies, such as Guardians of the Galaxy Vol. 2, Power Rangers, and Despicable Me 3. The in-app camera will also include guest art from visual artists like Douglas Coupland and Hattie Stewart. The platform said it plans to introduce ways for users to create their own frames and effects for the in-app camera. Also on March 28, Facebook introduced Facebook Stories , a new disappearing content offering modeled after Instagram Stories. Using the new in-app camera, users can share multiple photos and videos in slideshow format. Their Stories will be visible in circles at the top of News Feed, similar to Instagram’s offering. Viewable for 24 hours, Stories won’t appear in Timeline or NewsFeed. This new offering includes Direct, a feature that allows users to send photos or videos directly to friends. After viewing the content, recipients will be able to reply and have one chance to replay. On March 29, TechCrunch reported that Facebook plans to announce a new class of group bots for Messenger group chats. The publication says the group bots would function more like information bots than chat bots. TechCrunch explained: “These group bots can keep users informed about real-time news such as a sports game’s progress, ecommerce deliveries, and more.”    In March, Instagram began testing offline functionality for users in countries that experience low bandwidth. The purpose of the test is to “keep the Instagram experience consistent and let people consume and engage with content, even if they don’t have service.” On March 7, TechCrunch reported that Instagram Stories has launched geostickers. The new sticker offerings differ from Instagram’s default location-tag sticker by allowing users to add location-specific graphics to their photos and videos. Currently, geostickers are only available to users in New York City and Jakarta, Indonesia. On March 20, Instagram rolled out the ability for broadcasters to save their live video after it ends. To save a live video, simply tap the Save button in the upper right-hand corner of the screen when the broadcast ends. Video will save to camera roll. Comments, likes, number of views, or other live interactions will not be saved. On March 21, Instagram announced plans to roll out shopping features to thousands of businesses. Originally introduced in November 2016, the feature allows brands to tag posts with products, so users can tap to see more details and visit the business’ website if they’re ready to buy. Learn more about the feature in our original take on the update . Additionally, Instagram has made it possible for brands with access to the feature to tag a post with products directly from an iOS mobile phone. Once a brand has a product catalogue connected to their account, they can tag products the same way they’d tag people in a post. Instagram also talked about plans to offer insights on relevant metrics for this feature, such as how many people tapped to see more product details or clicked “shop now.” The shopping feature will be available to select businesses that sell apparel, jewelry, or beauty products. On March 22, Instagram announced that the platform has 1 million active monthly advertisers —that’s up 200,000 from the same time last year. The social network also shared that, in the last month, 120 million Instagrammers visited a website received directions, called, emailed, or sent a message to learn more about a business directly from the app.  Today, we’re excited to announce there are 8 million businesses using business profiles and more than 1 million monthly active advertisers on Instagram. On Instagram, people are turning their passions into livelihoods. To get better at the art of folding paper, Ross Symons, (@white_onrice) set a goal on January 1, 2014 to fold and post a different origami figure for 365 days straight. After successfully achieving his goal and connecting with various Instagrammers along the way, Ross turned his passion from a side project into a business and now creates artwork and installations for brands around the world. “I was able to quit my day job and pursue a career as a creative entrepreneur because of Instagram and the people using it,” he tells us. Ross now uses information from his business tools to inform his content strategy and generate leads. “Based on the information that I gained from my business insights, I noticed that tutorial style or DIY style videos receive more engagement and impressions than normal animations. Also, knowing that most of the people who follow me are from the U.S. has helped me reconsider when to post so I now post closest to when people in the U.S. are waking up which has led to higher engagement and potential leads.” See why Instagram has become an essential place for businesses like Ross’ to grow. Link in bio. A post shared by Express Your Business' Story (@instagramforbusiness) on On March 23, Instagram announced an update for content deemed sensitive . Content that has been reported—but doesn’t violate guidelines—and confirmed as sensitive by the Instagram team, will appear with a screen over it. Users simply have to tap to view content covered by a screen. Instagram also announced that two-factor authentication is now available to everyone. This feature adds security to accounts by requiring a code every time a user logs in. Additionally, the network has also created a site with information for users about how to keep safe on Instagram.    On March 6, Pinterest expanded its new visual discovery tools to the web. Desktop users can now use the Pinterest Chrome extension to search for visually similar content to things they’ve found on the web. Users accessing the site via the web can also now zoom in on an image to search for Pins similar to a specific part of that image. On March 9, Pinterest made the beta version of Pinterest Lens available to everyone in the U.S. on both iPhone and Android. Originally introduced in February, Lens gives people use the camera in the Pinterest app to discover Pins related to things they see in the real world. Users can also do a search using images from their camera roll. On March 27, Pinterest rolled out Promoted App Pins , a new ads format that allows users to download find and download apps directly from Pinterest. Thanks to Pinterest’s mobile measurement partnerships, advertisers can get reports on downstream installs. Promoted App Pins are available to all advertisers through Pinterest Ads Manager and Pinterest Marketing Partners. On March 29, Pinterest announced Pinterest Propel , a program intended to support both businesses and agencies new to advertising on the platform. The program offers one-on-one support, including: 30 days of phone support Custom-made Pins to promote Education and training about marketing on Pinterest Customized tips for up to access to guides, insights, and industry best practices Agencies get customized tips for up to three clients Pinterest Propel is available to businesses and agencies in the U.S. and Canada.    Updates to improve feeds On March 2, LinkedIn announced several updates to improve users feeds . New features include the ability to: Discover new industry leaders, publications, and companies to follow by tapping the control icon (three dots) on the top right corner of any update and selecting (available on mobile, coming soon to desktop) Hide posts by tapping the control icon (three dots) on the top right corner of any update and selecting Unfollow people—remain connected, but stop seeing their posts—and companies On March, 14, Linkedin rolled out new profile photo editing features . Users can now easily crop and enhance—edit brightness, contrast, saturation, and vignette—an image using the mobile app. LinkedIn has also added six photo filters. On March 21, LinkedIn announced a new enterprise edition of Sales Navigator , the platforms lead generation tool. Joining the existing professional and team editions of the product, the enterprise edition of Sales Navigator is for “high-functioning sales organizations” and offers 50 InMails per month, improved manageability features like single sign on, and a new feature called TeamLink Extend. The new feature allows anyone in an organization to opt into sharing their LinkedIn network with the TeamLink pool, regardless of whether they hold a Sales Navigator seat or not. Additionally, LinkedIn rolled out two new features for the team and enterprise editions of Sales Navigator: PointDrive and enhanced customer relationship management (CRM) integrations. PointDrive allows sales teams to bundle and send materials to prospective clients and keep track of how it’s being consumed and by whom. The enhanced CRM integration allows sales teams to easily add the actions they take in Sales Navigator as activities in their CRM. Trending Storylines On March 22, LinkedIn introduced Trending Storylines , a new curated interest-based feed. Focused on developing stories in a user’s industry, Trending Storylines are intended to help users “discover and discuss news, ideas, and diverse perspectives.” The feature will be personalized for each user based on a combination of algorithms and LinkedIn’s editorial team. Storylines will include a unique hashtag to make it easy for users to join in on the conversation. LinkedIn mentioned plans to allow users to select and follow topics of interest to them. Trending Storylines began rolling out in the U.S. in March and will roll out to other countries soon.    On March 21, Hootsuite acquired Naritiv , a Los Angeles-based Snapchat analytics solution. The Los Angeles-based content creation company powers stories for numerous big brands. Hootsuite CEO Ryan Holmes explained: “Brands are turning to video-centric networks like Snapchat to engage with their audiences… We’re thrilled to integrate Snapchat functionality into the Hootsuite platform to help our customers take full advantage of this dynamic video network.” We’ve acquired @naritiv ’s analytics solution! https://t.co/ofSaLVldlC Excited to help customers crack the code on #Snapchat 👻 pic.twitter.com/z1vO8nCztB — Hootsuite (@hootsuite) March 21, 2017 On March 22, Hootsuite had an ad technology specialty added to our Facebook Marketing Partner profile. This is in addition to Hootsuite-owned AdEspresso which counts both ad technology and small business solutions among its specialities. Hootsuite also specializes in community management. Facebook explained the program: “Facebook Marketing Partners are painstakingly vetted not only for capability and expertise, but also for a solid track record of success.”    On March 31, Snapchat added search functionality for Stories . The app now offers 1 million searchable public Stories. When users add a Snap to Our Story, it could show up in a relevant Story, depending on the content. Snapchat began rolling out the new discoverability features in select cities on March 31. Learn More Filed Under: Social Media News  Resources  Subscribe to our blog newsletter Social media strategy, advice, and tips delivered direct to your inbox Unsubscribe at any time Share this post via: Written by Articles similar to this  7 Clever Costume Ideas for Social Media Marketers   How Social Media is Changing the Customer Journey
+
+In March, social media companies took the idea of spring forward to the next level, with tons of new updates that represent forward leaps in innovation.
+
+Twitter rolled out new replies, Facebook introduced disappearing content in both Messenger and the main app, Instagram announced geostickers, Snapchat introduced search functionality for Stories, and more.
+
+With so much news, it can be hard to keep up. Never fear, we’ve rounded up all the updates—big and small—from the major social platforms to ensure that you don’t miss a thing.
+
+Table of contents
+
+
+
+
+
+
+
+
+
+Twitter
+
+Safety update
+
+On March 1, Twitter announced new updates to reduce abusive content on the platform. The changes include:
+
+Using algorithms to identify accounts that are engaging in abusive behavior (whether or not it’s been reported), in order to limit account functionality for a set amount of time
+
+Introducing new filters for notifications, allowing users to opt out of seeing notifications for certain types of accounts (such as those without a profile photo or those that use an unverified email address or phone numbers)
+
+Updating the mute feature to home timelines and allowing users to decide how long content—keywords, phrases, or entire conversations—will be muted for (options include one day, one week, one month, and indefinitely)
+
+Improving transparency and openness of the platform’s reporting process—this means providing more information about accounts or tweets that users have reported to Twitter’s support teams, including notifications that Twitter has received the report and information about whether further action was taken
+
+Image via Twitter.
+
+Moments analytics
+
+On March 7, Twitter introduced Moments analytics, which gives users data on opens, likes, shares, and completion rate.
+
+Introducing Moments analytics for all Twitter users on web. Just click on the down arrow to see how your favorite Moments are performing! pic.twitter.com/9YlyeEjJ6o — Twitter Moments (@TwitterMoments) March 7, 2017
+
+MoPub website refresh
+
+On March 20, Twitter made updates to MoPub, the platform’s resource site for mobile app exchange, Adweek reported.
+
+Twitter explained in a statement that the purpose of the redesign was to better serve the needs of mobile app developers, marketers, and other partners working on mobile app monetization.
+
+The site features resources for developers and clients as well as education materials for marketers, agencies, and agency trading desks.
+
+Image via AdWeek.
+
+Periscope Producer API
+
+On March 21, Twitter introduced the Periscope Producer API, an update that opens up new ways to share live video.
+
+Creators now have the option to begin broadcasts directly from external hardware, software, cameras, and web services—without connecting via the app.
+
+Additionally, the API allows third-party applications to authenticate Periscope accounts, configure streams, start and stop broadcasts, and publish streams to Twitter. The announcement included several beta partners that are already working on new ways to integrate live video and data from Periscope.
+
+Considering paid membership option
+
+On March 23, The Verge reported that Twitter is considering paid subscriptions. Some users received a survey and a mock-up of what a premium version of the service might look like.
+
+Twitter told The Verge: “We’re conducting this survey to assess the interest in a new, more enhanced version of Tweetdeck. We regularly conduct user research to gather feedback about people’s Twitter experience and to better inform our product investment decisions, and we’re exploring several ways to make Tweetdeck even more valuable for professionals.”
+
+The core Twitter service would remain free and the premium offering would be contained in Tweetdeck.
+
+Image via Andrew Tavani on Twitter.
+
+Periscope pre-roll ads
+
+On March 28, Twitter introduced pre-roll ads for Periscope video. Similar to how ads currently appear on Twitter video, Periscope videos, whether live or a replay, may begin with a short ad.
+
+Twitter explained: “Pre-roll ads on Periscope video enable brands to marry their message with specific broadcasts from creators and publishers.”
+
+More insights on Periscope
+
+On March 29, Twitter-owned Periscope introduced new ways to access audience insights:
+
+An activity tab to display community engagement—both with the broadcaster and with individual pieces of content—such as a new follow or someone watching a replay
+
+A dashboard for broadcast analytics, providing insights on video duration, viewers, hearts, and time watched
+
+The activity tab is available for Android and iOS. Analytics are available on the web.
+
+Image via Periscope.
+
+New replies
+
+On March 30, Twitter rolled out new replies in which @usernames no longer count towards a tweet’s 140 characters.
+
+We're changing replies so that you have all 140 characters to express yourself. Learn more: https://t.co/PNWGilbmVd pic.twitter.com/cxBJohZc2Q — Twitter (@Twitter) March 30, 2017
+
+The change means:
+
+Replies will include the usernames of the accounts being replied to above the tweet rather than within it
+
+Users can tap Replying to… in order to see who’s involved in the conversation
+
+Twitter explained: “In our tests of this new experience, we found that people engage more with conversations on Twitter.”
+
+Image via Twitter.
+
+
+
+
+
+
+
+
+
+Facebook
+
+Suicide prevention tools
+
+On March 1, Facebook announced new suicide prevention tools. The new tools include:
+
+Prevention tools to help people on Facebook Live who may be at risk of suicide
+
+Live chat support from crisis support organizations through Messenger
+
+Streamlined reporting for suicide, powered by artificial intelligence
+
+Facebook explained: “Facebook is in a unique position—through friendships on the site—to help connect a person in distress with people who can support them.”
+
+Messenger Day
+
+On March 9, Facebook launched Messenger Day, a new disappearing content offering for the platform’s Messenger app.
+
+Image via Facebook.
+
+Users can choose from more than 5,000 frames, effects, and stickers to enhance images captured using Messenger’s built-in camera, then share their creations to their Messenger Day, where friends can view and reply.
+
+Facebook 360 for Gear VR
+
+On March 8, Facebook launched the Facebook 360 app for Samsung Gear VR, powered by Oculus. Initially, the app will offer four feeds:
+
+Explore—discover popular content Following—see content posted by friends and Pages you follow Saved—view content saved from News Feed Timeline—check out your own past content
+
+Image via Facebook.
+
+Color status update
+
+On March 20, Adweek reported that Facebook has expanded a text status update to iOS. In December 2016, Facebook began offering a feature to Android users that allows them to transform text status updates into simple graphics which appear on a background color of the user’s choosing.
+
+Facebook explained: “We’re rolling out a change to help people make their text posts more visual.”
+
+New Live video options
+
+On March 22, Facebook announced two new ways to go live.
+
+Users can now broadcast live video from a desktop or laptop computer.
+
+Image via Facebook.
+
+Individual profiles now have the ability to use streaming software or external hardware when going live from a computer. This functionality was previously only available to Pages; it opens up the ability to screenshare, insert graphics, switch cameras, or use professional equipment.
+
+For gamers, it makes it easy to stream PC gameplay to friends and followers.
+
+Image via Facebook.
+
+New ad offering
+
+On March 23, Facebook introduced a new ad offering. Called collection, the new ads feature a primary video or image above relevant product images, which Facebook says “increases the likelihood of discovery and a purchase.” Collection can showcase up to 50 products at a time.
+
+Facebook has begun rolling out collection to marketers globally.
+
+Image via Facebook.
+
+Split-testing
+
+On March, 23 Facebook introduced split-testing for ads. Advertisers will be able to test different components of their ads across devices and browsers. Split-testing offers the ability to run controlled tests without audience overlap.
+
+Advertisers can choose to get results as soon as there’s enough data or wait until the campaign is completed.
+
+Image via Facebook.
+
+Message reactions and mentions for Messenger
+
+On March 23, Facebook introduced two new features for Messenger: reactions and mentions.
+
+With Message Reactions, users can react to a message using a specific emotion. Messenger Reactions use Messenger emoji and work in both group and one-on-one conversations. They appear in the lower corner of a message.
+
+Image via Facebook.
+
+With Mentions, users can directly notify someone they’ve been mentioned in a conversation. Available in group conversations, mentions will appear in highlighted text and trigger a notification for the person mentioned.
+
+Image via Facebook.
+
+In addition to Messenger, the new features will also be available for Work Chat in Workplace.
+
+Image via Facebook.
+
+Live location in Messenger
+
+On March 27, Facebook introduced live location in Messenger, allowing users to share their location. The platform suggests use cases such as coordinating with friends, telling people how close you are to a meeting location, or letting a roommate know you’re on your way home from a night out.
+
+Image via Facebook.
+
+Facebook in-app camera
+
+On March 28, Facebook rolled out a new in-app camera. The camera offers dozens of effects, including masks, frames, and interactive filters to apply to photos and videos. Features include reactive effects, which let users interact with dynamic objects or style video effects in real time.
+
+Image via Facebook.
+
+Facebook says it will also be partnering with brands to create masks for upcoming movies, such as Guardians of the Galaxy Vol. 2, Power Rangers, and Despicable Me 3. The in-app camera will also include guest art from visual artists like Douglas Coupland and Hattie Stewart.
+
+The platform said it plans to introduce ways for users to create their own frames and effects for the in-app camera.
+
+Facebook Stories and Direct
+
+Also on March 28, Facebook introduced Facebook Stories, a new disappearing content offering modeled after Instagram Stories. Using the new in-app camera, users can share multiple photos and videos in slideshow format.
+
+Their Stories will be visible in circles at the top of News Feed, similar to Instagram’s offering.
+
+Viewable for 24 hours, Stories won’t appear in Timeline or NewsFeed.
+
+Image via Facebook.
+
+This new offering includes Direct, a feature that allows users to send photos or videos directly to friends. After viewing the content, recipients will be able to reply and have one chance to replay.
+
+Image via Facebook.
+
+Group bots
+
+On March 29, TechCrunch reported that Facebook plans to announce a new class of group bots for Messenger group chats. The publication says the group bots would function more like information bots than chat bots.
+
+TechCrunch explained: “These group bots can keep users informed about real-time news such as a sports game’s progress, ecommerce deliveries, and more.”
+
+
+
+
+
+
+
+
+
+Instagram
+
+Offline test
+
+In March, Instagram began testing offline functionality for users in countries that experience low bandwidth. The purpose of the test is to “keep the Instagram experience consistent and let people consume and engage with content, even if they don’t have service.”
+
+Geostickers in Instagram Stories
+
+On March 7, TechCrunch reported that Instagram Stories has launched geostickers. The new sticker offerings differ from Instagram’s default location-tag sticker by allowing users to add location-specific graphics to their photos and videos.
+
+Currently, geostickers are only available to users in New York City and Jakarta, Indonesia.
+
+Image via TechCrunch.
+
+Save live video
+
+On March 20, Instagram rolled out the ability for broadcasters to save their live video after it ends.
+
+To save a live video, simply tap the Save button in the upper right-hand corner of the screen when the broadcast ends. Video will save to camera roll. Comments, likes, number of views, or other live interactions will not be saved.
+
+Image via Instagram.
+
+Shoppable posts
+
+On March 21, Instagram announced plans to roll out shopping features to thousands of businesses. Originally introduced in November 2016, the feature allows brands to tag posts with products, so users can tap to see more details and visit the business’ website if they’re ready to buy.
+
+Learn more about the feature in our original take on the update.
+
+Additionally, Instagram has made it possible for brands with access to the feature to tag a post with products directly from an iOS mobile phone. Once a brand has a product catalogue connected to their account, they can tag products the same way they’d tag people in a post.
+
+Instagram also talked about plans to offer insights on relevant metrics for this feature, such as how many people tapped to see more product details or clicked “shop now.”
+
+The shopping feature will be available to select businesses that sell apparel, jewelry, or beauty products.
+
+Image via Instagram.
+
+1 million advertisers
+
+On March 22, Instagram announced that the platform has 1 million active monthly advertisers—that’s up 200,000 from the same time last year. The social network also shared that, in the last month, 120 million Instagrammers visited a website received directions, called, emailed, or sent a message to learn more about a business directly from the app.
+
+Screens for sensitive content
+
+On March 23, Instagram announced an update for content deemed sensitive. Content that has been reported—but doesn’t violate guidelines—and confirmed as sensitive by the Instagram team, will appear with a screen over it. Users simply have to tap to view content covered by a screen.
+
+Instagram also announced that two-factor authentication is now available to everyone. This feature adds security to accounts by requiring a code every time a user logs in.
+
+Additionally, the network has also created a site with information for users about how to keep safe on Instagram.
+
+Image via Instagram.
+
+
+
+
+
+
+
+
+
+Pinterest
+
+Visual discovery tools available on the web
+
+On March 6, Pinterest expanded its new visual discovery tools to the web. Desktop users can now use the Pinterest Chrome extension to search for visually similar content to things they’ve found on the web. Users accessing the site via the web can also now zoom in on an image to search for Pins similar to a specific part of that image.
+
+Image via Pinterest.
+
+Beta version of Lens more widely available
+
+On March 9, Pinterest made the beta version of Pinterest Lens available to everyone in the U.S. on both iPhone and Android. Originally introduced in February, Lens gives people use the camera in the Pinterest app to discover Pins related to things they see in the real world. Users can also do a search using images from their camera roll.
+
+Pinterest made a request of users trying out the beta feature: “If you get results that feel a little meh, tap the new + button to add feedback and help Lens get better at finding ideas inspired by whatever you just Lensed.”
+
+Image via Pinterest.
+
+Download app in Pinterest
+
+On March 27, Pinterest rolled out Promoted App Pins, a new ads format that allows users to download find and download apps directly from Pinterest. Thanks to Pinterest’s mobile measurement partnerships, advertisers can get reports on downstream installs. Promoted App Pins are available to all advertisers through Pinterest Ads Manager and Pinterest Marketing Partners.
+
+Image via Pinterest.
+
+Pinterest Propel
+
+On March 29, Pinterest announced Pinterest Propel, a program intended to support both businesses and agencies new to advertising on the platform. The program offers one-on-one support, including:
+
+30 days of phone support
+
+Custom-made Pins to promote
+
+Education and training about marketing on Pinterest
+
+Customized tips for up to access to guides, insights, and industry best practices
+
+Agencies get customized tips for up to three clients
+
+Pinterest Propel is available to businesses and agencies in the U.S. and Canada.
+
+Image via Pinterest.
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+Updates to improve feeds
+
+On March 2, LinkedIn announced several updates to improve users feeds. New features include the ability to:
+
+Discover new industry leaders, publications, and companies to follow by tapping the control icon (three dots) on the top right corner of any update and selecting Improve my feed (available on mobile, coming soon to desktop)
+
+(available on mobile, coming soon to desktop) Hide posts by tapping the control icon (three dots) on the top right corner of any update and selecting Hide this post
+
+Unfollow people—remain connected, but stop seeing their posts—and companies
+
+Profile photo editing options
+
+On March, 14, Linkedin rolled out new profile photo editing features. Users can now easily crop and enhance—edit brightness, contrast, saturation, and vignette—an image using the mobile app. LinkedIn has also added six photo filters.
+
+Sales Navigator
+
+On March 21, LinkedIn announced a new enterprise edition of Sales Navigator, the platforms lead generation tool.
+
+Joining the existing professional and team editions of the product, the enterprise edition of Sales Navigator is for “high-functioning sales organizations” and offers 50 InMails per month, improved manageability features like single sign on, and a new feature called TeamLink Extend.
+
+The new feature allows anyone in an organization to opt into sharing their LinkedIn network with the TeamLink pool, regardless of whether they hold a Sales Navigator seat or not.
+
+Additionally, LinkedIn rolled out two new features for the team and enterprise editions of Sales Navigator: PointDrive and enhanced customer relationship management (CRM) integrations. PointDrive allows sales teams to bundle and send materials to prospective clients and keep track of how it’s being consumed and by whom. The enhanced CRM integration allows sales teams to easily add the actions they take in Sales Navigator as activities in their CRM.
+
+Trending Storylines
+
+On March 22, LinkedIn introduced Trending Storylines, a new curated interest-based feed. Focused on developing stories in a user’s industry, Trending Storylines are intended to help users “discover and discuss news, ideas, and diverse perspectives.”
+
+The feature will be personalized for each user based on a combination of algorithms and LinkedIn’s editorial team. Storylines will include a unique hashtag to make it easy for users to join in on the conversation. LinkedIn mentioned plans to allow users to select and follow topics of interest to them.
+
+Trending Storylines began rolling out in the U.S. in March and will roll out to other countries soon.
+
+Image via LinkedIn.
+
+
+
+
+
+
+
+
+
+Hootsuite
+
+Naritiv acquisition
+
+On March 21, Hootsuite acquired Naritiv, a Los Angeles-based Snapchat analytics solution. The Los Angeles-based content creation company powers stories for numerous big brands.
+
+Hootsuite CEO Ryan Holmes explained: “Brands are turning to video-centric networks like Snapchat to engage with their audiences… We’re thrilled to integrate Snapchat functionality into the Hootsuite platform to help our customers take full advantage of this dynamic video network.”
+
+Named official Facebook ad partner
+
+On March 22, Hootsuite had an ad technology specialty added to our Facebook Marketing Partner profile. This is in addition to Hootsuite-owned AdEspresso which counts both ad technology and small business solutions among its specialities. Hootsuite also specializes in community management.
+
+Facebook explained the program: “Facebook Marketing Partners are painstakingly vetted not only for capability and expertise, but also for a solid track record of success.”
+
+
+
+
+
+
+
+
+
+Snapchat
+
+Search functionality for Stories
+
+On March 31, Snapchat added search functionality for Stories. The app now offers 1 million searchable public Stories. When users add a Snap to Our Story, it could show up in a relevant Story, depending on the content.
+
+Snapchat began rolling out the new discoverability features in select cities on March 31.
+
+Social media moves fast and keeping up with the rate of change—new platforms and shifting best practices—can be tough. Learn the fundamental social media marketing skills you need to stay ahead of the pack with free training from Hootsuite Academy.
+
+Learn More

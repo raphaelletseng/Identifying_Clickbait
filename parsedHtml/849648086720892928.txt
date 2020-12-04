@@ -1,0 +1,55 @@
+Scientists create AI that LEARNS like the human mind
+Scientists create AI brain connection that LEARNS like the human mind
+
+
+The idea of a robot that can learn and function on its own, without the need for any human help, might sound like the plot to the latest science fiction blockbuster.
+
+But scientists have got one step closer to making this a reality with the creation of the first artificial brain connection that can learn autonomously.
+
+The groundbreaking study represents a big step toward intelligent machines that learn without the need for human input.
+
+Scroll down for video
+
+Researchers have long-looked to the human brain for inspiration in creating an intelligent machine that can learn. The machines in the Terminator film franchise (pictured) learn to upgrade and repair themselves and rise up against humanity
+
+HOW DOES IT WORK? The tiny electronic component consists of a thin layer of material sandwiched between two electrodes. The thin layer's resistance to electrical signals was tuned using voltage pulses similar to those in neurons. If resistance was set low, the synaptic connection would be strong, while if the resistance was set high, the connection would be weak. This capacity to adapt its electrical resistance enables the synapse to 'learn'.
+
+A team of international researchers, led by scientists at the French National Centre for Scientific Research (CNRS) based in Paris, created the artificial connection (synapse).
+
+The synapse changes its composition based on which 'brain signals' are fired.
+
+When under heavy use, it adapted to drop its electrical resistance and make the signal pathway quicker and more efficient.
+
+This, the researchers said, could one day build artificial intelligence that learns like the human brain.
+
+Importantly, the scientists were able to 'model' the learning device, meaning they can predict how it reacts to signals.
+
+This is something that has never been achieved in previous machine learning studies.
+
+The brain's learning process is linked to our synapses, which serve as connections between neurons.
+
+'In the brain, learning is achieved through the ability of synapses to reconfigure the strength by which they connect neurons,' the researchers wrote in their paper.
+
+'Information flows from neuron to neuron through synapses of variable connection strength. The overall distribution of the synaptic strengths provides the neural network with memory.'
+
+Researchers took inspiration from this natural mechanism to design their artificial synapse, called a memristor.
+
+Artist's impression of the electronic synapse: The particles represent electrons circulating through the synapse as neurotransmitters do in the human brain. The flow of electrons is controlled by voltage pulses that act similarly to biological brain signals
+
+This tiny electronic component consists of a thin layer of material sandwiched between two electrodes.
+
+HOW IS IT LIKE THE HUMAN BRAIN? Our brain's learning process is linked to our synapses, which serve as connections between neurons. 'In the brain, learning is achieved through the ability of synapses to reconfigure the strength by which they connect neurons,' the researchers wrote in their paper. 'Information flows from neuron to neuron through synapses of variable connection strength. The overall distribution of the synaptic strengths provides the neural network with memory.' The more the synapse is stimulated, the more the neuronal connection is reinforced and hence learning improved. Researchers took inspiration from this mechanism to design an artificial synapse that changes its composition as signals are fired.
+
+The thin layer's resistance to electrical signals was tuned using voltage pulses similar to those in neurons.
+
+If resistance was set low, the synaptic connection would be strong, while if the resistance was set high, the connection would be weak.
+
+This capacity to adapt its electrical resistance enables the synapse to 'learn'.
+
+Although research focusing on artificial synapses is central to the concerns of many robotics laboratories, the functioning of these devices remained largely unknown.
+
+Researchers have long-looked to the human brain for inspiration in creating an intelligent machine that can learn.
+
+This principle is already at work in computers in the form of the algorithms used for completing certain tasks, such as image recognition. These algorithms, for instance, are what Facebook uses to identify photos.
+
+But the procedure consumes a lot of energy, and researchers are now looking for more efficient ways of creating machines capable of learning.

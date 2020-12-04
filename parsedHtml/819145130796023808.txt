@@ -1,0 +1,9 @@
+Building a Mind-Controlled Wheelchair
+Building a Mind-Controlled Wheelchair
+Building a Mind-Controlled Wheelchair in Chile Rodrigo Quevedo was an officer in the Chilean army and an engineer. Then he got the robotics bug. Quevedo has since become a local celebrity for the contraptions he has built, winning robot battles around the world. These days he teaches robotics to youngsters throughout Chile. He’s also started a robotics company called Rotatecno that is building some breathtaking machines, including a low-cost wheelchair that can be controlled with thoughts and facial gestures. host Ashlee Vance recently visited Quevedo’s lab in Santiago to test the wheelchair. Vance strapped on a brainwave monitor and helmet and took off on a futuristic ride.
+
+Rodrigo Quevedo was an officer in the Chilean army and an engineer. Then he got the robotics bug.
+
+Quevedo has since become a local celebrity for the contraptions he has built, winning robot battles around the world. These days he teaches robotics to youngsters throughout Chile. He’s also started a robotics company called Rotatecno that is building some breathtaking machines, including a low-cost wheelchair that can be controlled with thoughts and facial gestures.
+
+Hello World host Ashlee Vance recently visited Quevedo’s lab in Santiago to test the wheelchair. Vance strapped on a brainwave monitor and helmet and took off on a futuristic ride.

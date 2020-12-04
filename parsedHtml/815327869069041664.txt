@@ -1,0 +1,55 @@
+No, the power grid in Vermont was not infiltrated by Russian hackers
+No, the power grid in Vermont was not infiltrated by Russian hackers
+You may have read or seen on social media a story published Friday which claimed that Russian hackers had hacked the U.S. power system via an electrical grid in Vermont. SEE ALSO: What we do and don't know about Russia's interference in the  presidential election That’s not what happened and the incident is not necessarily connected to the alleged Russian hack of the Democratic National Committee . has since amended its story: What actually happened is that a single laptop belonging to the Burlington Electric utility was found to be infected with malware—software intended to damage or disable computer systems— that originated in Russia. The most important detail of this story is that the laptop in question was connected to the electrical grid. This is just getting embarrassing. https://t.co/XwP4Y8vYY6 — Jeffrey Carr (@jeffreycarr) December 31, 2016 Apparently hackers just breached a *non-grid-connected* laptop owned by the public utility Burlington Electric. https://t.co/R24rX7hcqi  pic.twitter.com/wEIdFrSGIy — Eric Geller (@ericgeller) December 31, 2016 In other words, a laptop belonging to the organization responsible for maintaining the grid was infected, but not the computer networks controlling the grids. Burlington Electric discovered that the laptop had been infected after the FBI and Department of Homeland Security issued a joint Thursday that included code believed to have been used by Russian hackers to penetrate the Democratic National Committee. The utility scanned its own systems for evidence it had been infected with malware and discovered a single laptop had been compromised — again, one that was not connected to the electrical grid. “We detected the malware in a single Burlington Electric Department laptop not connected to our organization’s grid systems. We took immediate action to isolate the laptop and alerted federal officials of this finding,” said Mike Kanarick, spokesperson for Burlington Electric in a statement posted online . Burlington Electric is working with federal officials to trace how the code got into the laptop. So did the Russians attack a laptop at a public utility, even if it wasn’t connected to the electric grid? It’s possible, but not certain. The malware found was certainly Russian made and related to the malware used to infiltrate the DNC. But that does not mean that it was used by Russians. Malware, like any software, is bought and sold. It is not necessarily used by the same people who craft it. What’s crucial is that we don’t even know if the code was intended to disrupt the utility, or if hackers just wanted to test if they could penetrate the system. We also don't know when the malware infected the laptop. 1) Not an infiltration of the power grid. 2) "Russian" malware can be purchased online by anyone. 3) See 1 & 2. https://t.co/bVIG8zQBsk — Dell Cameron (@dellcam) December 31, 2016 An on an electrical grid has occurred in another part of the world—Ukraine. In 2015, a well-known piece of malware called was used as part of an expertly coordinated attack that shut off power for an estimated 250,000 people (but only for several hours.) Ukraine’s intelligence community has vehemently blamed Russia for the attack, though it has not offered concrete proof to bolster its accusation. Given the political tension between the two nations, the accusation is not unrealistic, but there still is no smoking gun. While the idea of foreign hackers targeting the national electrical grid in the United States is certainly scary, there’s no evidence that it has already occurred, at least not in Vermont. There is, of course, a serious risk to the electrical grid from a cyberattack, but that threat isn’t as worrisome as policymakers, cybersecurity firms and others sometimes make it seem. After all, wreak much more havoc on our electrical grid than hackers all the time. BONUS: Signs Your Friend Just Watched A TED Talk
+
+You may have read or seen on social media a Washington Post story published Friday which claimed that Russian hackers had hacked the U.S. power system via an electrical grid in Vermont.
+
+That’s not what happened and the incident is not necessarily connected to the alleged Russian hack of the Democratic National Committee.
+
+The Washington Post has since amended its story:
+
+What actually happened is that a single laptop belonging to the Burlington Electric utility was found to be infected with malware—software intended to damage or disable computer systems— that originated in Russia.
+
+The most important detail of this story is that the laptop in question was not connected to the electrical grid.
+
+This is just getting embarrassing. https://t.co/XwP4Y8vYY6 — Jeffrey Carr (@jeffreycarr) December 31, 2016
+
+Apparently hackers just breached a *non-grid-connected* laptop owned by the public utility Burlington Electric. https://t.co/R24rX7hcqi pic.twitter.com/wEIdFrSGIy — Eric Geller (@ericgeller) December 31, 2016
+
+In other words, a laptop belonging to the organization responsible for maintaining the grid was infected, but not the computer networks controlling the grids.
+
+Burlington Electric discovered that the laptop had been infected after the FBI and Department of Homeland Security issued a joint report Thursday that included code believed to have been used by Russian hackers to penetrate the Democratic National Committee.
+
+The utility scanned its own systems for evidence it had been infected with malware and discovered a single laptop had been compromised — again, one that was not connected to the electrical grid.
+
+“We detected the malware in a single Burlington Electric Department laptop not connected to our organization’s grid systems. We took immediate action to isolate the laptop and alerted federal officials of this finding,” said Mike Kanarick, spokesperson for Burlington Electric in a statement posted online.
+
+Burlington Electric is working with federal officials to trace how the code got into the laptop.
+
+So did the Russians attack a laptop at a public utility, even if it wasn’t connected to the electric grid?
+
+It’s possible, but not certain.
+
+The malware found was certainly Russian made and related to the malware used to infiltrate the DNC. But that does not mean that it was used by Russians.
+
+Malware, like any software, is bought and sold. It is not necessarily used by the same people who craft it.
+
+What’s crucial is that we don’t even know if the code was intended to disrupt the utility, or if hackers just wanted to test if they could penetrate the system. We also don't know when the malware infected the laptop.
+
+1) Not an infiltration of the power grid.
+
+2) "Russian" malware can be purchased online by anyone.
+
+3) See 1 & 2. https://t.co/bVIG8zQBsk — Dell Cameron (@dellcam) December 31, 2016
+
+An actual attack on an electrical grid has occurred in another part of the world—Ukraine.
+
+In 2015, a well-known piece of malware called BlackEnergy was used as part of an expertly coordinated attack that shut off power for an estimated 250,000 people (but only for several hours.)
+
+Ukraine’s intelligence community has vehemently blamed Russia for the attack, though it has not offered concrete proof to bolster its accusation. Given the political tension between the two nations, the accusation is not unrealistic, but there still is no smoking gun.
+
+While the idea of foreign hackers targeting the national electrical grid in the United States is certainly scary, there’s no evidence that it has already occurred, at least not in Vermont.
+
+There is, of course, a serious risk to the electrical grid from a cyberattack, but that threat isn’t as worrisome as policymakers, cybersecurity firms and others sometimes make it seem.
+
+After all, squirrels wreak much more havoc on our electrical grid than hackers all the time.

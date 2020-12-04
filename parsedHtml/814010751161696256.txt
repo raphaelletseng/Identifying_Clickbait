@@ -1,0 +1,41 @@
+KPMGVoice: Using Smart Robots to Run Clinical Drug Trials
+KPMGVoice: Using Smart Robots to Run Clinical Drug Trials
+{{contrib_block.display_author.name}}  KPMG       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Most people are only vaguely aware of how new drugs are tested and approved. The popular image is of white-coated researchers holding clinical trials, analyzing the results and then subjecting them to lengthy government scrutiny. But what if smart “robots”—also known as cognitive automation or digital labor—could do much of the testing, research and analysis? New drugs could be approved much faster and more cheaply, cutting into the often prolonged wait time for life-changing medications to reach the market. Digital labor is already being used in life science organizations, primarily in the back office and manufacturing. But as drug research and development becomes more difficult, time consuming and costly, drug makers are starting to explore the potential benefits of using advanced automation in clinical trials. Learn more about the many ways cognitive automation could advance drug research and development. That’s partly because robotics has advanced significantly in the past 18 months. It can now be used for product strategy, document creation, regulatory assessments and two-way communication with health authorities. The technology is particularly useful for routine cognitive tasks, which are time-consuming and manpower-intensive but structured and easily repeatable. So digital labor can handle things like data collection and oversight, regulatory submissions and some compliance issues. As companies focus on new classes of drugs that fulfill unmet patient needs, their compliance burden is more complex than ever. Digital labor can simplify this process. And it can help track how the drugs are performing. That’s important for backing up claims of how these drugs improve people’s health. Drug makers need to have reliable data on everything from the total cost of care for certain diseases to how drugs are being used. One of the surprising things about this new technology is how easy and relatively inexpensive it is to adopt. Digital labor can be implemented and used productively in less than a year. This is significantly more efficient than typical technology overhauls, which often run for multiple years and lock up significant capital. Digital labor also can be installed for tens of thousands rather than tens of millions of dollars. The projected return on investment is staggering: London School of Economics research suggests that robotic process automation investments will yield a return of 600 to 800 percent for certain tasks. But before you jump into this technology, you need to take a systematic approach to make sure you’re using it the right way. Here are four steps KPMG takes with companies seeking to automate their labor force: . Many life science organizations have already invested in robotics, so it is important to assess what you already have so you can build on it. . Once you’ve established what you need, think about the technology and tools to implement it. This may include partnering with key vendors to help you customize your digital labor. . Put together a roadmap for how automation will benefit the organization and the changes the company needs to make it successful. When you start using automation, run some pilot programs first. And make sure you’re constantly testing it and measuring the results. Learn more about the many ways cognitive automation could advance drug research and development.    Trending on {{channel_name}}
+
+Most people are only vaguely aware of how new drugs are tested and approved. The popular image is of white-coated researchers holding clinical trials, analyzing the results and then subjecting them to lengthy government scrutiny.
+
+But what if smart “robots”—also known as cognitive automation or digital labor—could do much of the testing, research and analysis? New drugs could be approved much faster and more cheaply, cutting into the often prolonged wait time for life-changing medications to reach the market.
+
+Digital labor is already being used in life science organizations, primarily in the back office and manufacturing. But as drug research and development becomes more difficult, time consuming and costly, drug makers are starting to explore the potential benefits of using advanced automation in clinical trials.
+
+Learn more about the many ways cognitive automation could advance drug research and development.
+
+That’s partly because robotics has advanced significantly in the past 18 months.
+
+It can now be used for product strategy, document creation, regulatory assessments and two-way communication with health authorities.
+
+The technology is particularly useful for routine cognitive tasks, which are time-consuming and manpower-intensive but structured and easily repeatable. So digital labor can handle things like data collection and oversight, regulatory submissions and some compliance issues.
+
+As companies focus on new classes of drugs that fulfill unmet patient needs, their compliance burden is more complex than ever. Digital labor can simplify this process. And it can help track how the drugs are performing.
+
+That’s important for backing up claims of how these drugs improve people’s health. Drug makers need to have reliable data on everything from the total cost of care for certain diseases to how drugs are being used.
+
+One of the surprising things about this new technology is how easy and relatively inexpensive it is to adopt. Digital labor can be implemented and used productively in less than a year. This is significantly more efficient than typical technology overhauls, which often run for multiple years and lock up significant capital.
+
+Digital labor also can be installed for tens of thousands rather than tens of millions of dollars. The projected return on investment is staggering: London School of Economics research suggests that robotic process automation investments will yield a return of 600 to 800 percent for certain tasks.
+
+But before you jump into this technology, you need to take a systematic approach to make sure you’re using it the right way. Here are four steps KPMG takes with companies seeking to automate their labor force:
+
+Figure out what you need. Many life science organizations have already invested in robotics, so it is important to assess what you already have so you can build on it.
+
+Decide how to make it happen. Once you’ve established what you need, think about the technology and tools to implement it. This may include partnering with key vendors to help you customize your digital labor.
+
+Develop a strategy. Put together a roadmap for how automation will benefit the organization and the changes the company needs to make it successful.
+
+Put it into practice. When you start using automation, run some pilot programs first. And make sure you’re constantly testing it and measuring the results.
+
+Learn more about the many ways cognitive automation could advance drug research and development.
+
+Prepared in association with WSJ. Custom Studios.
+
+© 2016 KPMG LLP, a Delaware limited liability partnership and the U.S. member firm of the KPMG network of independent member firms affiliated with KPMG International Cooperative (“KPMG International”), a Swiss entity. The KPMG name and logo are registered trademarks or trademarks of KPMG International. The information contained herein is of a general nature and is not intended to address the specific circumstances of any particular individual or entity. Some of the services or offerings provided by KPMG LLP are not permissible for its audit clients or affiliates.

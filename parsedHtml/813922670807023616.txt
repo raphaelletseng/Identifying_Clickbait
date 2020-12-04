@@ -1,0 +1,75 @@
+How Much Wealth Will You Have 30 Years Into Retirement?
+How Much Wealth Will You Have 30 Years Into Retirement?
+{{contrib_block.display_author.name}}  Wade Pfau       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Thus far, we have compared the historical performance of various spending strategies when the initial spending rate is 4%. Over the next couple weeks, we will apply an XYZ rule and consider how spending may be impacted by the low-interest-rate environment facing retirees. But before we do that, let’s look at an exhibit that summarizes spending and wealth outcomes for the rules we just discussed. Click here to download Wade's fact sheet, "Comparing Retirement Spending Rules." The next column ( ) provides year thirty spending relative to the initial spending supported by the baseline constant inflation-adjusted strategy. These numbers provide a sense of how spending evolves relative to the baseline strategy to help determine the overall outcomes for spending. This column will be relevant after we later apply an XYZ rule that lets the initial spending rate differ for each strategy. A strategy that starts at a higher initial spending level may experience a large drop relative to that level, but it may still remain above where spending would have been at the baseline, and this column aids in understanding this possibility. The final column reflects . This provides a measure of the potential annual spending decreases over retirement. This volatility measure does not apply for spending increases. Rather, for each simulation, the sum of spending decreases over the thirty years is calculated and divided by 30. If the average spending decline is 3%, it means that over the 30 years of retirement, real spending decreased by 3% per year on an average annual basis. Wade Pfau: Professor at The American College and Principal at McLean Asset Management . His website: www.RetirementResearcher.com    Trending on {{channel_name}}
+
+Thus far, we have compared the historical performance of various spending strategies when the initial spending rate is 4%. Over the next couple weeks, we will apply an XYZ rule and consider how spending may be impacted by the low-interest-rate environment facing retirees.
+
+But before we do that, let’s look at an exhibit that summarizes spending and wealth outcomes for the rules we just discussed.
+
+Click here to download Wade's fact sheet, "Comparing Retirement Spending Rules."
+
+Exhibit 1 compares 4% initial spending rates for each spending rule using the historical data we just analyzed visually. It shows remaining wealth, direction of spending over time, average spending reductions over time, and how spending evolves over time at different percentiles of the distribution.
+
+It also summarizes and quantifies the previous visuals about how spending and wealth evolved in each of the rolling historical periods.
+
+For each strategy, the initial spending rate is shown, with the assumption that retirement wealth is equal to $100,000. Results are scalable for other wealth amounts. The distribution for real spending amounts is shown for ten, twenty, and thirty years into retirement. The distribution of remaining real wealth is shown after the thirtieth year of retirement.
+
+Considering spending and wealth are both important—as retirees should not be narrowly focused on a singular goal to avoid financial wealth depletion—financial goals for retirement can essentially be reduced to two competing objectives: to support as much spending as feasible, and to maintain a reserve of financial assets to support risk management objectives such as protecting from spending shocks or otherwise provide a legacy.
+
+Three additional spending metrics are included at the right of the exhibit.
+
+The change in real spending after thirty years for that strategy relative to its initial spending level. Positive numbers mean that spending increases over retirement, while negative numbers imply spending declines. These numbers are provided for each percentile of the distribution. The next column (Year 30 Spending Relative to Baseline) provides year thirty spending relative to the initial spending supported by the baseline constant inflation-adjusted strategy. These numbers provide a sense of how spending evolves relative to the baseline strategy to help determine the overall outcomes for spending. This column will be relevant after we later apply an XYZ rule that lets the initial spending rate differ for each strategy. A strategy that starts at a higher initial spending level may experience a large drop relative to that level, but it may still remain above where spending would have been at the baseline, and this column aids in understanding this possibility. The final column reflects Downside Spending Volatility. This provides a measure of the potential annual spending decreases over retirement. This volatility measure does not apply for spending increases. Rather, for each simulation, the sum of spending decreases over the thirty years is calculated and divided by 30. If the average spending decline is 3%, it means that over the 30 years of retirement, real spending decreased by 3% per year on an average annual basis.
+
+In presenting outcomes, each spending strategy is represented by twenty-two numbers. The most important number is not universal, as individual considerations will vary. Retirees will surely wish to consider the implications for when markets do well and when markets do poorly.
+
+To demonstrate the range of possibilities, outcomes for spending and remaining wealth will be shown for the ninetieth percentile (markets do well), fiftieth percentile (the mid-range outcome in which half can expect to do better and half worse), and the tenth percentile (markets do poorly). Beyond this, the exhibit allows users to consider the initial spending level, the evolution of spending, the impact on legacy, and downside spending volatility.
+
+Exhibit 1
+
+Sustainable Spending Rates from an Investment Portfolio over 30 years
+
+For a 65-Year Old (Which is Relevant for the RMD Rule)
+
+For 4% Initial Spending Rate, 50/50 Asset Allocation, Rolling 30-Year Retirements
+
+Using SBBI Data, 1926-2015, S&P 500 and Intermediate-Term Government Bonds
+
+Retirement Date Wealth Level = $100,000
+
+(Click table to enlarge)
+
+As you can see, the constant inflation-adjusted spending rule creates the smallest range for spending adjustments and the largest range for remaining wealth after thirty years. From a retirement date portfolio of $100,000, spending remains constant across the distribution over time at $4,000.
+
+The range of remaining wealth after thirty years is $27,730 at the tenth percentile and $327,400 at the ninetieth percentile. At the median, wealth has grown to $124,740 in real terms. If spending stays constant and this is the baseline strategy, the remaining measures about the direction of spending, spending relative to the baseline, and spending volatility are all 0%.
+
+As for other strategies, we can discuss them in terms of the trends for each of the measures. Regarding how spending evolves over time, spending can reach the highest levels at the ninetieth percentile with the modified RMD rule, the Kitces ratcheting rule, Guyton and Klinger’s decision rules, and the fixed percentage rule.
+
+As for the median level of spending after thirty years, spending is the highest with the Kitces ratcheting rule, the modified RMD rule, and the fixed percentage rule. At the tenth percentile, spending after thirty years is the highest with the modified RMD rule, constant inflation-adjusted spending, and the Kitces ratcheting rule.
+
+The Vanguard floor and ceiling and Zolt glide path rules lead to the lowest levels of spending after thirty years.
+
+For remaining wealth after thirty years, it is the highest at the ninetieth percentile for constant inflation-adjusted spending and Zolt’s glide path rule. These rules do not allow for any spending increases in retirement, even when markets do well, which allows for more remaining wealth when initial withdrawal rates are the same.
+
+The modified RMD rule, which increases the withdrawal rate over time to match declining longevity, is the most efficient at spending down assets over retirement. It is the only rule with a decline in remaining real wealth at the ninetieth percentile.
+
+At the median, Zolt’s glide path rule maintains the largest remaining wealth on account of spending decreases without any possibility for increases. At the tenth percentile, remaining wealth is the largest for Vanguard’s floor and ceiling rule.
+
+In terms of changes in spending at the ninetieth percentile, the modified RMD rule provided the largest spending increase. This was followed by the ratcheting rule and the Guyton and Klinger decision rules. Meanwhile, at the median, the ratcheting rule offered the largest spending increase of 77% after thirty years. This was followed by the modified RMD rules.
+
+The only strategy to experience a decline in spending at the median was Zolt's glide path spending rule. At the tenth percentile of outcomes, the modified RMD rule was the only strategy that allowed for a spending increase even in these poor market environments. Spending was 6% higher at the tenth percentile after thirty years.
+
+In terms of strategies that experience the biggest reductions to spending, Vanguard's floor and ceiling percentages strategy experienced a 44% decline in spending at the tenth percentile, while Zolt's glide path strategy experienced a 41% decline in spending.
+
+The next column (Year 30 Spending Relative to Baseline) shows the year thirty spending for a strategy relative to the initial spending from the baseline constant inflation-adjusted spending strategy.
+
+For this particular exhibit, all strategies recalibrated to an initial 4% spending rate rather than using an XYZ rule. Thus, for this exhibit, the spending relative to the baseline strategy is the same as the spending for the strategy itself. Again, this is because all strategies in this particular exhibit start at retirement with a 4% withdrawal rate.
+
+The final column in the exhibit is Downside Spending Volatility. This is the average of spending decreases experienced over the thirty-year period. The strategy with the most downside spending volatility is the modified RMD rule. At the ninetieith percentile, it experienced an average decrease in spending of 4%. At the median, the decrease is 5%, and at the tenth percentile, the decrease is 7%.
+
+The fixed percentage withdrawal strategy is next on the list of those with the most downside spending volatility. Other strategies with noticeable downside volatility include the two endowment formula strategies and the Vanguard floor and ceiling percentages strategy.
+
+Since wealth was never depleted in this exhibit, the constant inflation-adjusted strategy and the ratcheting strategy are the only two that never experienced any downside volatility. Neither of these strategies experiences a spending decrease unless the portfolio becomes depleted.
+
+Next time, we’ll discuss the impact of different market environments on these spending strategies.
+
+Wade Pfau: Professor at The American College and Principal at McLean Asset Management. His website: www.RetirementResearcher.com

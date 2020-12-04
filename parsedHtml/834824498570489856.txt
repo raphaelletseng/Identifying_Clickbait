@@ -1,0 +1,31 @@
+Google commits $11.5 million to racial justice efforts
+Google commits $11.5 million to racial justice efforts
+Google's charitable arm is pumping $11.5 million into 10 organizations fighting for racial justice. The largest of Google.org's new grants, $5 million, will go to the Center for Policing Equity. It's a think tank based in New York that's working with police departments and communities to create a database that tracks police interactions with citizens across the country. In addition to cash,  engineers will also lend their time and skills to help the organization's efforts. According to Justin Steele, principal at Google.org, data science can help reduce racial disparities in criminal justice. It's also an issue that is particularly near and dear to the hearts of some Googlers. Steele said that after the police shootings of Philando Castile and Alton Sterling last summer, several engineers who are part of the Black Googlers Network were looking to get their hands on national policing data to better understand how to reduce police violence toward people of color.   Steele said they realized there are some 18,000 law enforcement agencies that each track their own data, with no central database. "We were finding that the data in this space is really minimal," Steele told CNNTech. "[So] we started looking at [giving] grants around data science, policing and sentencing." Partnering with CPE was a natural choice. CPE cofounder Phillip Atiba Goff said that while many police departments have committed to sharing their data with the organization, they actually don't know how to extract the data in order to do so. That's something Google engineers can help with, Goff said. CPE currently has commitments that cover police agencies representing one third of the U.S. population. Google.org first started putting money toward racial injustice in 2015 after the Charleston church shooting, and has given $5 million to date. Organizations getting a portion of the $11.5 million vary from those helping the formerly incarcerated (Defy Ventures, JustLeadershipUSA and Center for Employment Opportunities), to those supporting local justice transparency (Measures for Justice). Depending on the size of the grant, some will receive the funds in one lump sum, while others will receive payments over the course of several years.   Alphabet (Google's parent company) and Google.org have been embracing organizations that are pushing for equality. Last year, Google gave Black Girls Code a $2.8 million space in its New York City headquarters. Internally, however, Alphabet has struggled to diversify its workforce. Its percentage of black and Hispanic employees is at 2% and 3%, respectively, according to its diversity report released in June 2016. In December, Google's head of diversity retired; the company did not respond to request for comment about whether a replacement has been hired.
+
+Google's charitable arm is pumping $11.5 million into 10 organizations fighting for racial justice.
+
+The largest of Google.org's new grants, $5 million, will go to the Center for Policing Equity. It's a think tank based in New York that's working with police departments and communities to create a database that tracks police interactions with citizens across the country.
+
+In addition to cash, Google (GOOG) engineers will also lend their time and skills to help the organization's efforts.
+
+According to Justin Steele, principal at Google.org, data science can help reduce racial disparities in criminal justice. It's also an issue that is particularly near and dear to the hearts of some Googlers.
+
+Steele said that after the police shootings of Philando Castile and Alton Sterling last summer, several engineers who are part of the Black Googlers Network were looking to get their hands on national policing data to better understand how to reduce police violence toward people of color.
+
+Related: ACLU is participating in elite Silicon Valley accelerator
+
+Steele said they realized there are some 18,000 law enforcement agencies that each track their own data, with no central database.
+
+"We were finding that the data in this space is really minimal," Steele told CNNTech. "[So] we started looking at [giving] grants around data science, policing and sentencing."
+
+Partnering with CPE was a natural choice. CPE cofounder Phillip Atiba Goff said that while many police departments have committed to sharing their data with the organization, they actually don't know how to extract the data in order to do so. That's something Google engineers can help with, Goff said. CPE currently has commitments that cover police agencies representing one third of the U.S. population.
+
+Google.org first started putting money toward racial injustice in 2015 after the Charleston church shooting, and has given $5 million to date. Organizations getting a portion of the $11.5 million vary from those helping the formerly incarcerated (Defy Ventures, JustLeadershipUSA and Center for Employment Opportunities), to those supporting local justice transparency (Measures for Justice). Depending on the size of the grant, some will receive the funds in one lump sum, while others will receive payments over the course of several years.
+
+Related: Twitter mostly meets its modest diversity goals
+
+Alphabet (Google's parent company) and Google.org have been embracing organizations that are pushing for equality. Last year, Google gave Black Girls Code a $2.8 million space in its New York City headquarters.
+
+Internally, however, Alphabet has struggled to diversify its workforce. Its percentage of black and Hispanic employees is at 2% and 3%, respectively, according to its diversity report released in June 2016.
+
+In December, Google's head of diversity retired; the company did not respond to request for comment about whether a replacement has been hired.

@@ -1,0 +1,31 @@
+The SEC might be about to wade into a war between Wall Street traders
+The SEC might be about to wade into a war between Wall Street traders
+
+
+The Securities and Exchange CommissionÂ may beÂ about to shine a spotlight on one of the hot topics inÂ Wall Street trading.
+
+The CommissionÂ is seeking additional comment on a request from the New York Stock Exchange to change the fees its charges for certain connectivity services, it said in aÂ note late last month.
+
+The SEC's focus is technical and the wording in the note is specific to particular charges, but upstart trading venues and high-speed trading firms are hoping it has broader significance. They sayÂ that establishment exchanges such as the NYSE are overcharging for connectivity, colocation and market data.
+
+"We are pleased that the Commission will be subjecting this incremental fee application to review,"Â Doug Cifu, the CEO of electronic trading firm Virtu told Business Insider."As we have repeatedly said we think exchange market data and connectivity fees have 'jumped the shark' as an excessive cost burden on the industry."
+
+Several big market-makers have argued they are in a bindÂ because they have to sign up to use the NYSE's and Nasdaq's proprietary depth-of-book feeds and pay for other add-ons, such as having their servers located in exchange data centers.Â The exchanges, in contrast, argue that these feeds are optional, that there is competition, and that trading firms can terminate feeds or colocation arrangements if they get too pricey.Â
+
+The latest SEC note, which is buried in a Nov. 21 update and went largely unnoticed, saidÂ that the commission is "concerned" that there might not be "viable alternatives for users" but to pay the fee NYSE is proposing. In all, the word "concerned" appears five times in the note. It said:Â
+
+"The Commission is concerned that the Exchange has not supported its argument that there are viable alternatives for Users inside the data center in lieu of obtaining such information from the Exchange. The Commission seeks comment on whether Users do have viable alternatives to paying the Exchange a connectivity fee for the NYSE Premium Data Products."
+
+The SEC's request for additional comment could of course have little or no bearing on NYSE's application to change its fees. Still, market participants say it couldÂ hint that change is on its way.
+
+"Obviously just because they are asking for comment doesn't mean they are going to ultimately find that the pricing is anti-competitive, but asking the question is the first step," Don Ross, CEO of equity trading platform PDQ Enterprises, told Business Insider.
+
+"This could be an interesting battle in the ongoing market-data-cost war between brokers and exchanges,"Â Justin Schack, a partner at Rosenblatt Securities, added.
+
+The New York Stock Exchange and the SEC declined to comment.Â
+
+The decision also represents the latest episode inÂ the long-running battle between NYSE andÂ IEX, America's newest stock exchange. IEX was the only firm to file a comment letter in response to NYSE's application, and itÂ pushed for the SEC to ask for more informationÂ on the fees the exchange group was proposing.
+
+The Commission has invited interested parties to submit data, views and arguments by December 12. Anyone who wants to respond to an earlier submission has until December 27 to do so.Â
+
+Watch this space.

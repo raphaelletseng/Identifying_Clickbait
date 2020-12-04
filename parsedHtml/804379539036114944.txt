@@ -1,0 +1,23 @@
+How to find out if your Google account has been hacked
+How to find out if your Google account has been hacked
+Tweet     Stumble     Email  The Gooligan malware attack targeting Android devices has infected more than a million Google accounts and growing by 13,000 new users a day. It affects devices running Android 4 (Jelly Bean, KitKat) and Android 5 (Lollipop), according to Check Point . Gooligan spreads via apps from third-party app stores and malicious links in phishing attack messages. It downloads a rootkit to steal authentication tokens to breach data from Google Play, Gmail, Google Photos, Google Docs, G Suite, Google Drive and other programs. It also installs app that can steal your account information to post fake ratings and reviews to raise the profile of these apps. Has your account been compromised? It’s easy to check to find out. Head to the Check Point website and enter your email address. It will immediately let you know if your account has been breached. You can also scroll to the bottom of this blog post from Check Point to see a list of dozens of apps known to be infected by Gooligan. To see if you have any of these apps installed on your device, go to for an alphabetical list. If your account has been breached, you will need to wipe your Android device and perform a clean installation. Afterward, you will need to change the password for your Google account used with the device.                Tweet     Stumble     Email
+
+The Gooligan malware attack targeting Android devices has infected more than a million Google accounts and growing by 13,000 new users a day. It affects devices running Android 4 (Jelly Bean, KitKat) and Android 5 (Lollipop), according to Check Point.
+
+Gooligan spreads via apps from third-party app stores and malicious links in phishing attack messages. It downloads a rootkit to steal authentication tokens to breach data from Google Play, Gmail, Google Photos, Google Docs, G Suite, Google Drive and other programs. It also installs app that can steal your account information to post fake ratings and reviews to raise the profile of these apps.
+
+Has your account been compromised? It’s easy to check to find out.
+
+Check your account at Check Point
+
+Head to the Check Point website and enter your email address. It will immediately let you know if your account has been breached.
+
+Photo by Matt Elliott/CNET
+
+You can also scroll to the bottom of this blog post from Check Point to see a list of dozens of apps known to be infected by Gooligan. To see if you have any of these apps installed on your device, go to Settings > Apps for an alphabetical list.
+
+What to do if you have been hacked
+
+If your account has been breached, you will need to wipe your Android device and perform a clean installation. Afterward, you will need to change the password for your Google account used with the device.
+
+This article originally appeared on CNET.com.

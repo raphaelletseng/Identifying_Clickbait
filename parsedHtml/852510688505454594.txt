@@ -1,0 +1,21 @@
+30 Under 30 Asia 2017: Finance & Venture Capital
+30 Under 30 Asia 2017: Finance & Venture Capital
+
+
+WikiLeaks' latest document dump allegedly shows the CIA has devoted a lot of time to going after Apple products.
+
+The leaking organization released another dose of documents on Thursday that detail "several CIA projects that infect Apple Mac firmware ... developed by the CIA's Embedded Development Branch," according to the press release announcing the publication.
+
+SEE ALSO: WikiLeaks document dump alleges the CIA can hack almost everything
+
+The CIA allegedly used a type of firmware malware to infect Macs and iPhones so the infection will continue even if the device's owner reinstalls the operating system.
+
+The CIA has also gone after iPhones before they make it into the hands of customers, according to WikiLeaks, though it's not possible to prove that from these documents.
+
+"...the CIA has been infecting the iPhone supply chain of its targets since at least 2008," the release claims. WikiLeaks claims the CIA has gone after mail orders of Apple devices to infect devices before they get to their destination.
+
+This is WikiLeaks's second recent document dump that details allegations of CIA hacking techniques. The first, released earlier this month, detailed how the CIA has turned smart TVs into spying tools, tried to hack cars, and is able to get around encrypted chat apps such as Signal and WhatsApp.
+
+The documents in the initial dump appeared to be legitimate according to folks who know how to identify such things. That bears mentioning, because WikiLeaks lost a lot of credibility in 2016 as its public persona appeared to align itself with the campaign of President Donald Trump. Some critics have labeled it an arm of Russian government intelligence.
+
+Several of the documents revealed here are more than half a decade old, which shows the CIA has long tried to get the jump on Apple devices.

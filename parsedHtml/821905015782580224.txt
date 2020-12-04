@@ -1,0 +1,31 @@
+The Most Common Passwords In 2016 Are Truly Terrible
+The Most Common Passwords In 2016 Are Truly Terrible
+Cybersecurity is on many people’s minds these days, and yet using “password” as a password is apparently still a thing. On Friday, password management company Keeper Security released a list of the most common passwords of 2016 ― and it’s, well, shameful. The most popular password, making up nearly 17 percent of the 10 million passwords the company analyzed, was “123456.” “Password” was also among the top 10 passwords, coming in as the eighth most common. Keeper Security assembled the list using a collection of passwords that were leaked through data breaches in 2016. The company didn’t include leaked passwords if the breaches were announced that year but occurred prior to 2016, co-founder and CEO Darren Guccione noted in a blog post that revealed the findings. Keeper Security advised users to select a password that’s more than six characters long and contains a variety of characters — including numbers, uppercase and lowercase letters, and even special characters. The company also suggests avoiding full words, which it refers to as “dictionary terms.” Two of the most common password-cracking techniques are dictionary cracks and brute force cracks , Keeper Security says. Dictionary cracks try combinations of known passwords and personal information. This may include a user’s favorite sports team, children’s names, phone numbers or birthdays. Brute force cracks often use machines to compile potential passwords that wouldn’t be found in a dictionary. “Machines that can be purchased for less than $1,000 are capable of testing billions of passwords per second,” Keeper Security warns on its website. Though Guccione admonished internet users for not selecting more secure codes, he also said websites are responsible for protecting their users. “What really perplexed us is that so many website operators are not enforcing password security best practices,” he wrote. “While it’s important for users to be aware of risks, a sizable minority are never going to take the time or effort to protect themselves. IT administrators and website operators must do the job for them.” 123456 123456789 qwerty 12345678 111111 1234567890 1234567 password 123123 987654321 qwertyuiop mynoob 123321 666666 18atcskd2w 7777777 1q2w3e4r 654321 555555 3rjs1la7qe google 1q2w3e4r5t 123qwe zxcvbnm 1q2w3e Did your password make the list of shame? If so, it may be time to do some serious updating, or risk kissing your internet security goodbye. via GIPHY Related Coverage  Your Smartwatch Can Be Hacked To Monitor And Steal Your Passwords   Scientists Have Figured Out How To 'Fingerprint' Your Brain   Internet Security Basics: How to Protect Yourself Online   How Not to Get Hacked   Millions Of Twitter Passwords Leaked Online  ALSO ON HUFFPOST MORE:
+
+Cybersecurity is on many people’s minds these days, and yet using “password” as a password is apparently still a thing.
+
+On Friday, password management company Keeper Security released a list of the most common passwords of 2016 ― and it’s, well, shameful.
+
+The most popular password, making up nearly 17 percent of the 10 million passwords the company analyzed, was “123456.” “Password” was also among the top 10 passwords, coming in as the eighth most common.
+
+Keeper Security assembled the list using a collection of passwords that were leaked through data breaches in 2016. The company didn’t include leaked passwords if the breaches were announced that year but occurred prior to 2016, co-founder and CEO Darren Guccione noted in a blog post that revealed the findings.
+
+Scroll down to see the full list of common passwords.
+
+Andrew Brookes/Getty Images The most common password of 2016 was "123456," a security company has revealed.
+
+Keeper Security advised users to select a password that’s more than six characters long and contains a variety of characters — including numbers, uppercase and lowercase letters, and even special characters. The company also suggests avoiding full words, which it refers to as “dictionary terms.”
+
+Two of the most common password-cracking techniques are dictionary cracks and brute force cracks, Keeper Security says.
+
+Dictionary cracks try combinations of known passwords and personal information. This may include a user’s favorite sports team, children’s names, phone numbers or birthdays. Brute force cracks often use machines to compile potential passwords that wouldn’t be found in a dictionary.
+
+“Machines that can be purchased for less than $1,000 are capable of testing billions of passwords per second,” Keeper Security warns on its website.
+
+Though Guccione admonished internet users for not selecting more secure codes, he also said websites are responsible for protecting their users.
+
+“What really perplexed us is that so many website operators are not enforcing password security best practices,” he wrote. “While it’s important for users to be aware of risks, a sizable minority are never going to take the time or effort to protect themselves. IT administrators and website operators must do the job for them.”
+
+THE TOP 25 MOST COMMON PASSWORDS OF 2016:
+
+123456 123456789 qwerty 12345678 111111 1234567890 1234567 password 123123 987654321 qwertyuiop mynoob 123321 666666 18atcskd2w 7777777 1q2w3e4r 654321 555555 3rjs1la7qe google 1q2w3e4r5t 123qwe zxcvbnm 1q2w3e

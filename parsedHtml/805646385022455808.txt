@@ -1,0 +1,37 @@
+SAPVoice: Are You Ready For Artificially-Intelligent Enterprise Applications?
+SAPVoice: Are You Ready For Artificially-Intelligent Enterprise Applications?
+{{contrib_block.display_author.name}}  SAP       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. AlphaGo triumphed earlier this year into enterprise software enormous impact on HR most likely to close typical business questions Lights-Out Finance Intelligent Applications Enterprise Machine Learning in a Nutshell    Trending on {{channel_name}}
+
+We’re now clearly in an exponential technology world. Each year brings the same amount of innovation as the previous several years — and the human brain finds it hard to imagine the consequences.
+
+For perhaps the first time in history, technology is evolving faster than we expect it to. For example, experts estimated that it would take another decade before a computer would beat a world champion at the ancient and complex game of Go — yet AlphaGo triumphed earlier this year.
+
+It’s not hard to find parallels between how new technologies are changing the world today, and how they will affect our business systems in the future.
+
+For example, every Tesla car in hands-free driving mode gathers huge amounts of information about current conditions. This data isn’t just used to improving the driving of that particular car — the data is shared with all the other vehicles. Tesla has essentially created a massively parallel self-learning machine devoted to better driving.
+
+What if enterprise software could do the same thing, using the experiences of every business user to improve everybody’s experience? These intelligent applications would get automatically better and smarter every time we used them. Eventually, we could even replace existing processes with automated best practices.
+
+Incorporating artificial intelligence and machine learning into enterprise software opens the opportunity to simplify employees’ everyday lives and allows them to focus on higher value tasks. Here are just a few examples of what is already possible:
+
+Intelligent invoice-matching. Accounting systems can easily match invoices and payments if they have the same reference number, or the same amount. But what happens if a customer pays for two invoices in a single payment, tries to jam both reference numbers into the same field, and the amount doesn’t quite add up to the expected amount?
+
+Somebody in a shared service center has to wade manually through all the different possibilities, trying to figure out what has happened, and then make the required changes in the accounting system.
+
+Machine learning and predictive algorithms can help. For example, a chosen invoice might be matched to two different invoices, with a probability of 97% — even though there’s a small discrepancy in the total. The shared service center can now update the system and decide what to do with the remaining outstanding balance. And over time the system can automate these types of decisions based on past history.
+
+Smart Recruiting. Artificial intelligence has the potential to have an enormous impact on HR. For example, recruiters often have to go through thousands of job applications to identify suitable candidates. Machine learning can use data about existing successful hires and their resumes to identify the best candidates for a given job description, or the best job for a given candidate.
+
+Predictive Sales. Sales people can use these new intelligent technologies to sift through all the data relevant to their pipeline, helping them focus on the deals that are most likely to close.
+
+Social Buzz Management. Social media community managers are overwhelmed by tweets and Facebook posts. Machine intelligence can be used to automatically tag and cluster inbound messages and automatically suggest responses.
+
+What does the future hold?
+
+Looking further ahead, there’s a real possibility that we can completely rethink existing business applications from scratch. If we can more automatically answer a full range of typical business questions, much of traditional application workflow may not be required.
+
+This, in turn, may have profound effects on existing jobs and roles — for example, experts are already predicting a future for Lights-Out Finance, with all basic finance processes being networked, automated, event-driven, and inherently compliant.
+
+Want to know more? Check out these Intelligent Applications and consider enrolling in a free course on Enterprise Machine Learning in a Nutshell.
+
+This story also appeared on the SAP Business Trends community.

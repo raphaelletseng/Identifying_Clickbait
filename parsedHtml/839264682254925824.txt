@@ -1,0 +1,56 @@
+Sharks use electric fields to sense their prey's heartbeat
+Sharks use electrical fields to sense the heartbeats of their prey
+
+
+Sharks, rays and skates are able to hunt for prey hidden in the sandy sea floor thanks to their ability to 'listen' to their prey's heartbeat.
+
+These animals have electro-sensory organs that allow them to do this, but until now the way they work has remained a mystery.
+
+But new research has traced how the mechanism works from genes to cell physiology to behavior, and it relies on electrosensory cells that pick up faint electrical signs of life.
+
+Scroll down for video
+
+'Skates and sharks have some of the most sensitive electroreceptors in the animal world,' said Dr David Julius, professor and chair of physiology at UCSF and senior author of the study. Pictured is an alcian blue-stained skate with visible canals of ampullary organs which contain the electrosensory cells
+
+The study, conducted by researchers at UC San Francisco (UCSF), studied the electrosensory organ of Leucoraja erinacea, commonly called the little skate.
+
+'Skates and sharks have some of the most sensitive electroreceptors in the animal world,' said Dr David Julius, professor and chair of physiology at UCSF and senior author of the study.
+
+'Understanding how this works is like understanding how proteins in the eye sense light - it gives us insight into a whole new sensory world,' he said.
+
+For the study, the researchers isolated electrosensory cells from a skate's ampullary organs, and performed sensitive recordings that revealed two ionic currents - a voltage-sensitive calcium current that admits calcium ions into the cell in response to electrical disturbances, and a calcium-sensitive potassium current alters the normal electrical properties of the cell.
+
+These currents interact with one another to set up an electrical oscillation in the cells' membranes that is sensitive to outside electrical disturbances.
+
+This oscillation acts like an amplifier to allow the skate to detect the tiny electrical disturbances produced by the electrical field of a prey animal.
+
+The researchers also conducted gene expression experiments which confirmed the existence of two particular types of calcium and potassium channels with characteristics that enable skates' electrosensory perception.
+
+In one experiment, the researchers added genetic mutations to similar ion channel genes in rats to make them more like the skate channels.
+
+These changes led to electrical properties on the rat channels that made them work like those from skate electrosensory cells.
+
+In a final experiment, the researchers placed skates in tanks with an electrical source hidden under a layer of sand.
+
+While normal skates spent most of their time orienting towards and investigating the area of the tank with the hidden electrical signal, skates with these key ion channels blocked by drugs appeared to be unaware of the meal signal close to them.
+
+The ampullary organs contain the electrosensory cells. Pictured in an ampullary bundle containing these electrosensory cells, with an afferent nerve
+
+The findings reveal new information about how skates and sharks find their food, but could also reveal new information about our own biology, the researchers said.
+
+The skate's electrosensory system is evolutionarily related to the auditory system in mammals, and there are many similarities between the skate's electrosensory organs and the 'hair cells' of the inner ear which confer sensitive hearing in mammals.
+
+'Versions of the same ion channels with subtly different electrical properties are similarly important in our ears,' said Dr Nicholas Bellono, a postdoctoral researcher in UCSF's Julius lab and co-lead author of the study.
+
+HOW THE ELETROSENSORY SYSTEM WORKS For the study, the researchers isolated electrosensory cells from a skate's ampullary organs, and performed sensitive recordings that revealed two ionic currents. One of the currents is a voltage-sensitive calcium current that admits calcium ions into the cell in response to electrical disturbances. The other current is a calcium-sensitive potassium current that alters the normal electrical properties of the cell. These currents interact with one another to set up an electrical oscillation in the cells' membranes that is sensitive to outside electrical disturbances. This oscillation acts like an amplifier to allow the skate to detect the tiny electrical disturbances produced by the electrical field of a prey animal.
+
+'So understanding exactly how small differences in these channels affect electrical function could be important for better understanding the auditory system,' he said.
+
+Dr Duncan Leitch, a postdoctoral researcher in the Julius lab and the paper's other co-lead author, said: 'Electrosensation has also evolved multiple times in the tree of life, so it will be very interesting to see how other species have gone about solving the same problem.
+
+'This study opens the door to understanding the biology and evolution of electrical sensation in the animal kingdom much more broadly,' he said.
+
+The skate's electrosensory system is evolutionarily related to the auditory system in mammals, and there are many similarities between the skate's electrosensory organs and the 'hair cells' of the inner ear which confer sensitive hearing in mammals
+
+
+

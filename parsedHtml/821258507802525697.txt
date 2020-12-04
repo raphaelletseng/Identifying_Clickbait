@@ -1,0 +1,39 @@
+RackspaceVoice: The Last Mile: How Data Analytics In The Cloud Is Improving Parcel Delivery
+RackspaceVoice: The Last Mile: How Data Analytics In The Cloud Is Improving Parcel Delivery
+{{contrib_block.display_author.name}}  Rackspace       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. UPS is the largest delivery company on the planet, flying more than 500 jets in a mission to serve a customer base that topped 8 million last year. Operating at a similar scale is the U.S. Postal Service, which delivered 154 billion pieces of mail in 2015 using 215,000 vehicles. At that scale, the postal service is one of the largest civilian fleets in the world.                  Trending on {{channel_name}}
+
+By Dmitry Sheynin
+
+UPS is the largest delivery company on the planet, flying more than 500 jets in a mission to serve a customer base that topped 8 million last year.
+
+Operating at a similar scale is the U.S. Postal Service, which delivered 154 billion pieces of mail in 2015 using 215,000 vehicles. At that scale, the postal service is one of the largest civilian fleets in the world.
+
+Despite the enormity of their infrastructures and logistical smarts, UPS and the Postal Service haven’t been able to overcome one long-standing obstacle: the last mile from distribution center to doorstep.
+
+While virtually every other segment of the supply chain has been streamlined, the delivery of merchandise from regional warehouses to a customer’s front door continues to be a source of great inefficiency.
+
+By some estimates, the last mile accounts for as much as 28 percent of the total cost of package delivery. The reasons are many and varied. Perhaps the most common is that many people simply aren’t home when deliveries are attempted, typically between 9 a.m. and 7 p.m. on weekdays. But there’s more to it than that.
+
+“Last-mile delivery suffers from a number of complexities that are different from other parts of the supply chain,” explained Matthias Winkenbach, director of MIT’s Megacity Logistics Lab. “One issue is they’re extremely vulnerable toward dynamically occurring disruptions, like traffic accidents or just traffic jams or weather influences.”
+
+Complications are particularly acute in dense urban centers, where heavy traffic is often the rule rather than the exception. Winkenbach said this will only get worse. By 2025, he said, it’s estimated that roughly 25 percent of the global population will reside in the world’s 600 largest cities. To help mitigate the last-mile problem, Winkenbach and his team at MIT are helping companies apply data analytics.
+
+Over the past decade, the explosion of cloud-based services, such as Google Maps, has yielded a wealth of actionable information to aid in supply chain logistics. This data is increasingly being leveraged by conventional shippers, retailers and a growing stable of innovative startups that deal exclusively in last-mile delivery. One of those startups, Deliv, is a same-day delivery service that stores and online retailers can offer and, much like Uber, relies on app-connected freelance drivers to handle the back and forth.
+
+These companies combine a plethora of publicly available cloud data with internal information to devise more efficient routes and delivery schedules to optimize package delivery over the last mile.
+
+Part of the solution is teaching companies to better use the information that is already available.
+
+“With most of the companies that we work with, we see they have all this data, but they struggle to connect the dots — connecting different sources of data to generate insights out of them,” Winkenbach said. “The most important source of data is actually the companies’ operations themselves. For instance, we work with a lot of manufacturers and retailers who do their own delivery. Most of these vehicles carry GPS sensors or other telemetry-capturing devices. They have high-resolution data on how the vehicles move and all other sorts of data that they capture but hardly ever use.”
+
+Data analytics can process this data to enact logistical efficiencies. For example, connecting real-time traffic data in the cloud with historical traffic statistics can offer valuable insights into local congestion patterns over time. That information can then be used to optimize predictive planning of delivery routes and help reroute vehicles.
+
+It’s worth noting that organizations need not shoot for the moon to achieve significant gains. For some of the larger companies that Winkenbach works with, he says even a 10 percent reduction in delivery time per customer can yield substantial cost savings.
+
+It remains to be seen whether the future of last-mile delivery will reflect the model propagated by startups like Deliv, or if these capabilities will eventually be brought in-house by the world’s major shippers and retailers. But, according to Charles King, principal analyst at Pund-IT, one thing is already clear: Everyone stands to benefit.
+
+“Nearly every organization and individual in the supply chain can potentially be impacted by these technologies,” he said. “From the people who load items for delivery into trucks to the consumers who answer their doorbells and receive their packages.”
+
+Dmitry Sheynin is a Brooklyn-based journalist covering stories at the intersection of technology, media and culture.
+
+Visit Elevating Performance to learn more about how companies are incorporating technology to boost performance.

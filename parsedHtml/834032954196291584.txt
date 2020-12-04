@@ -1,0 +1,58 @@
+EE balloons and drones to help fix mobile blackspots
+
+A fleet of blimps is bringing mobile phone and wireless broadband coverage to rural communities in the UK.  Mobile network operator EE says the fleet will enable remote communities to maintain voice and data services when coverage is lost due to natural disasters such as flooding. EE expects to launch its first “helikite” – a mobile broadcast site tethered to helium balloons – later this year. EE is also preparing to deliver coverage via drones, although that project is not ready to launch. The balloons will allow a mobile signal to be beamed into the area below, allowing communities to make calls and access the internet when the traditional mobile phone mast system goes down or needs more capacity. Marc Allera, the chief executive of EE, said that the balloons – and ultimately the drones – could also be used to boost coverage at major events and venues such as Glastonbury or Wembley Stadium, where mobile phone users often struggle to connect to networks. “I see innovations like this revolutionising the way people connect,” he said. “In the future, why couldn’t an event organiser request temporary EE capacity increase in a rural area. Or a climber going up Ben Nevis order EE aerial coverage to follow them as they climb?” However, the company added that airspace regulations could hamper wider use at football matches and music festivals. The company said the helikite balloons are best suited for ensuring coverage in the case of natural disasters and events, because they can stay airborne for up to a month and have a signal radius of up to 5km. The balloons are more weather-resistant than the drones, although the company said lightning strikes posed a risk. Because they are motor-powered the drones can only stay airborne for a few hours at a time, and only have a signal range of up to 2km, making them best suited for shorter usage such as search and rescue operations. Balloons and drones have been identified as a cheap solution to problems delivering mobile and broadband services to communities where it is expensive to build a traditional network of masts. Facebook has signed up almost half the countries in Africa to its free internet service and is exploring options including deploying solar-powered drones to reach remote communities. Last month, it emerged that Google had scrapped its project exploring the development of massive solar-powered drones to deliver internet to rural and remote parts of thew world a year ago. It is still investing in Project Loon, which sends balloons to the edge of space to beam internet signal to the land below it. Allera, who launched the scheme at London’s Oval cricket ground on Tuesday, said EE’s “air mast” solution, which the company is currently in the process of patenting, is primarily intended to be used for keeping rural communities connected in times of disaster and helping search and rescue missions. He said the balloons and drones are not being designed as a permanent solution to ensuring universal mobile and internet coverage across the UK. “Rural parts of the UK provide more challenges to mobile coverage than anywhere else,” he said. EE expects that its 4G network will cover 92% of Britain geographically by the end of this year, excluding balloon and drone coverage. The mobile operator also has the contract for the UK’s Emergency Services Network to supply communications to the police, fire and ambulance services. The fleet of helikites are not going to be used to support the ESN, at least initially. Topics  EE   Telecommunications industry   Telecoms   Drones (non-military)
+
+A fleet of blimps is bringing mobile phone and wireless broadband coverage to rural communities in the UK.
+
+
+
+Mobile network operator EE says the fleet will enable remote communities to maintain voice and data services when coverage is lost due to natural disasters such as flooding. EE expects to launch its first “helikite” – a mobile broadcast site tethered to helium balloons – later this year. EE is also preparing to deliver coverage via drones, although that project is not ready to launch.
+
+The balloons will allow a mobile signal to be beamed into the area below, allowing communities to make calls and access the internet when the traditional mobile phone mast system goes down or needs more capacity.
+
+
+
+The future of shopping: drones, digital mannequins and leaving without paying Read more
+
+Marc Allera, the chief executive of EE, said that the balloons – and ultimately the drones – could also be used to boost coverage at major events and venues such as Glastonbury or Wembley Stadium, where mobile phone users often struggle to connect to networks.
+
+
+
+“I see innovations like this revolutionising the way people connect,” he said. “In the future, why couldn’t an event organiser request temporary EE capacity increase in a rural area. Or a climber going up Ben Nevis order EE aerial coverage to follow them as they climb?”
+
+
+
+However, the company added that airspace regulations could hamper wider use at football matches and music festivals.
+
+
+
+The company said the helikite balloons are best suited for ensuring coverage in the case of natural disasters and events, because they can stay airborne for up to a month and have a signal radius of up to 5km.
+
+The balloons are more weather-resistant than the drones, although the company said lightning strikes posed a risk.
+
+Because they are motor-powered the drones can only stay airborne for a few hours at a time, and only have a signal range of up to 2km, making them best suited for shorter usage such as search and rescue operations.
+
+Facebook Twitter Pinterest An EE drone Photograph: Dan Wong Photography/EE
+
+Balloons and drones have been identified as a cheap solution to problems delivering mobile and broadband services to communities where it is expensive to build a traditional network of masts. Facebook has signed up almost half the countries in Africa to its free internet service and is exploring options including deploying solar-powered drones to reach remote communities.
+
+Last month, it emerged that Google had scrapped its project exploring the development of massive solar-powered drones to deliver internet to rural and remote parts of thew world a year ago. It is still investing in Project Loon, which sends balloons to the edge of space to beam internet signal to the land below it.
+
+Allera, who launched the scheme at London’s Oval cricket ground on Tuesday, said EE’s “air mast” solution, which the company is currently in the process of patenting, is primarily intended to be used for keeping rural communities connected in times of disaster and helping search and rescue missions.
+
+
+
+He said the balloons and drones are not being designed as a permanent solution to ensuring universal mobile and internet coverage across the UK.
+
+“Rural parts of the UK provide more challenges to mobile coverage than anywhere else,” he said.
+
+
+
+EE expects that its 4G network will cover 92% of Britain geographically by the end of this year, excluding balloon and drone coverage.
+
+
+
+The mobile operator also has the contract for the UK’s Emergency Services Network to supply communications to the police, fire and ambulance services. The fleet of helikites are not going to be used to support the ESN, at least initially.
+
+
+

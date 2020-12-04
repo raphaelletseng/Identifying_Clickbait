@@ -1,0 +1,35 @@
+Why The Pay Gap Widens As Women Get Older
+Why The Pay Gap Widens As Women Get Older
+{{contrib_block.display_author.name}}  Jeff Kauflin       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Shutterstock New data from Hired.com shows that women experience a widened pay gap several years into their career. She took Hired’s advice and upped her salary preference. Among the 18 companies that contacted Kirkpatrick through Hired, several offered a salary in the range of a 25% raise, and three or four made offers of a 50% bump. One of the firms that met Kirkpatrick's asking price (of a 25% raise) was Hired.com itself, and Kirkpatrick joined the startup as its lead data scientist. And companies often base new hires’ compensation on their most recent salary. Since women are generally paid less than men, that difference gets exacerbated at every new job they take. An earlier version of this article stated that Kirkpatrick initially wanted a 25% raise and that a representative from Hired suggested she ask for a 50% increase. Print Send Us Feedback Report Corrections Reprints & Permissions Trending on {{channel_name}}
+
+Shutterstock
+
+Jessica Kirkpatrick, a data scientist with a Ph.D. in astrophysics, was looking for a new job. She had spent the past few years working at tech firms in the Bay Area, and she began using Hired.com, a recruiting site. Hired asks candidates to state their preferred salaries, then matches them with potential employers. Kirkpatrick told Hired she wanted a 10% raise on her current compensation. She was surprised by what she learned next.
+
+A representative from Hired told Kirkpatrick that, based on the current market for data scientists, she should ask for a 25% raise. In other words, she was significantly underpaid at her current job. In a prior role, Kirkpatrick had found out she was paid less than her male counterparts, but it hadn’t been by such a large margin.
+
+Watch on Forbes:
+
+She took Hired’s advice and upped her salary preference. Among the 18 companies that contacted Kirkpatrick through Hired, several offered a salary in the range of a 25% raise, and three or four made offers of a 50% bump. One of the firms that met Kirkpatrick's asking price (of a 25% raise) was Hired.com itself, and Kirkpatrick joined the startup as its lead data scientist.
+
+Today Hired released a report showing that Kirkpatrick’s experience of seeing a widened wage gap several years into her career is common. According to Hired’s data, women aren't paid less than men early in their careers, a dynamic possibly driven by today’s heightened awareness of a gender pay gap. But when they reach six years’ experience, a gap appears. Recent data from workforce analytics firm Visier shows a similar pattern—the pay gap begins to widen for women at age 32 and continues to do so until age 40.
+
+Hired calculated the pay gap between men and women in the same job, at the same company. And it showed an overall gap of 4% for technical positions. That’s much lower than the often-cited 20% pay gap, because the latter compares all men with all women in the country, regardless of industry or job title. That doesn’t mean the 20% number isn’t valid; it is. It’s just set in a broader context.
+
+What causes the pay gap to grow alongside years of experience? “I believe biases and inequities accumulate over time,” Kirkpatrick says. For example, men are 30% more likely to be promoted from an entry-level role to manager, according to a study by McKinsey and Sheryl Sandberg’s LeanIn.org. Women are socialized to play down their achievements and self-promote less, Kirkpatrick adds.
+
+Another factor relates to negotiation. Women are less aggressive in negotiating, research has shown, and when they try, they meet more resistance and have less success than men. Kirkpatrick experienced this dynamic first-hand. After getting her Ph.D., she joined a tech company around the same time as two male colleagues with the same job title and similar experience. All three of them were initially offered the same salary by the same hiring manager, Kirkpatrick wrote in a Quartz post, and all asked for more money. Kirkpatrick was the only one denied an increase. The two men walked away with salaries $10,000 higher.
+
+Child care also matters. When women take parental leave, their salaries are affected more negatively than when men take leave.
+
+And companies often base new hires’ compensation on their most recent salary. Since women are generally paid less than men, that difference gets exacerbated at every new job they take.
+
+What can organizations and employees do to reduce the pay gap? First, companies should keep offers equitable, says Kirkpatrick. When a business sees a prospective hire who has a low current salary, it’s tempting to make him or her a low offer, since it may save tens of thousands of dollars in the short term. Conversely, for candidates with high current salaries who play hardball in negotiations, it’s tempting to go outside the company’s norms and offer more pay. “But in the long term, if you have large disparities, people figure that out,” Kirkpatrick says. “It’s not good for retaining talent and helping people feel like they’re at a place that values them.”
+
+Firms should conduct regular salary audits to look for gender and race-based inequities. Today Glassdoor released a 17-page guide for how employers can analyze the gender pay gap among their employees. And companies should recognize the need for mentorship and sponsorship of people who are underrepresented in their organization.
+
+For women preparing to negotiate, “come in armed with data knowing what your worth is,” Kirkpatrick says. Tools like PayScale, Glassdoor’s Know Your Worth and Comparably can help. Speaking with peers and joining professional groups is also useful—the more you can broaden the pool of people you discuss compensation with, the better.
+
+Correction: An earlier version of this article stated that Kirkpatrick initially wanted a 25% raise and that a representative from Hired suggested she ask for a 50% increase.
+
+Follow me on Twitter @JeffKauflin or email me at jkauflin[at]forbes[dot]com.

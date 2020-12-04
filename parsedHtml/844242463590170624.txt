@@ -1,0 +1,21 @@
+This hidden Twitter setting will free up precious space on your iPhone
+This hidden Twitter setting will free up precious space on your iPhone
+Running out of storage on your iPhone? Besides deleting a whole bunch of stuff and using weird weird tricks to free up storage, there's now another easy way to get back precious digital space...if you're a Twitter user. The latest version of the Twitter iPhone app includes settings to delete cached "media storage" and "web storage" files. SEE ALSO: The 7 things to delete first when your iPhone storage is full Depending on how frequent you use Twitter, the size of these cached storage files will vary. For me, I was able to regain over 1.1GB of storage clearing both. Trashing these files is super easy. First, you'll obviously want to update your Twitter app to the newest version through the App Store. Once you've done that, tap on the "Me" icon located in the bottom right, then hit tap the gear-shaped settings icon to the right of your profile picture. Tap "Settings" in the menu list that pops up, and then tap "Data usage". Image:  screenshot: raymond wong/mashable Image:  SCREENSHOT: RAYMOND WONG/MASHABLE I recommend just clearing the "media storage" and "web page storage" and not "all web storage" as that'll also delete your logins as well. And, just like that, you've got more storage on your iPhone. Of course, the app will get bloated up again with more photos and videos as you use it, but at least now you know where to look when your iPhone tells you that you have no more room for selfies. WATCH: This ingenious toilet paper tray will keep your iPhone safe in the bathroom
+
+Running out of storage on your iPhone? Besides deleting a whole bunch of stuff and using weird weird tricks to free up storage, there's now another easy way to get back precious digital space...if you're a Twitter user.
+
+The latest version of the Twitter iPhone app includes settings to delete cached "media storage" and "web storage" files.
+
+SEE ALSO: The 7 things to delete first when your iPhone storage is full
+
+Depending on how frequent you use Twitter, the size of these cached storage files will vary. For me, I was able to regain over 1.1GB of storage clearing both.
+
+Trashing these files is super easy. First, you'll obviously want to update your Twitter app to the newest version through the App Store.
+
+Once you've done that, tap on the "Me" icon located in the bottom right, then hit tap the gear-shaped settings icon to the right of your profile picture. Tap "Settings" in the menu list that pops up, and then tap "Data usage".
+
+Image: screenshot: raymond wong/mashable Image: SCREENSHOT: RAYMOND WONG/MASHABLE
+
+I recommend just clearing the "media storage" and "web page storage" and not "all web storage" as that'll also delete your logins as well.
+
+And, just like that, you've got more storage on your iPhone. Of course, the app will get bloated up again with more photos and videos as you use it, but at least now you know where to look when your iPhone tells you that you have no more room for selfies.

@@ -1,0 +1,89 @@
+FaceApp: Experts have privacy concerns about popular face transformation app
+
+
+
+FaceApp: Experts have privacy concerns about popular face transformation app
+
+Updated
+
+FaceApp has gone viral. Why? Because it lets you transform your face in hilarious ways.
+
+But privacy advocates warn you could be giving up much more information than you think.
+
+It's the number one free iPhone app in Australia and more than 20 other countries at the moment, according to Applyzer.com. More than 700,000 people are reportedly downloading it every day.
+
+Its creators, based in Russia, say the app uses a form of artificial intelligence (AI) — known as a neural network — to scan faces and make them younger, older, a different gender, or more attractive.
+
+FaceApp's founder Yaroslav Goncharov said recently the app used "neural networks to modify a face on any photo while keeping it photorealistic".
+
+But like many apps before it that take pictures on smartphones, it has run into racism and privacy controversies.
+
+There's a privacy policy, but it's not amazing
+
+The problem with the app — and probably like many others on your phone — is it's not clear what happens to all the data you give it.
+
+The company's privacy policy leaves a fair amount of wriggle room, according to technology commentator Stilgherrian.
+
+"This is a pretty standard boilerplate privacy policy, which effectively offers you no protection at all," he said.
+
+"The entire business model of 'Startup-land' is scooping up massive quantities of personal data without any idea yet of how it might be used in the future.
+
+"Meanwhile, the players in Startup-land are only looking as far ahead as their share float, or being bought out by Facebook or Google or whoever."
+
+There have also been accusations the app was biasing lighter skin tones, leading to allegations that it was racist.
+
+Its "hotness" filter (now renamed "spark"), was said to be whitening the skin of people of colour to make them more attractive.
+
+In a statement to TechCrunch, Mr Goncharov apologised and said it was "working on a complete fix that should arrive soon".
+
+"We are deeply sorry for this unquestionably serious issue," he told the tech website.
+
+"It is an unfortunate side-effect of the underlying neural network caused by the training set bias, not intended behaviour."
+
+But Stilgherrian said it was a problem that should have been predicted.
+
+"The allegation of racism goes to the core of Startup-land's toxic bro culture, whether in Silicon Valley or, as in this case, Moscow.
+
+"It's a problem across the whole start-up ecosystem that aspires to be the next billion-dollar company.
+
+"FaceApp has apologised for training their AI on (presumably) mostly-white faces, but why didn't they notice this to begin with?"
+
+The lawyer's take
+
+So with allegations of racism and privacy concerns, should you use it?
+
+Lawyer Michael Bradley, a managing partner at Marque Lawyers, said that was up to you to decide, but like many things that come for free in the technology world: buyer beware.
+
+"Anyone who has placed their face online in conjunction with their name and other identifying data (for example, anyone with a social media profile or website profile), is already plenty vulnerable to being digitally captured for future facial recognition uses," Mr Bradley told the ABC.
+
+
+
+"This particular app doesn't add much extra danger. However, consenting to those uses for commercial purposes is an additional step which has no upside for humans."
+
+Mr Bradley said FaceApp's privacy policy says nothing about what would happen to your data if you stopped using the service.
+
+"It does say that, if they sell their business, your data will be going with it and you consent to that happening," he said.
+
+"The privacy waiver extends to any affiliates of FaceApp or its successor. Hypothetically, if FaceApp sells out to the NSA..."
+
+Privacy experts weigh in
+
+The chair of the Australian Privacy Foundation David Vaile is blunt.
+
+"Short answer: don't use it," he said.
+
+"They ask for way more rights than they need to offer the service to you, [they] can remove the data from any effective legal protection regime, share it with almost anyone, and retain it indefinitely.
+
+"It is impossible to tell from this what happens when you upload it, that is the problem. The licence is so lax. They can claim you agree they can send to wherever they like to whoever they like, and so long as there is some connection, [they can] do a lot of things with it."
+
+Jon Lawrence, the executive officer of Electronic Frontiers, said people needed to think carefully — especially when it came to facial recognition.
+
+"Facebook of course are at the forefront of this," he said.
+
+"Facial recognition is rapidly becoming one of the key elements of digital identity and people should therefore consider protecting their facial image in the same way they should be protecting other elements of their identity, like their date of birth, tax file number etc."
+
+Questions to FaceApp regarding retention of images were not answered.
+
+Topics: internet-technology, internet-culture, security-intelligence, australia
+
+First posted

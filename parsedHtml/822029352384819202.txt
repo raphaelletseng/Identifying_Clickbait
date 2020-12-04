@@ -1,0 +1,49 @@
+What you should really know about every major hacking story
+What you should really know about every major hacking story
+President-elect Donald J. Trump’s erratic public statements — last summer’s invitation to Russia to hack Democratic candidate Hillary Clinton , last fall’s glib debate comments about “the cyber” and his suggestion at last week’s press conference that it was the Democratic National Committee’s fault for getting hacked — haven’t helped.   We’re not all doomed      Hacks don’t just happen       Social engineering is distinct from hacking  The latter, as we’ve seen in the repeated success of phishing emails, isn’t just a matter of correcting code.    Attributing blame is hard   There are things you can do    More from Rob: Outgoing FCC chair: Don’t go backward on net neutrality Selfie drones and more fly into CES 2017 Faraday Future’s FF91: Electric speed at a vaporous price
+
+You can actually protect yourself against cyber attacks.
+
+The way we talk about cybersecurity is a mess. Even as Russian hackers and ransomware attacks continue to make headlines, the media coverage can’t seem to get past a level of vagueness that invites readers to throw their hands up in frustration. The payback: learned helplessness that stops us from dealing with the problem.
+
+President-elect Donald J. Trump’s erratic public statements — last summer’s invitation to Russia to hack Democratic candidate Hillary Clinton, last fall’s glib debate comments about “the cyber” and his suggestion at last week’s press conference that it was the Democratic National Committee’s fault for getting hacked — haven’t helped.
+
+But this isn’t just Trump’s fault. Mass-media coverage continues to leave readers under-informed about what happened, as well as why and what they should do when a new cyber attack is uncovered.
+
+Sometimes it’s just wrong. The Washington Post first trumpeted a scoop that Russian hackers had breached a Vermont electric utility’s systems, then rushed to correct the story, reporting that Russians weren’t involved and there might not have been any hacking.
+
+All of this can leave readers and listeners feeling confused, disempowered or worse.
+
+We’re not all doomed
+
+In his recent role as cybersecurity commentator, Trump told reporters at a New Year’s Eve party at his Mar-a-Lago estate in Florida that “no computer is safe.” He suggested that if you want information sent securely, you should have a courier hand-deliver it.
+
+The president-elect has company in that view. I see it all the time in comments here when I write about cybersecurity. And computing professionals spend so much time arguing that any one security scheme is fatally flawed that Facebook (FB) chief security officer Alex Stamos calls this nothing-is-safe mindset “security nihilism.”
+
+Trump hasn’t always felt that way about computer security. Last February, he called for a boycott of Apple (AAPL) if it wouldn’t unlock the iPhone used by one of the San Bernardino shooters. Less than two months later, the FBI announced that it had gotten into the phone anyway.
+
+(Bizarre subsequent plot twist: The company reported to have done that work for the FBI, the Israeli firm Cellebrite, itself admitted last week that hackers had breached one of its servers to extract customer data. So you should also suspect claims of bulletproof security.)
+
+Hacks don’t just happen
+
+Stories about hacking incidents too often offer near-zero details on what actually happened. A data breach was discovered, somebody’s email account was compromised, a social-media account was commandeered, ransomware locks up an organization’s system — we’re only told those things took place but not how.
+
+It’s as if an article about a robbery didn’t include how the thieves took the goods. In cybersecurity, this tendency to shy away from details is compounded by the reluctance of victimized organizations to document what went wrong.
+
+“Companies or victims far too often revert to silence that enables criminals to continue to proliferate,” commented Alex Rice, founder and chief technical officer of the security firm HackerOne.
+
+Social engineering is distinct from hacking
+
+A lot of coverage can’t even differentiate between exploiting vulnerabilities in software versus “social engineering” that fools fallible humans into giving up their passwords.
+
+The former is easier to fix. “90% of all hacks could be prevented simply by installing the patches we already have,” observed Jeremy Epstein, the security researcher who documented crippling flaws in Winvote voting machines.
+
+The latter, as we’ve seen in the repeated success of phishing emails, isn’t just a matter of correcting code.
+
+The New York Times’ unpacking of how Russian attackers successfully targeted not just Democratic National Committee servers, but also phished the personal email accounts of senior party officials, including Hillary Clinton campaign chair John Podesta, was a painful but educational read in that regard.
+
+But Podesta’s own comments — for example, in an NBC News interview and a Washington Post op-ed denouncing the FBI’s lax response — describe his travails as undifferentiated hacking.
+
+Attributing blame is hard
+
+Trump did make one good point in his New Year’s Eve musings when he said “hacking is a very hard thing to prove, so it could be somebody else.” The next day, the Post was walking back its report of Russians hacking Burlington Electric.

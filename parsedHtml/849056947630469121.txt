@@ -1,0 +1,35 @@
+The 8 best new features Apple added to your iPhone in iOS 10.3
+The 8 best new features Apple added to your iPhone in iOS 10.3
+After releasing roughly 437 different iOS 10.3 betas to developers over the past few weeks alone, Apple has finally released iOS 10.3 to the public. The new mobile software is available as an over the air (OTA) download or as a download through iTunes on a Mac or Windows PC, and it’s compatible with 19 different Apple devices dating as far back as the iPhone 5, 4th-generation iPad, iPad mini 2, and the 6th-generation iPod touch. Should you be excited? Should you rush to download and install iOS 10.3 on your iPhone or iPad as soon as possible? In this post, we’ll run through all of the top new features Apple introduced in iOS 10.3.   Thanks for fixing my iPhone again, Google : The most talked-about new feature in iOS 10.3 is Find My AirPods, which obviously only matters if you own a pair of Apple’s hot new AirPods. They’re still next to impossible to find in Apple stores, so Amazon is really your only hope if you want AirPods anytime soon . There’s now a new option in the Find My iPhone app that can track down your AirPods, but it’s nowhere near as accurate or as useful as it is for iPhones and iPads since AirPods don’t have a GPS radio or the ability to connect to any networks. Instead, this is basically a log that will show you the last location where your iPhone was connected to your AirPods. If you forget your AirPods somewhere, this nifty new feature could definitely help you find them. If you haven’t connected to them in a while or if they’re stolen, you’re pretty much out of luck. : You might not even notice this one, but Apple made a subtle change to the transition animations that are shown as apps open and close in iOS 10.3. They now have slightly more rounded edges, which is definitely not a big deal. But they also seem to move a bit faster, which is a big deal since it speeds up the interface a bit. : In the Maps app, users can now 3D Touch the weather icon to see a local forecast for the area. : There is now a new Apple ID profile section in the Settings app that you’ll see at the very top of the first screen. It gives you access to a single page where you’ll find your full contact profile, security settings, payment information, iCloud account details, App Store settings, Family Sharing settings and a bit more. Also of note, this page displays every Apple device where you’re currently signed in. : You’ll now find a new section at the top of your iCloud settings page with a breakdown of how your iCloud storage is being used. : This is a big one, though it takes place completely behind the scenes so you won’t even realize it’s happening. Installing iOS 10.3 will automatically update your iPhone or iPad to use Apple File System (APFS) instead of HFS+. APFS is better optimized for NAND flash storage so files can be accessed more quickly, and it also supports stronger encryption. : This is obviously a new feature that will only be appreciated by Verizon Wireless subscribers, but iCloud calling features are now finally supported if you use Verizon. That means you can make or receive voice calls on your Mac, iPad, iPod touch, and Apple Watch. : You know that widgets panel you never use? There’s a new Podcasts widget available now (it’s actually a pretty cool addition for podcast fans). It’s probably time to admit the Galaxy S8 design is better than Apple’s iPhone 7 design Leak: You’ve seen Samsung’s Galaxy S8+ a million times, but never quite like this Tesla’s Model 3 dashboard won’t be as futuristic as we hoped
+
+After releasing roughly 437 different iOS 10.3 betas to developers over the past few weeks alone, Apple has finally released iOS 10.3 to the public. The new mobile software is available as an over the air (OTA) download or as a download through iTunes on a Mac or Windows PC, and it’s compatible with 19 different Apple devices dating as far back as the iPhone 5, 4th-generation iPad, iPad mini 2, and the 6th-generation iPod touch.
+
+Should you be excited? Should you rush to download and install iOS 10.3 on your iPhone or iPad as soon as possible? In this post, we’ll run through all of the top new features Apple introduced in iOS 10.3.
+
+Don't Miss: Thanks for fixing my iPhone again, Google
+
+Find My AirPods: The most talked-about new feature in iOS 10.3 is Find My AirPods, which obviously only matters if you own a pair of Apple’s hot new AirPods. They’re still next to impossible to find in Apple stores, so Amazon is really your only hope if you want AirPods anytime soon.
+
+There’s now a new option in the Find My iPhone app that can track down your AirPods, but it’s nowhere near as accurate or as useful as it is for iPhones and iPads since AirPods don’t have a GPS radio or the ability to connect to any networks. Instead, this is basically a log that will show you the last location where your iPhone was connected to your AirPods.
+
+If you forget your AirPods somewhere, this nifty new feature could definitely help you find them. If you haven’t connected to them in a while or if they’re stolen, you’re pretty much out of luck.
+
+App Transition Animations: You might not even notice this one, but Apple made a subtle change to the transition animations that are shown as apps open and close in iOS 10.3. They now have slightly more rounded edges, which is definitely not a big deal. But they also seem to move a bit faster, which is a big deal since it speeds up the interface a bit.
+
+Weather in Maps: In the Maps app, users can now 3D Touch the weather icon to see a local forecast for the area.
+
+Apple ID Profile: There is now a new Apple ID profile section in the Settings app that you’ll see at the very top of the first screen. It gives you access to a single page where you’ll find your full contact profile, security settings, payment information, iCloud account details, App Store settings, Family Sharing settings and a bit more.
+
+Also of note, this page displays every Apple device where you’re currently signed in.
+
+iCloud Storage: You’ll now find a new section at the top of your iCloud settings page with a breakdown of how your iCloud storage is being used.
+
+New File System: This is a big one, though it takes place completely behind the scenes so you won’t even realize it’s happening. Installing iOS 10.3 will automatically update your iPhone or iPad to use Apple File System (APFS) instead of HFS+. APFS is better optimized for NAND flash storage so files can be accessed more quickly, and it also supports stronger encryption.
+
+Voice Call Continuity for Verizon: This is obviously a new feature that will only be appreciated by Verizon Wireless subscribers, but iCloud calling features are now finally supported if you use Verizon. That means you can make or receive voice calls on your Mac, iPad, iPod touch, and Apple Watch.
+
+Podcasts Widget: You know that widgets panel you never use? There’s a new Podcasts widget available now (it’s actually a pretty cool addition for podcast fans).
+
+Trending right now:
+
+See the original version of this article on BGR.com

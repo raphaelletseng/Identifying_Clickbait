@@ -1,0 +1,51 @@
+Amazon’s Flying Warehouse Idea Isn’t Even Its Biggest Challenge
+Amazon's Flying Warehouse Plan Has A Big Catch
+The shuttles could also deliver workers to their jobs in the air ― if a human touch is even needed. The patent notes the possibility that the process could be fully automated or controlled remotely. I just unearthed the Death Star of #ecommerce via @cbinsights ... AMZN patent for airborne warehouses at 45K ft spitting out delivery drones pic.twitter.com/qEz2ilUtJP Leavitt noted in a “Good Morning America” interview that companies often file lots of patents applications, and they don’t necessarily mean the company is putting resources into a particular project. Amazon did not respond to a request for comment Friday, and it’s unclear if it is seriously working on airships or if the idea is logistically, financially and technically sound. First-ever #AmazonPrimeAir customer delivery is in the books. 13 min—click to delivery. Check out the video: https://t.co/Xl8HiQMA1S  pic.twitter.com/5HGsmHvPlE    ALSO ON HUFFPOST 2016 International Drone Photography Contest Winners       Share this slide:       MORE:
+
+Amazon’s proposal for a roaming airborne warehouse might sound impossibly futuristic, but it’s not the reason its Prime Air project is still grounded in the U.S.
+
+News of the company’s patent for an “airborne fulfillment center utilizing unmanned aerial vehicles for item delivery” circulated widely after it was unearthed Thursday by Zoe Leavitt, a tech analyst at the firm CB Insights. Excitement about the proposal ignores the boring reality: The biggest problem for the e-commerce giant to solve before it can start commercial drone delivery in the U.S. is government regulations, not technology.
+
+The patent, which Amazon applied for in 2014 and was awarded in April, describes an airship that would hover over metropolitan areas above commercial airspace at 45,000 feet. It would house a fleet of drones as well as a select inventory of products routinely restocked by smaller shuttle ships. If a customer ordered something stored on a nearby airship, a drone would be instructed to “engage the item,” navigate to the delivery location and arrive “within minutes.”
+
+The shuttles could also deliver workers to their jobs in the air ― if a human touch is even needed. The patent notes the possibility that the process could be fully automated or controlled remotely.
+
+I just unearthed the Death Star of #ecommerce via @cbinsights... AMZN patent for airborne warehouses at 45K ft spitting out delivery drones pic.twitter.com/qEz2ilUtJP — Zoe Leavitt (@zoe_leavitt) December 28, 2016
+
+One of the benefits of an airborne warehouse is the ability to move around depending on weather or demand, according to the patent.
+
+Amazon uses the example of a football game: An airship could be filled in advance with popular items, then hover above the field, conveniently displaying advertisements for the items it has in stock. Fans could potentially buy food or a jersey from their phones while watching the game, and a drone would deliver their order a few minutes later.
+
+Logan Campbell, chief executive of drone consulting firm Aerotas, said that, while the idea is exciting, there are so many existing regulatory roadblocks that it’s pointless to speculate about the specific challenges of building an effective airship-based delivery system.
+
+“It’s way, way, way too far out to actually say that we’ll be seeing a massive airship as the mothership to 100 drones in the near future,” Campbell said. “Right now it’s a crazy idea, and it’s a research project. It might turn into something, but it might not.”
+
+“All good ideas start as crazy ideas, and then you kind of work them out,” he added.
+
+Leavitt noted in a “Good Morning America” interview that companies often file lots of patents applications, and they don’t necessarily mean the company is putting resources into a particular project. Amazon did not respond to a request for comment Friday, and it’s unclear if it is seriously working on airships or if the idea is logistically, financially and technically sound.
+
+While the airship idea brings to mind zeppelins zipping over science-fiction cityscapes, Amazon’s push for faster delivery with the help of drones is far from fantasy.
+
+Earlier this month, it made its first Prime Air drone delivery from a British warehouse (firmly planted on Earth) to a customer two miles away. He received the test order, an Amazon Fire and popcorn, 13 minutes after making the purchase.
+
+First-ever #AmazonPrimeAir customer delivery is in the books. 13 min—click to delivery. Check out the video: https://t.co/Xl8HiQMA1S pic.twitter.com/5HGsmHvPlE — Jeff Bezos (@JeffBezos) December 14, 2016
+
+However, in the U.S., Amazon has sparred with regulators and still faces challenges before it can use delivery drones at all. NASA has begun testing to develop a separate air traffic control system for drones, working in partnership with the Federal Aviation Administration, but isn’t expected to finish trials or make recommendations until 2019.
+
+In the meantime, the FAA introduced its Part 107 rules to broadly regulate commercial drone use this summer, despite Amazon’s objections.
+
+The rules currently make Amazon’s plans impossible, whether or not an airship is involved, and prohibit such drone operations as flying above 400 feet, in darkness, from a moving aircraft, over people’s heads and outside an operator’s sightline.
+
+Campbell said Amazon has made impressive technological progress but hasn’t had similar success on the policy side.
+
+“If we’re talking about consumers actually getting deliveries, then this has been overhyped,” Campbell said. “It’s not entirely Amazon’s fault; it’s regulations that are challenging. Amazon has tried to take on the FAA, and so far they have not made much progress.”
+
+The FAA will grant narrow waivers from some of the Part 107 rules, and in August a startup that makes drones for the agriculture industry received an exemption to fly outside of an operator’s field of vision. Some experts believe the FAA rules are less a stumbling block for Amazon than a first step toward creating a better legal system for drones, according to Newsweek.
+
+Credit: Amazon Amazon testing Prime Air customer drone delivery in England.
+
+Delivering packages by drone at all seemed at first like “a loopy idea, far-fetched and the subject of instant mockery on Twitter,” as New York Times technology writer David Streitfeld wrote when Amazon CEO Jeff Bezos first mentioned it in 2013.
+
+Now it’s considered all but a certainty, even if the timeline is hazy. Other companies are exploring or testing drone package delivery, including Google, Walmart and the United Parcel Service.
+
+Amazon holds a separate patent for a system of light poles that would serve as miniature drone docking stations. There’s no indication it’s any more viable than airships, but it seems to show a company rigorously exploring drone delivery from every angle.

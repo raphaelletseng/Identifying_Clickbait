@@ -1,0 +1,17 @@
+Twitter’s 140-Character Limit Wont Include Usernames Anymore
+Twitter makes replying easier by dropping usernames from limit
+Twitter has made it easier to reply to your friends — and enemies — while staying within the 140-character limit. Previously, when one user responded to another, the target's handle, @nbcnews for example, would count toward the character limit. No longer. "With all 140 characters for your replies, you have more room to participate in group conversations," said Twitter Product Manager Sasank Reddy in a blog post.    Instead of appearing within the body of the tweet, usernames will now be on top of the text of the tweet. Discussion to stop counting usernames, photos, videos, quote tweets, polls and GIF animations came into context last year but Twitter hadn't implemented those plans until now.
+
+Twitter has made it easier to reply to your friends — and enemies — while staying within the 140-character limit.
+
+Previously, when one user responded to another, the target's handle, @nbcnews for example, would count toward the character limit.
+
+No longer.
+
+"With all 140 characters for your replies, you have more room to participate in group conversations," said Twitter Product Manager Sasank Reddy in a blog post.
+
+Related: 'The Daily Show' Plans Pop-Up Library of Trump Tweets
+
+Instead of appearing within the body of the tweet, usernames will now be on top of the text of the tweet.
+
+Discussion to stop counting usernames, photos, videos, quote tweets, polls and GIF animations came into context last year but Twitter hadn't implemented those plans until now.

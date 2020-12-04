@@ -1,0 +1,21 @@
+999 call handling system crash left dispatchers scrawling down details of 2.5k emergencies
+999 call handling system crash left dispatchers scrawling down details of 2.5k emergencies
+olice call handlers were forced to scrawl down the details of 2,500 emergencies by hand after a multi-million computer system crashed for almost eight hours. West Midlands Police admitted the glitch with their Oasis Command Control System led to three emergencies going unattended. The "major technical fault" meant dispatchers could not electronically transmit details from 999 and 101 calls between 4.35pm on October 6 until 12.22am the next day. he force did not call out engineers to fix the problem because officers thought the £5 million system would "reset and sort itself out". Despite a full review, it is not yet known what caused the hardware to crash although a local MP believes it could be the work of hackers or terrorists. Labour MP Khalid Mahmood said: "It's very worrying that the cause of the major outage hasn't been discovered yet so the fear is it could happen at any time again. "It could easily have been a hacking attempt, maybe a dry run by criminals or even terrorists, just to check the response. Such a scenario potentially puts both officers' and the public's safety at risk." The command and control system is provided by Northgate Solutions, which had a near £4.7million contract for its upkeep. police source said: "One of the incidents was an attempted armed robbery in Coventry but there were no injuries. "The fault may be the result of going from five call centres to three to cover the whole force. "Police officers were retained on duty the next day and had to listen to hours and hours of all the two-and-a-half thousand 999 and emergency calls again to retrieve the information. "They then had to check it against the handwritten notes before finally re-inputting the incident information into the Oasis Command Control system. "It meant extra officers had to be called in and all the information has not yet been fully recovered." A West Midlands Police spokesman said: "Contact was made with the three callers to ensure their call was responded to and an explanation offered about why there had been a service delay." Force contact manager, Chief Insp Matt Markham, said: "During the period of the outage, just over 2,600 calls were received. "Each one was re-listened to and checks made to ensure they had been dealt with correctly. In only three cases could we could find no evidence of a police response. "Contact was made with the three callers to ensure their call was responded to and an explanation offered about why there had been a service delay. "
+
+A police source said: "One of the incidents was an attempted armed robbery in Coventry but there were no injuries.
+
+"The fault may be the result of going from five call centres to three to cover the whole force.
+
+"Police officers were retained on duty the next day and had to listen to hours and hours of all the two-and-a-half thousand 999 and emergency calls again to retrieve the information.
+
+"They then had to check it against the handwritten notes before finally re-inputting the incident information into the Oasis Command Control system.
+
+"It meant extra officers had to be called in and all the information has not yet been fully recovered."
+
+A West Midlands Police spokesman said: "Contact was made with the three callers to ensure their call was responded to and an explanation offered about why there had been a service delay."
+
+Force contact manager, Chief Insp Matt Markham, said: "During the period of the outage, just over 2,600 calls were received.
+
+"Each one was re-listened to and checks made to ensure they had been dealt with correctly. In only three cases could we could find no evidence of a police response.
+
+"Contact was made with the three callers to ensure their call was responded to and an explanation offered about why there had been a service delay. "

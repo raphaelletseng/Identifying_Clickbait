@@ -1,0 +1,19 @@
+Facebook admits to miscalculating more of its advertising metrics
+Facebook admits to miscalculating more of its advertising metrics
+
+
+Facebook said in a blog post on Friday that it has been miscalculating more of its viewership metrics for advertisers.
+
+One miscalculation is a discrepancy between the number of likes and shares Facebook shows for web links through its Graph API for advertisers and through its mobile search field.
+
+Facebook has also been miscalculating the number of likes and reaction emojis that page owners see for their live videos.
+
+This is the third time Facebook has admitted to misleading advertisers since September, when it was revealed that the social network had for years been inflating a key video-viewing metric.
+
+Neither of the errors Facebook revealed on Friday is as important for advertisers as the previously misreported numbers for video views and other products like Instant Articles.
+
+But the discrepancy of the numbers of likes and shares for web links could affect the accuracy of recent and widely cited investigations by BuzzFeed and The New York Times into how fake news stories are shared on Facebook, according to Marketing Land's Tim Peterson. Both investigations relied on Facebook's data on likes and shares to show how fakes news stories can easily go viral on the social network.
+
+Facebook said on Friday that it's still "looking into" the discrepancy. The company recently acquired CrowdTangle, a tool used by media outlets to measure how stories are shared across Facebook and other social networks.
+
+Visit Markets Insider for constantly updated market quotes for individual stocks, ETFs, indices, commodities and currencies traded around the world. Go Now!

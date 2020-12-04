@@ -1,0 +1,27 @@
+A hot $1 billion hedge fund is building computers to predict how human traders will act
+A hot $1 billion hedge fund is building computers to predict how human traders will act
+
+
+People are gettingÂ quantitative hedge funds all wrong,Â according to a manager who is launching a new $1 billion fund.
+
+Manoj Narang is launching New York-based MANA Partners next month, using a mix of quant and alternative data strategies.
+
+Quant funds have historically analyzed data using mathematical techniques to search for patterns of trends. The idea here is that quants can pick up on relationships between financial assets that human traders miss out on.
+
+That model is outdated, according to Narang.Â Quants funds don't generate returns by being smarter, and picking out trends before everyone else, but by predicting what everyone else is going to do.Â
+
+"People have this misapprehension that quants make money because they're smarter,"Â Narang told Business Insider in a wide-ranging interview.Â "But that's not how you make money in the market."
+
+He added:
+
+"You have to make money by doing the same thing as the rest of the market, only doing it first before the rest of people commit their capital. That's the only way to make moneyÂ when you're automated or discretionary. The same thing goes for machines. To me, the most fertile ground for building quant trading strategies that are profitable is by anticipating, is by orienting those strategies to have a very strong structural component that understands how human beings make decisions."
+
+In other words, quant fundsÂ need to think like humans, but make moves before the humans act.
+
+He said:Â
+
+"More and more, you're going to see machines replicating the decision processes that human beings engage in when they trade securities. As things stand now, humans still are responsible for the vast majority of capital allocation, and that's because long-term investors control the largest amount of capital and it's controlled by human beings. I'm not talking about passive stuff, which is mostly automated. But when it comes to active management, long-term capital allocation decisions are made by human beings.
+
+Even when it comes to indexes and how you allocate to indexes ... it's pretty much done by human beings as well. So the way to really build a compelling quantitative strategy is to understand how humans make those decisions and attempt to replicate those behaviors, and anticipate those asset flows and those allocation decisions and investment decisions. Ultimately, that's what moves markets.
+
+You can read the rest of the interview here.Â

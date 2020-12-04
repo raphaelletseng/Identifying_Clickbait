@@ -1,0 +1,37 @@
+Scientists are now spotting whales from outer space using satellites
+Scientists are now spotting whales from outer space using satellites
+A humpback whale may be a huge creature to the human eye, but they're still tough to spot from space. Until recently, the necessary high-resolution satellite technology wasn't readily available, but researchers in Western Australia are beginning to use satellite imagery to check on the size of local populations. SEE ALSO: Forget telepresence robots on wheels, Google wants telepresence drones The aim of the project is to keep tabs on Western Australia's humpback whale numbers, explained Curt Jenner, managing director of the Centre for Whale Research. "The goal of the project is ultimately to make sure this population of humpback whales, which has always historically been the largest in the world, is still viable and has recovered to its full potential," he said. The animals were hunted almost to extinction in the early to mid 20th century. While projects like this were able to find government and corporate funding in the past, that money has increasingly dried up as whale numbers rebound, Jenner said, forcing he and his research partner on this project, Michele Thums, to find a new solution. Satellite imagery of whales migrating. Image:  Curt Jenner "There are no longer any budgets to send aerial survey teams of people up in planes nor people out in boats to do that population monitoring, and so we were looking for an economical solution that was low in man power," he said. Drones are one technology now commonly used in whale research , but they're not always able to deliver the scale a satellite can. "This is like a population census, if you will, it gives you a snapshot in time of an entire population as opposed to a focus on one whale at a time," Jenner added. To obtain the imagery it was a simple as giving the U.S. satellite company DigitalGlobe a time slot, the coordinates and instructions to only take shots on fair weather days using its WorldView-3 satellite system. The team received two days worth of imagery for around A$40,000 ($30,600) funded by the WA Marine Science Institute. "Even though A$20,000 an image sounds like a lot of money, it's nothing compared to what it costs to put a team of people out and flying aerial surveys," he said. For Jenner, one big question was whether a colour or black and white satellite image worked better for whale spotting. Satellite imagery of whales migrating. Image:  Curt jenner "Turns out, the black and white images were better and clearer and higher resolution for seeing the whales than the [colour] ones," he explained. "In the future, we'll probably only be using the [black and white] ones, which will make our jobs a lot easier and a lot cheaper." This type of monitoring is especially important as human use of the northwest shelf of Australia increases in the form of oil and gas exploration as well as shipping. "I do have a concern that the way that the whales are using the coast line is changing through human impact," he said. "It's necessarily going to displace whales out of their natural habitat." In 2017, Jenner plans to collect more than two days-worth of whale imagery, and in different locations along the coast line. He also hopes that future satellites with even higher resolution cameras will be able to one day spot and identify individual whales. They could even use small tags that fluoresce, for example, and make it easier to identify them from space. "As time goes on, only your imagination limits what can be done as the technology gets better," he said. "We're looking forward to the next five to 10 years very much." [h/t ABC ] BONUS: This flying bat bot is designed to fly right into danger zones
+
+A humpback whale may be a huge creature to the human eye, but they're still tough to spot from space.
+
+Until recently, the necessary high-resolution satellite technology wasn't readily available, but researchers in Western Australia are beginning to use satellite imagery to check on the size of local populations.
+
+The aim of the project is to keep tabs on Western Australia's humpback whale numbers, explained Curt Jenner, managing director of the Centre for Whale Research.
+
+"The goal of the project is ultimately to make sure this population of humpback whales, which has always historically been the largest in the world, is still viable and has recovered to its full potential," he said. The animals were hunted almost to extinction in the early to mid 20th century.
+
+While projects like this were able to find government and corporate funding in the past, that money has increasingly dried up as whale numbers rebound, Jenner said, forcing he and his research partner on this project, Michele Thums, to find a new solution.
+
+Satellite imagery of whales migrating. Image: Curt Jenner
+
+"There are no longer any budgets to send aerial survey teams of people up in planes nor people out in boats to do that population monitoring, and so we were looking for an economical solution that was low in man power," he said.
+
+Drones are one technology now commonly used in whale research, but they're not always able to deliver the scale a satellite can. "This is like a population census, if you will, it gives you a snapshot in time of an entire population as opposed to a focus on one whale at a time," Jenner added.
+
+To obtain the imagery it was a simple as giving the U.S. satellite company DigitalGlobe a time slot, the coordinates and instructions to only take shots on fair weather days using its WorldView-3 satellite system.
+
+The team received two days worth of imagery for around A$40,000 ($30,600) funded by the WA Marine Science Institute. "Even though A$20,000 an image sounds like a lot of money, it's nothing compared to what it costs to put a team of people out and flying aerial surveys," he said.
+
+For Jenner, one big question was whether a colour or black and white satellite image worked better for whale spotting.
+
+Satellite imagery of whales migrating. Image: Curt jenner
+
+"Turns out, the black and white images were better and clearer and higher resolution for seeing the whales than the [colour] ones," he explained. "In the future, we'll probably only be using the [black and white] ones, which will make our jobs a lot easier and a lot cheaper."
+
+This type of monitoring is especially important as human use of the northwest shelf of Australia increases in the form of oil and gas exploration as well as shipping. "I do have a concern that the way that the whales are using the coast line is changing through human impact," he said. "It's necessarily going to displace whales out of their natural habitat."
+
+In 2017, Jenner plans to collect more than two days-worth of whale imagery, and in different locations along the coast line. He also hopes that future satellites with even higher resolution cameras will be able to one day spot and identify individual whales. They could even use small tags that fluoresce, for example, and make it easier to identify them from space.
+
+"As time goes on, only your imagination limits what can be done as the technology gets better," he said. "We're looking forward to the next five to 10 years very much."
+
+[h/t ABC]

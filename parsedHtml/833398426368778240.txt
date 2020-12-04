@@ -1,0 +1,95 @@
+Jobs at Google: Tech giant targeting hackers in Australian hiring raid
+
+
+
+Jobs at Google: Tech giant targeting hackers in Australian hiring raid
+
+Posted
+
+Internet giant Google is about to launch a hiring raid for Australia's best and brightest hackers in a move likely to exacerbate a major IT skills shortage in government agencies.
+
+The number of people taking up information and communications technology degrees has halved over the last decade according to the Government's Cyber Security Strategy.
+
+Even Google is feeling the impacts of the shortage, and the internet giant is now looking to hire as many quality cyber security positions in Australia as it can.
+
+In an interview with the ABC, one of Google's top hackers, Parisa Tabriz, outlined the difficulties of finding the right mix of people.
+
+"I think finding the right people who have the skills of someone who can hack into a system but ultimately want to make it more secure and not use those skills for bad and are willing to also work in a big software company — it's hard to find that intersection of good people," she said.
+
+Ms Tabriz is the head of security for Google Chrome, an internet browser used by more than 1 billion people.
+
+The 31-year-old Iranian-American has been with the company since 2007 and is one of the organisation's rising stars.
+
+"Sydney's actually been a really good recruiting spot for some security people because there's good universities that really help train cyber security professionals," she said.
+
+Do you know more about this story? Email investigations@abc.net.au
+
+Unsurprisingly, Professor Richard Buckland from the University of New South Wales agrees and says it's purely a quantity problem.
+
+"We don't have enough students, that's the real problem," he said.
+
+"We're training good ones, but we just don't have enough.
+
+"There's a big demand and not much supply."
+
+Google's gain could be the Government's loss
+
+The Federal Government expects demand for cyber security services and related jobs — such as such as legal services, insurance and risk management — will grow by at least 21 per cent over the next five years.
+
+"It's not just scientists that we need and mathematicians that we need — we need a whole bunch of people in what is now not just a national security issue in the traditional sense of the word, but a national security issue in the true sense," the Prime Minister's Special Advisor on Cyber Security Alastair MacGibbon said.
+
+"Everything that underpins our economy and our society runs on these systems and we need be increasingly capable as a nation to secure them.
+
+"Anecdotally, when you talk to federal and state government agencies, they'll say that it's difficult to recruit people — no doubt.
+
+"I think part of the problem is that it's a problem that affects everyone but no-one's ultimately responsible for it."
+
+Defence feeling the pinch
+
+A recent survey by the Australian Information Security Association found that in a survey of 400 of its members, 86 per cent had some level of concern about the shortages.
+
+A senior officer at one of Australia's powerful spy agencies, the Australian Signals Directorate, told a Senate hearing earlier this month that they were struggling to get staff because of the lengthy process required to get top secret clearance.
+
+"The demand for specialists with those skills is so great, many of them aren't prepared to wait to get a security clearance," Assistant Secretary for Cyber Security at the ASD Michael Scott said.
+
+"So having a space where they can perform work at a lower level of classification is going to help with our task of recruiting."
+
+There are challenges even at lower levels within the Department of Defence. The ABC understands the Department has pulled its resources from this year's Cyber Security Challenge — a national hacking competition run by the Government to identify top talent at universities and TAFEs.
+
+In a statement, a spokesperson said the Department's involvement in previous Cyber Security Challenges had built the competition up to be sustainable and that its priority now was to fulfil its mandated cyber security role.
+
+The ABC has been told Department of Defence staff were too busy to contribute to this year's challenge.
+
+In a statement, a spokesperson said the Department's involvement in previous Cyber Security Challenges had built the competition up to be sustainable and that its priority now was to fulfil its mandated cyber security role.
+
+Government trying to compete on salaries 'like fighting gravity'
+
+And he's not worried about the impact of Google — he's focused on increasing the overall number of people.
+
+"I think for a long time government has looked at this problem by saying we just can't compete financially — well we probably can't," he said.
+
+"But we can compete in terms of job satisfaction, the phenomenal access to information and technology that some Federal Government agencies have and it's not as binary as being you work for the Commonwealth or you work for the private sector.
+
+"If we try to compete on salaries it's like fighting ageing and gravity — we're not going to win."
+
+A new approach to teaching cyber security
+
+There is not one easy solution to solving the shortage — but Richard Buckland at the University of New South Wales is radically shaking up the way cyber security is taught.
+
+"We know what a good cyber security professional looks like, but it's still new, it's still disputed how to actually go about creating them," he said.
+
+"We need someone who's a rascal, who's cheeky, who's disrespectful and doesn't really obey authority.
+
+"Most of our teaching institutions are based around authority and respect and perhaps not to questioning, so there is a challenge to produce them in a formal academic environment."
+
+He has ditched the long rows of computers in classrooms and wants to hand power back to the students.
+
+"We encourage them to do their own learning themselves and to challenge each other and to work together in communities, and we also have a big focus on attack," he said.
+
+That's exactly what interests 20-year-old Alex Linker, who was studying computer programming and is now experimenting with cyber security.
+
+"The thing that interests me about cyber security is you have to take something someone's already built up and you have to basically put yourself in their frame of mind and figure out how to break it," he said.
+
+"I think — with cyber security, everyone nowadays has some kind of system and everyone nowadays needs their system to be protected and the only way to protect a system is to figure out how it can be broken in the first place."
+
+Topics: science-and-technology, computers-and-technology, internet-technology, security-intelligence, australia, nsw, sydney-2000

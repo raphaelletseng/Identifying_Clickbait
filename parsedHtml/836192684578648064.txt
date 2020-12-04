@@ -1,0 +1,35 @@
+Apple fixed an annoying iPhone battery bug and didn't tell people for weeks
+Apple fixed an annoying iPhone battery bug and didn't tell people for weeks
+Have you had your iPhone 6 shut down randomly with 30% battery left? You're not alone. Many Apple users have been reporting this annoying battery bug, but there was seemingly no fix for it — and Apple refused to acknowledge it was an issue. Until now. Apple says in a statement first reported by TechCrunch that it fixed the bug in the most recent version of iOS 10.2.1., which was released on January 23. Here's Apple's comment on the matter, provided to Business Insider: With iOS 10.2.1, Apple made improvements to reduce occurrences of unexpected shutdowns that a small number of users were experiencing with their iPhone. iOS 10.2.1 already has over 50% of active iOS devices upgraded and the diagnostic data we’ve received from upgraders shows that for this small percentage of users experiencing the issue, we’re seeing a more than 80% reduction in iPhone 6s and over 70% reduction on iPhone 6 of devices unexpectedly shutting down. We also added the ability for the phone to restart without needing to connect to power, if a user still encounters an unexpected shutdown. It is important to note that these unexpected shutdowns are not a safety issue, but we understand it can be an inconvenience and wanted to fix the issue as quickly as possible. If a customer has any issues with their device they can contact AppleCare. So if your iPhone is shutting down randomly, you should upgrade to the latest version of iOS as soon as possible. (You should probably update anyway if you're not experiencing the issue.) That can be found in Anecdotally, around the Business Insider office, the recent software update did help the problem. And Apple support specialists told customers in January that the bug would be fixed in an update according to a transcript seen by Business Insider. To recap: A Chinese consumer protection agency late last year started saying that there was an issue with iPhones that caused them to shut down with 30% battery . Apple said it applied only to iPhone 6S models and offered certain devices a discounted replacement battery. But users of other devices, like the iPhone 6 and 6 Plus, still said it affected them . But now it's been fixed by a software update. Older batteries can work inconsistently, and Apple is constantly looking at its aggregated data to see if there are issues and how it can improve them. This week Apple posted a job listing for a "big data senior scientist" working on battery development to "prevent a significant customer event by monitoring trends and working with cross functional engineering to resolve issue before significant customer event." But Apple is constantly hiring, and the timing is probably a coincidence. Samsung is still overloading the smartphone market Here's how to access the iPhone's hidden mode that turns the camera into a magnifying glass The top 12 rumors we're hearing about Apple's next iPhone
+
+Have you had your iPhone 6 shut down randomly with 30% battery left? You're not alone.
+
+Many Apple users have been reporting this annoying battery bug, but there was seemingly no fix for it — and Apple refused to acknowledge it was an issue.
+
+Until now.
+
+Apple says in a statement first reported by TechCrunch that it fixed the bug in the most recent version of iOS 10.2.1., which was released on January 23.
+
+Here's Apple's comment on the matter, provided to Business Insider:
+
+With iOS 10.2.1, Apple made improvements to reduce occurrences of unexpected shutdowns that a small number of users were experiencing with their iPhone. iOS 10.2.1 already has over 50% of active iOS devices upgraded and the diagnostic data we’ve received from upgraders shows that for this small percentage of users experiencing the issue, we’re seeing a more than 80% reduction in iPhone 6s and over 70% reduction on iPhone 6 of devices unexpectedly shutting down.
+
+We also added the ability for the phone to restart without needing to connect to power, if a user still encounters an unexpected shutdown. It is important to note that these unexpected shutdowns are not a safety issue, but we understand it can be an inconvenience and wanted to fix the issue as quickly as possible. If a customer has any issues with their device they can contact AppleCare.
+
+So if your iPhone is shutting down randomly, you should upgrade to the latest version of iOS as soon as possible. (You should probably update anyway if you're not experiencing the issue.) That can be found in Settings > General > Software Update.
+
+Related:
+
+For more news videos visit Yahoo View, available now on iOS and Android.
+
+Anecdotally, around the Business Insider office, the recent software update did help the problem. And Apple support specialists told customers in January that the bug would be fixed in an update according to a transcript seen by Business Insider.
+
+To recap: A Chinese consumer protection agency late last year started saying that there was an issue with iPhones that caused them to shut down with 30% battery. Apple said it applied only to iPhone 6S models and offered certain devices a discounted replacement battery. But users of other devices, like the iPhone 6 and 6 Plus, still said it affected them.
+
+But now it's been fixed by a software update. Older batteries can work inconsistently, and Apple is constantly looking at its aggregated data to see if there are issues and how it can improve them.
+
+This week Apple posted a job listing for a "big data senior scientist" working on battery development to "prevent a significant customer event by monitoring trends and working with cross functional engineering to resolve issue before significant customer event." But Apple is constantly hiring, and the timing is probably a coincidence.
+
+
+
+More From Business Insider

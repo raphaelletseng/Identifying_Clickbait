@@ -1,0 +1,37 @@
+Ikea wants to put your whole house online. But for goodness' sake why?
+Ikea wants to put your whole house online. But for goodness' sake why?
+If a botnet comprised of Ikea smart home devices ever knocks out the internet, at least you'll know it's been done with Swedish efficiency. On Tuesday, the homewares company announced it would be continuing the trend of connecting inanimate objects to the internet as part of its Ikea Home Smart project. SEE ALSO: WhatsApp says it won't create an encryption backdoor, and that's a good thing But must we? Humans don't have the best track record in this area. Just this week, reported that even an internet-enabled commercial dishwasher had a potential security bug. Admittedly, these are some good looking objects to have around the home. The Smart Lighting package consists of bulbs and light panels, as well as motion sensor and dimming kits. It can be controlled remotely with Ikea's Trådfri iOS or Android apps, and Ikea claims you can set it up without needing to call in an electrician. "The Ikea vision is to bring affordable home furnishing solutions to the many people. We know from research that existing smart lighting technology is perceived to be too expensive and difficult to understand, so we have worked to remove those barriers to make smart lighting more accessible," IKEA Home Furnishing expert Helen Longford said in a statement. In Australia, the kit will be available in early 2018 with prices yet to be announced. In the U.S, where it's also not yet available, a Trådfri gateway kit costs $79.99 (A$105.23). Ikea promises the smart lighting system is "just the beginning" for the company, which also launched wireless charging in 2016. "We want to use this innovative project to help people use technology in their homes in clever ways to enrich their lives or to simply make things easier," Longford added. An insecure internet of things The problem is, we discovered just what an unruly internet of things (IoT) can do in Oct. 2016, when a gang of insecure devices helped carry out massive distributed denial of service attacks (DDoS). Using a malware code known as Mirai that scans the internet looking for IoT devices that were still on factory settings, the stream of malicious traffic was aimed at the domain name server host, Dyn. The result? The websites of Twitter, Spotify and Paypal were left inaccessible. The furniture company is surely aware of these issues, but the fact remains that connecting anything to the internet makes it potentially vulnerable without vigilance. Ikea is known for cheap, sturdy furniture, but the IoT is no place to cut corners. An Ikea spokesperson said safety is of the "highest importance" to the company. While not answering specific questions about password protections and security updates, it said the Smart Lighting collection complies with all relevant regulatory requirements. "To further secure our smart lighting products, we have chosen a closed platform solution," she added. Let's hope they're right, because the idea of an Ikea store's worth of smart furniture waking up is totally terrifying. WATCH: This spinach leaf is actually a tiny, beating human heart
+
+If a botnet comprised of Ikea smart home devices ever knocks out the internet, at least you'll know it's been done with Swedish efficiency.
+
+On Tuesday, the homewares company announced it would be continuing the trend of connecting inanimate objects to the internet as part of its Ikea Home Smart project.
+
+But must we? Humans don't have the best track record in this area. Just this week, The Register reported that even an internet-enabled commercial dishwasher had a potential security bug.
+
+Admittedly, these are some good looking objects to have around the home. The Smart Lighting package consists of bulbs and light panels, as well as motion sensor and dimming kits.
+
+It can be controlled remotely with Ikea's Trådfri iOS or Android apps, and Ikea claims you can set it up without needing to call in an electrician.
+
+"The Ikea vision is to bring affordable home furnishing solutions to the many people. We know from research that existing smart lighting technology is perceived to be too expensive and difficult to understand, so we have worked to remove those barriers to make smart lighting more accessible," IKEA Home Furnishing expert Helen Longford said in a statement.
+
+In Australia, the kit will be available in early 2018 with prices yet to be announced. In the U.S, where it's also not yet available, a Trådfri gateway kit costs $79.99 (A$105.23).
+
+Ikea promises the smart lighting system is "just the beginning" for the company, which also launched wireless charging in 2016.
+
+"We want to use this innovative project to help people use technology in their homes in clever ways to enrich their lives or to simply make things easier," Longford added.
+
+An insecure internet of things
+
+The problem is, we discovered just what an unruly internet of things (IoT) can do in Oct. 2016, when a gang of insecure devices helped carry out massive distributed denial of service attacks (DDoS).
+
+Using a malware code known as Mirai that scans the internet looking for IoT devices that were still on factory settings, the stream of malicious traffic was aimed at the domain name server host, Dyn.
+
+The result? The websites of Twitter, Spotify and Paypal were left inaccessible.
+
+The furniture company is surely aware of these issues, but the fact remains that connecting anything to the internet makes it potentially vulnerable without vigilance. Ikea is known for cheap, sturdy furniture, but the IoT is no place to cut corners.
+
+An Ikea spokesperson said safety is of the "highest importance" to the company.
+
+While not answering specific questions about password protections and security updates, it said the Smart Lighting collection complies with all relevant regulatory requirements. "To further secure our smart lighting products, we have chosen a closed platform solution," she added.
+
+Let's hope they're right, because the idea of an Ikea store's worth of smart furniture waking up is totally terrifying.

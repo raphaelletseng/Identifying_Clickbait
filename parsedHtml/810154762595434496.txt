@@ -1,0 +1,143 @@
+27 things you didn't know your iPhone could do
+27 things you didn't know your iPhone could do
+Even though we use our iPhones all day every day, there are still a handful of features that are relatively unknown. Some of these features are buried in the Settings menu while others are hidden in plain sight. Plus, there are a few things Siri can do for you that you may not know about. You can respond to texts directly from your lock screen by pulling down on the notification drawer and swiping over to the left on the text notification. You'll see a "Reply" option, and tapping it will let you type a response without having to unlock your iPhone. If you're in an app, you can swipe down from the top and access the notification drawer to answer a text the same way you would on the lock screen. Want to know why your iPhone battery is draining faster than usual? Head over to Settings > Battery. This will tell you which apps are occupying the most battery power. There's an easy way to view every photo and video you've sent someone. Just open the messaging thread in the "Messages" app and press the "Details" button in the upper right corner. You can send audio snippets and video messages that expire after two minutes. If you head to Settings>Messages and scroll to the bottom, you'll notice a section for audio and video messages. You can choose to let them expire after two minutes or never. If you don't feel like explaining where you are, you can simply send your location to another person via text message. Just tap the "Details" button in the upper right corner of your message thread and select "Send My Location." If you want your friends or a family member to be able to track you as you move, you can complete the same steps mentioned in the previous slide and choose the "Share My Location" instead of "Send My Location." You can choose to share your location for one hour, until the end of the day, or indefinitely. You can mute text message notifications for individual contacts and conversations. Just head over to your messaging thread and switch the "Do Not Disturb." Group texts can be effective for reaching many people at once, but also annoying. If you want to leave a group conversation, simply tap the "Details" button in the upper right corner of the group conversation and select "Leave Conversation." If you frequently chat with the same group or are talking with multiple people about a particular topic, naming a group conversation can be helpful. To do this, head over to "Details" in the message thread and fill in the "Group Name" field with an appropriate title. If you're in the middle of an email, you don't need to trash it to return to your inbox and browse other messages. As you're composing an email, simply tap the top of the message where it says either "New Message" or the subject and drag it down to the bottom of the screen. This will push the message to the bottom so you can look at other emails. When you want to return, simply tap the email to keep editing it. You can forward text messages to other contacts the same way you would an email. Just double tap the message you want to forward, press the "More" option that appears next to the text, and that specific sentence, word, or phrase will appear copy and pasted into a new message. Fill in the "To" field at the top to forward that message to someone else. You don't always have to hold down the home button to launch Siri. If you have the new iPhone 6S, just say the phrase "Hey Siri"to launch Apple's virtual assistant (any phones older than the iPhone 6S must be plugged in to a power outlet for this feature to work). Just head over to Settings>General>Siri and turn on Enable Hey Siri first. You can enable Siri to read articles on websites, books, text messages, and more thanks to one of the iPhone's lesser-known accessibility features. Head over to Settings > General > Accessibility > Speech. Then turn on Speak Screen and Speak Selection. Now, when you swipe down from from the top of the screen with two fingers, Siri will dictate the content of whatever is on the screen. You can also teach Siri how to pronounce names. First, launch Siri and ask her to say the name in question (i.e. if it's your name, ask "What's my name?"). When she answers, tell her that she's not pronouncing it correctly. Make sure you use her pronunciation so that she knows which word you're talking about. Siri should then ask you how to correctly pronounce the name. Once you do, she will present three ways to pronounce the name. Choose the correct one, and Siri will remember it. This is another feature buried in the Accessibility section. Navigate to Settings>General>Accessibility and then scroll down to the Interaction subhead and tap "Switch Control." Tap "Switches" and "Add New Switch." Select "Camera" and choose "Left Head Movement" or "Right Head Movement." Then pick an action under the "System" menu, which essentially tells you what task your head movement will trigger. I chose Siri, so each time I tilt my head to the left it automatically launches Siri. You're iPhone tracks each place you've been, and there's a way to find it by digging into your phone's settings. Press the Settings icon and head to Privacy>Location Services>System Services.  Then, scroll to the bottom and select "Frequent Locations" and look at the History section. If you're running low on juice and just need basic functionality from your iPhone, try switching it to grayscale mode to save power. Just head to Settings>General>Accessibility and tap "Grayscale." If you're using the iPhone 6 or iPhone 6 Plus with one hand, you can double tap the home button to schootch content down toward the bottom of the screen. Apple calls this "Reachability Mode." Remember to tap the home button, don't press it or else it'll launch the app switcher. If you set up a Medical ID in the Health app that comes with iOS 8, you can access medical information without having to unlock your iPhone. Tap the "Emergency" button that appears with the keypad for entering your passcode and you'll see the Medical ID button on the lower left corner. There's a clever trick that shows the actual signal strength on your iPhone rather than just the dots or bars you usually see in the upper left corner of the screen. Business Insider's Steven Tweedie explained it to us. First, you'll need to access a hidden app on your phone called Field Test Mode. To do this, you'll need to open up your Phone app and dial the following number, *3001#12345#* , including the asterisks and hashtag, and tap "Call." This opens up Field Test Mode, which is mostly filled with menus of cell signal jargon that you don't need to worry about. What you're interested in is the tiny number in the upper left-hand corner of your iPhone, which should have replaced those cell signal dots. While that number can vary anywhere from -40 to -130, it will always be negative, and the closer that number is to zero, the better your cell signal. The best signal you can get would be -40, and no signal at all would be -130. With iOS 9, Apple added a new feature that displays the possible name of an unknown caller. If you're receiving a phone call from someone you've emailed, and that person's email address is associated with his or her phone number, it'll pop up as a suggestion when he or she calls you. You can now ask Siri to show you photos from a certain time period or location. For instance, if you wanted to view photos taken two years ago on vacation, you could say something like, "Show me photos from 2013 taken in Jamaica." It saves a lot of time since you no longer have to scroll through your whole photo library to find older images. This only works if your iPhone is updated to iOS 9. If you just received a text or email but can't take the time to read it right now, you can ask Siri to remind you later on. When you receive the notification, just ask Siri to remind you to read it later. This works with Messages, Mail, Notes, and Safari as long as your iPhone is running iOS 9. If you listen to music at the same time every morning, your iPhone will automatically know that it should launch the music app as soon as you plug your headphones in. This is another feature that’s new with iOS 9. Low Power Mode, which is also a new addition with iOS 9, tells your iPhone to cut down on  certain features to lengthen its battery life. This means it’ll stop refreshing apps in the background, pushing email, and other tiny things in order to keep your battery going. You no longer have to dig through the iPhone’s settings menu to find what you’re looking for. If your iPhone is updated to iOS 9, you’ll notice there’s a search bar at the top of the settings menu that helps you quickly jump to any given setting.   • This chart is easy to interpret: It says we're screwed • How Uber became the world's most valuable startup • These 4 things could trigger the next crisis in Europe More about: iPhones Apple smartphones Comments
+
+Even though we use our iPhones all day every day, there are still a handful of features that are relatively unknown.
+
+Some of these features are buried in the Settings menu while others are hidden in plain sight.
+
+Plus, there are a few things Siri can do for you that you may not know about.
+
+(Note: Most of these features are available in iOS 8 and higher, while some are available in iOS 9 and higher.)
+
+Respond to texts without unlocking your phone.
+
+You can respond to texts directly from your lock screen by pulling down on the notification drawer and swiping over to the left on the text notification. You'll see a "Reply" option, and tapping it will let you type a response without having to unlock your iPhone.
+
+Respond to texts while you're in an app.
+
+(Lisa Eadicicco / Business Insider)
+
+If you're in an app, you can swipe down from the top and access the notification drawer to answer a text the same way you would on the lock screen.
+
+See which apps drain the most battery.
+
+Want to know why your iPhone battery is draining faster than usual? Head over to Settings > Battery. This will tell you which apps are occupying the most battery power.
+
+View every photo someone has texted you, and vice versa.
+
+There's an easy way to view every photo and video you've sent someone. Just open the messaging thread in the "Messages" app and press the "Details" button in the upper right corner.
+
+Send audio and video messages that self-destruct.
+
+(Lisa Eadicicco / Business Insider)
+
+You can send audio snippets and video messages that expire after two minutes. If you head to Settings>Messages and scroll to the bottom, you'll notice a section for audio and video messages. You can choose to let them expire after two minutes or never.
+
+Share your current location with a friend.
+
+If you don't feel like explaining where you are, you can simply send your location to another person via text message. Just tap the "Details" button in the upper right corner of your message thread and select "Send My Location."
+
+Let your friends track where you go.
+
+If you want your friends or a family member to be able to track you as you move, you can complete the same steps mentioned in the previous slide and choose the "Share My Location" instead of "Send My Location." You can choose to share your location for one hour, until the end of the day, or indefinitely.
+
+Mute text messages.
+
+You can mute text message notifications for individual contacts and conversations. Just head over to your messaging thread and switch the "Do Not Disturb."
+
+Leave a group conversation.
+
+Group texts can be effective for reaching many people at once, but also annoying. If you want to leave a group conversation, simply tap the "Details" button in the upper right corner of the group conversation and select "Leave Conversation."
+
+Name a group conversation.
+
+(Lisa Eadicicco / Business Insider)
+
+If you frequently chat with the same group or are talking with multiple people about a particular topic, naming a group conversation can be helpful. To do this, head over to "Details" in the message thread and fill in the "Group Name" field with an appropriate title.
+
+Multitask within emails.
+
+If you're in the middle of an email, you don't need to trash it to return to your inbox and browse other messages. As you're composing an email, simply tap the top of the message where it says either "New Message" or the subject and drag it down to the bottom of the screen. This will push the message to the bottom so you can look at other emails. When you want to return, simply tap the email to keep editing it.
+
+Forward text messages to other contacts.
+
+You can forward text messages to other contacts the same way you would an email. Just double tap the message you want to forward, press the "More" option that appears next to the text, and that specific sentence, word, or phrase will appear copy and pasted into a new message. Fill in the "To" field at the top to forward that message to someone else.
+
+Use Siri hands-free.
+
+You don't always have to hold down the home button to launch Siri. If you have the new iPhone 6S, just say the phrase "Hey Siri"to launch Apple's virtual assistant (any phones older than the iPhone 6S must be plugged in to a power outlet for this feature to work). Just head over to Settings>General>Siri and turn on Enable Hey Siri first.
+
+Have Siri read anything.
+
+You can enable Siri to read articles on websites, books, text messages, and more thanks to one of the iPhone's lesser-known accessibility features. Head over to Settings > General > Accessibility > Speech. Then turn on Speak Screen and Speak Selection. Now, when you swipe down from from the top of the screen with two fingers, Siri will dictate the content of whatever is on the screen.
+
+Tell Siri how to pronounce names.
+
+You can also teach Siri how to pronounce names. First, launch Siri and ask her to say the name in question (i.e. if it's your name, ask "What's my name?"). When she answers, tell her that she's not pronouncing it correctly. Make sure you use her pronunciation so that she knows which word you're talking about. Siri should then ask you how to correctly pronounce the name. Once you do, she will present three ways to pronounce the name. Choose the correct one, and Siri will remember it.
+
+Control your iPhone by simply moving your head.
+
+(Lisa Eadicicco / Business Insider)
+
+This is another feature buried in the Accessibility section. Navigate to Settings>General>Accessibility and then scroll down to the Interaction subhead and tap "Switch Control." Tap "Switches" and "Add New Switch." Select "Camera" and choose "Left Head Movement" or "Right Head Movement." Then pick an action under the "System" menu, which essentially tells you what task your head movement will trigger. I chose Siri, so each time I tilt my head to the left it automatically launches Siri.
+
+See everywhere you've been.
+
+You're iPhone tracks each place you've been, and there's a way to find it by digging into your phone's settings. Press the Settings icon and head to Privacy>Location Services>System Services. Then, scroll to the bottom and select "Frequent Locations" and look at the History section.
+
+Save battery by putting your phone in grayscale mode.
+
+If you're running low on juice and just need basic functionality from your iPhone, try switching it to grayscale mode to save power. Just head to Settings>General>Accessibility and tap "Grayscale."
+
+Tap the home button twice to move app icons and other content toward the bottom of the screen (iPhone 6 Plus only).
+
+If you're using the iPhone 6 or iPhone 6 Plus with one hand, you can double tap the home button to schootch content down toward the bottom of the screen. Apple calls this "Reachability Mode." Remember to tap the home button, don't press it or else it'll launch the app switcher.
+
+Access emergency medical information directly from the lock screen.
+
+If you set up a Medical ID in the Health app that comes with iOS 8, you can access medical information without having to unlock your iPhone. Tap the "Emergency" button that appears with the keypad for entering your passcode and you'll see the Medical ID button on the lower left corner.
+
+See your iPhone's actual signal strength.
+
+There's a clever trick that shows the actual signal strength on your iPhone rather than just the dots or bars you usually see in the upper left corner of the screen. Business Insider's Steven Tweedie explained it to us.
+
+First, you'll need to access a hidden app on your phone called Field Test Mode. To do this, you'll need to open up your Phone app and dial the following number, *3001#12345#* , including the asterisks and hashtag, and tap "Call."
+
+This opens up Field Test Mode, which is mostly filled with menus of cell signal jargon that you don't need to worry about. What you're interested in is the tiny number in the upper left-hand corner of your iPhone, which should have replaced those cell signal dots. While that number can vary anywhere from -40 to -130, it will always be negative, and the closer that number is to zero, the better your cell signal. The best signal you can get would be -40, and no signal at all would be -130.
+
+See who's calling you even if a phone number isn't in your contacts.
+
+With iOS 9, Apple added a new feature that displays the possible name of an unknown caller. If you're receiving a phone call from someone you've emailed, and that person's email address is associated with his or her phone number, it'll pop up as a suggestion when he or she calls you.
+
+Use Siri to skip filter photos on your iPhone by date or location.
+
+You can now ask Siri to show you photos from a certain time period or location. For instance, if you wanted to view photos taken two years ago on vacation, you could say something like, "Show me photos from 2013 taken in Jamaica." It saves a lot of time since you no longer have to scroll through your whole photo library to find older images. This only works if your iPhone is updated to iOS 9.
+
+Have Siri remind you to read a text message or email at a later time.
+
+(Lisa Eadicicco / Business Insider)
+
+If you just received a text or email but can't take the time to read it right now, you can ask Siri to remind you later on. When you receive the notification, just ask Siri to remind you to read it later. This works with Messages, Mail, Notes, and Safari as long as your iPhone is running iOS 9.
+
+Launch a music app just by plugging in your earbuds.
+
+If you listen to music at the same time every morning, your iPhone will automatically know that it should launch the music app as soon as you plug your headphones in. This is another feature that’s new with iOS 9.
+
+Use Low Power Mode to make your phone last longer.
+
+Low Power Mode, which is also a new addition with iOS 9, tells your iPhone to cut down on certain features to lengthen its battery life. This means it’ll stop refreshing apps in the background, pushing email, and other tiny things in order to keep your battery going.
+
+Search for anything in the Settings menu.
+
+You no longer have to dig through the iPhone’s settings menu to find what you’re looking for. If your iPhone is updated to iOS 9, you’ll notice there’s a search bar at the top of the settings menu that helps you quickly jump to any given setting.
+
+Read more:
+
+• This chart is easy to interpret: It says we're screwed
+
+• How Uber became the world's most valuable startup
+
+• These 4 things could trigger the next crisis in Europe
+
+Read the original article on Business Insider UK. © 2016. Follow Business Insider UK on Twitter.

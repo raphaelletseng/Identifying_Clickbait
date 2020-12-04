@@ -1,0 +1,241 @@
+WikiLeaks has spilled America's spying secrets all over the internet: Here's how to protect your privacy against the CIA
+WikiLeaks has spilled America's spying secrets all over the internet: Here's how to protect your privacy against the CIA
+This has been a dark week in the world of technology, with WikiLeaks’ mammoth ‘Vault 7’ document release making for some deeply unpleasant reading. The 8,761 files published by the whistle-blowing organisation allegedly came straight from the CIA, which is believed to have been using a variety of hacking methods to secretly spy on people through their electronic devices. The agency is also said to be capable of pinning the blame for cyber attacks on other countries . WikiLeaks is set to follow this up by publishing the redacted details of all of the CIA’s cyber weapons , but will give technology companies initial exclusive access to them, to prepare themselves against hackers. Fortunately, there are also a number of simple steps that ordinary people can take to protect themselves, without going off-grid. 1. Update your phone The agency was able to remotely control and monitor phone activity, both on Android and iOS, according to the WikiLeaks documents. Both Apple and Google have said that they’ve addressed “many” of the vulnerabilities allegedly exploited by the CIA. The best thing users can do is update to the latest available version of their phone’s operating system, as this provides the highest level of protection. Apple and Google have pledged to fix any remaining flaws, so you can expect more software updates to become available in the near future. Gadgets and tech news in pictures               Gadgets and tech news in pictures       A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore   Getty Images        A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore   Getty Images        A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore   Getty Images        Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea   Jung Yeon-Je/AFP/Getty Images        Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea   Jung Yeon-Je/AFP/Getty Images        The giant human-like robot bears a striking resemblance to the military robots starring in the movie 'Avatar' and is claimed as a world first by its creators from a South Korean robotic company   Jung Yeon-Je/AFP/Getty Images        Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea   Jung Yeon-Je/AFP/Getty Images        Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi   Rex        Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi and Kaptain Rock playing one string light saber guitar perform jam session   Rex        A test line of a new energy suspension railway resembling the giant panda is seen in Chengdu, Sichuan Province, China   Reuters        A test line of a new energy suspension railway, resembling a giant panda, is seen in Chengdu, Sichuan Province, China   Reuters        A concept car by Trumpchi from GAC Group is shown at the International Automobile Exhibition in Guangzhou, China   Rex        A Mirai fuel cell vehicle by Toyota is displayed at the International Automobile Exhibition in Guangzhou, China   Reuters        A visitor tries a Nissan VR experience at the International Automobile Exhibition in Guangzhou, China   Reuters        A man looks at an exhibit entitled 'Mimus' a giant industrial robot which has been reprogrammed to interact with humans during a photocall at the new Design Museum in South Kensington, London   Getty        A new Israeli Da-Vinci unmanned aerial vehicle manufactured by Elbit Systems is displayed during the 4th International conference on Home Land Security and Cyber in the Israeli coastal city of Tel Aviv   Getty        Electrification Guru Dr. Wolfgang Ziebart talks about the electric Jaguar I-PACE concept SUV before it was unveiled before the Los Angeles Auto Show in Los Angeles, California, U.S   Reuters        The Jaguar I-PACE Concept car is the start of a new era for Jaguar.  This is a production preview of the Jaguar I-PACE, which will be revealed next year and on the road in 2018   AP        Japan's On-Art Corp's CEO Kazuya Kanemaru poses with his company's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03' and other robots during a demonstration in Tokyo, Japan   Reuters        Japan's On-Art Corp's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03'   Reuters        Japan's On-Art Corp's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03' performs during its unveiling in Tokyo, Japan   Reuters        Singulato Motors co-founder and CEO Shen Haiyin poses in his company's concept car Tigercar P0 at a workshop in Beijing, China   Reuters        Singulato Motors' concept car Tigercar P0   Reuters        The interior of Singulato Motors' concept car Tigercar P0 at a workshop in Beijing, China   Reuters        A picture shows Singulato Motors' concept car Tigercar P0 at a workshop in Beijing, China   Reuters        Connected company president Shigeki Tomoyama addresses a press briefing as he elaborates on Toyota's "connected strategy" in Tokyo.
+The Connected company is a part of seven Toyota in-house companies that was created in April 2016   Getty        A Toyota Motors employee demonstrates a smartphone app with the company's pocket plug-in hybrid (PHV) service on the cockpit of the latest Prius hybrid vehicle during Toyota's "connected strategy" press briefing in Tokyo   Getty        An exhibitor charges the battery cells of AnyWalker, an ultra-mobile chasis robot which is able to move in any kind of environment during Singapore International Robo Expo   Getty        A robot with a touch-screen information apps stroll down the pavillon at the Singapore International Robo Expo   Getty        An exhibitor demonstrates the AnyWalker, an ultra-mobile chasis robot which is able to move in any kind of environment during Singapore International Robo Expo   Getty        Robotic fishes swim in a water glass tank displayed at the Korea pavillon during Singapore International Robo Expo   Getty        An employee shows a Samsung Electronics' Gear S3 Classic during Korea Electronics Show 2016 in Seoul, South Korea   Reuters        Visitors experience Samsung Electronics' Gear VR during the Korea Electronics Grand Fair at an exhibition hall in Seoul, South Korea   Getty        Amy Rimmer, Research Engineer at Jaguar Land Rover, demonstrates the car manufacturer's Advanced Highway Assist in a Range Rover, which drives the vehicle, overtakes and can detect vehicles in the blind spot, during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire   PA wire        Ford EEBL Emergency Electronic Brake Lights is demonstrated during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire   PA        Chris Burbridge, Autonomous Driving Software Engineer for Tata Motors European Technical Centre, demonstrates the car manufacturer's GLOSA V2X functionality, which is connected to the traffic lights and shares information with the driver, during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire   PA wire        Full-scale model of 'Kibo' on display at the Space Dome exhibition hall of the Japan Aerospace Exploration Agency (JAXA) Tsukuba Space Center, in Tsukuba, north-east of Tokyo, Japan   EPA        Miniatures on display at the Space Dome exhibition hall of the Japan Aerospace Exploration Agency (JAXA) Tsukuba Space Center, in Tsukuba, north-east of Tokyo, Japan.
+In its facilities, JAXA develop satellites and analyse their observation data, train astronauts for utilization in the Japanese Experiment Module 'Kibo' of the International Space Station (ISS) and develop launch vehicles   EPA        The robot developed by Seed Solutions sings and dances to the music during the Japan Robot Week 2016 at Tokyo Big Sight.  At this biennial event, the participating companies exhibit their latest service robotic technologies and components   Getty        The robot developed by Seed Solutions sings and dances to music during the Japan Robot Week 2016 at Tokyo Big Sight   Getty        Government and industry are working together on a robot-like autopilot system that could eliminate the need for a second human pilot in the cockpit   AP        Aurora Flight Sciences' technicians work on an Aircrew Labor In-Cockpit Automantion System (ALIAS) device in the firm's Centaur aircraft at Manassas Airport in Manassas, Va.   AP     Flight Simulator   Stefan Schwart and Udo Klingenberg preparing a self-built flight simulator to land at Hong Kong airport, from Rostock, Germany   EPA     PlayStation VR   An elated customer at the launch of PlayStation VR at the GAME Digital Westfield White City midnight launch.   GAME Digital  2. Check your TV ‘Weeping Angel’ is one of the most chilling revelations of them all, allowing the CIA to turn smart TVs into covert microphones, according to WikiLeaks. The attack, which is said to have been developed alongside the MI5, enabled agents to infiltrate TVs and make them appear to be turned off . In this ‘Fake Off’ state, they could listen in on everything that people were saying around them, and send the recordings to a CIA server over a web connection. Only a select group of Samsung models are reported to be vulnerable to the hack. These are: UNES8000F, E8000GF plasma, UNES7550F, UNF8000 series, F8500 plasma, UNF7500 series and UNF7000 series. Even then, they have to be running old firmware, such as versions versions 1111, 1112 or 1116. It’s also understood that a CIA agent would have had to have physical access to a TV in order to carry out the Weeping Angel hack, but you can ensure it’s not been tampered with by switching your set off and checking the back of it for a blue LED. You can see which firmware version your TV is running by going to the main menu, choosing support and then software update. From here, you can update to the secure version 1118. 3. Stop using Internet Explorer A short section in the Vault 7 leaks says that the CIA used a “very simple technique” to steal passwords saved by Internet Explorer . Microsoft ended support for Internet Explorer 8, 9 and 10 over a year ago, meaning that only version 11 receives security updates from the company. The browser has no future though, with IE11 confirmed as the final iteration, and Microsoft itself recommends that users choose alternatives. Edge is the default browser on the latest versions of Windows, with Chrome and Firefox its main competitors, and all three are better to use than Internet Explorer. What’s more, Google says that Chrome has already fixed most of the vulnerabilities the CIA was allegedly capable of taking advantage of. 4. Don’t rely on antivirus The Vault 7 documents say that antivirus programs were hoodwinked by the CIA , which used a variety of techniques and tricks to bypass them. Often seen as the ultimate safety net by consumers, even they can't stand up to the CIA. “CIA hackers developed successful attacks against most well known anti-virus programs,” according to WikiLeaks. “These are documented in AV defeats, Personal Security Products, Detecting and defeating PSPs and PSP/Debugger/RE Avoidance.”   The 6 biggest spying secrets revealed by WikiLeaks' CIA files 21 separate security products are listed in the leak, including: Avast, AVG, Avira, Bitdefender, ClamAV, Comodo, DaRT, ESET, F-Secure, GDATA, Kaspersky, Malwarebytes, McAfee, Microsoft Security Essentials, Norton, Panda, Rising, Symantec, Trend Micro, Zemana Antilogger and Zone Alarm. Most of the details have been redacted, but one of a handful of remaining sections reads, “F-Secure has generally been a lower tier product that causes us minimal difficulty. The only annoyance we have observed is that F-Secure has an apparent entropy-based heuristic that flags Trojaned applications or other binaries containing encrypted/compressed payloads. Two defeats are known to exist.” 5. Get serious about your data This is general good practice, but it’s more relevant than ever in the wake of the Vault 7 leaks. Take extra care with your data, only downloading the apps you really need to use. The recent case of the Meitu app is a good one to consider. The light-hearted photo-editing app didn’t do very much, but demanded a disconcertingly huge number of permissions, including access to the phone’s contacts, messages, IMEI number and USB storage. All of this information was being to servers in China. On the search side, DuckDuckGo , a privacy-focused search engine, is becoming an increasingly popular service for web users, who have lost faith in the traditional tech giants. More about: WikiLeaks CIA Vault 7 Cybersecurity Comments
+
+This has been a dark week in the world of technology, with WikiLeaks’ mammoth ‘Vault 7’ document release making for some deeply unpleasant reading.
+
+The 8,761 files published by the whistle-blowing organisation allegedly came straight from the CIA, which is believed to have been using a variety of hacking methods to secretly spy on people through their electronic devices.
+
+The agency is also said to be capable of pinning the blame for cyber attacks on other countries.
+
+WikiLeaks is set to follow this up by publishing the redacted details of all of the CIA’s cyber weapons, but will give technology companies initial exclusive access to them, to prepare themselves against hackers.
+
+Fortunately, there are also a number of simple steps that ordinary people can take to protect themselves, without going off-grid.
+
+1. Update your phone
+
+The agency was able to remotely control and monitor phone activity, both on Android and iOS, according to the WikiLeaks documents. Both Apple and Google have said that they’ve addressed “many” of the vulnerabilities allegedly exploited by the CIA.
+
+The best thing users can do is update to the latest available version of their phone’s operating system, as this provides the highest level of protection. Apple and Google have pledged to fix any remaining flaws, so you can expect more software updates to become available in the near future.
+
+Gadgets and tech news in pictures
+
+
+
+
+
+
+
+44 show all Gadgets and tech news in pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1/44 A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore Getty Images
+
+2/44 A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore Getty Images
+
+3/44 A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore Getty Images
+
+4/44 Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Images
+
+5/44 Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Images
+
+6/44 The giant human-like robot bears a striking resemblance to the military robots starring in the movie 'Avatar' and is claimed as a world first by its creators from a South Korean robotic company Jung Yeon-Je/AFP/Getty Images
+
+7/44 Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Images
+
+8/44 Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi Rex
+
+9/44 Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi and Kaptain Rock playing one string light saber guitar perform jam session Rex
+
+10/44 A test line of a new energy suspension railway resembling the giant panda is seen in Chengdu, Sichuan Province, China Reuters
+
+11/44 A test line of a new energy suspension railway, resembling a giant panda, is seen in Chengdu, Sichuan Province, China Reuters
+
+12/44 A concept car by Trumpchi from GAC Group is shown at the International Automobile Exhibition in Guangzhou, China Rex
+
+13/44 A Mirai fuel cell vehicle by Toyota is displayed at the International Automobile Exhibition in Guangzhou, China Reuters
+
+14/44 A visitor tries a Nissan VR experience at the International Automobile Exhibition in Guangzhou, China Reuters
+
+15/44 A man looks at an exhibit entitled 'Mimus' a giant industrial robot which has been reprogrammed to interact with humans during a photocall at the new Design Museum in South Kensington, London Getty
+
+16/44 A new Israeli Da-Vinci unmanned aerial vehicle manufactured by Elbit Systems is displayed during the 4th International conference on Home Land Security and Cyber in the Israeli coastal city of Tel Aviv Getty
+
+17/44 Electrification Guru Dr. Wolfgang Ziebart talks about the electric Jaguar I-PACE concept SUV before it was unveiled before the Los Angeles Auto Show in Los Angeles, California, U.S Reuters
+
+18/44 The Jaguar I-PACE Concept car is the start of a new era for Jaguar. This is a production preview of the Jaguar I-PACE, which will be revealed next year and on the road in 2018 AP
+
+19/44 Japan's On-Art Corp's CEO Kazuya Kanemaru poses with his company's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03' and other robots during a demonstration in Tokyo, Japan Reuters
+
+20/44 Japan's On-Art Corp's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03' Reuters
+
+21/44 Japan's On-Art Corp's eight metre tall dinosaur-shaped mechanical suit robot 'TRX03' performs during its unveiling in Tokyo, Japan Reuters
+
+22/44 Singulato Motors co-founder and CEO Shen Haiyin poses in his company's concept car Tigercar P0 at a workshop in Beijing, China Reuters
+
+23/44 Singulato Motors' concept car Tigercar P0 Reuters
+
+24/44 The interior of Singulato Motors' concept car Tigercar P0 at a workshop in Beijing, China Reuters
+
+25/44 A picture shows Singulato Motors' concept car Tigercar P0 at a workshop in Beijing, China Reuters
+
+26/44 Connected company president Shigeki Tomoyama addresses a press briefing as he elaborates on Toyota's "connected strategy" in Tokyo. The Connected company is a part of seven Toyota in-house companies that was created in April 2016 Getty
+
+27/44 A Toyota Motors employee demonstrates a smartphone app with the company's pocket plug-in hybrid (PHV) service on the cockpit of the latest Prius hybrid vehicle during Toyota's "connected strategy" press briefing in Tokyo Getty
+
+28/44 An exhibitor charges the battery cells of AnyWalker, an ultra-mobile chasis robot which is able to move in any kind of environment during Singapore International Robo Expo Getty
+
+29/44 A robot with a touch-screen information apps stroll down the pavillon at the Singapore International Robo Expo Getty
+
+30/44 An exhibitor demonstrates the AnyWalker, an ultra-mobile chasis robot which is able to move in any kind of environment during Singapore International Robo Expo Getty
+
+31/44 Robotic fishes swim in a water glass tank displayed at the Korea pavillon during Singapore International Robo Expo Getty
+
+32/44 An employee shows a Samsung Electronics' Gear S3 Classic during Korea Electronics Show 2016 in Seoul, South Korea Reuters
+
+33/44 Visitors experience Samsung Electronics' Gear VR during the Korea Electronics Grand Fair at an exhibition hall in Seoul, South Korea Getty
+
+34/44 Amy Rimmer, Research Engineer at Jaguar Land Rover, demonstrates the car manufacturer's Advanced Highway Assist in a Range Rover, which drives the vehicle, overtakes and can detect vehicles in the blind spot, during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire PA wire
+
+35/44 Ford EEBL Emergency Electronic Brake Lights is demonstrated during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire PA
+
+36/44 Chris Burbridge, Autonomous Driving Software Engineer for Tata Motors European Technical Centre, demonstrates the car manufacturer's GLOSA V2X functionality, which is connected to the traffic lights and shares information with the driver, during the first demonstrations of the UK Autodrive Project at HORIBA MIRA Proving Ground in Nuneaton, Warwickshire PA wire
+
+37/44 Full-scale model of 'Kibo' on display at the Space Dome exhibition hall of the Japan Aerospace Exploration Agency (JAXA) Tsukuba Space Center, in Tsukuba, north-east of Tokyo, Japan EPA
+
+38/44 Miniatures on display at the Space Dome exhibition hall of the Japan Aerospace Exploration Agency (JAXA) Tsukuba Space Center, in Tsukuba, north-east of Tokyo, Japan. In its facilities, JAXA develop satellites and analyse their observation data, train astronauts for utilization in the Japanese Experiment Module 'Kibo' of the International Space Station (ISS) and develop launch vehicles EPA
+
+39/44 The robot developed by Seed Solutions sings and dances to the music during the Japan Robot Week 2016 at Tokyo Big Sight. At this biennial event, the participating companies exhibit their latest service robotic technologies and components Getty
+
+40/44 The robot developed by Seed Solutions sings and dances to music during the Japan Robot Week 2016 at Tokyo Big Sight Getty
+
+41/44 Government and industry are working together on a robot-like autopilot system that could eliminate the need for a second human pilot in the cockpit AP
+
+42/44 Aurora Flight Sciences' technicians work on an Aircrew Labor In-Cockpit Automantion System (ALIAS) device in the firm's Centaur aircraft at Manassas Airport in Manassas, Va. AP
+
+43/44 Flight Simulator Stefan Schwart and Udo Klingenberg preparing a self-built flight simulator to land at Hong Kong airport, from Rostock, Germany EPA
+
+44/44 PlayStation VR An elated customer at the launch of PlayStation VR at the GAME Digital Westfield White City midnight launch. GAME Digital
+
+2. Check your TV
+
+‘Weeping Angel’ is one of the most chilling revelations of them all, allowing the CIA to turn smart TVs into covert microphones, according to WikiLeaks. The attack, which is said to have been developed alongside the MI5, enabled agents to infiltrate TVs and make them appear to be turned off.
+
+In this ‘Fake Off’ state, they could listen in on everything that people were saying around them, and send the recordings to a CIA server over a web connection.
+
+Only a select group of Samsung models are reported to be vulnerable to the hack. These are: UNES8000F, E8000GF plasma, UNES7550F, UNF8000 series, F8500 plasma, UNF7500 series and UNF7000 series. Even then, they have to be running old firmware, such as versions versions 1111, 1112 or 1116.
+
+It’s also understood that a CIA agent would have had to have physical access to a TV in order to carry out the Weeping Angel hack, but you can ensure it’s not been tampered with by switching your set off and checking the back of it for a blue LED.
+
+You can see which firmware version your TV is running by going to the main menu, choosing support and then software update. From here, you can update to the secure version 1118.
+
+3. Stop using Internet Explorer
+
+A short section in the Vault 7 leaks says that the CIA used a “very simple technique” to steal passwords saved by Internet Explorer.
+
+Microsoft ended support for Internet Explorer 8, 9 and 10 over a year ago, meaning that only version 11 receives security updates from the company. The browser has no future though, with IE11 confirmed as the final iteration, and Microsoft itself recommends that users choose alternatives.
+
+Edge is the default browser on the latest versions of Windows, with Chrome and Firefox its main competitors, and all three are better to use than Internet Explorer. What’s more, Google says that Chrome has already fixed most of the vulnerabilities the CIA was allegedly capable of taking advantage of.
+
+4. Don’t rely on antivirus
+
+The Vault 7 documents say that antivirus programs were hoodwinked by the CIA, which used a variety of techniques and tricks to bypass them. Often seen as the ultimate safety net by consumers, even they can't stand up to the CIA.
+
+“CIA hackers developed successful attacks against most well known anti-virus programs,” according to WikiLeaks. “These are documented in AV defeats, Personal Security Products, Detecting and defeating PSPs and PSP/Debugger/RE Avoidance.”
+
+21 separate security products are listed in the leak, including: Avast, AVG, Avira, Bitdefender, ClamAV, Comodo, DaRT, ESET, F-Secure, GDATA, Kaspersky, Malwarebytes, McAfee, Microsoft Security Essentials, Norton, Panda, Rising, Symantec, Trend Micro, Zemana Antilogger and Zone Alarm.
+
+Most of the details have been redacted, but one of a handful of remaining sections reads, “F-Secure has generally been a lower tier product that causes us minimal difficulty. The only annoyance we have observed is that F-Secure has an apparent entropy-based heuristic that flags Trojaned applications or other binaries containing encrypted/compressed payloads. Two defeats are known to exist.”
+
+5. Get serious about your data
+
+This is general good practice, but it’s more relevant than ever in the wake of the Vault 7 leaks. Take extra care with your data, only downloading the apps you really need to use.
+
+The recent case of the Meitu app is a good one to consider. The light-hearted photo-editing app didn’t do very much, but demanded a disconcertingly huge number of permissions, including access to the phone’s contacts, messages, IMEI number and USB storage. All of this information was being to servers in China.
+
+On the search side, DuckDuckGo, a privacy-focused search engine, is becoming an increasingly popular service for web users, who have lost faith in the traditional tech giants.

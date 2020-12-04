@@ -1,0 +1,51 @@
+4 ways to keep your passwords safe
+4 ways to keep your passwords safe
+Chances are you have an online account that requires you to enter a username and password. And if you do, chances are your information has already been exposed to hackers. In 2014 the Ponemon Institute, an information security research center, released a study noting that 47% of US adults had their personal information exposed by hackers. These attacks are no doubt on the rise , with major companies like LinkedIn , Sony – and even Facebook CEO Mark Zuckerberg – as well as Yahoo Finance parent Yahoo being victim to cyber breaches . Although it’s difficult to keep up with today’s technology, here are 4 strategies to help keep your passwords safe. Take advantage of the secure features already a part of your everyday use. Most browsers have a password management system that allows you to save the passwords on to whatever sites you use. You may recall getting a notification asking “Save password for this site?” When you’re prompted to do so, click yes. If you choose to personally manage your passwords you should be able to find that mangement system under the settings tabs on most browsers. What’s really helpful about this feature is that you’re able to access these passwords on multiple devices. For example, if you save your passwords on Chrome using Google Smart Lock , once you access Chrome on your smartphone or laptop all of the passwords stored will also grant you access from those devices. Just make sure you only use this feature on your own devices. You should never save passwords to any device that’s for public use – that’s just asking to be hacked! This is a feature most people have used and probably don’t think twice about. It’s an extra layer of protection to your accounts that require you to sign in with something you know, like your original password, and something you have, like your phone. Some sites do this automatically, as hackers get better at their jobs, but for the most part you may have to set this up for whatever site you feel necessary. Not all sites offer this feature but you can find ones that are compatible here . To make life even easier – and more secure – there’s new technology that allows you to use 2-step authentication without requiring a unique code. Hypersecu , which caters to both businesses and individuals, offers several products that will simplify your 2-step authentication for both computers and mobile phone. The password card works with NFC technology on newer smartphones to completely eliminate the need to flip back and forth from app to text messages to get your unique code. All you do is download the Edge Programmer app to your phone and register your card. Once you go to a site that offers 2-step authentication and enter your password, tap the card onto your phone for access. The company also offers a FIDO U2F Key that does the same as the password card but made for computers. The small chip enters into your USB port and once you’re ready to log in to your account, just enter your password and press a button. You can find more info on FIDO technology here . There are tons of apps out there to help you manage all of your passwords. Some do the basics and just keep your passwords in a safe place so you don’t forget them, while others offer additional services. Dashlane and LastPass are one of the best apps to work with. Not only do they store your passwords but they also have the ability to store your credit card information. Similar to the information stored on your browsers, these apps also have the option to link all of your devices. And if you’re ever clueless on how to create an unhackable password, don’t worry – there’s an option for that too. Both apps offer a free and premium version of a service that generates a password for you, depending on what your needs are. These days free wi-fi is widely accessible. Many companies like Spectrum and Optimum have hotspots everywhere so that their customers can easily connect to their networks. While this makes life super convenient and may even save us a few bucks, it’s not always safe. Never underestimate hackers and their ability to intercept your information. By downloading free software, hackers can monitor all the traffic on a public network. The software notifies the hacker once a username and password are entered and that’s all it takes to steal from you. This is also the reason why you should never use the same password for everything. If you do, it’s only a matter of time before that hacker tries one to crack open every account you have. Read more: Don’t carry these 5 things in your wallet Here’s what you can do with $10,000 Here’s how to calculate your full retirement age
+
+Chances are you have an online account that requires you to enter a username and password. And if you do, chances are your information has already been exposed to hackers. In 2014 the Ponemon Institute, an information security research center, released a study noting that 47% of US adults had their personal information exposed by hackers.
+
+These attacks are no doubt on the rise, with major companies like LinkedIn, Sony – and even Facebook CEO Mark Zuckerberg – as well as Yahoo Finance parent Yahoo being victim to cyber breaches. Although it’s difficult to keep up with today’s technology, here are 4 strategies to help keep your passwords safe.
+
+Use your browser
+
+Take advantage of the secure features already a part of your everyday use. Most browsers have a password management system that allows you to save the passwords on to whatever sites you use.
+
+You may recall getting a notification asking “Save password for this site?” When you’re prompted to do so, click yes. If you choose to personally manage your passwords you should be able to find that mangement system under the settings tabs on most browsers.
+
+What’s really helpful about this feature is that you’re able to access these passwords on multiple devices. For example, if you save your passwords on Chrome using Google Smart Lock, once you access Chrome on your smartphone or laptop all of the passwords stored will also grant you access from those devices.
+
+Just make sure you only use this feature on your own devices. You should never save passwords to any device that’s for public use – that’s just asking to be hacked!
+
+Enable 2-step authentication
+
+This is a feature most people have used and probably don’t think twice about. It’s an extra layer of protection to your accounts that require you to sign in with something you know, like your original password, and something you have, like your phone.
+
+Some sites do this automatically, as hackers get better at their jobs, but for the most part you may have to set this up for whatever site you feel necessary. Not all sites offer this feature but you can find ones that are compatible here.
+
+To make life even easier – and more secure – there’s new technology that allows you to use 2-step authentication without requiring a unique code.
+
+Hypersecu, which caters to both businesses and individuals, offers several products that will simplify your 2-step authentication for both computers and mobile phone. The password card works with NFC technology on newer smartphones to completely eliminate the need to flip back and forth from app to text messages to get your unique code. All you do is download the Edge Programmer app to your phone and register your card. Once you go to a site that offers 2-step authentication and enter your password, tap the card onto your phone for access.
+
+The company also offers a FIDO U2F Key that does the same as the password card but made for computers. The small chip enters into your USB port and once you’re ready to log in to your account, just enter your password and press a button. You can find more info on FIDO technology here.
+
+Use free apps
+
+There are tons of apps out there to help you manage all of your passwords. Some do the basics and just keep your passwords in a safe place so you don’t forget them, while others offer additional services.
+
+Dashlane and LastPass are one of the best apps to work with. Not only do they store your passwords but they also have the ability to store your credit card information. Similar to the information stored on your browsers, these apps also have the option to link all of your devices.
+
+And if you’re ever clueless on how to create an unhackable password, don’t worry – there’s an option for that too. Both apps offer a free and premium version of a service that generates a password for you, depending on what your needs are.
+
+Don’t visit personal accounts when connected to a public wi-fi network
+
+These days free wi-fi is widely accessible. Many companies like Spectrum and Optimum have hotspots everywhere so that their customers can easily connect to their networks. While this makes life super convenient and may even save us a few bucks, it’s not always safe.
+
+Never underestimate hackers and their ability to intercept your information. By downloading free software, hackers can monitor all the traffic on a public network. The software notifies the hacker once a username and password are entered and that’s all it takes to steal from you. This is also the reason why you should never use the same password for everything. If you do, it’s only a matter of time before that hacker tries one to crack open every account you have.
+
+Read more:
+
+Don’t carry these 5 things in your wallet
+
+Here’s what you can do with $10,000
+
+Here’s how to calculate your full retirement age

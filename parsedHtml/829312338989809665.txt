@@ -1,0 +1,23 @@
+Ingenious Hack Turns Amazon Dash Button Into Trump-Fighting Machine
+Ingenious Hack Turns Amazon Dash Button Into Trump-Fighting Machine
+Ordering Doritos on demand is pretty great, but this is a better use of your Amazon Dash button. Programmer Nathan Pryor heard his friend wish for a device that would let her donate to the American Civil Liberties Union with the push of a button in response to reading news about President Donald Trump and his administration’s problematic new policies. “Her language was more colorful than that, but it got me thinking: why reserve that instant gratification for physical goods?” Pryor wrote in a post on Medium . “Why not push a button and do some good?” For the uninitiated, Amazon created dash buttons as a one-stop-shop for ordering common household items. They provide the little devices that you can stick anywhere. Customers link the button to their credit cards and specific products on Amazon, like toilet paper or snacks, and place them in convenient locations around the house. The company released a customizable version for creative programmers like Pryor. He ordered one, wrote a program, tested it out, et voila: the Trump-fighting machine you never knew you needed. “I built an Amazon Dash button that donates $5 to the ACLU every time I click it, allowing an immediate, physical response when I read news of further assaults on our civil liberties,” Pryor wrote on the caption of the video he uploaded to YouTube. “I doubt there will be any shortage of reason to push [the button] in the coming days, unfortunately,” he told The Huffington Post via email. Pryor’s invention made headlines quickly, with folks on Twitter asking the programmer if he could make similar versions for other organizations, like Planned Parenthood . GEEKS: somebody make one of these for @PPFA . https://t.co/se3566SLQO “I’d love to see these become a real product with different organizations available, but it would need to be done with Amazon’s help since the Dash is their product and they’re a gatekeeper to the service,” Pryor added. Donations to the ACLU, which sees itself as a leading charge against the Trump administration, skyrocketed since the president signed the executive order banning refugees and citizens from seven predominantly Muslim countries from entering the United States. The ACLU said it raised more than $24 million in online donations in the few days after the travel ban was signed. ALSO ON HUFFPOST Families Reunited After Travel Ban Lifted       Share this slide:       MORE:
+
+Ordering Doritos on demand is pretty great, but this is such a better use of your Amazon Dash button.
+
+Programmer Nathan Pryor heard his friend wish for a device that would let her donate to the American Civil Liberties Union with the push of a button in response to reading news about President Donald Trump and his administration’s problematic new policies.
+
+“Her language was sliiiiightly more colorful than that, but it got me thinking: why reserve that instant gratification for physical goods?” Pryor wrote in a post on Medium. “Why not push a button and do some real good?”
+
+For the uninitiated, Amazon created dash buttons as a one-stop-shop for ordering common household items. They provide the little devices that you can stick anywhere. Customers link the button to their credit cards and specific products on Amazon, like toilet paper or snacks, and place them in convenient locations around the house.
+
+The company released a customizable version for creative programmers like Pryor. He ordered one, wrote a program, tested it out, et voila: the Trump-fighting machine you never knew you needed.
+
+“I built an Amazon Dash button that donates $5 to the ACLU every time I click it, allowing an immediate, physical response when I read news of further assaults on our civil liberties,” Pryor wrote on the caption of the video he uploaded to YouTube.
+
+“I doubt there will be any shortage of reason to push [the button] in the coming days, unfortunately,” he told The Huffington Post via email.
+
+Pryor’s invention made headlines quickly, with folks on Twitter asking the programmer if he could make similar versions for other organizations, like Planned Parenthood.
+
+GEEKS: somebody make one of these for @PPFA. https://t.co/se3566SLQO — Megan Goodwin (@mpgPhD) February 7, 2017
+
+“I’d love to see these become a real product with different organizations available, but it would need to be done with Amazon’s help since the Dash is their product and they’re a gatekeeper to the service,” Pryor added.

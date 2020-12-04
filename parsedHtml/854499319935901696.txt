@@ -1,0 +1,65 @@
+Why Facebook’s AR announcement should excite iPhone fans
+Why Facebook’s AR announcement should excite iPhone fans
+Facebook’s big augmented reality announcements at its F8 developer’s conference in California are the clearest sign the next iPhone will have built-in AR hardware. SEE ALSO: Everything you need to know about what Facebook announced at F8 It’s true, Apple’s interest in and affinity for augmented reality is not news. Ask Apple CEO Tim Cook about virtual reality and he will immediately steer the conversation to the promise of AR . That’s led many people to assume that the next iPhone, the 10th Anniversary iPhone, will feature a camera with built-in augmented reality capabilities. This seemed like a reasonable assumption, but, to be honest, I was 50-50 on the possibility. Augmented Reality is only marginally less of a curiosity to consumers than virtual reality. Facebook CEO Mark Zuckerberg’s keynote presentation on the major updates coming to Facebook’s Camera app changed my mind. “We’re making the camera the first mainstream augmented reality platform,” said Zuckerberg, who then proceeded to show off some eye-pooping AR integrations. When blended with AI, Facebook’s real-time visual understanding could identify objects, people, places, and their positional relationship to each other. This is pretty cool. Augment any real-world scene with virtual stuff, blurring the line between real and fake..oh, wait. #fbf8  pic.twitter.com/JdDJaFT37I — Lance Ulanoff (@LanceUlanoff) April 18, 2017 First Zuckerberg demonstrated how the camera could seamlessly integrate 3D text with a coffee table scene. The 3D text wasn’t floating in space. It was perfectly positioned on the table and maintained that correct perspective no matter where you moved the camera. He also created fake steam in the real coffee cup and added fake flowers to a real plant that looked like they grew in place. Zuckerberg also showed just how grand augmented reality vision could be, transforming a suburban home into  Harry Potter’s Hogwarts. I’ve seen all kinds of mobile AR, usually activated by special hidden codes on cards on signage or special action figures. It doesn’t need special mobile hardware and works well enough. Facebook’s brand of mobile AR seemed somehow better, more powerful. Part of this is surely due to the growing power of Facebook's vision system, which Facbeook CTO Mike Schroepfer illustrated below. The evolution of Facebook's computer vision technology. It's getting pretty smart. #f82017  #fbf8  pic.twitter.com/gbxl4Kl2UC — Lance Ulanoff (@LanceUlanoff) April 18, 2017 However, Zuckerberg chose to highlight another key technology underpinning Facebook’s camera augmented reality: SLAM or Simultaneous Localization and Mapping. SLAM is a range and mapping technology typically associated with robotics and self-driving cars. It often employs a variety of specialized hardware to gather the information it needs to fully read everything in an environment, including streets, other cars, rooms, people, and objects to build a map of its environment. It was surprising and a bit odd that Zuckerberg would credit SLAM with the seamless integration of real and virtual worlds. I kept thinking about how there seemed to be a missing piece here. Is Facebook integrating all SLAM technology as software inside Facebook’s camera or are they relying on an as-of-yet-unnamed and unreleased piece of mobile technology? The Facebook camera will use SLAM to combine the real and augmented world in a seamless way. #fbf8  pic.twitter.com/vOAdF8SCSn — Lance Ulanoff (@LanceUlanoff) April 18, 2017 A key part of SLAM is depth perception. The computer needs to know the distance from itself to other objects and the distances between objects to build an accurate 3D picture of the room. There are some very good and well-known technologies, like Microsoft’s Kinect and Google’s Project Tango , that bathe the environment in infrared (IR) to build a 3D mesh of the environment. With that, the AR engine can ensure that virtual objects properly interact with the real world. As of now, there aren’t a lot of mainstream mobile phones that include range-finding technology. The two leading mobile devices: Apple’s iPhone and the Samsung Galaxy S8 do not include it. Yet. As I see it, Zuckerberg wouldn’t use SLAM to power his brand of AR unless he knew that the masses would have access to the technology. Where better to find it than on the next iPhone? Apple has several options here. It could integrate range-sensing technology like Intel RealSense (I’ve seen it primarily on Laptops for Windows Hello face recognition and on a handful of smartphones and tablets). That seems an unlikely choice since Apple uses its own custom silicon for its A10 Fusion mobile CPU and Intel is unlikely to license one technology without the other. However, Apple also owns Primesense, the company behind the original Kinect sensor. Apple bought the company and its 3D imaging technology in 2013 for a reported $345 million. A Primesense reader could easily fit inside an iPhone X Plus. An iPhone with real range-finding hardware would not only satisfy Tim Cook’s AR appetite, it could be just the platform Zuckerberg is thinking about when he promises SLAM-powered AR. It’s not unreasonable to assume Zuckerberg and Facebook know a little bit more about what’s coming on the next iPhone than the rest of us. On the other hand, I may be extrapolating a bit too much. I checked in with my friend and iRobot CEO Colin Angle to see if he had any insight on SLAM and the need for a hardware-based solution. Angle’s own robot, the popular Roomba robot vacuum uses SLAM for positioning. “SLAM is a computational technique which can integrate multiple sensors of different types into a map. Typically, there are primary sensors like a laser or camera (which Roomba uses) and secondary sensors like ultrasonic, IR, or a downward pointing optical flow measuring device (which Roomba uses). So, it may be that they are using the camera on the phone or it may be that they are getting something new in the phone,” said Angle via email. However, he noted that there’s not enough information here to really know how Facebook is using SLAM. And, I guess, it’s not even clear how the social media giant is defining its brand of SLAM. Still, I choose to take this as a sign: A fully-integrated AR camera and sensor system is coming on the next iPhone. It’s as solid an iPhone rumor as any other you’ve heard in the last six months. WATCH: This mini scuba gear just gave snorkeling a cool upgrade
+
+Facebook’s big augmented reality announcements at its F8 developer’s conference in California are the clearest sign the next iPhone will have built-in AR hardware.
+
+SEE ALSO: Everything you need to know about what Facebook announced at F8
+
+It’s true, Apple’s interest in and affinity for augmented reality is not news. Ask Apple CEO Tim Cook about virtual reality and he will immediately steer the conversation to the promise of AR.
+
+That’s led many people to assume that the next iPhone, the 10th Anniversary iPhone, will feature a camera with built-in augmented reality capabilities. This seemed like a reasonable assumption, but, to be honest, I was 50-50 on the possibility. Augmented Reality is only marginally less of a curiosity to consumers than virtual reality.
+
+Facebook CEO Mark Zuckerberg’s keynote presentation on the major updates coming to Facebook’s Camera app changed my mind.
+
+“We’re making the camera the first mainstream augmented reality platform,” said Zuckerberg, who then proceeded to show off some eye-pooping AR integrations.
+
+When blended with AI, Facebook’s real-time visual understanding could identify objects, people, places, and their positional relationship to each other.
+
+This is pretty cool. Augment any real-world scene with virtual stuff, blurring the line between real and fake..oh, wait. #fbf8 pic.twitter.com/JdDJaFT37I — Lance Ulanoff (@LanceUlanoff) April 18, 2017
+
+First Zuckerberg demonstrated how the camera could seamlessly integrate 3D text with a coffee table scene. The 3D text wasn’t floating in space. It was perfectly positioned on the table and maintained that correct perspective no matter where you moved the camera. He also created fake steam in the real coffee cup and added fake flowers to a real plant that looked like they grew in place.
+
+Zuckerberg also showed just how grand augmented reality vision could be, transforming a suburban home into Harry Potter’s Hogwarts.
+
+I’ve seen all kinds of mobile AR, usually activated by special hidden codes on cards on signage or special action figures. It doesn’t need special mobile hardware and works well enough. Facebook’s brand of mobile AR seemed somehow better, more powerful.
+
+Part of this is surely due to the growing power of Facebook's vision system, which Facbeook CTO Mike Schroepfer illustrated below.
+
+However, Zuckerberg chose to highlight another key technology underpinning Facebook’s camera augmented reality: SLAM or Simultaneous Localization and Mapping.
+
+SLAM is a range and mapping technology typically associated with robotics and self-driving cars. It often employs a variety of specialized hardware to gather the information it needs to fully read everything in an environment, including streets, other cars, rooms, people, and objects to build a map of its environment.
+
+It was surprising and a bit odd that Zuckerberg would credit SLAM with the seamless integration of real and virtual worlds. I kept thinking about how there seemed to be a missing piece here.
+
+Is Facebook integrating all SLAM technology as software inside Facebook’s camera or are they relying on an as-of-yet-unnamed and unreleased piece of mobile technology?
+
+The Facebook camera will use SLAM to combine the real and augmented world in a seamless way. #fbf8 pic.twitter.com/vOAdF8SCSn — Lance Ulanoff (@LanceUlanoff) April 18, 2017
+
+A key part of SLAM is depth perception. The computer needs to know the distance from itself to other objects and the distances between objects to build an accurate 3D picture of the room. There are some very good and well-known technologies, like Microsoft’s Kinect and Google’s Project Tango, that bathe the environment in infrared (IR) to build a 3D mesh of the environment. With that, the AR engine can ensure that virtual objects properly interact with the real world.
+
+As of now, there aren’t a lot of mainstream mobile phones that include range-finding technology. The two leading mobile devices: Apple’s iPhone and the Samsung Galaxy S8 do not include it.
+
+Yet.
+
+As I see it, Zuckerberg wouldn’t use SLAM to power his brand of AR unless he knew that the masses would have access to the technology. Where better to find it than on the next iPhone?
+
+Apple has several options here. It could integrate range-sensing technology like Intel RealSense (I’ve seen it primarily on Laptops for Windows Hello face recognition and on a handful of smartphones and tablets). That seems an unlikely choice since Apple uses its own custom silicon for its A10 Fusion mobile CPU and Intel is unlikely to license one technology without the other.
+
+However, Apple also owns Primesense, the company behind the original Kinect sensor. Apple bought the company and its 3D imaging technology in 2013 for a reported $345 million. A Primesense reader could easily fit inside an iPhone X Plus.
+
+An iPhone with real range-finding hardware would not only satisfy Tim Cook’s AR appetite, it could be just the platform Zuckerberg is thinking about when he promises SLAM-powered AR.
+
+It’s not unreasonable to assume Zuckerberg and Facebook know a little bit more about what’s coming on the next iPhone than the rest of us.
+
+On the other hand, I may be extrapolating a bit too much.
+
+I checked in with my friend and iRobot CEO Colin Angle to see if he had any insight on SLAM and the need for a hardware-based solution. Angle’s own robot, the popular Roomba robot vacuum uses SLAM for positioning.
+
+“SLAM is a computational technique which can integrate multiple sensors of different types into a map. Typically, there are primary sensors like a laser or camera (which Roomba uses) and secondary sensors like ultrasonic, IR, or a downward pointing optical flow measuring device (which Roomba uses). So, it may be that they are using the camera on the phone or it may be that they are getting something new in the phone,” said Angle via email.
+
+However, he noted that there’s not enough information here to really know how Facebook is using SLAM.
+
+And, I guess, it’s not even clear how the social media giant is defining its brand of SLAM.
+
+Still, I choose to take this as a sign: A fully-integrated AR camera and sensor system is coming on the next iPhone. It’s as solid an iPhone rumor as any other you’ve heard in the last six months.

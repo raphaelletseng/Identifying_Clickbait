@@ -13,29 +13,40 @@ article.download()
 def getArticleTitle(htmlOfArticle):
     article.html=htmlOfArticle
     article.parse()
-    return article.title
+    return article.title, article.text
 
 #Twitter title from metadata:
 def getTwitterTitle(soup):
-    return soup.find(name="meta", attrs={"name":"twitter:title"})['content'] if soup.find(name="meta", attrs={"name":"twitter:title"}) else ""
+    tag = soup.find(name="meta", attrs={"name":"twitter:title"})
+    if tag == None:
+        tag = soup.find(name="meta", attrs={"property":"twitter:title"})
+    return tag['content'] if tag != None else ""
 
 
 def tag_visible(element):
     #Ignore comments
     if isinstance(element, Comment):
         return False
+    #Only look in the article tag
+    if element.parent.find_parent(name='article') == None:
+        return False
     #Ignore navigation content
     if element.find_parent(name='nav') != None:
         return False
+    #Ignore asides
+    if element.parent.find_parent(name='aside') != None:
+        return False
+    #Ignore header content
+    if element.parent.find_parent(name='header') != None:
+        return False
+
+    
     
     #The only tags we consider for article body
     if element.parent.name not in ['p','a','li','h1','h2','h3','h4','h5','h6']:
         return False
     #Only consider link text if the link is in a paragraph, list, or for some reason a headline
     if element.parent.name == 'a' and element.parent.parent.name not in ['p','li','h1','h2','h3','h4','h5','h6']:
-        return False
-    #Ignore asides
-    if element.parent.find_parent(name='aside') != None:
         return False
     
     return True
@@ -48,19 +59,19 @@ def getArticleText(soup):
 def extractContent(htmlFile):
     soup = BeautifulSoup(htmlFile, 'html.parser')
 
-    articleTitle = getArticleTitle(htmlFile)
+    articleTitle, altBody= getArticleTitle(htmlFile)
     twitterTitle = getTwitterTitle(soup)
     articleBody = getArticleText(soup)
     
-    return articleTitle, twitterTitle, articleBody 
+    return articleTitle, twitterTitle, articleBody, altBody
 
 def readAndExtract(path, extractToFileName):
     stream = open(path, 'rb')
     html = stream.read()
-    articleTitle, twitterTitle, articleBody = extractContent(html)
+    articleTitle, twitterTitle, articleBody, altBody = extractContent(html)
     stream.close()
     stream = open(extractToFileName, 'w')
-    stream.write(articleTitle + '\n' + twitterTitle + '\n' + articleBody)
+    stream.write(articleTitle + '\n' + twitterTitle + '\n' + articleBody + '\n\n' + altBody)
     stream.close()
 
 def main():
@@ -70,8 +81,10 @@ def main():
     if not os.path.exists(saveDir):
         os.makedirs(saveDir)
 
+    index = 1.00
     for subDir in [f.name for f in os.scandir(initialDirectory) if f.is_dir()]:
-
+        print(index/100.0)
+        index+=1
         for fileDir in [f.name for f in os.scandir(os.path.join(initialDirectory, subDir)) if f.is_dir()]:
             
             try:

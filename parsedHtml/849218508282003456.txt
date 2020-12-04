@@ -1,0 +1,27 @@
+Google's new font is a beautiful typeface for East Asian languages
+Google's new font is a beautiful typeface for East Asian languages
+Adobe and Google have partnered to launch the second leg of an open-source project which aims at providing a unified typeface for the 1.5 billion people in East Asia. SEE ALSO: Divorced couple still gets their family photo taken every year for their son Adobe calls the new font Source Han Serif , while Google calls it Noto Serif CJK which stands for Chinese, Japanese and Korean languages. The two companies worked with local foundries in China, Japan and Korea to design all the 65,535 glyphs in each of the seven weights, to make a staggering total of 458,745 glyphs. The average Latin script contains just dozens. Image:  adobe “The goal of the Google Noto font project — developing a high-quality, harmonized font family for all modern devices covering all languages — was extremely daunting in size and scope,” said Google’s Director of Internationalisation Bob Jung. “The CJK languages alone are critical to over a billion users. Adobe, a pioneer in digital typography, was the perfect partner to help us bring beautiful CJK to Noto.” Source Han Serif looks consistent in four different East Asian languages — Simplified Chinese, Traditional Chinese, Japanese, and Korean — as well as Western scripts like Latin, Greek and Cyrillic, which were derived from Source Serif. Regional variations across the four languages have been covered with regional glyphs, as this interactive on the font's landing site shows: Image:  adobe Like its sibling Source Han Sans , launched a few years ago, Source Hans Serif is optimised for screen display but has a more literary, graceful flair. It also works beautifully in print. Google and Adobe are making Source Hans Serif free and open source from TypeKit's free library and GitHub . WATCH: Draw electrical circuits with this silver pen
+
+Adobe and Google have partnered to launch the second leg of an open-source project which aims at providing a unified typeface for the 1.5 billion people in East Asia.
+
+SEE ALSO: Divorced couple still gets their family photo taken every year for their son
+
+Adobe calls the new font Source Han Serif, while Google calls it Noto Serif CJK which stands for Chinese, Japanese and Korean languages.
+
+The two companies worked with local foundries in China, Japan and Korea to design all the 65,535 glyphs in each of the seven weights, to make a staggering total of 458,745 glyphs. The average Latin script contains just dozens.
+
+Image: adobe
+
+“The goal of the Google Noto font project — developing a high-quality, harmonized font family for all modern devices covering all languages — was extremely daunting in size and scope,” said Google’s Director of Internationalisation Bob Jung.
+
+“The CJK languages alone are critical to over a billion users. Adobe, a pioneer in digital typography, was the perfect partner to help us bring beautiful CJK to Noto.”
+
+Source Han Serif looks consistent in four different East Asian languages — Simplified Chinese, Traditional Chinese, Japanese, and Korean — as well as Western scripts like Latin, Greek and Cyrillic, which were derived from Source Serif.
+
+Regional variations across the four languages have been covered with regional glyphs, as this interactive on the font's landing site shows:
+
+Image: adobe
+
+Like its sibling Source Han Sans, launched a few years ago, Source Hans Serif is optimised for screen display but has a more literary, graceful flair. It also works beautifully in print.
+
+Google and Adobe are making Source Hans Serif free and open source from TypeKit's free library and GitHub.

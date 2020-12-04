@@ -1,0 +1,25 @@
+Blood test to predict likelihood of disease years in the future
+Blood test to predict likelihood of disease years in the future
+simple blood test that can tell how well a person is likely to age is on the horizon after scientists cracked blood “signature” patterns which predict ill health. The breakthrough means doctors will be able to assess the likelihood of dementia, cardiovascular disease and a range of other conditions years before patients show any symptoms. Researchers at Boston University learnt to recognise combinations of specific “biomarkers”, or chemicals found in the blood, of 5,000 people in a study. hey then matched these to the participants’ health outcomes over a period of eight years. They found specific patterns associated with disease and disability-free aging, as well as patterns associated with the threat of several diseases. While various techniques already exist for predicting specific conditions, such as heart disease , the new approach will enable doctors to paint a comprehensive picture of their patient’s overall future health. It also promises to give people the chance to change their lifestyles or begin preventative treatment to stave off diseases flagged up as a risk by their blood composition. The team identified 26 different signatures, finding that around half the people in the study shared an average signature of 19 biomarkers, while other groups had different patterns that deviated from the norm. “These signatures depict differences in how people age, and they show promise in predicting healthy ageing, changes in cognitive and physical function, survival and age-related diseases like disease, stroke, type 2 diabetes and cancer,” the research team said. “We can now detect and measure thousands of biomarkers from a small amount of blood with the idea of eventually being able to predict who is at risk of a wide range of diseases long before any clinical signs become apparent.” Companies are already offering blood tests which claim to estimate a person’s lifespan, however this is done using DNA analysis and does not give insights into the likelihood of developing specific conditions. The technique works by measuring structures at the end of a person’s chromosomes, called telomeres, which scientists believe are an important indicator of the speed at which a person is ageing. The researchers behind the new study, which is published in the journal , say the biomarker signature technique could also be used to speed up long and laborious drug trials. Prof Paola Sebastiani said that rather than waiting “years and years” for clinical outcomes, instead trials may be able to rely on biomarker signatures far earlier to detect the effect of a trial medicine.
+
+They then matched these to the participants’ health outcomes over a period of eight years.
+
+They found specific patterns associated with disease and disability-free aging, as well as patterns associated with the threat of several diseases.
+
+While various techniques already exist for predicting specific conditions, such as heart disease, the new approach will enable doctors to paint a comprehensive picture of their patient’s overall future health.
+
+It also promises to give people the chance to change their lifestyles or begin preventative treatment to stave off diseases flagged up as a risk by their blood composition.
+
+The team identified 26 different signatures, finding that around half the people in the study shared an average signature of 19 biomarkers, while other groups had different patterns that deviated from the norm.
+
+“These signatures depict differences in how people age, and they show promise in predicting healthy ageing, changes in cognitive and physical function, survival and age-related diseases like disease, stroke, type 2 diabetes and cancer,” the research team said.
+
+“We can now detect and measure thousands of biomarkers from a small amount of blood with the idea of eventually being able to predict who is at risk of a wide range of diseases long before any clinical signs become apparent.”
+
+Companies are already offering blood tests which claim to estimate a person’s lifespan, however this is done using DNA analysis and does not give insights into the likelihood of developing specific conditions.
+
+The technique works by measuring structures at the end of a person’s chromosomes, called telomeres, which scientists believe are an important indicator of the speed at which a person is ageing.
+
+The researchers behind the new study, which is published in the journal Ageing Cell, say the biomarker signature technique could also be used to speed up long and laborious drug trials.
+
+Prof Paola Sebastiani said that rather than waiting “years and years” for clinical outcomes, instead trials may be able to rely on biomarker signatures far earlier to detect the effect of a trial medicine.

@@ -1,0 +1,21 @@
+Scientists just invented a smartphone screen material that can repair its own scratches
+Scientists just invented a smartphone screen material that can repair its own scratches
+
+
+If you drop your phone and the screen shatters, you usually have two options: get it repaired or replace the phone entirely.
+
+ChemistsÂ at the University of California, Riverside, have invented what could become a third option: a phone screen materialÂ that can heal itself.
+
+The researchers conducted several tests on the material, including its ability to repair itself from cuts and scratches. After they tore the material in half, it automatically stitched itself back together in under 24 hours, Chao Wang, a chemist leading the self-healing material research, tells Business Insider.
+
+The material, which can stretch to 50 times its original size, is made of a stretchable polymer and an ionic salt.Â It features a special type of bond called an ion-dipole interaction, which is a force between charged ions and polar molecules. This means that when the material breaks or has a scratch, theÂ ions and molecules attract to each other to heal the material.
+
+This is the first time scientists have created a self-healing material that can conduct electricity, makingÂ itÂ especially usefulÂ for use for cell phone screens and batteries, Wang says.
+
+Some LG phones, like the G Flex, already include a similar material on its back covers that can self-heal scratches. But thisÂ materialÂ can't conduct electricity, so manufacturers can't use it for screens. Most phone screens have aÂ grid of electrodes underneath, and when you touch it, your finger (which is also conductive) completes a circuit, telling the phone what toÂ do.
+
+Wang predicts that this new self-healing material will be used for phone screens and batteries by 2020.
+
+The team will present its research at a April 4 meeting of the American Chemical Society, the world's largest scientific organization devoted to the studyÂ of chemistry.Â
+
+"Self-healing materialsÂ may seem far away for real application, but I believe they will come out very soon with cell phones. Within three years, more self-healing products will go toÂ market and change our everyday life," heÂ says. "It will make our cell phones achieve much better performance than what theyÂ can achieve right now."

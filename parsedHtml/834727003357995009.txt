@@ -1,0 +1,77 @@
+NASA Reddit: 'Brain farts', life in TRAPPIST-1 and getting humans there
+
+
+
+NASA Reddit: 'Brain farts', life in TRAPPIST-1 and getting humans there
+
+Posted
+
+This is what happened when NASA announced the discovery of seven Earth-sized planets orbiting a star, then put NASA scientists and space enthusiasts in the same (virtual) room.
+
+In an Ask Me Anything session on Reddit, one user emerged as the everyday person who corrected a NASA scientist, and experts addressed questions about the possibility of life in the new planetary system, including the obvious one: what happens now?
+
+The next step
+
+NASA's Kepler/K2, their space observatory, is currently monitoring the brightness of TRAPPIST-1 — a Jupiter-sized ultra-cool star located 40 light-years away in the constellation of Aquarius.
+
+They're at the tail-end of a 70-day "observing campaign" which kicked off in December last year.
+
+At its completion on March 4, experts said they will be able to "define the orbital period of the seventh planet" and might be able to "refine the planet mass estimates" and "even find additional transiting planets".
+
+"The stability of the system is still unclear, because it is a complex dynamical system, the planets' masses are not yet precisely determined, we don't know yet the orbital period of the seventh planet, and there could be more planets," Sara Seager, professor of planetary science and physics at The Massachusetts Institute of Technology, said.
+
+The raw data will then be released to the public by March 6.
+
+Scientist has a 'brain fart'
+
+The unexpected star of the Q&A was a Redditor by the name of "username1012357654".
+
+The user corrected Kepler project scientist Natalie Batalha after she had a "brain fart" while answering a question about determining surface gravity.
+
+Ms Batalha: Determining the surface gravity requires knowledge of both the radius and mass. The uncertainties on the mass measurements are large, but our best guess is that the surface gravity of most of these planets is similar to that on Earth. One exception is Planet F. It has the same radius as Earth but 68 per cent the mass. That means the surface gravity will be 68% lower than Earth.
+
+Reddit user: Wouldn't it be 32 per cent lower than Earth's gravity or 68 per cent of Earth's gravity?
+
+Ms Batalha: Yes! Corrected.
+
+The exchange did not get lost in the congested Reddit feed.
+
+"Thank you for reminding us all that even the most brilliant among us can make brain farts," one user said.
+
+"They will speak of this day to their grandchildren," another said.
+
+What if they find signs of life?
+
+"We do not yet have a protocol. Most likely we will make a tentative discovery, that will take longer to confirm," Professor Seager said.
+
+She said NASA was required to inform the public if signs of life are discovered.
+
+"It's part of our charter that NASA 'provide for the widest practicable and appropriate dissemination of information concerning its activities and the results thereof'," Professor Seager said.
+
+What about getting humans there?
+
+Currently there is no technology that would allow NASA to blast humans into the new planetary system. Which is why they use space-based telescopes to investigate and observe from afar.
+
+"Fledgling efforts, however, are underway to consider how to send tiny spacecraft to the nearest star which has one known planet," Professor Seager said.
+
+What makes this discovery special?
+
+NASA put it best:
+
+"It sets new record for greatest number of habitable-zone planets found around a single star outside our solar system," it explained on Reddit.
+
+"All of these seven planets could have liquid water — key to life as we know it — under the right atmospheric conditions, but the chances are highest with the three in the habitable zone."
+
+Ms Batalha said temperate, terrestrial-sized planets were common in the galaxy but not ones that are only 40 light years away.
+
+"The name of the game now is to find those near enough for atmospheric characterisation," she said.
+
+"Of the few dozen habitable zone planets that have been detected to date, most are hundreds of light years away whereas TRAPPIST-1 is just 40 light years away."
+
+What about vegetation, ocean, continents?
+
+At present, NASA does not have the "future" technology required to see the surface of exoplanets.
+
+"We'll need farther future technology that may become available in the coming decades that will allow us to block out the star's light and observe the planets directly," Giada Arney, astrobiologist at the NASA Goddard Space Flight Centre, said.
+
+Topics: internet-culture, science-and-technology, astronomy-space, space-exploration, united-states

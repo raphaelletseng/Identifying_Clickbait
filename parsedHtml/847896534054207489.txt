@@ -1,0 +1,145 @@
+Galaxy S8 Vs Galaxy S7: What's The Difference?
+Galaxy S8 Vs Galaxy S7: What's The Difference?
+{{contrib_block.display_author.name}}  Gordon Kelly       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. Samsung Galaxy S8 (left) Vs Galaxy S7 (right) - there's no comparison when it comes to style. Gordon Kelly The Galaxy S8 running high quality video at full resolution is a stunning sight Gordon Kelly The Galaxy S8 fingerprint sensor is badly positioned Gordon Kelly Both Galaxy S8 and Galaxy S8 Plus squeeze a microSD slot into the sim card tray Samsung From the back the Galaxy S8 and Galaxy S7 cameras look similar for a very good reason... Gordon Kelly Galaxy S8 (left) vs Google Pixel XL (right) shows the latter coming out on top, but more testing is needed Qualcomm Qualcomm's Snapdragon 835 chipset will feature on US sold Galaxy S8 and Galaxy S8 Plus smartphones Gordon Kelly Bixby's information screen is a clear copy of Google Now What is more disappointing is the Galaxy S8 ships with Android 7.0. Given Android 7.1 is a significant upgrade that’s nearly six months old, it appears Samsung will never fully resolve its promise to deliver timely Android updates. Gordon Kelly DeX creates a multi-window desktop environment which can also run Android apps Gordon Kelly The Galaxy S8 and Galaxy S8 Plus remains incredibly thin and I'd have preferred them to be slightly thicker with larger batteries Gordon Kelly The Galaxy S8 will win over customers on looks alone, but it isn't as different from the Galaxy S7 as you might expect Print Send Us Feedback Report Corrections Reprints & Permissions Trending on {{channel_name}}
+
+Samsung has launched the Galaxy S8 and Galaxy S8 Plus and there are key differences between them. Samsung is betting most on the Galaxy S8, but is it really so different to the Galaxy S7 - or even the better buy? You might be surprised.
+
+So let’s break it down…
+
+Samsung
+
+Display - Bigger Is Indeed Better
+
+Let’s start with the big stuff - literally. By far the biggest way Samsung has differentiated the Galaxy S8 from the Galaxy S7 is its display:
+
+Galaxy S8 - 5.8-inch Super AMOLED, 1440 x 2960 pixels (570 ppi pixel density), 83.6% screen-to-body ratio, Corning Gorilla Glass 5
+
+Galaxy S7 - 5.1-inch Super AMOLED, 1440 x 2560 pixels (577 ppi pixel density), 72.1% screen-to-body ratio, Corning Gorilla Glass 4
+
+Yes the Galaxy S8 display is massive and now takes up over 83% of the front of the phone. Given the Galaxy S7’s 72% was class leading last year, this is a significant step forward. The new display is also slightly brighter with improved contrast, making the Galaxy S8 the first smartphone to receive Mobile HDR Premium certification. And Gorilla Glass 5 survives falls better than Gorilla Glass 4.
+
+Gordon Kelly
+
+So an easy win? Mostly.
+
+The caveat is out the box the Galaxy S8 runs at a lower 2220 x 1080 resolution. You can increase it manually, but the downgrade is designed to conserve battery life (more later). Interestingly with Android 7.0, Samsung also downgraded the default resolution of the Galaxy S7 to 1080p though this just lengthens its already excellent battery life.
+
+Design - Compact Masterclass Has Downsides
+
+But the real reason the Galaxy S8 display is such big news is because the phone is barely bigger than the Galaxy S7:
+
+Galaxy S8 - 148.9 x 68.1 x 8.0 mm ( 5.86 x 2.68 x 0.31-inch), 155g (5.36 oz)
+
+Galaxy S7 - 142.4 x 69.6 x 7.9 mm (5.61 x 2.74 x 0.31-inch), 152g (5.36 oz)
+
+This is a stunning accomplishment. Never before has a 5.8-inch display been considered so pocket friendly. In fact the Galaxy S8 is only 14g (0.49 oz) heavier than the 4.7-inch iPhone 7. This combination of factors will sell a lot of Galaxy S8 smartphones. Yet it isn’t all good news.
+
+The smaller bezels mean the Galaxy S8 loses its physical home button. The on-screen navigation buttons which replace it are a step forward as they are now customisable (at last!), but the fingerprint sensor is bizarrely relocated to the right of the rear camera. This makes it harder to reach (especially holding the phone in your left hand) and you’re going to smudge the camera lens a lot. This isn’t the end of the world, but it’s annoying.
+
+Gordon Kelly
+
+To counter this the Galaxy S8 has both iris and facial recognition which are fast and accurate, though you will have to point the sensor at your face each time making it a more conspicuous way of unlocking the phone.
+
+Elsewhere the Galaxy S8 keeps the best qualities of the Galaxy S7: it’s still IP68 dust and water resistant allowing for full submersion in up to 1.5 metres of water for up to 30 minutes. It still supports microSD cards (up to 256GB) and gets with the times by ditching micro USB charging for the more modern USB Type-C, which is now on all major Android flagship smartphones.
+
+Gordon Kelly
+
+Initial Galaxy S8 colour options aren’t particularly inspiring with just Midnight black, Orchid Grey and Arctic Silver available, but expect more to debut throughout the phone’s life cycle.
+
+Cameras - No The Reason To Upgrade
+
+If you love smartphone cameras then Samsung’s annual upgrades are traditionally a reason to celebrate - until now. Surprising many, Samsung has simply fitted the Galaxy S7 rear camera into the Galaxy S8.
+
+Samsung
+
+Consequently you get the same 12 megapixel, f/1.7 aperture shooter with optical image stabilisation (OIS) and 4K video recording. It’s a great module which produced the second best results of 2016 (behind the Google Pixel), but it’s a surprise to see Samsung head off into 2017 with the same hardware.
+
+Instead what Samsung says is going to improve results this time around is advancements to its image processing. Its new method mimics Google’s multi-shot technique on the Pixel by combining multiple photos into a single refined image. A quick comparison I did at the launch event saw the Pixel produce the better shot, though is important to remember this is not final software:
+
+Gordon Kelly
+
+That said it is clear the Galaxy S8 does not sport a revolutionary camera and there’s surely a good chance the Galaxy S7 will receive the same image processing upgrade in due course.
+
+Where the Galaxy S7 won’t catch up, however, is the front camera. Gone is its mediocre 5 megapixel camera to be replaced by an 8 megapixel module. It retains the same f/1.7 aperture and initial testing suggests this is a significant step up. Samsung has also crowbarred in Snapchat-copying filters which - while derivative - will no doubt prove popular.
+
+Performance - Incremental Improvements
+
+Like the camera, performance is also not a reason you should look to upgrade to the Galaxy S8.
+
+Shipping with a Qualcomm Snapdragon 835 in the US and a Exynos 8895 in Europe and Asia, Samsung says the Galaxy S8 will deliver 10% greater CPU performance and 21% greater GPU performance. This is welcome, but by comparison the Galaxy S7 had triple the gains with a 30% faster CPU and 64% faster GPU than the Galaxy S6. The Galaxy S8 also sticks with 4GB of RAM (an Asia-only variant may jump to 6GB) but this should be perfectly adequate.
+
+Qualcomm
+
+As for general performance, again I reserve judgement since the samples I used had pre-release software but Samsung will need to do some optimisation as the occasional moments of lag and dropped frames of animation that have historically haunted TouchWiz are still present.
+
+Consequently where the Galaxy S8’s main performance upgrades lie is connectivity. It is the first smartphone to support Bluetooth 5.0 (2x speed, 4x range of Bluetooth 4.2) and LTE (4G) speeds up to one gigabit, though good luck finding a carrier who can max this out (and if you find one, tell me!).
+
+Software - Exclusive Features But For How Long?
+
+As an Android purist, Samsung’s extensive customisation of Android is not to my liking but you will find several features which - for launch at least - will be exclusive to the Galaxy S8 over the Galaxy S7.
+
+The big one is Bixby. A Google Now/Google Assistant/Google Goggles hybrid which shows contextually useful information with a left swipe of the homescreen or via a dedicated (and non-remappable) button below the volume rocker. I’m not convinced this will be any more successful than S Voice in tackling Google’s impressive software, but Samsung’s plucky resolve to keep trying never seems to fade.
+
+Gordon Kelly
+
+Aside from this you’ll find Samsung Connect - a Google Home/Apple Home rival for controlling your IoT devices, and Samsung Pay (already on the Galaxy S7) which is a credible rival to Android Pay. There again you’ll also still find two app stores, two calculators, two web browsers, two mobile payment services, two clocks, etc but if you’re a Samsung smartphone user you’ll be used to/have made peace with this a long time ago.
+
+What is more disappointing is the Galaxy S8 ships with Android 7.0. Given Android 7.1 is a significant upgrade that’s nearly six months old, it appears Samsung will never fully resolve its promise to deliver timely Android updates.
+
+Hidden DeXterity
+
+My assumption is that if you can afford the Galaxy S8 then you can probably afford a decent laptop/PC as well, but regardless Samsung has done something rather interesting that borrows from Microsoft’s Continuum concept and leaves the Galaxy S7 behind.
+
+Gordon Kelly
+
+Spend $150 on a DeX dock and it will turn your Galaxy S8 into a basic Chrome OS-style PC. DeX has two USB ports for a mouse and keyboard and HDMI for a monitor so when connected the Galaxy S8 launches a customised Android desktop interface complete with mouse pointer, multi-window support and Android apps. It is also compatible with Citrix Receiver and Amazon Workspaces.
+
+For businesses this could be useful, though given the Galaxy S8 cannot operate simultaneously in both desktop and smartphone modes I do think it is probably easier to spend the DeX money on a dedicated Chromebox. Time will tell.
+
+Battery Life - The Major Concern
+
+Extensive testing will hopefully prove me wrong, but on paper it looks like Samsung’s experience with the Galaxy Note 7 has seen it play overly safe with the Galaxy S8.
+
+The upshot is the new smartphone packs the same 3000 mAh capacity battery as the Galaxy S7, despite needing to power a significantly larger display. Displays, for those not in the know, remain the most power hungry part of any smartphone. So couple this with the fact Samsung downgraded the native resolution of the Galaxy S8 by default and alarm bells are ringing.
+
+Gordon Kelly
+
+That said Samsung deserves plaudits elsewhere. For starters the Galaxy S8’s battery should be safe thanks to the company’s new ‘8 Point Quality Check’ and improved cycle longevity means it will lose just 5% capacity after one year, compared to almost 20% with the Galaxy S7.
+
+In addition to this the Galaxy S8’s fast wired and wireless charging is even faster than the already super-quick Galaxy S7 (though Samsung hasn’t offered any concrete figures on how much), and there’s the aforementioned port upgrade from micro USB to USB Type-C.
+
+Price And Storage - Increases All Round
+
+So if the Galaxy S8 does hold your interest then what can you expect to pay? More than last year:
+
+Galaxy S8 - 64GB - $750 / €799 / £689
+
+Yes that’s a circa $100 increase on the launch price of the Galaxy S7, but you do get twice the internal storage and it is based on the faster UFS 2.1 standard. There’s also a decent pair of AKG earphones bundled which Samsung values at $99 and goes some way to mitigating the cost (unless you already have good earphones/headphones, then it's just annoying).
+
+The flipside is this is a lot of money to ask if you already own a Galaxy S7, and if you don’t own either then the fact a Galaxy S7 can now be bought new for little more than half the price of a Galaxy S8 muddies the waters somewhat.
+
+Gordon Kelly
+
+Early Verdict
+
+Make no mistake, the Galaxy S8 is all about looks but this is no bad thing when you look as good as it does. Simply put there is no smartphone on the market right now which can match its stunning screen-to-body ratio and it opens up a new world of huge displays in compact smartphones. Kudos Samsung.
+
+And yet if you look beyond this (admittedly killer) feature, the Galaxy S8 is actually a fairly incremental update on the Galaxy S7. It has the same main camera, battery capacity, is only marginally faster, has a poorly located fingerprint sensor and the phone is unlikely to last as long as the Galaxy S7 on single charge.
+
+So which should you buy? If you can afford it then I’d still suggest the Galaxy S8 because of its jaw dropping design. But if money is tight then the Galaxy S7 is significantly better value since it’s almost the same phone, just with a smaller display. And that’s not something I expected to find.
+
+___
+
+Follow Gordon on Twitter, Facebook and Google+
+
+More On Forbes
+
+Galaxy S8 Vs Galaxy S8 Plus: What’s The Difference?
+
+Google Leak Reveals Massive New Pixel 2
+
+Samsung ‘Confirms’ Galaxy S8 Good And Bad News
+
+New ‘iPhone’ Leak Comes Directly From Apple?
+
+iPad 9.7 (2017) Vs iPad Pro Vs iPad Air 2 Vs iPad Mini 4: What’s The Difference?

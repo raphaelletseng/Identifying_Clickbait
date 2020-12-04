@@ -1,0 +1,25 @@
+How the Constant Threat of War Shaped Israel’s Tech Industry
+
+
+
+HELLO WORLD How the Constant Threat of War Shaped Israel’s Tech Industry Episode 3: Visit a technology giant with thousands of cutting-edge startups. By Ashlee Vance | May 25, 2016
+
+Photographs by Guy Martin
+
+Unit 8200 is Israel’s most mysterious agency. No one outside knows exactly how it operates, who works there, or how they learn. All the public knows for certain is that Unit 8200 has been the beating heart of Israel’s spectacular—and in many ways unmatched—technology boom.
+
+At its most basic level, Unit 8200 resembles the National Security Agency (NSA) in the U.S. It’s an elite branch of the Israel Defense Forces, or IDF, that specializes in computer security and murkier, more controversial stuff, such as espionage and cyber attacks. For about 25 years, veterans of Unit 8200 have gone on to found security startups, making both the software and hardware that protect corporate computing systems throughout the world. Graduates of 8200 invented the firewall and early VPN technology and have started dozens of security companies such as Check Point Software Technologies, Palo Alto Networks, and CyberArk Software—all multibillion-dollar operations.
+
+It’s not that surprising that the IDF would give rise to clever, interesting tech startups. Much of technology today is the result of military research into hardware and software. What’s remarkable is how Israel has turned its soldiers into entrepreneurs. Today, Israel has about 5,500 startups, and it added 1,400 new ones just last year. It has become a world leader not just in security but in chip, printing, biotech, and corporate software, as well.
+
+This episode of Hello World delves into the IDF to discover how it became such an efficient technology engine. My trip starts in Ashkelon, a coastal city that sits near the Gaza Strip, where up close I see the Iron Dome defense shield, which can intercept missiles and rockets midflight, and chat with some of the young soldiers in the IDF. Then I travel to a bustling market in Tel Aviv and meet with Shlomo Kramer. He’s a former member of Unit 8200 and now one of the legendary entrepreneurs and investors in Israel.
+
+This story, though, is about more than Israel’s military technology base. It’s about how the tech scene has evolved and expanded. In Tel Aviv and Herzliya, I meet with one company called Consumer Physics, which can analyze everyday objects to tell stories about their makeup, and another called SpacePharma, which is exploring ways to develop drugs in space. I travel to Jerusalem to see how such companies as Umoove are trying to build up their tech scene amid so much history and religious and political tension. And I meet with Adi Soffer Teeni, the head of Facebook’s Israel operations, to learn what the IDF experience means for women and how Israel’s technology has shifted toward consumers.
+
+My last stop takes place in Nazareth, the largest Arab city in Israel. Here a man named Fadi Swidan has set up a tech accelerator, nazTech, to help young Arab engineers become part of Israel’s tech boom and help them bring cutting-edge technology to the Arab world. He’s trying to build links between Arab and Jewish engineers and investors—an effort that could have profound consequences in the years to come.
+
+Israel turned out to be one of the great surprises of my travels. Tension hangs over the country, particularly in places such as Jerusalem, where centuries of history and conflict have been exacerbated by attacks over the past couple of years. But even amid that backdrop, this is a country that celebrates life. Tel Aviv’s streets, restaurants, and bars overflow with music, energy, and colorful people from all over the globe. It’s an incredibly visceral experience to feel all these different vibes intersecting and tumbling over each other.
+
+To visit Israel is also to see Arab cities walled off, spy balloons looming over the highway, and IDF snipers training their weapons on people heading to markets and tourist spots. Even in a relatively short visit, you gain a much deeper understanding of the nature of the conflicts here and why they’re so tough to resolve.
+
+Many countries have tried to copy Silicon Valley over the decades, and they’ve almost all failed or met with middling success. Israel stands out as the exception that really has come closest to replicating an environment that floods an area with clever engineers, encourages them to take risks, and feeds them with plenty of capital. The IDF started much of this out of necessity and has since perfected the art of giving young people access to the newest technology, training them, and sending them on their way in the business world. The soldiers learn to make quick, massive decisions early on, and they form deep bonds with their comrades that carry over to the startup life. Israel has now moved well beyond its military roots and emerged as one of the world’s major tech powers.

@@ -1,0 +1,51 @@
+Study finds most people are scared they'll be hacked, but don't do much about it
+Study finds most people are scared they'll be hacked, but don't do much about it
+Have you been hacked yet?  Password pain     Other security measures   Who do you trust? Why you can’t stream this year’s Oscar nominees on Netflix President Trump’s tech policy is a mystery How carriers will keep D.C. online during the inauguration What you should really know about every major hacking story Outgoing FCC chair: Don’t go backward on net neutrality Selfie drones and more fly into CES 2017 Faraday Future’s FF91: Electric speed at a vaporous price
+
+Our attitude toward cybersecurity can pretty much be summed up as fear with a dose of ¯\_(ツ)_/¯.
+
+That’s the unfortunate takeaway from a new survey of American’s attitudes about online security put out by the Pew Research Center Thursday morning.
+
+The nonpartisan Washington think tank’s “Americans and Cybersecurity” study of about one thousand U.S. adults found both deep-seated anxiety over the safety of our bits, and widespread hesitancy to use free tools to do something about it.
+
+“If Americans were taking a cybersecurity test right now, we’d be getting maybe a gentleman’s C,” said Pew associate research director Aaron Smith.
+
+Have you been hacked yet?
+
+To spin this survey optimistically, a majority of Americans reported no harm in each individual category of data breach covered in its questions. At worst, 41% had spotted fraudulent purchases on a credit card (yeah, me too), and 35% had received a data-breach notification.
+
+Meanwhile, “only” 16% had an email account taken over without permission, while 13% had a social-media account hijacked in the same way.
+
+But looking at the total picture, including more serious cases of identity theft such as tax-refund fraud (reported by 6%), 64% of respondents had become acquainted with data theft at some level.
+
+Almost half of respondents thought things were getting worse: 49% felt less confident about the security of their personal data than they did five years ago. And even before recent revelations of Russian hacking, 70% expected to see a cyberattack on public infrastructure in the next five years.
+
+Password pain
+
+You might not know this from a great deal of cybersecurity coverage, but you’re not helpless against threats like malware and phishing. Unfortunately, the Pew survey suggests many Americans can’t be bothered to take basic steps.
+
+Take managing passwords: 65% said they mostly keep them in their heads, a number that makes it completely unsurprising to see on the survey’s next page that 39% admitted reusing passwords across many accounts, an invitation to disaster, and that 25% copped to picking simpler passwords.
+
+The way out of that mess is to use a password-management app like LastPass, Dashlane or 1Password to store your logins, generate complex passwords as needed, and encrypt them until you unlock them with a master password or a fingerprint.
+
+But only 12% of respondents said they use a password manager, and only 3% said it was their primary password tool.
+
+The second most popular password system was writing them on paper—18% relied on that most, and 49% used it sometimes. That’s not crazy if done right, cryptographer Bruce Schneier wrote in a 2005 post observing that the wallet you already know to protect should be a safe hiding place for a password cheat sheet.
+
+Pew’s Smith tried to capture the mindset at work here: “The chances are that if I just muddle along, things are going to be not terrible.”
+
+Other security measures
+
+Passwords alone won’t keep you safe. Two-step verification, where you confirm a login with a one-time code sent to your phone, makes a stolen password worthless.
+
+Pew found impressively, maybe suspiciously, high use of that. 52% of participants said they employed the measure on at least one account. Interviewers were supposed to define two-step verification if a respondent requested clarification, but the people really lost on the concept might not have known they needed such help.
+
+“There is clearly some room for confusion on the part of respondents or to say the socially desirable thing,” Smith said, adding that an upcoming study will look deeper into people’s grasp of security features.
+
+Pew’s questions about smartphone security reveal more cause for gloom. Only 71% of respondents reported using any security feature to unlock their phones, and of them 35% relied on a numeric code. 32% used a fingerprint-recognition feature, but the survey did not establish how many had phones supporting that form of biometric security.
+
+Worst of all, 14% said they never updated their phone’s operating system, and 10% never updated their apps. Walking around with obsolete phone software is just asking for trouble.
+
+Who do you trust?
+
+When it comes to protecting their information, respondents said they trust the federal government the least (28% were “not at all confident”), followed by social-media sites (24% “not at all confident”). Cell-phone manufacturers earned the highest trust, with 43% saying they were somewhat confident in them and 27% calling themselves “very confident.”

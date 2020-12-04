@@ -1,0 +1,55 @@
+Should You Be Worried About Political Risk? (Hint: Insurers Are)
+Should You Be Worried About Political Risk?
+Marine Le Pen insuring global risks for years—through the 2008 market meltdown, the 2002 crisis in Argentina, and the 1993 downturn in Venezuela. Yet turmoil now seems to be coming at a more rapid pace than he’s seen before. “I’m more concerned today about political risk than ever,” says Freely, the global head of political risk and credit specialties at Marsh & McLennan Cos., the world’s largest insurance broker. Rising populism in France, Germany, Denmark, and Greece has turned up the dial on his company’s barometer of turmoil in the region. That and other developments are pushing the market for political risk insurance toward $10 billion in 2018, up from $8.1 billion in 2015, according to a KPMG LLP report published last year. The consulting firm says demand has been spurred by companies looking for coverage against cyberattacks and terrorist events. KPMG reckons that cybersecurity insurance will be the fastest-growing segment of the market, increasing 20 percent a year from 2015 through 2018. Terrorist and hacking threats are compounded by changes in attitudes. Many Europeans have become averse to free trade, to immigration, and to losing national identities, according to Freely’s group at Marsh & McLennan. meanwhile, could have a negative impact on investment returns, according to a majority of respondents to a February CFA Institute survey of almost 1,500 investment professionals. Among the risks they identify: the election of Donald Trump, Brexit, and the possible further fracture of the European Union. This year many investors have thus been closely following the French presidential campaign of Marine Le Pen, a far-right candidate who’s threatened to exit the euro zone and opposed EU sanctions against Russia over the Ukraine conflict as “counter­productive.” In polling for the first round of elections on April 23, Le Pen has led for stretches, with support of roughly 26 percent of French voters. Yet when it comes to the second round of voting, a runoff scheduled for May 7, she’s trailed rivals Emmanuel Macron and François Fillon in polling and betting markets. loses her bid, populism in Europe and elsewhere is here to stay, observers say. How durable is the phenomenon? “Our view is that it’s structural,” says Alexander Kazan, managing director for emerging markets strategy and comparative analytics at Eurasia Group , a political risk consultant. He points to a falling trust in governments and institutions, especially among younger people, as well as decreasing support for political parties. That’s a view echoed by top hedge fund managers including Appaloosa Management’s David Tepper and Bridgewater Associates’ Ray Dalio, who, in a 61-page paper published in March, said populism could be a greater force in shaping markets over the next year than monetary or fiscal policies. By tracking the share of votes going to anti-­establishment candidates in the developed world, Dalio determined that populism is at its highest levels since the 1930s. Populist movements also seem to invite cyber support from foreign hackers, especially those based in Russia, says Raf Sanchez, an international breach response manager at Beazley Group, one of the world’s largest cyber insurers. Sustained attacks in France, Italy, and the U.S. all point back to Russia. “From an anecdotal level, populism is impacting the level of cyber risk,” he says. “It’s almost a win-win for criminals.” A more fragmented world may increase the potential to inflict damages across borders, Sanchez adds. In effect, populism could eventually feed back on itself, setting the stage for even more shake-ups. {EU <GO>} For aggregated news, data, and charts relating to European Union countries, run {EU <GO>}. For a financial, economic, and risk snapshot of France, go to {COUN FR <GO>}. Click on the Risk tab for ratings and data on the CAC 40’s historical and implied volatility, both of which were running below their 52-week averages in late March, before implied volatility rose in April. Go to {PRDTGVFR Index GP <GO>} for a chart of Predata’s Geopolitical Volatility index for France. Predata, a New York-based analytics startup that predicted Brexit, bases its indexes on analyses of social media postings and metadata. For more Predata benchmarks, run {SECF PREDATA <GO>}. Immigration has been a divisive issue in the French election. In 2015 the EU’s Eurostat reported that the foreign population in France was 7.9 million, or 11.9 percent of the total. The Fear Migration Index, a quantitative metric created by economists Scott Baker, Nicholas Bloom, and Steven Davis, is based on the frequency of keywords in news reports. Go to {ALLX FEPU <GO>} for a list of the indexes, including one for France, which has jumped 180 percent since 2014. The Bank of England surveys market participants twice a year about systemic risk. In the survey covering the second half of 2016, the two risks cited as the most challenging to manage were U.K. political risk and cyberattacks. To chart the cyber risk data, run {UKRKCYB Index GP <GO>}. For other BOE risk series, go to {SECF UKRK <GO>}.
+
+Evan Freely has been insuring global risks for years—through the 2008 market meltdown, the 2002 crisis in Argentina, and the 1993 downturn in Venezuela.
+
+Yet turmoil now seems to be coming at a more rapid pace than he’s seen before. “I’m more concerned today about political risk than ever,” says Freely, the global head of political risk and credit specialties at Marsh & McLennan Cos., the world’s largest insurance broker.
+
+Rising populism in France, Germany, Denmark, and Greece has turned up the dial on his company’s barometer of turmoil in the region. That and other developments are pushing the market for political risk insurance toward $10 billion in 2018, up from $8.1 billion in 2015, according to a KPMG LLP report published last year. The consulting firm says demand has been spurred by companies looking for coverage against cyberattacks and terrorist events. KPMG reckons that cybersecurity insurance will be the fastest-growing segment of the market, increasing 20 percent a year from 2015 through 2018.
+
+Terrorist and hacking threats are compounded by changes in attitudes. Many Europeans have become averse to free trade, to immigration, and to losing national identities, according to Freely’s group at Marsh & McLennan.
+
+Geopolitical risks, meanwhile, could have a negative impact on investment returns, according to a majority of respondents to a February CFA Institute survey of almost 1,500 investment professionals. Among the risks they identify: the election of Donald Trump, Brexit, and the possible further fracture of the European Union.
+
+This year many investors have thus been closely following the French presidential campaign of Marine Le Pen, a far-right candidate who’s threatened to exit the euro zone and opposed EU sanctions against Russia over the Ukraine conflict as “counter­productive.” In polling for the first round of elections on April 23, Le Pen has led for stretches, with support of roughly 26 percent of French voters. Yet when it comes to the second round of voting, a runoff scheduled for May 7, she’s trailed rivals Emmanuel Macron and François Fillon in polling and betting markets.
+
+Even if Le Pen loses her bid, populism in Europe and elsewhere is here to stay, observers say. How durable is the phenomenon? “Our view is that it’s structural,” says Alexander Kazan, managing director for emerging markets strategy and comparative analytics at Eurasia Group, a political risk consultant. He points to a falling trust in governments and institutions, especially among younger people, as well as decreasing support for political parties. That’s a view echoed by top hedge fund managers including Appaloosa Management’s David Tepper and Bridgewater Associates’ Ray Dalio, who, in a 61-page paper published in March, said populism could be a greater force in shaping markets over the next year than monetary or fiscal policies. By tracking the share of votes going to anti-­establishment candidates in the developed world, Dalio determined that populism is at its highest levels since the 1930s.
+
+The most important business stories of the day. Get Bloomberg's daily newsletter.
+
+Populist movements also seem to invite cyber support from foreign hackers, especially those based in Russia, says Raf Sanchez, an international breach response manager at Beazley Group, one of the world’s largest cyber insurers. Sustained attacks in France, Italy, and the U.S. all point back to Russia. “From an anecdotal level, populism is impacting the level of cyber risk,” he says. “It’s almost a win-win for criminals.”
+
+A more fragmented world may increase the potential to inflict damages across borders, Sanchez adds. In effect, populism could eventually feed back on itself, setting the stage for even more shake-ups.
+
+Four Tools for Tracking Political Risk
+
+Calculating political risk is a qualitative exercise with a quantitative backdrop. Here’s how your terminal can help provide a better picture of the risk of doing business in countries such as France and the U.K. You can also get insight into European politics and markets at {EU <GO>}.
+
+For aggregated news, data, and charts relating to European Union countries, run {EU <GO>}.
+
+1
+
+For a financial, economic, and risk snapshot of France, go to {COUN FR <GO>}. Click on the Risk tab for ratings and data on the CAC 40’s historical and implied volatility, both of which were running below their 52-week averages in late March, before implied volatility rose in April.
+
+
+
+2
+
+Go to {PRDTGVFR Index GP <GO>} for a chart of Predata’s Geopolitical Volatility index for France. Predata, a New York-based analytics startup that predicted Brexit, bases its indexes on analyses of social media postings and metadata. For more Predata benchmarks, run {SECF PREDATA <GO>}.
+
+
+
+3
+
+Immigration has been a divisive issue in the French election. In 2015 the EU’s Eurostat reported that the foreign population in France was 7.9 million, or 11.9 percent of the total. The Fear Migration Index, a quantitative metric created by economists Scott Baker, Nicholas Bloom, and Steven Davis, is based on the frequency of keywords in news reports. Go to {ALLX FEPU <GO>} for a list of the indexes, including one for France, which has jumped 180 percent since 2014.
+
+
+
+4
+
+The Bank of England surveys market participants twice a year about systemic risk. In the survey covering the second half of 2016, the two risks cited as the most challenging to manage were U.K. political risk and cyberattacks. To chart the cyber risk data, run {UKRKCYB Index GP <GO>}. For other BOE risk series, go to {SECF UKRK <GO>}.
+
+Kochkodin is a managing editor at Bloomberg News in New York. Basak covers insurers in New York.
+
+This story appears in the April/May 2017 issue of Bloomberg Markets magazine.

@@ -1,0 +1,31 @@
+Can You Build A Startup In A Day? I Tried And Here's What Happened
+Can You Build A Startup In A Day? I Tried And Here's What Happened
+{{contrib_block.display_author.name}}  Rajat Bhageria       Opinions expressed by Forbes Contributors are their own. Full profile →'"> The author is a Forbes contributor. The opinions expressed are those of the writer. (Photo Illustration by Joe Raedle/Getty Images)     Trending on {{channel_name}}
+
+Recently, there has been a massive rise in digitally native vertical brands (DNVBs). The thought is that your company manages the entire vertical supply chain and distributes itself rather than outsourcing to a partner; the brand is born online and is wholly centered on the customer experience.
+
+It seemed like building a DNVB over the holiday break could be an interesting “little bet” (the idea of little bets originated with Peter Sims’ book about the great products that have come from leaders who take lots of low risk bets to test if ideas are viable).
+
+Based on the concepts of DNVBs and little bets, I decided to go out and try to build a business over the holidays to solve one of my own personal (granted, “first world”) problems: the fact that there’s no service out there that allowed me to mix and match any variety of Keurig Coffee K-cups I wanted.
+
+The thought is that it could provide seed capital for the next more audacious startup idea (not unlike Brian Chesky and his cofounders selling "presidential" cereal for Airbnb's seed money). After all, what’s the downside? Not much--a $12 domain name and 12 hours of work to build and then launch the product.
+
+“Market Research” (1 Hour):
+
+Now it’s important to remember that one of the main driving ideas in Sims’ book is if you can launch a product fast enough, your product's performance in the market is the market research
+
+Still, I wanted to quickly ensure that other people even have this “problem.” I messaged many of my friends who are active Keurig users, posted on the Keurig channel on Reddit, and found some Keurig Facebook groups with a few thousand members. The paraphrased question? Would you be willing to pay x dollars each month to have any variety of k-cups delivered to your door each month?
+
+Overwhelmingly, I found out that the answer was yes….as long as there was a lot of variety.
+
+I decided to take the little bet and make a monthly delivery service of your choice of any 30 k-cups right to your door.
+
+Domain Purchase and Website Setup (30 Minutes):
+
+After buying the domain VenetianCoffees.com, I installed WordPress on my Bluehost server and associated it with my domain (software engineers: remember there’s nothing wrong with using WordPress to test these little bets). For non-technical readers, I prefer using WordPress over Shopify since it gives you almost all the features for free, doesn't have much of a learning curve, and gives you complete control too.
+
+Design/Structuring Website (5 hours):
+
+After structuring the website, I found a nice, modern theme that supported Woocommerce (and was most importantly free!) and installed it.
+
+In terms of now designing the website itself, it’s important to remember at this point that if someone was going to pay me a premium and use this service to have these k-cups delivered monthly over going to Costco and buying a 100 k-cup wholesale package, the UI needed to be attractive. Although you don’t need to do in-depth mockups on Photoshop/Sketch, design is especially important for DNVBs. Remember though that done is better than perfect!

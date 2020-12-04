@@ -1,0 +1,53 @@
+Optical sensors allow a machine hand to sense subtle shapes and textures
+The robot with a human touch
+
+
+Robotic arms have been used in production lines for decades to automate and speed up the assembly of everything from computer components to cars.
+
+But despite their utility, these machine lack the human touch.
+
+That could be set to change thanks to a soft robotic hand which can sense the texture and shape of objects by touching them.
+
+The hope is that by creating soft, tactile robots which can feel the world around them, researchers can develop better prosthetic limbs or help surgeons to train for, or even perform risky surgery.
+
+Scroll down for video
+
+Robotics engineers have created a soft robotic hand which can sense the texture and shape of objects by touching them (pictured)
+
+With current technology, in order for a machine to grasp an object, it typically requires motorised or hydraulic joints which can conduct an electrical signal.
+
+But engineers at Cornell University in New York took have looked to a different approach, incorporating stretchable sensors which use light to carry signals.
+
+These optical waveguides can sense their external environment by changes to light signals they carry – with the light being distorted or bent.
+
+In a test of the sensors, a team at Cornell incorporated these sensors into a soft robotic hand.
+
+The hope is that by creating soft, tactile robots which can feel the world around them, researchers can develop better prosthetics limbs (stock image used) or squeeze into even help surgeons to train
+
+ROBOT HANDS THAT FEEL WITH LIGHT Engineers at Cornell University in New York took incorporated stretchable sensors which use light to carry signals into a robotic hand. The sensors work in the same way as fibre optic wires, sensing their external environment by changes to light signals they carry – with the light being distorted or bent as the surface touches an object. The sensors can stretch to more than 500 per cent of their initial length. What's more, the materials for the hand are tough, with previous experiments seeing a similar object run over with a car, with no damage. As the sensors are composed of the same material as the soft robots themselves, it means they could potentially be moulded into more complex machines.
+
+The robo-hand could run its digits over three tomatoes, pressing them to work out how firm they were – based on distortions to the light signals – and so find the ripe fruit in the bunch.
+
+In essence, as the hand deforms, it loses light, which is detected by a photodiode.
+
+‘These sensors operate identically to fibre optic wires, except ours can stretch to more than 500 per cent their initial length,’ explained Dr Robert Shepherd, whose lab carried out the research.
+
+‘Another difference is that ours do not transmit data perfectly.’
+
+He told MailOnline: ‘We actually lose a lot of signal across the length of the wire, which is a good thing – we need that signal loss to measure the shape of the sensor.’
+
+The materials for the hand are tough, with previous experiments seeing a similar object run over with a car, with no damage.
+
+As the sensors are composed of the same material as the soft robots themselves, it means they could potentially be moulded into more complex machines.
+
+Speaking to NPR, Cornell PhD student Huichan Zhao, who led the work, said: ‘Our human hand is not functioning using motors to drive each of the joints; our human hand is soft with a lot of sensors ... on the surface and inside the hand.
+
+‘Soft robotics provides a chance to make a soft hand that is more close to a human hand.’
+
+Beyond prosthetics, such soft robotics could find uses in space exploration to swim through alien oceans, like that of Jupiter’s moon Europa.
+
+The technology, which has been developed through a grant from the Air Force Office of Scientific Research could also be combined with virtual reality to help surgeons.
+
+Dr Shepherd told MailOnline: ‘I think that haptic interfaces for augmented, virtual, and mixed reality are going to be desirable for simulating and even performing risky tasks such as surgery.
+
+‘The need to sense the interaction forces of an actor in these tasks will be important for appropriate touch sensation.’

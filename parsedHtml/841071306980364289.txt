@@ -1,0 +1,25 @@
+Congressman: We need a National Guard for cybersecurity
+Congressman: We need a National Guard for cybersecurity
+There are few people with computer science backgrounds who work in the federal government. Long hours coupled with smaller salaries make it hard to recruit techies to Washington, according to Representative Ruben Gallego. But one way to get more tech people to serve their country is to set up a cybersecurity reservist system, like a National Guard for digital security, said Gallego, a Democrat from Arizona. "We have to accept that, look, this person is not going to man a machine gun, why would we put them through bootcamp, we're never going to send them to the front line," Gallego told CNNTech. "But we could definitely use their knowledge in service to our country." Gallego, a Marine Corps veteran, spoke at the SXSW Interactive festival on Saturday, joined by fellow congressman Will Hurd. They talked about the importance of bridging the gaps between technology and government. Gallego and Hurd are two of the youngest members in the House of Representatives, and Gallego joked that they're often asked for IT support and how to use Snapchat. They're also two representatives who have touted the idea of tapping into tech talent and using it to protect our country. "I think our government should look like our country," said Hurd, a Republican from Texas. "We need a diversity of thought, backgrounds and experiences. The issue of the most talented folks not going into government is true, it's not just in the legislative or executive branch." A cybersecurity reservist group could occasionally be called on to protect the country against cyber threats, and strengthen national security on the digital level. That could include finding and patching bugs, upgrading outdated systems, and auditing current technology. Hurd also said the government should expand programs that encourage young people to join government ranks. For instance, the National Science Foundation has a scholarship fund for computer science students who are then required to work in government upon graduation. Gallego thinks there's already a pool of people who want to support the government, and agencies should harness that talent, even temporarily. "I believe that we need to find a way to bring in your cyber warrior to come in and work for the NSA, or Department of Defense for a couple weeks per year," Gallego said. "We have this great private sector of tech innovators that I know would love to be able to say, 'I'll give up two weeks of my life to serve.'"
+
+There are few people with computer science backgrounds who work in the federal government. Long hours coupled with smaller salaries make it hard to recruit techies to Washington, according to Representative Ruben Gallego.
+
+But one way to get more tech people to serve their country is to set up a cybersecurity reservist system, like a National Guard for digital security, said Gallego, a Democrat from Arizona.
+
+"We have to accept that, look, this person is not going to man a machine gun, why would we put them through bootcamp, we're never going to send them to the front line," Gallego told CNNTech. "But we could definitely use their knowledge in service to our country."
+
+Gallego, a Marine Corps veteran, spoke at the SXSW Interactive festival on Saturday, joined by fellow congressman Will Hurd. They talked about the importance of bridging the gaps between technology and government.
+
+Gallego and Hurd are two of the youngest members in the House of Representatives, and Gallego joked that they're often asked for IT support and how to use Snapchat.
+
+They're also two representatives who have touted the idea of tapping into tech talent and using it to protect our country.
+
+"I think our government should look like our country," said Hurd, a Republican from Texas. "We need a diversity of thought, backgrounds and experiences. The issue of the most talented folks not going into government is true, it's not just in the legislative or executive branch."
+
+A cybersecurity reservist group could occasionally be called on to protect the country against cyber threats, and strengthen national security on the digital level. That could include finding and patching bugs, upgrading outdated systems, and auditing current technology.
+
+Hurd also said the government should expand programs that encourage young people to join government ranks. For instance, the National Science Foundation has a scholarship fund for computer science students who are then required to work in government upon graduation.
+
+Gallego thinks there's already a pool of people who want to support the government, and agencies should harness that talent, even temporarily.
+
+"I believe that we need to find a way to bring in your cyber warrior to come in and work for the NSA, or Department of Defense for a couple weeks per year," Gallego said. "We have this great private sector of tech innovators that I know would love to be able to say, 'I'll give up two weeks of my life to serve.'"

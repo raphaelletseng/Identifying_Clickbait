@@ -1,0 +1,5 @@
+Live Streaming News Video
+
+
+
+[{"id":"abc_live07","hedshort":"Beluga Whale Tank at the Georgia Aquarium","description":"See more at FashionWeekOnline.com","image":"http://keyframe-cdn.abcnews.com/streamprovider7.jpg","hed":"Beluga Whale Tank at the Georgia Aquarium","thumb":"http://keyframe-cdn.abcnews.com/streamprovider7.jpg"},{"id":"abc_live5","hedshort":"Kittens Play on ‘Dorm Cam’ in Los Angeles","description":"","image":"http://keyframe-cdn.abcnews.com/streamprovider5.jpg","hed":"Kittens Play on ‘Dorm Cam’ in Los Angeles","thumb":"http://keyframe-cdn.abcnews.com/streamprovider5.jpg"},{"id":"abc_live3","hedshort":"Bald Eagle Tends to Her Chick in Fort Myers, Fla.","description":"","image":"http://keyframe-cdn.abcnews.com/streamprovider3.jpg","hed":"Bald Eagle Tends to Her Chick in Fort Myers, Fla.","thumb":"http://keyframe-cdn.abcnews.com/streamprovider3.jpg"},{"id":"abc_live08","hedshort":"Live Look at Sydney Opera House From Sydney Harbour","description":"","image":"http://keyframe-cdn.abcnews.com/streamprovider8.jpg","hed":"Live Look at Sydney Opera House From Sydney Harbour","thumb":"http://keyframe-cdn.abcnews.com/streamprovider8.jpg"}]

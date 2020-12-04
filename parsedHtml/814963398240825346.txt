@@ -1,0 +1,134 @@
+What we do and don't know about Russia's interference in the presidential election
+What we do and don't know about Russia's interference in the  presidential election
+On Thursday, the U.S. government formally retaliated against Russia for allegedly interfering with the U.S. presidential election. The Obama administration's actions represent a historically aggressive response to a cyberattack in America (or elsewhere). SEE ALSO: President Obama sanctions Russia for hacking The FBI and Department of Homeland Security issued a joint report formally accusing Russian intelligence operatives of gaining access to a “U.S. political party"—presumably the Democratic National Committee. Along with the release of the report, the Obama administration imposed further sanctions against Russia and expelled 35 Russian diplomats from the country. The report also gave the Russian operation a name: . “Attribution, as the skill of identifying a cyberattacker is known, is more art than science,” write Eric Lipton, David E. Sanger and Scott Shane in their investigation of Russia’s influence on the election. If that’s true, how do we really know that Russia interfered with the U.S. presidential election? How do we know that Grizzly Steppe really happened? After all, President-elect Donald Trump has been (conveniently) skeptical of the claims that Russia had anything to do with the election. And Moscow's vehemently denied being involved in the attacks. Initially, Russia planned to respond to Obama's actions and also expel (presumably: American) diplomats, but Putin personally decided to delay that measure. Trump enthusiastically applauded that decision in a tweet now "pinned" atop his profile. The sentiment was retweeted by the Russian Embassy in the United States. Great move on delay (by V. Putin) - I always knew he was very smart! — Donald J. Trump (@realDonaldTrump) December 30, 2016 Just last week, when asked about whether Russian hackers had interfered with the election, Trump said “I think that computers have complicated lives very greatly. The whole age of computer has made it where nobody knows exactly what is going on.” Ain’t that the truth. When it comes to cybersecurity, we’re often forced to rely on experts and take their word for it when they tell us something eye-popping like that a foreign government interfered with the election of our highest office. SEE ALSO: Donald Trump is so, so wrong about how hacking works. Let's help him. There is, however, some publicly available evidence that points towards Moscow's general direction, much of which the U.S. intelligence community is basing its analysis on. What, exactly, did Russia do and not do? It's important to be extremely clear by what's meant by “Russian interference.” The U.S. government is saying that Russia "tampered with vote tallies in order to get Donald Trump elected President," as a from The Economist/YouGov shows 50 percent of Hillary Clinton voters believe. The U.S. intelligence community believes that Russia is behind cyberattacks that targeted the Democratic National Committee and a host of other U.S. entities. In other words, they think that Putin's administration ordered hackers to take stuff from the Democrats and then leak it to organizations like Wikileaks in order to damage Clinton's campaign. Russia didn't do anything to change people's actual ballots, just how they may have felt about the candidates. What we know for certain We know for certain that the Democratic National Committee was hacked, because thousands of emails were leaked and then posted online by Wikileaks and DC Leaks in October. No one's disputing this. Based on circumstantial evidence, we can pretty safely assume that Russia had something to do with the emails being released. In June, after Democratic officials realized they had been hacked, the DNC contracted a cybersecurity firm called CrowdStrike to investigate the incident. Within a day, Crowdstrike concluded that the DNC had been hacked not once, but twice. It's report named two main groups: Fancy Bear (APT 28) and Cozy Bear (APT 29). APT refers to an “Advanced Persistent Threat.” These groups aren’t new to cybersecurity experts, but their exact scope and scale isn’t known (at least publicly.) One important thing to note is that Cozy Bear and Fancy Bear weren’t co-conspirators in the attack on the DNC. Crowdstrike didn’t find any evidence that the two groups had worked together, or “even an awareness of one by the other,” the firm wrote in its report. What it did conclude is that both Fancy Bear and Cozy Bear originated their attacks in Russia. What does that Gucci guy have to do with all of this? Way back in the summer, you may have heard about a Romanian hacker that claimed they were responsible for the hacks. After the DNC realized it had been infiltrated, it went public, and shared details of the attack with hoping to gain sympathy from voters. Almost immediately, a hacker calling himself Guccifer 2.0 appeared online, taking credit for the hack. The original Guccifer, a Romanian hacker, was jailed for stealing emails from politicians like Colin Powell and George W. Bush. Remember those hilarious pictures of former president Bush's bizarre painting hobby ? Yeah—those were leaked by the original Guccifer. Image:  Kevin Dietsch-Pool/Getty Images. Guccifer 2.0's mysterious appearance looks quite suspiciously like a sloppy diversion created by the real hackers, who would like the American public to conveniently believe that a "lone wolf" was responsible for infiltrating the DNC. Directly after the DNC went public, a and blog belonging to Guccifer 2.0 suddenly appeared online. Their tweets and posts aimed at convincing the public that Russia was behind the hack. His first post proclaimed: “ .” #Guccifer2  #DNC ’s servers hacked by a lone hacker. #Trump report https://t.co/5fsKlkVouD  pic.twitter.com/AMIRp5sf2e — GUCCIFER 2.0 (@GUCCIFER_2) June 20, 2016 's Lorenzo Francheschi-Bicchierai reached out to Guccifer 2.0, who claimed he was also Romanian, just like his predecessor. attempted to speak to him in his “native” language, but his Romanian was weak, and it looked as though he was translating Russian into Romanian using Google Translate. Other aspects of Guccifer 2.0's persona pointed towards Russia. As he began to leak documents from the trove stolen from the DNC, some suspicious clues began to emerge. One important piece of evidence is the metadata in some of the earliest leaked documents. One contained Cyrillic error messages—the result of editing files on a computer with Russian language settings. One document was also modified by a user named “Феликс Эдмундович,” a code word referring to the founder of the Soviet Secret Police. It's not the first time Russia's hacked the United States Russia’s cyberattack against the U.S. isn’t unprecedented. As the notes, two decades ago, the Colorado School of Mines—which had a major contract with the Navy—was the victim of an attack believed to have originated in Russia. Investigators spent two years tracing how hackers jumped from important agencies like the Department of Energy, to the Air Force, and NASA. An almost uncountable number of files had been stolen. Before the attack against the DNC, Russians infiltrated other U.S. entities, like the State Department, the White House and the Joint Chiefs of Staff. Surprised you've never read about these attacks before? That’s because President Obama didn’t name Russians publicly, or issue sanctions, for fear of escalating the cyberwar. What's happening now, and what happens next. The report released Thursday indicated that the Russian hacks haven’t stopped, but are “continuing to engage in spear phishing campaigns, including one launched as recently as November 2016, just days after the U.S. election.” That’s consistent with the of security firm Volexity, which reported five attack waves after the election targeting think tanks, NGOS and government workers. An intelligence report about the Russian hacks is reportedly is currently being crafted for members of Congress and should be available before Trump officially becomes president on January 20th. The FBI also formerly named two suspects believed to be behind the attacks, and six names were added to the Treasury Department’s list of Specially Designated Nationals and Blocked Persons. Two of the Russians being sanctioned today by US are already wanted by @FBI for malicious cyber activities pic.twitter.com/mdsSzPKzLS — Jake Tapper (@jaketapper) December 29, 2016 When Trump takes office Whether or not they had direct correspondence with Wikileaks, Trump’s campaign had prior knowledge that leaked emails were coming. Several days before the trove of almost 50,000 emails were released, Roger Stone, a Republican working for the Trump campaign, sent out a tweet about what was to come. Wednesday@HillaryClinton is done. #Wikileaks . — Roger Stone (@RogerJStoneJr) October 2, 2016 After he gets sworn into office, President-elect Donald Trump can easily reverse the sanctions imposed against Russia by Obama. As evidenced by his tweet today and prior statements, Trump has been mostly complimentary towards Putin's regime. While Trump said that “it’s time for our country to move onto bigger and better things,” in a statement issued Thursday, he also said that he “will meet with leaders of the intelligence community next week in order to be updated on the facts of the situation.” What should you believe? We can’t conclude that Russia's absolutely behind the attack, but the Obama administration wouldn't retaliate so aggressively if it didn't have strong evidence supporting involvement from Moscow. Both the CIA and FBI likely have more evidence supporting their claims, but it hasn’t been made public, and we have no idea what it could actually be. Both agencies are highly confident that not only did Russia seek to interfere with the election, but that it had a particular interest in getting Donald Trump elected. The public just doesn’t have enough evidence to draw the same conclusion at this time. For now, you can place your trust in the U.S. intelligence community’s assessment of the situation, or remain skeptical, until more evidence gets released to the public. If there's one thing we can count on, though? It's that the official Russian Twitter accounts will to be about the situation. At this point, what few certainties we have are worth taking.
+
+On Thursday, the U.S. government formally retaliated against Russia for allegedly interfering with the U.S. presidential election. The Obama administration's actions represent a historically aggressive response to a cyberattack in America (or elsewhere).
+
+SEE ALSO: President Obama sanctions Russia for hacking
+
+The FBI and Department of Homeland Security issued a joint report formally accusing Russian intelligence operatives of gaining access to a “U.S. political party"—presumably the Democratic National Committee. Along with the release of the report, the Obama administration imposed further sanctions against Russia and expelled 35 Russian diplomats from the country.
+
+The report also gave the Russian operation a name: Grizzly Steppe.
+
+“Attribution, as the skill of identifying a cyberattacker is known, is more art than science,” write Eric Lipton, David E. Sanger and Scott Shane in their New York Times investigation of Russia’s influence on the election.
+
+If that’s true, how do we really know that Russia interfered with the U.S. presidential election? How do we know that Grizzly Steppe really happened?
+
+After all, President-elect Donald Trump has been (conveniently) skeptical of the claims that Russia had anything to do with the election. And Moscow's vehemently denied being involved in the attacks. Initially, Russia planned to respond to Obama's actions and also expel (presumably: American) diplomats, but Putin personally decided to delay that measure.
+
+Trump enthusiastically applauded that decision in a tweet now "pinned" atop his profile. The sentiment was retweeted by the Russian Embassy in the United States.
+
+Great move on delay (by V. Putin) - I always knew he was very smart! — Donald J. Trump (@realDonaldTrump) December 30, 2016
+
+Just last week, when asked about whether Russian hackers had interfered with the election, Trump said “I think that computers have complicated lives very greatly. The whole age of computer has made it where nobody knows exactly what is going on.”
+
+Ain’t that the truth.
+
+When it comes to cybersecurity, we’re often forced to rely on experts and take their word for it when they tell us something eye-popping like that a foreign government interfered with the election of our highest office.
+
+There is, however, some publicly available evidence that points towards Moscow's general direction, much of which the U.S. intelligence community is basing its analysis on.
+
+What, exactly, did Russia do and not do?
+
+It's important to be extremely clear by what's meant by “Russian interference.”
+
+The U.S. government is not saying that Russia "tampered with vote tallies in order to get Donald Trump elected President," as a new survey from The Economist/YouGov shows 50 percent of Hillary Clinton voters believe.
+
+The U.S. intelligence community believes that Russia is behind cyberattacks that targeted the Democratic National Committee and a host of other U.S. entities.
+
+In other words, they think that Putin's administration ordered hackers to take stuff from the Democrats and then leak it to organizations like Wikileaks in order to damage Clinton's campaign.
+
+Russia didn't do anything to change people's actual ballots, just how they may have felt about the candidates.
+
+What we know for certain
+
+We know for certain that the Democratic National Committee was hacked, because thousands of emails were leaked and then posted online by Wikileaks and DC Leaks in October. No one's disputing this.
+
+Based on circumstantial evidence, we can pretty safely assume that Russia had something to do with the emails being released. In June, after Democratic officials realized they had been hacked, the DNC contracted a cybersecurity firm called CrowdStrike to investigate the incident.
+
+Within a day, Crowdstrike concluded that the DNC had been hacked not once, but twice.
+
+It's report named two main groups: Fancy Bear (APT 28) and Cozy Bear (APT 29). APT refers to an “Advanced Persistent Threat.”
+
+These groups aren’t new to cybersecurity experts, but their exact scope and scale isn’t known (at least publicly.)
+
+One important thing to note is that Cozy Bear and Fancy Bear weren’t co-conspirators in the attack on the DNC. Crowdstrike didn’t find any evidence that the two groups had worked together, or “even an awareness of one by the other,” the firm wrote in its report.
+
+What it did conclude is that both Fancy Bear and Cozy Bear originated their attacks in Russia.
+
+What does that Gucci guy have to do with all of this?
+
+Way back in the summer, you may have heard about a Romanian hacker that claimed they were responsible for the hacks.
+
+After the DNC realized it had been infiltrated, it went public, and shared details of the attack with The Washington Post, hoping to gain sympathy from voters. Almost immediately, a hacker calling himself Guccifer 2.0 appeared online, taking credit for the hack.
+
+The original Guccifer, a Romanian hacker, was jailed for stealing emails from politicians like Colin Powell and George W. Bush.
+
+Remember those hilarious pictures of former president Bush's bizarre painting hobby? Yeah—those were leaked by the original Guccifer.
+
+Image: Kevin Dietsch-Pool/Getty Images.
+
+Guccifer 2.0's mysterious appearance looks quite suspiciously like a sloppy diversion created by the real hackers, who would like the American public to conveniently believe that a "lone wolf" was responsible for infiltrating the DNC.
+
+Directly after the DNC went public, a Twitter and Wordpress blog belonging to Guccifer 2.0 suddenly appeared online. Their tweets and posts aimed at convincing the public that Russia was not behind the hack.
+
+His first post proclaimed: “ DNC’s servers hacked by a lone hacker .”
+
+Motherboard 's Lorenzo Francheschi-Bicchierai reached out to Guccifer 2.0, who claimed he was also Romanian, just like his predecessor.
+
+Motherboard attempted to speak to him in his “native” language, but his Romanian was weak, and it looked as though he was translating Russian into Romanian using Google Translate.
+
+Other aspects of Guccifer 2.0's persona pointed towards Russia. As he began to leak documents from the trove stolen from the DNC, some suspicious clues began to emerge.
+
+One important piece of evidence is the metadata in some of the earliest leaked documents. One contained Cyrillic error messages—the result of editing files on a computer with Russian language settings.
+
+One document was also modified by a user named “Феликс Эдмундович,” a code word referring to the founder of the Soviet Secret Police.
+
+It's not the first time Russia's hacked the United States
+
+Russia’s cyberattack against the U.S. isn’t unprecedented. As the New York Times notes, two decades ago, the Colorado School of Mines—which had a major contract with the Navy—was the victim of an attack believed to have originated in Russia.
+
+Investigators spent two years tracing how hackers jumped from important agencies like the Department of Energy, to the Air Force, and NASA. An almost uncountable number of files had been stolen.
+
+Before the attack against the DNC, Russians infiltrated other U.S. entities, like the State Department, the White House and the Joint Chiefs of Staff.
+
+Surprised you've never read about these attacks before? That’s because President Obama didn’t name Russians publicly, or issue sanctions, for fear of escalating the cyberwar.
+
+What's happening now, and what happens next.
+
+The report released Thursday indicated that the Russian hacks haven’t stopped, but are “continuing to engage in spear phishing campaigns, including one launched as recently as November 2016, just days after the U.S. election.”
+
+That’s consistent with the findings of security firm Volexity, which reported five attack waves after the election targeting think tanks, NGOS and government workers.
+
+An intelligence report about the Russian hacks is reportedly is currently being crafted for members of Congress and should be available before Trump officially becomes president on January 20th.
+
+The FBI also formerly named two suspects believed to be behind the attacks, and six names were added to the Treasury Department’s list of Specially Designated Nationals and Blocked Persons.
+
+Two of the Russians being sanctioned today by US are already wanted by @FBI for malicious cyber activities pic.twitter.com/mdsSzPKzLS — Jake Tapper (@jaketapper) December 29, 2016
+
+When Trump takes office
+
+Whether or not they had direct correspondence with Wikileaks, Trump’s campaign had prior knowledge that leaked emails were coming.
+
+Several days before the trove of almost 50,000 emails were released, Roger Stone, a Republican working for the Trump campaign, sent out a tweet about what was to come.
+
+After he gets sworn into office, President-elect Donald Trump can easily reverse the sanctions imposed against Russia by Obama. As evidenced by his tweet today and prior statements, Trump has been mostly complimentary towards Putin's regime.
+
+While Trump said that “it’s time for our country to move onto bigger and better things,” in a statement issued Thursday, he also said that he “will meet with leaders of the intelligence community next week in order to be updated on the facts of the situation.”
+
+What should you believe?
+
+We can’t conclude that Russia's absolutely behind the attack, but the Obama administration wouldn't retaliate so aggressively if it didn't have strong evidence supporting involvement from Moscow.
+
+Both the CIA and FBI likely have more evidence supporting their claims, but it hasn’t been made public, and we have no idea what it could actually be.
+
+Both agencies are highly confident that not only did Russia seek to interfere with the election, but that it had a particular interest in getting Donald Trump elected.
+
+The public just doesn’t have enough evidence to draw the same conclusion at this time.
+
+For now, you can place your trust in the U.S. intelligence community’s assessment of the situation, or remain skeptical, until more evidence gets released to the public.
+
+If there's one thing we can count on, though? It's that the official Russian Twitter accounts will continue to be immature about the situation. At this point, what few certainties we have are worth taking.
+
+
+
