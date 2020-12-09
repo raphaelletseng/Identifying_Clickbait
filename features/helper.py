@@ -184,7 +184,16 @@ def is_contraction(word):
     else:
         return False
 
+def is_punc(c):
+    if c in punc:
+        return True
+    else: 
+        return False
 
-
+def is_stopword(word):
+    if word in stop_words:
+        return True
+    else:
+        return False
 
 

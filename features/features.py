@@ -3,8 +3,9 @@ import pandas as pd
 import scipy 
 import nltk
 from nltk.tag import pos_tag
+from nltk.probability import FreqDist
 import re
-from helper import process_text, sim_preprocess, is_contraction
+from helper import process_text, sim_preprocess, is_contraction, is_punc, is_stopword
 
 # def loadGloveModel(gloveFile):
 #   print('Loading Glove Model')
@@ -40,6 +41,13 @@ def word_count(text):
 def get_sentences(text):
   return nltk.tokenize.sent_tokenize(text)
 
+def token_count(text):
+  text = text.split()
+  text = [[c for c in word if not is_punc(c)] for word in text]
+  text = [''.join(word) for word in text]
+  tokens = FreqDist(text)
+  return len(tokens)
+
 # returns list of proper nouns (headline, content)
 def get_proper_nouns(text):
   tagged_sent = pos_tag(text.split())
@@ -65,19 +73,33 @@ def len_longest_word(text):
       max_length = len(word)
   return max_length
 
-# returns True if there is a question mark (headline)
-def qm_count(text):
-  for c in text:
-    if c == '?':
-      return True
-  return False
+# returns True if there is a question mark/number of question marks (headline, content)
+def qm_count(text,content_flag):
+  if content_flag:
+    count = 0
+    for c in text:
+      if c == '?':
+        count += 1
+    return count
+  else:
+    for c in text:
+      if c == '?':
+        return True
+    return False
 
-# returns True if there is an exclamation mark (headline)
-def em_count(text):
-  for c in text:
-    if c == '!':
-      return True
-  return False
+# returns True if there is an exclamation mark/number of exclamation marks (headline, content)
+def em_count(text,content_flag):
+  if content_flag:
+    count = 0
+    for c in text:
+      if c == '!':
+        count += 1
+    return count
+  else:
+    for c in text:
+      if c == '!':
+        return True
+    return False
 
 # returns number of contractions (headline, content)
 def num_contractions(text):
@@ -103,11 +125,42 @@ def contains_adverb(text):
 def avg_words_per_sentence(text):
   return word_count(text)/len(get_sentences(text))
 
+# returns number of superlative adjectives, superlative adverbs (content)
+def superlative_adj_adv_count(text):
+  tagged = pos_tag(text.split())
+  adj_count = 1
+  adv_count = 0
+  for _, tag in tagged:
+    if tag == 'JJS':
+      adj_count += 1
+    elif tag == 'RBS':
+      adv_count += 1
+  return adj_count, adv_count
+
+# returns ratio of stopwords:all words (content)
+def stopword_ratio(text):
+  text = text.split()
+  count = 0
+  for word in text:
+    if is_stopword(word):
+      count += 1
+  return count/len(text)
+
+def contraction_ratio(text):
+  text = text.split()
+  count = 0
+  for word in text:
+    if is_contraction(word):
+      count += 1
+  return count/len(text)
+
 article_data = 'articles1.csv'
 data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
 data = data[data['content'].notna()]
 data = data[data['title'].notna()]
 
+sample = "This isn't the greatest sample sentence ever."
+print(contraction_ratio(sample))
 
 # data['processed_content'] = data['content'].apply(process_text)
 # print(data.iloc[0]['processed_content'])
