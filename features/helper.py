@@ -6,6 +6,7 @@ import re
 import nltk
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import TweetTokenizer, RegexpTokenizer
+import json
 
 # contraction dictionary
 c_dict = {
@@ -174,6 +175,7 @@ def whitespace_tokenizer(text):
     return tokens
 
 def unique_words(text): 
+    # Can be replaced by np.unique(list or text)
     ulist = []
     [ulist.append(x) for x in text if x not in ulist]
     return ulist
@@ -196,4 +198,104 @@ def is_stopword(word):
     else:
         return False
 
+def porterStem(paragraph):
+    """
+    Temporary porter stemmer for some debugging.
+    Also removes stop words (nltk defined).
+    @return stemmed paragraph (str)
+    """
+    stem = nltk.stem.porter.PorterStemmer().stem
+    data = []
+    for word in paragraph.split():
+        if(word in nltk.corpus.stopwords.words('english')):
+            continue
+        data.append(stem(word))
+        
+    return " ".join(data)
+
+def removePunctuation(paragraph):
+    """
+    Replaces non-ascii characters with ? and then replaces all punctuation with whitespace.
+    @return ascii string without punctuation
+    """
+    punct = re.compile('[%s]' % re.escape(string.punctuation))
+    paragraph = paragraph.encode("ascii", errors="replace").decode()
+    return punct.sub(' ', paragraph)
+
+def preprocess(paragraph):
+    """
+    Keeps the numbers, still needs to expand contractions
+    Similar to process_text
+    """
+    return porterStem(removePunctuation(paragraph))
+
+def loadAndProcessJsonData(maxArticles=None):
+    """
+    Loads the JSON data into three lists and applies the preprocessing 
+    in the "preprocess" function.
+    Adds \n between paragraphs.
+    Only loads maxArticles number of articles, for debugging (if None it loads all)
+    @return preprocessed lists titles, texts, labels
+    """
+    
+    texts = []
+    titles = []
+    labels = []
+    dictLabels = {}
+
+    with open('../data/truth.jsonl') as file:
+        for line in file.readlines():
+            d = json.loads(line)
+            dictLabels[d['id']] = d['truthMean']
+    
+    index=0
+    with open('../data/instances.jsonl') as file:
+        for line in file.readlines():
+            d = json.loads(line)
+            texts.append("\n ".join([preprocess(p) for p in d['targetParagraphs']]))
+
+            titles.append(preprocess(d['targetTitle']))
+            labels.append(dictLabels[d['id']])
+            
+            index+=1
+            if(maxArticles != None and index >= maxArticles):
+                break
+    
+    return titles,texts,labels    
+
+def loadJsonData(maxArticles=None):
+    """Loads the JSON data into three lists.
+    Adds \n between paragraphs
+    Only loads maxArticles number of articles, for debugging (if None it loads all)
+    @return titles, texts, labels
+    """
+    texts = []
+    titles = []
+    labels = []
+    dictLabels = {}
+
+    with open('../data/truth.jsonl') as file:
+        for line in file.readlines():
+            d = json.loads(line)
+            dictLabels[d['id']] = d['truthMean']
+    index=0
+    with open('../data/instances.jsonl') as file:
+        for line in file.readlines():
+            d = json.loads(line)
+            texts.append("\n ".join([preprocess(p) for p in d['targetParagraphs']]))
+
+            titles.append(preprocess(d['targetTitle']))
+            labels.append(dictLabels[d['id']])
+            
+            index+=1
+            if(maxArticles != None and index >= maxArticles):
+                break
+    
+    return titles,texts,labels    
+
+def getPOSTags(data):
+    """
+    Takes in an article separated into paragraphs and returns a list of (word, POS tag) pairs.
+    """
+    return [nltk.pos_tag(casual_tokenizer(p)) for p in data]
 

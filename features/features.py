@@ -5,7 +5,7 @@ import nltk
 from nltk.tag import pos_tag
 from nltk.probability import FreqDist
 import re
-from helper import process_text, sim_preprocess, is_contraction, is_punc, is_stopword
+from helper import process_text, sim_preprocess, is_contraction, is_punc, is_stopword, loadAndProcessJsonData, getPOSTags
 
 # def loadGloveModel(gloveFile):
 #   print('Loading Glove Model')
@@ -154,13 +154,85 @@ def contraction_ratio(text):
       count += 1
   return count/len(text)
 
-article_data = 'articles1.csv'
-data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
-data = data[data['content'].notna()]
-data = data[data['title'].notna()]
+def posTagFeatures(taggedArticle):   
+    """
+    Takes in a list of (word, tag) pairs and returns various metrics based on them.
+    @return NNP,IN,WRB,NN,QM>0,PRP,VBZ,WP,DT,POS,WDT,RB,RBS,VBN,EX>0
+    """
+    NNP=0
+    #NNP_NNP=0
+    IN=0
+    #NNP_VBZ=0
+    #IN_NNP=0
+    WRB=0
+    NN=0
+    QM=0
+    PRP=0
+    VBZ=0
+    #NNP_NNP_VBZ=0
+    #NN_IN=0
+    #NN_IN_NNP=0
+    #PRP_VBP=0
+    WP=0
+    DT=0
+    POS=0
+    WDT=0
+    RB=0
+    RBS=0
+    VBN=0
+    EX=0
+    
+    prevTag=None
+    prevPrevTag=None
+    
+    for word,tag in taggedArticle:
+        if(tag == "NNP"):
+            NNP+=1
+        elif(tag == "IN"):
+            IN+=1
+        elif(tag == "WRB"):
+            WRB+=1
+        elif(tag == "NN"):
+            NN+=1
+        elif(tag == "QM"):
+            QM+=1
+        elif(tag == "PRP"):
+            PRP+=1
+        elif(tag == "VBZ"):
+            VBZ+=1
+        elif(tag == "WP"):
+            WP+=1
+        elif(tag == "DT"):
+            DT+=1
+        elif(tag == "POS"):
+            POS+=1
+        elif(tag == "WDT"):
+            WDT+=1
+        elif(tag == "RB"):
+            RB+=1
+        elif(tag == "RBS"):
+            RBS+=1
+        elif(tag == "VBN"):
+            VBN+=1
+        elif(tag == "EX"):
+            EX+=1
+        
+        prevPrevTag=prevTag
+        prevTag = tag
+        
+    return NNP,IN,WRB,NN,QM>0,PRP,VBZ,WP,DT,POS,WDT,RB,RBS,VBN,EX>0
+
+#article_data = 'articles1.csv'
+#data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
+#data = data[data['content'].notna()]
+#data = data[data['title'].notna()]
 
 sample = "This isn't the greatest sample sentence ever."
 print(contraction_ratio(sample))
 
 # data['processed_content'] = data['content'].apply(process_text)
 # print(data.iloc[0]['processed_content'])
+
+titles, texts, labels = loadAndProcessJsonData(10)
+tagged = getPOSTags(texts)
+print(posTagFeatures(tagged[0]))
