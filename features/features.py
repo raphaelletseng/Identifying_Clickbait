@@ -4,34 +4,11 @@ import scipy
 import nltk
 from nltk.tag import pos_tag
 from nltk.probability import FreqDist
+from nltk.stem.porter import PorterStemmer
 import re
+from keybert import KeyBERT
+from sentence_transformers import SentenceTransformer
 from helper import process_text, sim_preprocess, is_contraction, is_punc, is_stopword, loadAndProcessJsonData, getPOSTags
-
-# def loadGloveModel(gloveFile):
-#   print('Loading Glove Model')
-#   with open(gloveFile, encoding='utf8') as f:
-#     content = f.readlines()
-#   model = {}
-#   for line in content:
-#     splitLine = line.split()
-#     word = splitLine[0]
-#     embedding = np.array([float(val) for val in splitLine[1:]])
-#     model[word] = embedding
-#   print('Done.',len(model),' words loaded.')
-#   return model
-
-# glove_file = 'glove.6B.50d.txt'
-# model = loadGloveModel(glove_file)
-
-# def cosine_dist_between_two_words(word1, word2):
-#   return (1 - scipy.spatial.disatnce.cosine(model[word1], model[word2]))
-
-# def cosine_dist_wordembedding_method(s1, s2):
-#   vec1 = np.mean([model[word] for word in s1], axis=0)
-#   vec2 = np.mean([model[word] for word in s2], axis=0)
-#   cosine = scipy.spatial.distance.cosine(vec1, vec2)
-#   return (1-cosine)*100
-  # print('Word Embedding method with a cosine distance asses that our two sentences are similar to',round((1-cosine)*100,2),'%')
 
 # i will organize this at some point so we don't call so many functions over and over again when we're calculating features - miya
 
@@ -146,6 +123,7 @@ def stopword_ratio(text):
       count += 1
   return count/len(text)
 
+# returns ratio of contractions:all words (content)
 def contraction_ratio(text):
   text = text.split()
   count = 0
@@ -222,17 +200,40 @@ def posTagFeatures(taggedArticle):
         
     return NNP,IN,WRB,NN,QM>0,PRP,VBZ,WP,DT,POS,WDT,RB,RBS,VBN,EX>0
 
-#article_data = 'articles1.csv'
-#data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
-#data = data[data['content'].notna()]
-#data = data[data['title'].notna()]
+# get keywords (content)
+model = KeyBERT('distilbert-base-nli-mean-tokens')
+def get_key_words(text):
+  stem = PorterStemmer().stem
+  text = text.split()
+  text = [[c for c in word if not is_punc(c)] for word in text]
+  text = [''.join(word) for word in text]
+  stemmed_text = []
+  for word in text:
+    if not is_stopword(word):
+      stemmed_text.append(stem(word))
+  stemmed_text = ' '.join(stemmed_text)
+  return model.extract_keywords(stemmed_text,top_n=8),model.extract_keywords(stemmed_text,top_n=8,use_maxsum=True),model.extract_keywords(stemmed_text,top_n=8,use_mmr=True,diversity=0.2),model.extract_keywords(stemmed_text,use_mmr=True,use_maxsum=True,top_n=8)
 
-sample = "This isn't the greatest sample sentence ever."
-print(contraction_ratio(sample))
+# get similarity between two strings
+vectorizer = SentenceTransformer('distilbert-base-nli-stsb-mean-tokens')
+def get_similarity(text_keywords,title):
+  keyword_vec = vectorizer.encode(text_keywords) # text_keywords should be a string, not a list
+  title_vec = vectorizer.encode(title)
+  return scipy.spatial.distance.cosine(keyword_vec,title_vec)
+
+article_data = 'articles1.csv'
+data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
+data = data[data['content'].notna()]
+data = data[data['title'].notna()]
+
+print(get_similarity(data.iloc[0]['content'],data.iloc[0]['title']))
+# results = get_key_words(data.iloc[0]['content'])
+# for result in results:
+#   print(result)
 
 # data['processed_content'] = data['content'].apply(process_text)
 # print(data.iloc[0]['processed_content'])
 
-titles, texts, labels = loadAndProcessJsonData(10)
-tagged = getPOSTags(texts)
-print(posTagFeatures(tagged[0]))
+# titles, texts, labels = loadAndProcessJsonData(10)
+# tagged = getPOSTags(texts)
+# print(posTagFeatures(tagged[0]))

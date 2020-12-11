@@ -299,3 +299,28 @@ def getPOSTags(data):
     """
     return [nltk.pos_tag(casual_tokenizer(p)) for p in data]
 
+# def loadGloveModel(gloveFile):
+#   print('Loading Glove Model')
+#   with open(gloveFile, encoding='utf8') as f:
+#     content = f.readlines()
+#   model = {}
+#   for line in content:
+#     splitLine = line.split()
+#     word = splitLine[0]
+#     embedding = np.array([float(val) for val in splitLine[1:]])
+#     model[word] = embedding
+#   print('Done.',len(model),' words loaded.')
+#   return model
+
+# glove_file = 'glove.6B.50d.txt'
+# model = loadGloveModel(glove_file)
+
+# def cosine_dist_between_two_words(word1, word2):
+#   return (1 - scipy.spatial.disatnce.cosine(model[word1], model[word2]))
+
+# def cosine_dist_wordembedding_method(s1, s2):
+#   vec1 = np.mean([model[word] for word in s1], axis=0)
+#   vec2 = np.mean([model[word] for word in s2], axis=0)
+#   cosine = scipy.spatial.distance.cosine(vec1, vec2)
+#   return (1-cosine)*100
+  # print('Word Embedding method with a cosine distance asses that our two sentences are similar to',round((1-cosine)*100,2),'%')
