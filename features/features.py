@@ -8,7 +8,7 @@ from nltk.stem.porter import PorterStemmer
 import re
 from keybert import KeyBERT
 from sentence_transformers import SentenceTransformer
-from helper import process_text, sim_preprocess, is_contraction, is_punc, is_stopword, loadAndProcessJsonData, getPOSTags
+from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation
 
 # i will organize this at some point so we don't call so many functions over and over again when we're calculating features - miya
 
@@ -20,20 +20,25 @@ def get_sentences(text):
 
 def token_count(text):
   text = text.split()
-  text = [[c for c in word if not is_punc(c)] for word in text]
-  text = [''.join(word) for word in text]
+  text = [removePunctuation(word) for word in text]
   tokens = FreqDist(text)
   return len(tokens)
 
 # returns list of proper nouns (headline, content)
+# this does not work well because it thinks too many things are NNP, NNPS if they are capitalized
+# also because it does not capture 2- or 3-gram NNPs
 def get_proper_nouns(text):
-  tagged_sent = pos_tag(text.split())
+  tagged_sent = getPOSTags([text])
   # [('word1', 'POS tag'),... ]
-  return [word for word,pos in tagged_sent if pos == 'NNP']
+  print(tagged_sent)
+  return [word for (word,pos) in tagged_sent[0] if pos == 'NNP' or pos == 'NNPS']
+
+sample = 'Capitalize every word, Mrs. Robinson'
+print(get_proper_nouns(sample))
 
 # returns average length of word (content)
 def avg_word_length(text):
-  words = re.sub("[^a-zA-Z]", " ", text)
+  words = removePunctuation(text)
   words = words.split()
   length = 0
   for word in words:
@@ -42,13 +47,14 @@ def avg_word_length(text):
 
 # returns length of longest word (headline, content)
 def len_longest_word(text):
-  words = re.sub("[^a-zA-Z]", " ", text)
+  words = removePunctuation(text)
   words = words.split()
   max_length = 0
   for word in words:
     if len(word) > max_length:
       max_length = len(word)
   return max_length
+
 
 # returns True if there is a question mark/number of question marks (headline, content)
 def qm_count(text,content_flag):
@@ -205,14 +211,14 @@ model = KeyBERT('distilbert-base-nli-mean-tokens')
 def get_key_words(text):
   stem = PorterStemmer().stem
   text = text.split()
-  text = [[c for c in word if not is_punc(c)] for word in text]
-  text = [''.join(word) for word in text]
+  text = [removePunctuation(word) for word in text]
   stemmed_text = []
   for word in text:
     if not is_stopword(word):
       stemmed_text.append(stem(word))
   stemmed_text = ' '.join(stemmed_text)
-  return model.extract_keywords(stemmed_text,top_n=8),model.extract_keywords(stemmed_text,top_n=8,use_maxsum=True),model.extract_keywords(stemmed_text,top_n=8,use_mmr=True,diversity=0.2),model.extract_keywords(stemmed_text,use_mmr=True,use_maxsum=True,top_n=8)
+  top_n = 8
+  return model.extract_keywords(stemmed_text,top_n=top_n),model.extract_keywords(stemmed_text,top_n=top_n,use_maxsum=True),model.extract_keywords(stemmed_text,top_n=top_n,use_mmr=True,diversity=0.2),model.extract_keywords(stemmed_text,use_mmr=True,use_maxsum=True,top_n=top_n)
 
 # get similarity between two strings
 vectorizer = SentenceTransformer('distilbert-base-nli-stsb-mean-tokens')
@@ -221,12 +227,24 @@ def get_similarity(text_keywords,title):
   title_vec = vectorizer.encode(title)
   return scipy.spatial.distance.cosine(keyword_vec,title_vec)
 
+# checks if first word is who/what/where/why/how (title)
+def starts_with_q_word(text):
+  text = text.split()
+  first_word = text[0].lower()
+  if first_word == 'what' or first_word == 'who' or first_word == 'where' or first_word == 'why' or first_word == 'how':
+    return True
+  else:
+    return False
+
+
 article_data = 'articles1.csv'
 data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
 data = data[data['content'].notna()]
 data = data[data['title'].notna()]
+# print(data.iloc[0]['title'])
+# print(get_proper_nouns(data.iloc[0]['title']))
 
-print(get_similarity(data.iloc[0]['content'],data.iloc[0]['title']))
+# print(get_similarity(data.iloc[0]['content'],data.iloc[0]['title']))
 # results = get_key_words(data.iloc[0]['content'])
 # for result in results:
 #   print(result)
