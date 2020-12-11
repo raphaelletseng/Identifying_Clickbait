@@ -141,29 +141,55 @@ def contraction_ratio(text):
 def posTagFeatures(taggedArticle):   
     """
     Takes in a list of (word, tag) pairs and returns various metrics based on them.
-    @return NNP,IN,WRB,NN,QM>0,PRP,VBZ,WP,DT,POS,WDT,RB,RBS,VBN,EX>0
+    @return a list of the results for each of the desired features (mostly some . The list is 
+    [NNP,NNP_NNP,IN,NNP_VBZ,IN_NNP,WRB,NN,QM>0,PRP,VBZ,NNP_NNP_VBZ,NN_IN,NN_IN_NNP,
+    NNP_any,PRP_VBP,WP,DT,NNP_IN,IN_NNP_NNP,POS,IN_NN,NNP_NNS,IN_JJ,NNP_POS,WDT,
+    NN_NN,NN_NNP,NNP_VBD,RB,NNP_NNP_NNP,NNP_NNP_NN,RBS,VBN,VBN_IN,NUMBER_NP_VB>0,
+    JJ_NNP,NNP_NN_NN,DT_NN,EX>0]
     """
     NNP=0
-    #NNP_NNP=0
+    NNP_NNP=0
     IN=0
-    #NNP_VBZ=0
-    #IN_NNP=0
+    NNP_VBZ=0
+    IN_NNP=0
     WRB=0
     NN=0
+    #Exists
     QM=0
     PRP=0
     VBZ=0
-    #NNP_NNP_VBZ=0
-    #NN_IN=0
-    #NN_IN_NNP=0
-    #PRP_VBP=0
+    NNP_NNP_VBZ=0
+    NN_IN=0
+    NN_IN_NNP=0
+    #Assumed the 27th feature, POS 2-gram NNP . meant any case where there are two tags and the previous is NNP
+    #It could be that the NNP was the last in the sentence though
+    NNP_any=0
+    PRP_VBP=0
     WP=0
     DT=0
+    NNP_IN=0
+    IN_NNP_NNP=0
     POS=0
+    IN_NN=0
+    NNP_NNS=0
+    IN_JJ=0
+    NNP_POS=0
     WDT=0
+    NN_NN=0
+    NN_NNP=0
+    NNP_VBD=0
     RB=0
+    NNP_NNP_NNP=0
+    NNP_NNP_NN=0
     RBS=0
     VBN=0
+    VBN_IN=0
+    #Exists
+    NUMBER_NP_VB=0
+    JJ_NNP=0
+    NNP_NN_NN=0
+    DT_NN=0
+    #Exists
     EX=0
     
     prevTag=None
@@ -172,18 +198,36 @@ def posTagFeatures(taggedArticle):
     for word,tag in taggedArticle:
         if(tag == "NNP"):
             NNP+=1
+            if(prevTag == "NNP"):
+                NNP_NNP+=1
+                if(prevPrevTag == "IN"):
+                    IN_NNP_NNP+=1
+            elif(prevTag == "IN"):
+                IN_NNP+=1
+                if(prevPrevTag == "NN"):
+                    NN_IN_NNP+=1
         elif(tag == "IN"):
             IN+=1
+            if(prevTag == "NN"):
+                NN_IN+=1
+            elif(prevTag == "NNP"):
+                NNP_IN+=1
         elif(tag == "WRB"):
             WRB+=1
         elif(tag == "NN"):
             NN+=1
+            if(prevTag == "IN"):
+                IN_NN+=1
         elif(tag == "QM"):
             QM+=1
         elif(tag == "PRP"):
             PRP+=1
         elif(tag == "VBZ"):
             VBZ+=1
+            if(prevTag == "NNP"):
+                NNP_VBZ+=1
+                if(prevPrevTag == "NNP"):
+                    NNP_NNP_VBZ+=1
         elif(tag == "WP"):
             WP+=1
         elif(tag == "DT"):
@@ -200,11 +244,49 @@ def posTagFeatures(taggedArticle):
             VBN+=1
         elif(tag == "EX"):
             EX+=1
+            
+        #The above format is easy to make a mistake, so the following changes that (but it's less efficient).
+        if(tag == "VBP" and prevTag == "PRP"):
+            PRP_VBP+=1
+        if(tag == "NNS" and prevTag == "NNP"):
+            NNP_NNS+=1
+        if(tag == "JJ" and prevTag == "IN"):
+            IN_JJ+=1
+        if(tag == "POS" and prevTag == "NNP"):
+            NNP_POS+=1
+        if(tag == "NN" and prevTag == "NN"):
+            NN_NN+=1
+        if(tag == "NNP" and prevTag == "NN"):
+            NN_NNP+=1
+        if(tag == "VBD" and prevTag == "NNP"):
+            NNP_POS+=1
+        if(tag == "NNP" and prevTag == "NNP" and prevPrevTag == "NNP"):
+            NNP_NNP_NNP+=1
+        if(tag == "NN" and prevTag == "NNP" and prevPrevTag == "NNP"):
+            NNP_NNP_NN+=1
+        if(tag == "IN" and prevTag == "VBN"):
+            VBN_IN+=1
+        if(tag == "VB" and prevTag == "NP" and prevPrevTag == "NUMBER"):
+            NUMBER_NP_VB+=1
+        if(tag == "NNP" and prevTag == "JJ"):
+            JJ_NNP+=1
+        if(tag == "NN" and prevTag == "NN" and prevPrevTag == "NNP"):
+            NNP_NN_NN+=1
+        if(tag == "NN" and prevTag == "DT"):
+            DT_NN+=1
+            
+        if(prevTag == "NNP"):
+            NNP_any+=1
         
-        prevPrevTag=prevTag
-        prevTag = tag
+        #TODO: check that the tokenizer returns these, and then we need to ignore other punctuation so that the previous tags don't become none or punctuation
+        if(word in ['.','!','?']):
+            prevTag=None
+            prevPrevTag=None
+        else:
+            prevPrevTag=prevTag
+            prevTag = tag
         
-    return NNP,IN,WRB,NN,QM>0,PRP,VBZ,WP,DT,POS,WDT,RB,RBS,VBN,EX>0
+    return [NNP,NNP_NNP,IN,NNP_VBZ,IN_NNP,WRB,NN,QM>0,PRP,VBZ,NNP_NNP_VBZ,NN_IN,NN_IN_NNP,NNP_any,PRP_VBP,WP,DT,NNP_IN,IN_NNP_NNP,POS,IN_NN,NNP_NNS,IN_JJ,NNP_POS,WDT,NN_NN,NN_NNP,NNP_VBD,RB,NNP_NNP_NNP,NNP_NNP_NN,RBS,VBN,VBN_IN,NUMBER_NP_VB>0,JJ_NNP,NNP_NN_NN,DT_NN,EX>0]
 
 # get keywords (content)
 model = KeyBERT('distilbert-base-nli-mean-tokens')
@@ -252,6 +334,6 @@ data = data[data['title'].notna()]
 # data['processed_content'] = data['content'].apply(process_text)
 # print(data.iloc[0]['processed_content'])
 
-# titles, texts, labels = loadAndProcessJsonData(10)
-# tagged = getPOSTags(texts)
-# print(posTagFeatures(tagged[0]))
+#titles, texts, labels = loadAndProcessJsonData(10)
+#tagged = getPOSTags(texts)
+#print(posTagFeatures(tagged[0]))
