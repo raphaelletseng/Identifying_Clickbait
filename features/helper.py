@@ -276,9 +276,9 @@ def loadJsonData(maxArticles=None):
     with open('../data/instances.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
-            texts.append("\n ".join([preprocess(p) for p in d['targetParagraphs']]))
+            texts.append("\n ".join([(p) for p in d['targetParagraphs']]))
 
-            titles.append(preprocess(d['targetTitle']))
+            titles.append((d['targetTitle']))
             labels.append(dictLabels[d['id']])
             
             index+=1
