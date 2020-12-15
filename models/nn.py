@@ -5,23 +5,30 @@ import numpy as np
 from numpy import random
 from torch.utils.data import TensorDataset, DataLoader
 
-train_data = [np.array(random.uniform(size=(100))) for _ in range(20000)]
-train_labels = random.randint(10, size=(20000))
+train_data = np.array([random.uniform(low=0,high=1,size=50) for _ in range(10000)])
+train_labels = np.array([np.sum(row) + random.uniform(0,1) for row in train_data])
+label_mean = np.mean(train_labels)
+label_std = np.std(train_labels)
+train_labels = np.array([(val-label_mean)/label_std for val in train_labels])
+train_data = torch.tensor(train_data).float()
+train_labels = torch.tensor(train_labels).float().unsqueeze(1)
 
-test_data = [np.array(random.uniform(size=(100))) for _ in range(1000)]
-test_labels = random.randint(10, size=(1000))
+# print(train_data)
+# print(train_labels)
 
-# transform to torch tensor
-x_train_tensor = torch.Tensor(train_data) 
-y_train_tensor = torch.Tensor(train_labels)
+test_data = np.array([random.uniform(low=0,high=1,size=50) for _ in range(3000)])
+test_labels = np.array([np.sum(row) + random.uniform(0,1) for row in test_data])
+test_labels = np.array([(val-label_mean)/label_std for val in test_labels])
+test_data = torch.tensor(test_data).float()
+test_labels = torch.tensor(test_labels).float().unsqueeze(1)
 
-x_test_tensor = torch.Tensor(test_data) 
-y_test_tensor = torch.Tensor(test_labels)
+# print(test_data.shape)
+# print(test_labels.shape)
 
-train_dataset = TensorDataset(x_train_tensor,y_train_tensor) 
-test_dataset = TensorDataset(x_test_tensor,y_test_tensor)
+train_dataset = TensorDataset(train_data,train_labels) 
+test_dataset = TensorDataset(test_data,test_labels)
 
-batch_size = 64         # hyper-parameter 
+batch_size = 64 # hyper-parameter 
 train_loader = torch.utils.data.DataLoader(dataset=train_dataset,batch_size=batch_size,shuffle=True)
 test_loader = torch.utils.data.DataLoader(dataset=test_dataset,batch_size=batch_size,shuffle=True)
 
@@ -39,16 +46,17 @@ class MLP(nn.Module):
 
   def forward(self, x):
     output = self.block(x)
+    # output = nn.functional.relu(output)
     return output
 
-input_size = 100
-hidden_size = [2000, 1000]
-num_classes = 10
+input_size = 50
+hidden_size = [100, 200]
+num_classes = 1
 
 model = MLP(input_size, hidden_size, num_classes)
 
 optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
-criterion = nn.CrossEntropyLoss()
+criterion = nn.MSELoss()
 
 num_epochs = 10
 
@@ -57,22 +65,16 @@ for epoch in range(num_epochs):
     n_iter = 0 
 
     for i, (vectors, labels) in enumerate(train_loader): 
-        optimizer.zero_grad() 
-        outputs = model(vectors)
-        loss_bs = criterion(outputs, labels.long())
-        loss_bs.backward()
-        optimizer.step()
-        loss += loss_bs
-        n_iter += 1
-        # print(loss)
-
-    # print('loss: {}'.format(loss))
-    if epoch%1 == 0:
-        print('Epoch: {}/{}, Loss: {:.4f}'.format(epoch+1, num_epochs, loss/n_iter))
+      optimizer.zero_grad()
+      outputs = model(vectors)
+      loss_bs = criterion(outputs, labels)
+      loss_bs.backward()
+      optimizer.step()
+      loss += loss_bs
+      n_iter += 1
+    print('Epoch: {}/{}, Loss: {:.4f}'.format(epoch+1, num_epochs, loss/n_iter))
 
 
 for i, (vectors, labels) in enumerate(test_loader):
   outputs = model(vectors)
   values, predictions = torch.max(outputs,1) # (max value for each row, col # of max value)
-  print(predictions)
-  break
