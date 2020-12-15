@@ -8,135 +8,82 @@ from nltk.stem.porter import PorterStemmer
 import re
 from keybert import KeyBERT
 from sentence_transformers import SentenceTransformer
-from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation
-
-# i will organize this at some point so we don't call so many functions over and over again when we're calculating features - miya
-
-def word_count(text):
-  return len(str(text).split(' '))
-
-def get_sentences(text):
-  return nltk.tokenize.sent_tokenize(text)
+from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation, get_sentences
 
 def token_count(text):
-  text = text.split()
-  text = [removePunctuation(word) for word in text]
   tokens = FreqDist(text)
   return len(tokens)
 
-# returns list of proper nouns (headline, content)
+# DISCUSS AS A CHALLENGE IN FINAL PAPER
+# returns list of proper nouns (content)
 # this does not work well because it thinks too many things are NNP, NNPS if they are capitalized
 # also because it does not capture 2- or 3-gram NNPs
-def get_proper_nouns(text):
-  tagged_sent = getPOSTags([text])
-  # [('word1', 'POS tag'),... ]
-  print(tagged_sent)
-  return [word for (word,pos) in tagged_sent[0] if pos == 'NNP' or pos == 'NNPS']
+# def get_proper_nouns(text):
+#   tagged_sent = getPOSTags([text])
+#   # [('word1', 'POS tag'),... ]
+#   print(tagged_sent)
+#   return [word for (word,pos) in tagged_sent[0] if pos == 'NNP' or pos == 'NNPS']
 
-sample = 'Capitalize every word, Mrs. Robinson'
-print(get_proper_nouns(sample))
-
-# returns average length of word (content)
-def avg_word_length(text):
-  words = removePunctuation(text)
-  words = words.split()
+def word_lengths(text,text_length):
   length = 0
-  for word in words:
-    length += len(word)
-  return length/len(words)
-
-# returns length of longest word (headline, content)
-def len_longest_word(text):
-  words = removePunctuation(text)
-  words = words.split()
   max_length = 0
-  for word in words:
-    if len(word) > max_length:
+  for word in text:
+    length += len(word)
+    if len(word) >= max_length:
       max_length = len(word)
-  return max_length
+  return length/text_length, max_length
 
-
-# returns True if there is a question mark/number of question marks (headline, content)
-def qm_count(text,content_flag):
+def counts(text,content_flag):
+  qm_count = 0
+  em_count = 0
+  digit_count = 0
   if content_flag:
-    count = 0
     for c in text:
       if c == '?':
-        count += 1
-    return count
+        qm_count += 1
+      elif c == '!':
+        em_count += 1
+    return qm_count, em_count
   else:
     for c in text:
       if c == '?':
-        return True
-    return False
+        qm_count = 1
+      elif c == '!':
+        em_count = 1
+      elif c.isdigit():
+        digit_count = 1
+    return qm_count, em_count, digit_count
 
-# returns True if there is an exclamation mark/number of exclamation marks (headline, content)
-def em_count(text,content_flag):
-  if content_flag:
-    count = 0
-    for c in text:
-      if c == '!':
-        count += 1
-    return count
-  else:
-    for c in text:
-      if c == '!':
-        return True
-    return False
-
-# returns number of contractions (headline, content)
 def num_contractions(text):
-  words = text.split()
   count = 0
-  for word in words:
+  for word in text:
     if "'" in word and is_contraction(word):
       count += 1
   return count
 
-# returns True if there is a digit (headline)
-def contains_number(text):
-  return any(c.isdigit() for c in text)
-
 # returns True if the first word is an adverb (headline)
-def contains_adverb(text):
-  tagged_sent = pos_tag(text.split())
-  if 'RB' in tagged_sent[0][1]:
+def contains_adverb(POS_tags):
+  if 'RB' in POS_tags[0][1]:
     return True
   return False
 
-# returns average number of words per sentence (content)
-def avg_words_per_sentence(text):
-  return word_count(text)/len(get_sentences(text))
-
 # returns number of superlative adjectives, superlative adverbs (content)
-def superlative_adj_adv_count(text):
-  tagged = pos_tag(text.split())
+def superlative_adj_adv_count(POS_tags):
   adj_count = 1
   adv_count = 0
-  for _, tag in tagged:
+  for _, tag in POS_tags:
     if tag == 'JJS':
       adj_count += 1
     elif tag == 'RBS':
       adv_count += 1
   return adj_count, adv_count
 
-# returns ratio of stopwords:all words (content)
-def stopword_ratio(text):
-  text = text.split()
+def count_stopwords(text):
   count = 0
   for word in text:
     if is_stopword(word):
       count += 1
-  return count/len(text)
-
-# returns ratio of contractions:all words (content)
-def contraction_ratio(text):
-  text = text.split()
-  count = 0
-  for word in text:
-    if is_contraction(word):
-      count += 1
-  return count/len(text)
+  return count
 
 def posTagFeatures(taggedArticle):   
     """
@@ -292,15 +239,11 @@ def posTagFeatures(taggedArticle):
 model = KeyBERT('distilbert-base-nli-mean-tokens')
 def get_key_words(text):
   stem = PorterStemmer().stem
-  text = text.split()
-  text = [removePunctuation(word) for word in text]
-  stemmed_text = []
-  for word in text:
-    if not is_stopword(word):
-      stemmed_text.append(stem(word))
-  stemmed_text = ' '.join(stemmed_text)
+  text = [stem(word) for word in text if not is_stopword(word)]
+  text = ' '.join(text)
   top_n = 8
-  return model.extract_keywords(stemmed_text,top_n=top_n),model.extract_keywords(stemmed_text,top_n=top_n,use_maxsum=True),model.extract_keywords(stemmed_text,top_n=top_n,use_mmr=True,diversity=0.2),model.extract_keywords(stemmed_text,use_mmr=True,use_maxsum=True,top_n=top_n)
+  # return [model.extract_keywords(text,top_n=top_n),model.extract_keywords(text,top_n=top_n,use_maxsum=True),model.extract_keywords(text,top_n=top_n,use_mmr=True,diversity=0.2),model.extract_keywords(text,use_mmr=True,use_maxsum=True,top_n=top_n)]
+  return model.extract_keywords(text,top_n=top_n)
 
 # get similarity between two strings
 vectorizer = SentenceTransformer('distilbert-base-nli-stsb-mean-tokens')
@@ -309,20 +252,82 @@ def get_similarity(text_keywords,title):
   title_vec = vectorizer.encode(title)
   return scipy.spatial.distance.cosine(keyword_vec,title_vec)
 
-# checks if first word is who/what/where/why/how (title)
+# checks if first word is who/what/where/why/how/when (title)
 def starts_with_q_word(text):
-  text = text.split()
   first_word = text[0].lower()
-  if first_word == 'what' or first_word == 'who' or first_word == 'where' or first_word == 'why' or first_word == 'how':
+  if first_word == 'what' or first_word == 'who' or first_word == 'where' or first_word == 'why' or first_word == 'how' or first_word == 'when':
     return True
   else:
     return False
 
+def get_feature_vector(headline, content):
+  flat_content = ' '.join(content)
+  content_sentences = [get_sentences(paragraph) for paragraph in content]
+
+  qm_count_headline, em_count_headline, digit_count = counts(headline,0)
+  qm_count_content, em_count_content = counts(flat_content,1)
+
+  headline = headline.split()
+  content = [paragraph.split() for paragraph in content]
+
+  num_contractions_headline = num_contractions(headline)
+  num_contractions_content = sum([num_contractions(paragraph) for paragraph in content])
+  num_stopwords = sum([count_stopwords(paragraph) for paragraph in content])
+  # print(content[0])
+
+  headline = [removePunctuation(word) for word in headline]
+  content = [[word.replace('\'','') for word in paragraph] for paragraph  in content]
+  content = [[removePunctuation(word) for word in paragraph] for paragraph in content]
+  
+  content_words = [word.split()[0] for paragraph in content for word in paragraph if word.split() != []]
+
+  num_words = len(content_words)   
+  num_tokens = token_count(' '.join(content_words))
+  avg_length_words, longest_word = word_lengths(content_words,num_words)
+  avg_length_sentences = num_words/len(content_sentences)
+  starts_with_question_word = int(starts_with_q_word(headline))
+
+  stopword_ratio = num_stopwords/num_words
+  contraction_ratio = num_contractions_content/num_words
+
+  headline = ' '.join(headline)
+  POS_tags_headline = getPOSTags(headline)
+  POS_tags_content = getPOSTags(' '.join(content_words))
+
+  adverb = int(contains_adverb(POS_tags_headline))
+  super_adj_count, super_adv_count = superlative_adj_adv_count(POS_tags_content)
+
+  POS_counts =  posTagFeatures(POS_tags_content)
+
+  BERT_keywords = ' '.join(get_key_words(content_words))
+  document_sim = get_similarity(BERT_keywords,headline)
+  sentence_sims = []
+  paragraph_sims = []
+  for paragraph in content:
+    for sent in paragraph:
+      sentence_sims.append(get_similarity(BERT_keywords,' '.join(sent)))
+    paragraph_sims.append(get_similarity(BERT_keywords,' '.join([' '.join(sent) for sent in paragraph])))
+  sentence_sims = sum(sentence_sims)/len(sentence_sims)
+  paragraph_sims = sum(paragraph_sims)/len(paragraph_sims)
+  
+  vector = [qm_count_headline, em_count_headline, digit_count, qm_count_content, em_count_content,
+            num_contractions_headline, num_contractions_content, num_stopwords, num_words, num_tokens,
+            avg_length_words, longest_word, avg_length_sentences, starts_with_question_word, stopword_ratio,
+            contraction_ratio, adverb, super_adj_count, super_adv_count, document_sim, sentence_sims,
+            paragraph_sims]
+  for item in POS_counts:
+    vector.append(int(item))
+  return vector
 
 article_data = 'articles1.csv'
-data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100)
+data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100,encoding='unicode_escape')
 data = data[data['content'].notna()]
 data = data[data['title'].notna()]
+
+sentences = get_sentences(data.iloc[1]['content'])
+content = [' '.join(sentences[:3]),' '.join(sentences[3:])]
+print(get_feature_vector(data.iloc[1]['title'],content))
+
 # print(data.iloc[0]['title'])
 # print(get_proper_nouns(data.iloc[0]['title']))
 

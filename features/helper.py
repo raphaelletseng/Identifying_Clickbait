@@ -192,6 +192,9 @@ def is_stopword(word):
     else:
         return False
 
+def get_sentences(text):
+  return nltk.tokenize.sent_tokenize(text)
+
 def porterStem(paragraph):
     """
     Temporary porter stemmer for some debugging.
@@ -289,9 +292,9 @@ def loadJsonData(maxArticles=None):
 
 def getPOSTags(data):
     """
-    Takes in an article separated into paragraphs and returns a list of (word, POS tag) pairs.
+    Takes in a string and returns a list of (word, POS tag) pairs.
     """
-    return [nltk.pos_tag(casual_tokenizer(p)) for p in data]
+    return nltk.pos_tag(casual_tokenizer(data))
 
 '''
 def loadGloveModel(gloveFile):
