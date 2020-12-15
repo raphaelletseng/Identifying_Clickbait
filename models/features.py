@@ -276,7 +276,7 @@ def get_feature_vector(headline, content):
   # print(content[0])
 
   headline = [removePunctuation(word) for word in headline]
-  content = [[word.replace('\'','') for word in paragraph] for paragraph  in content]
+  # content = [[word.replace('\'','') for word in paragraph] for paragraph  in content]
   content = [[removePunctuation(word) for word in paragraph] for paragraph in content]
   
   content_words = [word.split()[0] for paragraph in content for word in paragraph if word.split() != []]
@@ -319,26 +319,17 @@ def get_feature_vector(headline, content):
     vector.append(int(item))
   return vector
 
-article_data = 'articles1.csv'
-data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100,encoding='unicode_escape')
-data = data[data['content'].notna()]
-data = data[data['title'].notna()]
+# article_data = 'articles1.csv'
+# data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100,encoding='unicode_escape')
+# data = data[data['content'].notna()]
+# data = data[data['title'].notna()]
 
-sentences = get_sentences(data.iloc[1]['content'])
-content = [' '.join(sentences[:3]),' '.join(sentences[3:])]
-print(get_feature_vector(data.iloc[1]['title'],content))
-
-# print(data.iloc[0]['title'])
-# print(get_proper_nouns(data.iloc[0]['title']))
-
-# print(get_similarity(data.iloc[0]['content'],data.iloc[0]['title']))
-# results = get_key_words(data.iloc[0]['content'])
-# for result in results:
-#   print(result)
-
-# data['processed_content'] = data['content'].apply(process_text)
-# print(data.iloc[0]['processed_content'])
-
-#titles, texts, labels = loadAndProcessJsonData(10)
-#tagged = getPOSTags(texts)
-#print(posTagFeatures(tagged[0]))
+def get_data():
+  titles, texts, labels = loadAndProcessJsonData(10)
+  # tagged = getPOSTags(texts)
+  # print(posTagFeatures(tagged[0]))
+  vectors = []
+  for idx in range(len(titles)):
+    vectors.append(get_feature_vector(titles[idx],texts[idx]))
+  
+  return (vectors,labels)

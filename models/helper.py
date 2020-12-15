@@ -224,7 +224,15 @@ def preprocess(paragraph):
     Keeps the numbers, still needs to expand contractions
     Similar to process_text
     """
-    return porterStem(removePunctuation(paragraph))
+    # return porterStem(removePunctuation(paragraph))
+    new_paragraph = []
+    for word in paragraph.split():
+        new_word = word.replace('\u2018',"'")
+        new_word = new_word.replace('\u2019',"'")
+        new_word = new_word.replace('\u201c','"')
+        new_word = new_word.replace('\u201d','"')
+        new_paragraph.append(new_word)
+    return ' '.join(new_paragraph)
 
 def loadAndProcessJsonData(maxArticles=None):
     """
@@ -240,17 +248,17 @@ def loadAndProcessJsonData(maxArticles=None):
     labels = []
     dictLabels = {}
 
-    with open('../data/truth.jsonl') as file:
+    with open('../preprocessedData/truth.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
             dictLabels[d['id']] = d['truthMean']
     
     index=0
-    with open('../data/instances.jsonl') as file:
+    with open('../preprocessedData/instances.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
-            texts.append("\n ".join([preprocess(p) for p in d['targetParagraphs']]))
-
+           
+            texts.append([preprocess(p) for p in d['targetParagraphs']])
             titles.append(preprocess(d['targetTitle']))
             labels.append(dictLabels[d['id']])
             
@@ -271,12 +279,12 @@ def loadJsonData(maxArticles=None):
     labels = []
     dictLabels = {}
 
-    with open('../data/truth.jsonl') as file:
+    with open('../preprocessedData/truth.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
             dictLabels[d['id']] = d['truthMean']
     index=0
-    with open('../data/instances.jsonl') as file:
+    with open('../preprocessedData/instances.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
             texts.append("\n ".join([(p) for p in d['targetParagraphs']]))

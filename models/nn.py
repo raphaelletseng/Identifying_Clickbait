@@ -4,7 +4,11 @@ import torch.optim as optim
 import numpy as np
 from numpy import random
 from torch.utils.data import TensorDataset, DataLoader
+from features import get_data 
 
+get_data()
+
+'''
 train_data = np.array([random.uniform(low=0,high=1,size=50) for _ in range(10000)])
 train_labels = np.array([np.sum(row) + random.uniform(0,1) for row in train_data])
 label_mean = np.mean(train_labels)
@@ -78,3 +82,4 @@ for epoch in range(num_epochs):
 for i, (vectors, labels) in enumerate(test_loader):
   outputs = model(vectors)
   values, predictions = torch.max(outputs,1) # (max value for each row, col # of max value)
+'''
