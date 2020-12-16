@@ -325,11 +325,13 @@ def get_feature_vector(headline, content):
 # data = data[data['title'].notna()]
 
 def get_data():
-  titles, texts, labels = loadAndProcessJsonData(10)
+  titles, texts, labels = loadAndProcessJsonData()
   # tagged = getPOSTags(texts)
   # print(posTagFeatures(tagged[0]))
-  vectors = []
+  f = open('feature_vectors.txt','w')
   for idx in range(len(titles)):
-    vectors.append(get_feature_vector(titles[idx],texts[idx]))
-  
-  return (vectors,labels)
+    print('getting feature vector {}...'.format(idx))
+    vector = get_feature_vector(titles[idx],texts[idx])
+    print('writing feature vector {}...'.format(idx))
+    f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
+  f.close()
