@@ -12,7 +12,7 @@ from multiprocessing.dummy import Pool as ThreadPool
 import threading
 
 from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation, get_sentences
-'''
+
 def token_count(text):
   tokens = FreqDist(text)
   return len(tokens)
@@ -352,10 +352,11 @@ def get_data():
   #   print('writing feature vector {}...'.format(idx))
   #   f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
   # f.close()
-'''
+
 def read_features():
   vectors = []
   labels = []
+
   starting_flag = 0
   f = open('data/data-3a.txt')
   data = f.read()
@@ -477,12 +478,140 @@ def read_features():
     else:
       i += 1
       c = data[i]
+
+  starting_flag = 0
+  f = open('data/data-3c.txt')
+  data = f.read()
+  f.close()
+  l = len(data)
+  i = 0
+  c = data[i]
+  while(i<l):
+    if c == ':':
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    # outer bracket (results only)
+    elif c == '[' and starting_flag == 1:
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    elif c == '[' and starting_flag == 3:
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        labels.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      break
+    elif c == '(':
+      vector = []
+      i += 2
+      c = data[i]
+      while(c != '[' or not data[i+1].isdigit()):
+        i += 1
+        c = data[i]
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        vector.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      vectors.append(vector)
+      i += 2
+      c = data[i]
+    else:
+      i += 1
+      c = data[i]
+
+  starting_flag = 0
+  f = open('data/data-3d.txt')
+  data = f.read()
+  f.close()
+  l = len(data)
+  i = 0
+  c = data[i]
+  while(i<l):
+    if c == ':':
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    # outer bracket (results only)
+    elif c == '[' and starting_flag == 1:
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    elif c == '[' and starting_flag == 3:
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        labels.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      break
+    elif c == '(':
+      vector = []
+      i += 2
+      c = data[i]
+      while(c != '[' or not data[i+1].isdigit()):
+        i += 1
+        c = data[i]
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        vector.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      vectors.append(vector)
+      i += 2
+      c = data[i]
+    else:
+      i += 1
+      c = data[i]
       
-  print(len(vectors))
-  print(len(labels))   
+  # print(len(vectors))
+  # print(len(labels))   
   return vectors,labels
-
-
 
 # get_data()
 read_features()
