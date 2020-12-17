@@ -329,9 +329,19 @@ def get_data():
   # tagged = getPOSTags(texts)
   # print(posTagFeatures(tagged[0]))
   f = open('feature_vectors.txt','w')
+  prog=0
   for idx in range(len(titles)):
-    print('getting feature vector {}...'.format(idx))
+    #print('getting feature vector {}...'.format(idx))
     vector = get_feature_vector(titles[idx],texts[idx])
-    print('writing feature vector {}...'.format(idx))
+    #print('writing feature vector {}...'.format(idx))
     f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
+    prog+=1
+    if(prog%100 == 0):
+      print(prog/len(titles))
   f.close()
+
+import nltk
+nltk.download('averaged_perceptron_tagger')
+
+get_data();
+
