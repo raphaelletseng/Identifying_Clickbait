@@ -3,48 +3,64 @@ import pandas as pd
 import nltk
 import string
 from sklearn import metrics
+# from sklearn.datasets import make_classification
+from sklearn.linear_model import LogisticRegression
+from sklearn import svm
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.ensemble import RandomForestClassifier
 
-train_data = [np.array(random.uniform(size = (100))) for _ in range (20000)]
-train_labels = random.randint(10, size = (20000))
+from features import read_features
 
-test_data = [np.array(random.uniform(size=(100))) for _ in range(1000)]
-test_labels = random.randint(10, size=(1000))
+data, labels = read_features()
+labels = [round(label) for label in labels]
+train_data = data[:3200]
+train_labels = labels[:3200]
+test_data = data[3200:]
+test_labels = labels[3200:]
 
 #-------------------------
 #Logistic Regression
-from sklearn.linear_model import LogisticRegression
 clf1 = LogisticRegression(random_state = 0, solver = 'lbfgs').fit(train_data, train_labels)
 clf1.score(train_data, train_labels)
 clf1_pred = clf1.predict(test_data)
 acc_score1 = metrics.accuracy_score(test_labels, clf1_pred)
 print('Acc LR: {}'.format(acc_score1))
+f1_score1 = metrics.f1_score(test_labels, clf1_pred, average='micro')
+print('F1 LR: {}'.format(f1_score1))
+p_score1 = metrics.precision_score(test_labels, clf1_pred, average ='micro')
+print('Precision LR: {}'.format(p_score1))
 
+'''
 #---------------------------
 #svm
-from sklearn import svm
 clf2 = svm.SVC(kernel='linear', random_state = 0, C = 0.2)
 clf2.fit(train_data, train_labels)
 clf2_pred = clf2.predict(test_data)
-print(clf2_pred)
+# print(clf2_pred)
 acc_score2 = metrics.accuracy_score(test_labels, clf2_pred)
 print('Acc SVM: {}'.format(acc_score2))
-
+'''
 #----------------------------
 #Naive bayes
-from sklearn.naive_bayes import MultinomialNB
 clf3 = MultinomialNB().fit(train_data, train_labels)
 clf3_pred = clf3.predict(test_data)
 acc_score3 = metrics.accuracy_score(test_labels, clf3_pred)
 print('Acc NB: {}'.format(acc_score3))
+f1_score3 = metrics.f1_score(test_labels, clf3_pred, average='micro')
+print('F1 LR: {}'.format(f1_score3))
+p_score3 = metrics.precision_score(test_labels, clf3_pred, average ='micro')
+print('Precision LR: {}'.format(p_score3))
 
 #----------------------------
 #Random Forest
-from sklearn.ensemble import RandomForestClassifier
-train_data, train_labels = make_classification(random_state = 0, shuffle = False) #n_features = 4, n_samples = 1000
-clf4 = RandomForestClassifier()
+# train_data, train_labels = make_classification(n_samples=1600,random_state = 0, shuffle = False) #n_features = 4, n_samples = 1000
+clf4 = RandomForestClassifier(n_estimators=400)
 clf4.fit(train_data, train_labels)
 clf4_pred = clf4.predict(test_data)
 acc_score4 = clf4.score(test_data, test_labels)
 #acc_score4 = metrics.accuracy_score(test_labels, clf4_pred)
 print('Acc Random Forest: {}'.format(acc_score4))
-
+f1_score4 = metrics.f1_score(test_labels, clf4_pred, average='micro')
+print('F1 LR: {}'.format(f1_score4))
+p_score4 = metrics.precision_score(test_labels, clf4_pred, average ='micro')
+print('Precision LR: {}'.format(p_score4))
