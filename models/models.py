@@ -25,6 +25,11 @@ clf1.score(train_data, train_labels)
 clf1_pred = clf1.predict(test_data)
 acc_score1 = metrics.accuracy_score(test_labels, clf1_pred)
 print('Acc LR: {}'.format(acc_score1))
+f1_score1 = metrics.f1_score(test_labels, clf1_pred, average='micro')
+print('F1 LR: {}'.format(f1_score1))
+p_score1 = metrics.precision_score(test_labels, clf1_pred, average ='micro')
+print('Precision LR: {}'.format(p_score1))
+
 '''
 #---------------------------
 #svm
@@ -41,6 +46,10 @@ clf3 = MultinomialNB().fit(train_data, train_labels)
 clf3_pred = clf3.predict(test_data)
 acc_score3 = metrics.accuracy_score(test_labels, clf3_pred)
 print('Acc NB: {}'.format(acc_score3))
+f1_score3 = metrics.f1_score(test_labels, clf3_pred, average='micro')
+print('F1 LR: {}'.format(f1_score3))
+p_score3 = metrics.precision_score(test_labels, clf3_pred, average ='micro')
+print('Precision LR: {}'.format(p_score3))
 
 #----------------------------
 #Random Forest
@@ -51,3 +60,7 @@ clf4_pred = clf4.predict(test_data)
 acc_score4 = clf4.score(test_data, test_labels)
 #acc_score4 = metrics.accuracy_score(test_labels, clf4_pred)
 print('Acc Random Forest: {}'.format(acc_score4))
+f1_score4 = metrics.f1_score(test_labels, clf4_pred, average='micro')
+print('F1 LR: {}'.format(f1_score4))
+p_score4 = metrics.precision_score(test_labels, clf4_pred, average ='micro')
+print('Precision LR: {}'.format(p_score4))
