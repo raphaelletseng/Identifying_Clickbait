@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import string
 from sklearn import metrics
+from numpy import random
 
 train_data = [np.array(random.uniform(size = (100))) for _ in range (20000)]
 train_labels = random.randint(10, size = (20000))

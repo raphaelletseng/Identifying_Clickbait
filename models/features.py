@@ -8,8 +8,11 @@ from nltk.stem.porter import PorterStemmer
 import re
 from keybert import KeyBERT
 from sentence_transformers import SentenceTransformer
-from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation, get_sentences
+from multiprocessing.dummy import Pool as ThreadPool
+import threading
 
+from helper import process_text, sim_preprocess, is_contraction, is_stopword, loadAndProcessJsonData, getPOSTags, removePunctuation, get_sentences
+'''
 def token_count(text):
   tokens = FreqDist(text)
   return len(tokens)
@@ -260,7 +263,9 @@ def starts_with_q_word(text):
   else:
     return False
 
-def get_feature_vector(headline, content):
+def get_feature_vector(feature_data):
+  headline, content = feature_data
+  print(headline)
   flat_content = ' '.join(content)
   content_sentences = [get_sentences(paragraph) for paragraph in content]
 
@@ -317,7 +322,8 @@ def get_feature_vector(headline, content):
             paragraph_sims]
   for item in POS_counts:
     vector.append(int(item))
-  return vector
+  print(headline,' DONE')
+  return (feature_data[0],vector)
 
 # article_data = 'articles1.csv'
 # data = pd.read_csv(article_data,engine='python',usecols=['index','id','title','content'],nrows=100,encoding='unicode_escape')
@@ -326,12 +332,157 @@ def get_feature_vector(headline, content):
 
 def get_data():
   titles, texts, labels = loadAndProcessJsonData()
+  spreadsheet = [(titles[idx],texts[idx]) for idx in range(len(titles))]
+  pool = ThreadPool(8)
+  results = pool.map(get_feature_vector, spreadsheet)
+  # print(results)
+  pool.close()
+  pool.join()
+  # f = open('data-3c.txt', 'w')
+  f = open('data-3d.txt','w')
+  f.write('results: {} labels: {}\n'.format(results,labels))
+  f.close()
+
   # tagged = getPOSTags(texts)
   # print(posTagFeatures(tagged[0]))
-  f = open('feature_vectors.txt','w')
-  for idx in range(len(titles)):
-    print('getting feature vector {}...'.format(idx))
-    vector = get_feature_vector(titles[idx],texts[idx])
-    print('writing feature vector {}...'.format(idx))
-    f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
+  # f = open('feature_vectors.txt','w')
+  # for idx in range(len(titles)):
+  #   print('getting feature vector {}...'.format(idx))
+  #   vector = get_feature_vector(titles[idx],texts[idx])
+  #   print('writing feature vector {}...'.format(idx))
+  #   f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
+  # f.close()
+'''
+def read_features():
+  vectors = []
+  labels = []
+  starting_flag = 0
+  f = open('data/data-3a.txt')
+  data = f.read()
   f.close()
+  l = len(data)
+  i = 0
+  c = data[i]
+  while(i<l):
+    if c == ':':
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    # outer bracket (results only)
+    elif c == '[' and starting_flag == 1:
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    elif c == '[' and starting_flag == 3:
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        labels.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      break
+    # inner bracket 
+    elif c == '[':
+      vector = []
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        vector.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      vectors.append(vector)
+      i += 1
+      c = data[i]
+    else:
+      i += 1
+      c = data[i]
+  
+  starting_flag = 0
+  f = open('data/data-3b.txt')
+  data = f.read()
+  f.close()
+  l = len(data)
+  i = 0
+  c = data[i]
+  while(i<l):
+    if c == ':':
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    # outer bracket (results only)
+    elif c == '[' and starting_flag == 1:
+      starting_flag += 1
+      i += 1
+      c = data[i]
+    elif c == '[' and starting_flag == 3:
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        labels.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      break
+    # inner bracket 
+    elif c == '[':
+      vector = []
+      i += 1
+      c = data[i]
+      while(c != ']'):
+        if c == ' ':
+          i += 1
+          c = data[i]
+          continue
+        num = ''
+        while(c != ',' and c != ']'):
+          num += str(c)
+          i += 1
+          c = data[i]
+        vector.append(float(num))
+        if c == ',':
+          i += 1
+          c = data[i]
+      vectors.append(vector)
+      i += 1
+      c = data[i]
+    else:
+      i += 1
+      c = data[i]
+      
+  print(len(vectors))
+  print(len(labels))   
+  return vectors,labels
+
+
+
+# get_data()
+read_features()

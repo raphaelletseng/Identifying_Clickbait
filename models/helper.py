@@ -249,12 +249,16 @@ def loadAndProcessJsonData(maxArticles=None):
     dictLabels = {}
 
     with open('../preprocessedData/truth.jsonl') as file:
+    # with open('../preprocessedData/truth-3a.jsonl') as file:
+    # with open('../preprocessedData/truth-3b.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
             dictLabels[d['id']] = d['truthMean']
     
     index=0
-    with open('../preprocessedData/instances.jsonl') as file:
+    # with open('../preprocessedData/instances.jsonl') as file:
+    # with open('../preprocessedData/instances-3c.jsonl') as file:
+    with open('../preprocessedData/instances-3d.jsonl') as file:
         for line in file.readlines():
             d = json.loads(line)
            
