@@ -63,6 +63,8 @@ def num_contractions(text):
 
 # returns True if the first word is an adverb (headline)
 def contains_adverb(POS_tags):
+  if(POS_tags == None or len(POS_tags) == 0 or len(POS_tags[0]) == 0):
+    return False
   if 'RB' in POS_tags[0][1]:
     return True
   return False
@@ -328,16 +330,16 @@ def get_data():
   titles, texts, labels = loadAndProcessJsonData()
   # tagged = getPOSTags(texts)
   # print(posTagFeatures(tagged[0]))
-  f = open('feature_vectors.txt','w')
+  f = open('feature_vectors_backwards.txt','w')
   prog=0
-  for idx in range(len(titles)):
+  for idx in range(len(titles)-1,round(len(titles)/4),-1):
     #print('getting feature vector {}...'.format(idx))
     vector = get_feature_vector(titles[idx],texts[idx])
     #print('writing feature vector {}...'.format(idx))
     f.write('label: {}, vector: {}\n'.format(labels[idx],vector))
     prog+=1
     if(prog%100 == 0):
-      print(prog/len(titles))
+      print(prog/len(titles)/4)
   f.close()
 
 import nltk
