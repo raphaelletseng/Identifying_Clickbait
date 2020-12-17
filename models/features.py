@@ -356,7 +356,7 @@ def get_data():
 def read_features():
   vectors = []
   labels = []
-
+  
   starting_flag = 0
   f = open('data/data-3a.txt')
   data = f.read()
@@ -608,7 +608,45 @@ def read_features():
     else:
       i += 1
       c = data[i]
-      
+  
+  f = open('feature_vectors.txt')
+  data = f.readlines()
+  f.close()
+  
+  for line in data:
+    i = 0
+    c = line[i]
+    while(not c.isdigit()):
+      i += 1
+      c = line[i]
+    num = ''
+    while(c != ','):
+      num += str(c)
+      i += 1
+      c = line[i]
+    labels.append(float(num))
+    while(c != '['):
+      i += 1
+      c = line[i]
+    i += 1
+    c = line[i]
+    vector = []
+    while(c != ']'):
+      if c == ' ':
+        i += 1
+        c = line[i]
+        continue
+      num = ''
+      while(c != ',' and c != ']'):
+        num += str(c)
+        i += 1
+        c = line[i]
+      vector.append(float(num))
+      if c == ',':
+        i += 1
+        c = line[i]
+    vectors.append(vector)
+
   # print(len(vectors))
   # print(len(labels))   
   return vectors,labels

@@ -3,20 +3,43 @@ import pandas as pd
 import nltk
 import string
 from sklearn import metrics
-# from sklearn.datasets import make_classification
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
+import random
 
 from features import read_features
 
+def get_class(num):
+    if num < 0.17:
+        return 0
+    elif num < 0.5:
+        return 1
+    elif num < 0.83:
+        return 2
+    else:
+        return 3
+
 data, labels = read_features()
+order = random.sample(range(len(data)), len(data))
+train_idx = order[:14570]
+test_idx = order[14570:]
+# 2 classes
 labels = [round(label) for label in labels]
-train_data = data[:3200]
-train_labels = labels[:3200]
-test_data = data[3200:]
-test_labels = labels[3200:]
+# 4 classes
+labels = [get_class(label) for label in labels]
+train_data = []
+train_labels = []
+test_data = []
+test_labels = []
+for idx,d in enumerate(data): 
+    if idx in train_idx:
+        train_data.append(d)
+        train_labels.append(labels[idx])
+    else:
+        test_data.append(d)
+        test_labels.append(labels[idx])
 
 #-------------------------
 #Logistic Regression
@@ -30,16 +53,6 @@ print('F1 LR: {}'.format(f1_score1))
 p_score1 = metrics.precision_score(test_labels, clf1_pred, average ='micro')
 print('Precision LR: {}'.format(p_score1))
 
-'''
-#---------------------------
-#svm
-clf2 = svm.SVC(kernel='linear', random_state = 0, C = 0.2)
-clf2.fit(train_data, train_labels)
-clf2_pred = clf2.predict(test_data)
-# print(clf2_pred)
-acc_score2 = metrics.accuracy_score(test_labels, clf2_pred)
-print('Acc SVM: {}'.format(acc_score2))
-'''
 #----------------------------
 #Naive bayes
 clf3 = MultinomialNB().fit(train_data, train_labels)
@@ -53,12 +66,10 @@ print('Precision LR: {}'.format(p_score3))
 
 #----------------------------
 #Random Forest
-# train_data, train_labels = make_classification(n_samples=1600,random_state = 0, shuffle = False) #n_features = 4, n_samples = 1000
 clf4 = RandomForestClassifier(n_estimators=400)
 clf4.fit(train_data, train_labels)
 clf4_pred = clf4.predict(test_data)
 acc_score4 = clf4.score(test_data, test_labels)
-#acc_score4 = metrics.accuracy_score(test_labels, clf4_pred)
 print('Acc Random Forest: {}'.format(acc_score4))
 f1_score4 = metrics.f1_score(test_labels, clf4_pred, average='micro')
 print('F1 LR: {}'.format(f1_score4))
