@@ -66,6 +66,8 @@ def num_contractions(text):
 
 # returns True if the first word is an adverb (headline)
 def contains_adverb(POS_tags):
+  if(POS_tags == None or len(POS_tags) == 0 or len(POS_tags[0]) == 0):
+    return False
   if 'RB' in POS_tags[0][1]:
     return True
   return False
@@ -345,6 +347,8 @@ def get_data():
 
   # tagged = getPOSTags(texts)
   # print(posTagFeatures(tagged[0]))
+<<<<<<< HEAD
+=======
   # f = open('feature_vectors.txt','w')
   # for idx in range(len(titles)):
   #   print('getting feature vector {}...'.format(idx))
@@ -360,6 +364,7 @@ def read_features():
   starting_flag = 0
   f = open('data/data-3a.txt')
   data = f.read()
+>>>>>>> a47e3c81459bc4476dde4725ae5e521054143791
   f.close()
   l = len(data)
   i = 0
