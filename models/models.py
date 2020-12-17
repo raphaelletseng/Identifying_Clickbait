@@ -37,3 +37,15 @@ clf3 = MultinomialNB().fit(train_data, train_labels)
 clf3_pred = clf3.predict(test_data)
 acc_score3 = metrics.accuracy_score(test_labels, clf3_pred)
 print('Acc NB: {}'.format(acc_score3))
+
+#----------------------------
+#Random Forest
+from sklearn.ensemble import RandomForestClassifier
+train_data, train_labels = make_classification(random_state = 0, shuffle = False) #n_features = 4, n_samples = 1000
+clf4 = RandomForestClassifier()
+clf4.fit(train_data, train_labels)
+clf4_pred = clf4.predict(test_data)
+acc_score4 = clf4.score(test_data, test_labels)
+#acc_score4 = metrics.accuracy_score(test_labels, clf4_pred)
+print('Acc Random Forest: {}'.format(acc_score4))
+
